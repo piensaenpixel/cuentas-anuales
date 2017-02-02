@@ -1,0 +1,166 @@
+.content {
+  padding-right: 180px;
+
+  .content-info {
+    margin-bottom: 35px;
+    margin-right: -180px;
+  }
+
+  > p {
+    color: $txtgrey;
+    font-size: 15px;
+    line-height: 26px;
+    margin-bottom: 32px;
+  }
+
+  > h1 {
+    font-size: 33px;
+    line-height: 45px;
+    margin-bottom: 22px;
+  }
+
+  > h2 {
+    font-size: 27px;
+    line-height: 32px;
+    margin-bottom: 32px;
+  }
+
+  > h3 {
+    font-size: 23px;
+    line-height: 28px;
+    margin-bottom: 24px;
+  }
+
+  > ul {
+    color: $txtgrey;
+    font-size: 15px;
+    line-height: 26px;
+    list-style-type: disc;
+    margin-bottom: 32px;
+    margin-left: 36px;
+  }
+
+  > ol {
+    color: $txtgrey;
+    font-size: 15px;
+    line-height: 26px;
+    margin-bottom: 32px;
+    margin-left: 36px;
+  }
+
+  table {
+    border: 2px solid $tableborder;
+    width: 100%;
+  }
+
+  td {
+    border-left: 2px solid $tableborder;
+    color: $txtgrey;
+    font-size: 15px;
+    line-height: 26px;
+    padding: 15px 20px;
+    vertical-align: top;
+
+    &:first-child {
+      border-left: 0;
+    }
+
+    &:last-child {
+      text-align: center;
+    }
+  }
+
+  th {
+    border-bottom: 2px solid $tableborder;
+    border-left: 2px solid $tableborder;
+    color: $dark;
+    font-size: 15px;
+    line-height: 26px;
+    padding: 25px 20px;
+    text-align: center;
+
+    &:first-child {
+      border-left: 0;
+      text-align: left;
+    }
+  }
+
+  .hover {
+    @include transition(background, 300ms);
+    background: $lightgrey;
+  }
+
+
+}
+
+.content-info {
+  @include display-flex;
+  @include align-items(flex-start);
+  @include justify-content(space-between);
+}
+
+.content-dropdown {
+  @include display-flex;
+  @include align-items(flex-start);
+  @include flex(0 0 70%);
+  background: $lightgrey;
+  height: 70px;
+  max-width: 70%;
+  overflow: hidden;
+  padding: 22px;
+
+  &.is-open {
+    height: auto;
+
+    .content-dropdownitem {
+      white-space: initial;
+    }
+  }
+}
+
+.content-dropdownlist {
+  margin-right: 44px;
+  overflow: hidden;
+}
+
+.content-dropdownitem {
+  @include text-overflow;
+  font-size: 15px;
+  line-height: 26px;
+  margin-bottom: 32px;
+
+  a {
+    color: $dark;
+  }
+
+  &:last-child {
+    margin-bottom: 0;
+  }
+}
+
+.content-download {
+  font-size: 18px;
+  margin-top: 20px;
+
+  a {
+    color: $bbvablue;
+  }
+}
+
+.content-dropdownlink {
+  cursor: pointer;
+  margin-top: 6px;
+
+  .is-open & {
+    transform: rotate(180deg);
+  }
+}
+
+.content-downloadlink {
+  @include display-flex;
+  @include align-items(center);
+  svg {
+    margin-left: 12px;
+  }
+}
+

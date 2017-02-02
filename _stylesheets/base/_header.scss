@@ -1,0 +1,74 @@
+.header {
+  background: $darkblue;
+  padding: 16px 0 26px;
+}
+
+.header-container {
+  @include display-flex;
+  @include justify-content(space-between);
+  @include align-items(flex-end);
+  margin-bottom: 26px;
+  margin-top: 46px;
+}
+
+.menu {
+  @include display-flex;
+}
+
+.header-title {
+  color: $white;
+  font-size: 33px;
+  line-height: 1;
+}
+
+.menu-item {
+  font-size: 15px;
+  margin-right: 48px;
+
+  a {
+    color: rgba($white, .6);
+
+    &:hover {
+      @include transition(opacity, 300ms);
+      color: rgba($white, 1);
+    }
+  }
+
+  &:last-child {
+    margin-right: 0;
+  }
+}
+
+
+.options-list {
+  @include display-flex();
+  @include justify-content(flex-end);
+}
+
+.options-listitem {
+  font-size: 13px;
+  margin-right: 20px;
+
+  a {
+    color: rgba($white, .6);
+
+    &:hover {
+      @include transition(opacity, 300ms);
+      color: rgba($white, 1);
+    }
+  }
+
+  &:last-child {
+    margin-right: 0;
+  }
+}
+
+.navigation {
+  @include display-flex();
+  @include align-items(center);
+  @include justify-content(space-between);
+}
+
+.search-item {
+  cursor: pointer;
+}

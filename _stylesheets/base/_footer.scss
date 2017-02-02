@@ -1,0 +1,54 @@
+.footer {
+  background: $darkblue;
+  padding: 38px 0 88px;
+}
+
+.footer-navigation {
+  @include display-flex;
+  margin-bottom: 20px;
+}
+
+.footer-navigationitem {
+  font-size: 16px;
+  margin-right: 28px;
+
+  &:last-child {
+    margin-right: 0;
+  }
+
+  a {
+    color: $electricblue;
+  }
+}
+
+.footer-credits {
+  color: $white;
+  font-size: 16px;
+}
+
+.footer-social {
+  @include display-flex;
+  @include justify-content(flex-end);
+  margin-bottom: 74px;
+}
+
+.footer-socialitem {
+  margin-left: 10px;
+
+  &:first-child {
+    margin-left: 0;
+  }
+}
+
+.footer-socialink {
+  @include display-flex;
+  @include align-items(center);
+  @include justify-content(center);
+  background: $electricblue;
+  border-radius: 50%;
+  height: 24px;
+  min-width: 24px;
+  width: 24px;
+}
+
+

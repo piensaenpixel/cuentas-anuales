@@ -1,0 +1,24 @@
+title: Cuentas generales
+options:
+  - title: English
+    url: /
+  - title: Descargar informe
+    url: /
+  - title: Contacta con nosotros
+    url: /
+menu:
+  - title: Informe de auditoría
+    url: /informe-de-auditoria.html
+  - title: Cuentas anuales consolidadas
+    url: /cuentas-anuales-consolidadas.html
+  - title: Informe de gestión
+    url: /informe-de-gestion.html
+footer:
+- title: Centro de seguridad
+  url: /
+- title: Privacidad
+  url: /
+- title: Terminos y condiciones
+  url: /
+- title: Mapa del sitio
+  url: /
