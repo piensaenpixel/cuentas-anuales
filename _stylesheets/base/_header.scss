@@ -17,12 +17,14 @@
 
 .header-title {
   color: $white;
-  font-size: 33px;
+  font-family: 'BentonLight';
+  font-size: 34px;
   line-height: 1;
 }
 
 .menu-item {
-  font-size: 15px;
+  font-family: 'BentonMedium';
+  font-size: 14px;
   margin-right: 48px;
 
   a {
@@ -46,7 +48,8 @@
 }
 
 .options-listitem {
-  font-size: 13px;
+  font-family: 'BentonBold';
+  font-size: 12px;
   margin-right: 20px;
 
   a {

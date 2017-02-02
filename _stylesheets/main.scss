@@ -8,12 +8,15 @@
 /* 2. Base */
 @import "base/global";
 
-/* 3. Header/Footer */
+/* 3. Fonts */
+@import "base/fonts";
+
+/* 4. Header/Footer */
 @import "base/header";
 @import "base/footer";
 
-/* 4. Grid */
+/* 5. Grid */
 @import "base/grid";
 
-/* 5. Content */
+/* 6. Content */
 @import "base/content";

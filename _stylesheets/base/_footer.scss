@@ -9,7 +9,8 @@
 }
 
 .footer-navigationitem {
-  font-size: 16px;
+  font-family: 'BentonMedium';
+  font-size: 15px;
   margin-right: 28px;
 
   &:last-child {
@@ -23,7 +24,8 @@
 
 .footer-credits {
   color: $white;
-  font-size: 16px;
+  font-family: 'BentonBook';
+  font-size: 12px;
 }
 
 .footer-social {

@@ -8,25 +8,29 @@
 
   > p {
     color: $txtgrey;
+    font-family: 'BentonBook';
     font-size: 15px;
     line-height: 26px;
     margin-bottom: 32px;
   }
 
   > h1 {
+    font-family: 'BentonBold';
     font-size: 33px;
     line-height: 45px;
     margin-bottom: 22px;
   }
 
   > h2 {
-    font-size: 27px;
+    font-family: 'BentonMedium';
+    font-size: 26px;
     line-height: 32px;
     margin-bottom: 32px;
   }
 
   > h3 {
-    font-size: 23px;
+    font-family: 'BentonBook';
+    font-size: 22px;
     line-height: 28px;
     margin-bottom: 24px;
   }
@@ -56,6 +60,7 @@
   td {
     border-left: 2px solid $tableborder;
     color: $txtgrey;
+    font-family: 'BentonBook';
     font-size: 15px;
     line-height: 26px;
     padding: 15px 20px;
@@ -74,6 +79,7 @@
     border-bottom: 2px solid $tableborder;
     border-left: 2px solid $tableborder;
     color: $dark;
+    font-family: 'BentonMedium';
     font-size: 15px;
     line-height: 26px;
     padding: 25px 20px;
@@ -125,6 +131,7 @@
 
 .content-dropdownitem {
   @include text-overflow;
+  font-family: 'BentonBook';
   font-size: 15px;
   line-height: 26px;
   margin-bottom: 32px;
@@ -139,6 +146,7 @@
 }
 
 .content-download {
+  font-family: 'BentonMedium';
   font-size: 18px;
   margin-top: 20px;
 
