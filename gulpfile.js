@@ -45,6 +45,12 @@ gulp.task('css', () => {
     .pipe(gulp.dest('stylesheets'));
 });
 
+gulp.task('fonts', () => {
+  gulp.src('fonts/*')
+    .pipe(gulp.dest('stylesheets/fonts'))
+    .pipe(gulp.dest('_site/stylesheets/fonts'));
+});
+
 gulp.task('js', () => {
   return gulp.src('_javascripts/main.js')
     .pipe(webpack())
@@ -100,4 +106,4 @@ gulp.task('assets', () => {
     .pipe(gulp.dest('_site/assets'));
 });
 
-gulp.task('default', ['css', 'js', 'assets', 'jekyll', 'serve']);
+gulp.task('default', ['css', 'js', 'fonts', 'assets', 'jekyll', 'serve']);
