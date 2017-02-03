@@ -10824,40 +10824,3771 @@
 /***/ function(module, exports, __webpack_require__) {
 
 	var $ = __webpack_require__(1);
-	var Query = __webpack_require__(7);
+	var lunr = __webpack_require__(7);
+	var _ = __webpack_require__(8);
+
+	var Query = __webpack_require__(9);
 
 	var query = new Query();
+	var baseurl = window.baseurl;
+	var lang = window.lang;
 
 	function getJsonURL () {
-	  if (window.siteLang === 'es') {
+	  if (lang === 'es') {
 	    return '/pages.json';
 	  } else {
-	    return '/' + window.langSite + '/pages.json';
+	    return baseurl + '/' + lang + '/pages.json';
 	  }
 	}
 
-	function onSubmitHandler (e) {
-	  e.preventDefault();
+	function filterData (data) {
+	  return _.filter(data, function (dato) {
+	    return dato.url.substr(-1, 1) === '/';
+	  });
+	}
 
-	  // set the query, and go to the search page with our query URL
-	  query
-	    .set($('.search-box').val().trim())
-	    .getJSON(getJsonURL())
-	    .done(function (data) {
-	      console.log(data);
-	      // show our results
-	    });
+	function createSearchTermRegExp (term) {
+	  term = term.replace(/(^ +| +$|['"‘’“”‚„*])/g, '').replace(/([+\[\](|){}\\^$])/g, '\\$1');
+	  var accentGroups = ['aáàäâåæ', 'cç', 'eéèëê', 'iíìïî', 'nñ', 'oóòöôøœ', 'uúùüû', 'yýÿ'];
+	  for (var i = 0; i < accentGroups.length; i++) {
+	    term = term.replace(new RegExp('[' + accentGroups[i] + ']', 'ig'), '[' + accentGroups[i] + ']');
+	  }
+	  // This has to be done after the accent handling, as '\n' is affected
+	  term = term.replace(/[.,:;…·\t\r\n \s]+/g, '[\'"‘’“”‚„*.,:;…·\\t\\r\\n \\s]+').replace(/[-–—]+/g, '[-–—]+');
+	  return new RegExp(term, 'ig');
+	};
+
+	function extracto (query, result) {
+	  console.log(result);
+
+	  var regexp = createSearchTermRegExp(query);
+	  var pos = regexp.exec(result.content);
+	  pos = pos ? pos.index : 0;
+	  var pre = (pos > 20) ? '&#8230 ' : '';
+	  pos = Math.max(0, pos - 20);
+	  var extract = result.content.substring(pos, pos + 50);
+	  extract = extract.replace(regexp, function (match) { return '<strong>' + match + '</strong>'; });
+	  return '<div>' + pre + extract + pre + '</div>';
+	}
+
+	function clearSearchResults () {
+	  var $results = $('.js-search-results');
+	  $results.empty();
+	}
+
+	function showResults (data, query) {
+	  console.log(data, query);
+
+	  var searchIndex;
+	  var results;
+	  var $results = $('.js-search-results');
+	  var totalScore = 0;
+	  var percentOfTotal;
+
+	  // PIECE 1
+	  // set up the allowable fields
+	  searchIndex = lunr(function () {
+	    this.field('title');
+	    this.field('content');
+	    this.ref('url');
+	  });
+
+	  // PIECE 2
+	  // add each item from page.json to the index
+	  _.each(data, function (item) {
+	    searchIndex.add(item);
+	  });
+
+	  results = searchIndex.search(query);
+
+	  console.log(results.length);
+
+	  for (var result in results) {
+	    var node = data.filter(function (page) {
+	      return page.url === results[result].ref;
+	    })[0];
+
+	    results[result].title = node.title;
+	    results[result].content = node.content;
+	  }
+
+	  _.each(results, function (result) {
+	    totalScore += result.score;
+	  });
+
+	  _.each(results, function (result) {
+	    var node;
+	    percentOfTotal = result.score / totalScore;
+
+	    var hint = extracto(query, result);
+
+	    if (lang === 'es') {
+	      node = '<li><a href="' + baseurl + result.ref + '">' + result.title + '</a>' + hint + '</li>';
+	    } else {
+	      node = '<li><a href="' + baseurl + '/' + lang + result.ref + '">' + result.title + '</a>' + hint + '</li>';
+	    }
+	    $results.append(node);
+	  });
+	}
+
+	function search (e) {
+	  // e.preventDefault();
+	  var searchQuery = $('.search-box').val().trim();
+	  clearSearchResults();
+
+	  if (searchQuery.length >= 3) {
+	    query
+	      .set(searchQuery)
+	      .getJSON(getJsonURL())
+	      .done(function (data) {
+	        var filteredData = filterData(data);
+	        showResults(filteredData, query.get());
+	      });
+	  }
 	}
 
 	module.exports = {
 	  init: function () {
-	    $('.js-search').on('submit', onSubmitHandler);
+	    $('.js-search').on('keyup', search);
 	  }
 	};
 
 
 /***/ },
 /* 7 */
+/***/ function(module, exports, __webpack_require__) {
+
+	var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_RESULT__;/**
+	 * lunr - http://lunrjs.com - A bit like Solr, but much smaller and not as bright - 0.7.2
+	 * Copyright (C) 2016 Oliver Nightingale
+	 * @license MIT
+	 */
+
+	;(function(){
+
+	/**
+	 * Convenience function for instantiating a new lunr index and configuring it
+	 * with the default pipeline functions and the passed config function.
+	 *
+	 * When using this convenience function a new index will be created with the
+	 * following functions already in the pipeline:
+	 *
+	 * lunr.StopWordFilter - filters out any stop words before they enter the
+	 * index
+	 *
+	 * lunr.stemmer - stems the tokens before entering the index.
+	 *
+	 * Example:
+	 *
+	 *     var idx = lunr(function () {
+	 *       this.field('title', 10)
+	 *       this.field('tags', 100)
+	 *       this.field('body')
+	 *       
+	 *       this.ref('cid')
+	 *       
+	 *       this.pipeline.add(function () {
+	 *         // some custom pipeline function
+	 *       })
+	 *       
+	 *     })
+	 *
+	 * @param {Function} config A function that will be called with the new instance
+	 * of the lunr.Index as both its context and first parameter. It can be used to
+	 * customize the instance of new lunr.Index.
+	 * @namespace
+	 * @module
+	 * @returns {lunr.Index}
+	 *
+	 */
+	var lunr = function (config) {
+	  var idx = new lunr.Index
+
+	  idx.pipeline.add(
+	    lunr.trimmer,
+	    lunr.stopWordFilter,
+	    lunr.stemmer
+	  )
+
+	  if (config) config.call(idx, idx)
+
+	  return idx
+	}
+
+	lunr.version = "0.7.2"
+	/*!
+	 * lunr.utils
+	 * Copyright (C) 2016 Oliver Nightingale
+	 */
+
+	/**
+	 * A namespace containing utils for the rest of the lunr library
+	 */
+	lunr.utils = {}
+
+	/**
+	 * Print a warning message to the console.
+	 *
+	 * @param {String} message The message to be printed.
+	 * @memberOf Utils
+	 */
+	lunr.utils.warn = (function (global) {
+	  return function (message) {
+	    if (global.console && console.warn) {
+	      console.warn(message)
+	    }
+	  }
+	})(this)
+
+	/**
+	 * Convert an object to a string.
+	 *
+	 * In the case of `null` and `undefined` the function returns
+	 * the empty string, in all other cases the result of calling
+	 * `toString` on the passed object is returned.
+	 *
+	 * @param {Any} obj The object to convert to a string.
+	 * @return {String} string representation of the passed object.
+	 * @memberOf Utils
+	 */
+	lunr.utils.asString = function (obj) {
+	  if (obj === void 0 || obj === null) {
+	    return ""
+	  } else {
+	    return obj.toString()
+	  }
+	}
+	/*!
+	 * lunr.EventEmitter
+	 * Copyright (C) 2016 Oliver Nightingale
+	 */
+
+	/**
+	 * lunr.EventEmitter is an event emitter for lunr. It manages adding and removing event handlers and triggering events and their handlers.
+	 *
+	 * @constructor
+	 */
+	lunr.EventEmitter = function () {
+	  this.events = {}
+	}
+
+	/**
+	 * Binds a handler function to a specific event(s).
+	 *
+	 * Can bind a single function to many different events in one call.
+	 *
+	 * @param {String} [eventName] The name(s) of events to bind this function to.
+	 * @param {Function} fn The function to call when an event is fired.
+	 * @memberOf EventEmitter
+	 */
+	lunr.EventEmitter.prototype.addListener = function () {
+	  var args = Array.prototype.slice.call(arguments),
+	      fn = args.pop(),
+	      names = args
+
+	  if (typeof fn !== "function") throw new TypeError ("last argument must be a function")
+
+	  names.forEach(function (name) {
+	    if (!this.hasHandler(name)) this.events[name] = []
+	    this.events[name].push(fn)
+	  }, this)
+	}
+
+	/**
+	 * Removes a handler function from a specific event.
+	 *
+	 * @param {String} eventName The name of the event to remove this function from.
+	 * @param {Function} fn The function to remove from an event.
+	 * @memberOf EventEmitter
+	 */
+	lunr.EventEmitter.prototype.removeListener = function (name, fn) {
+	  if (!this.hasHandler(name)) return
+
+	  var fnIndex = this.events[name].indexOf(fn)
+	  this.events[name].splice(fnIndex, 1)
+
+	  if (!this.events[name].length) delete this.events[name]
+	}
+
+	/**
+	 * Calls all functions bound to the given event.
+	 *
+	 * Additional data can be passed to the event handler as arguments to `emit`
+	 * after the event name.
+	 *
+	 * @param {String} eventName The name of the event to emit.
+	 * @memberOf EventEmitter
+	 */
+	lunr.EventEmitter.prototype.emit = function (name) {
+	  if (!this.hasHandler(name)) return
+
+	  var args = Array.prototype.slice.call(arguments, 1)
+
+	  this.events[name].forEach(function (fn) {
+	    fn.apply(undefined, args)
+	  })
+	}
+
+	/**
+	 * Checks whether a handler has ever been stored against an event.
+	 *
+	 * @param {String} eventName The name of the event to check.
+	 * @private
+	 * @memberOf EventEmitter
+	 */
+	lunr.EventEmitter.prototype.hasHandler = function (name) {
+	  return name in this.events
+	}
+
+	/*!
+	 * lunr.tokenizer
+	 * Copyright (C) 2016 Oliver Nightingale
+	 */
+
+	/**
+	 * A function for splitting a string into tokens ready to be inserted into
+	 * the search index. Uses `lunr.tokenizer.separator` to split strings, change
+	 * the value of this property to change how strings are split into tokens.
+	 *
+	 * @module
+	 * @param {String} obj The string to convert into tokens
+	 * @see lunr.tokenizer.separator
+	 * @returns {Array}
+	 */
+	lunr.tokenizer = function (obj) {
+	  if (!arguments.length || obj == null || obj == undefined) return []
+	  if (Array.isArray(obj)) return obj.map(function (t) { return lunr.utils.asString(t).toLowerCase() })
+
+	  // TODO: This exists so that the deprecated property lunr.tokenizer.seperator can still be used. By
+	  // default it is set to false and so the correctly spelt lunr.tokenizer.separator is used unless
+	  // the user is using the old property to customise the tokenizer.
+	  //
+	  // This should be removed when version 1.0.0 is released.
+	  var separator = lunr.tokenizer.seperator || lunr.tokenizer.separator
+
+	  return obj.toString().trim().toLowerCase().split(separator)
+	}
+
+	/**
+	 * This property is legacy alias for lunr.tokenizer.separator to maintain backwards compatability.
+	 * When introduced the token was spelt incorrectly. It will remain until 1.0.0 when it will be removed,
+	 * all code should use the correctly spelt lunr.tokenizer.separator property instead.
+	 *
+	 * @static
+	 * @see lunr.tokenizer.separator
+	 * @deprecated since 0.7.2 will be removed in 1.0.0
+	 * @private
+	 * @see lunr.tokenizer
+	 */
+	lunr.tokenizer.seperator = false
+
+	/**
+	 * The sperator used to split a string into tokens. Override this property to change the behaviour of
+	 * `lunr.tokenizer` behaviour when tokenizing strings. By default this splits on whitespace and hyphens.
+	 *
+	 * @static
+	 * @see lunr.tokenizer
+	 */
+	lunr.tokenizer.separator = /[\s\-]+/
+
+	/**
+	 * Loads a previously serialised tokenizer.
+	 *
+	 * A tokenizer function to be loaded must already be registered with lunr.tokenizer.
+	 * If the serialised tokenizer has not been registered then an error will be thrown.
+	 *
+	 * @param {String} label The label of the serialised tokenizer.
+	 * @returns {Function}
+	 * @memberOf tokenizer
+	 */
+	lunr.tokenizer.load = function (label) {
+	  var fn = this.registeredFunctions[label]
+
+	  if (!fn) {
+	    throw new Error('Cannot load un-registered function: ' + label)
+	  }
+
+	  return fn
+	}
+
+	lunr.tokenizer.label = 'default'
+
+	lunr.tokenizer.registeredFunctions = {
+	  'default': lunr.tokenizer
+	}
+
+	/**
+	 * Register a tokenizer function.
+	 *
+	 * Functions that are used as tokenizers should be registered if they are to be used with a serialised index.
+	 *
+	 * Registering a function does not add it to an index, functions must still be associated with a specific index for them to be used when indexing and searching documents.
+	 *
+	 * @param {Function} fn The function to register.
+	 * @param {String} label The label to register this function with
+	 * @memberOf tokenizer
+	 */
+	lunr.tokenizer.registerFunction = function (fn, label) {
+	  if (label in this.registeredFunctions) {
+	    lunr.utils.warn('Overwriting existing tokenizer: ' + label)
+	  }
+
+	  fn.label = label
+	  this.registeredFunctions[label] = fn
+	}
+	/*!
+	 * lunr.Pipeline
+	 * Copyright (C) 2016 Oliver Nightingale
+	 */
+
+	/**
+	 * lunr.Pipelines maintain an ordered list of functions to be applied to all
+	 * tokens in documents entering the search index and queries being ran against
+	 * the index.
+	 *
+	 * An instance of lunr.Index created with the lunr shortcut will contain a
+	 * pipeline with a stop word filter and an English language stemmer. Extra
+	 * functions can be added before or after either of these functions or these
+	 * default functions can be removed.
+	 *
+	 * When run the pipeline will call each function in turn, passing a token, the
+	 * index of that token in the original list of all tokens and finally a list of
+	 * all the original tokens.
+	 *
+	 * The output of functions in the pipeline will be passed to the next function
+	 * in the pipeline. To exclude a token from entering the index the function
+	 * should return undefined, the rest of the pipeline will not be called with
+	 * this token.
+	 *
+	 * For serialisation of pipelines to work, all functions used in an instance of
+	 * a pipeline should be registered with lunr.Pipeline. Registered functions can
+	 * then be loaded. If trying to load a serialised pipeline that uses functions
+	 * that are not registered an error will be thrown.
+	 *
+	 * If not planning on serialising the pipeline then registering pipeline functions
+	 * is not necessary.
+	 *
+	 * @constructor
+	 */
+	lunr.Pipeline = function () {
+	  this._stack = []
+	}
+
+	lunr.Pipeline.registeredFunctions = {}
+
+	/**
+	 * Register a function with the pipeline.
+	 *
+	 * Functions that are used in the pipeline should be registered if the pipeline
+	 * needs to be serialised, or a serialised pipeline needs to be loaded.
+	 *
+	 * Registering a function does not add it to a pipeline, functions must still be
+	 * added to instances of the pipeline for them to be used when running a pipeline.
+	 *
+	 * @param {Function} fn The function to check for.
+	 * @param {String} label The label to register this function with
+	 * @memberOf Pipeline
+	 */
+	lunr.Pipeline.registerFunction = function (fn, label) {
+	  if (label in this.registeredFunctions) {
+	    lunr.utils.warn('Overwriting existing registered function: ' + label)
+	  }
+
+	  fn.label = label
+	  lunr.Pipeline.registeredFunctions[fn.label] = fn
+	}
+
+	/**
+	 * Warns if the function is not registered as a Pipeline function.
+	 *
+	 * @param {Function} fn The function to check for.
+	 * @private
+	 * @memberOf Pipeline
+	 */
+	lunr.Pipeline.warnIfFunctionNotRegistered = function (fn) {
+	  var isRegistered = fn.label && (fn.label in this.registeredFunctions)
+
+	  if (!isRegistered) {
+	    lunr.utils.warn('Function is not registered with pipeline. This may cause problems when serialising the index.\n', fn)
+	  }
+	}
+
+	/**
+	 * Loads a previously serialised pipeline.
+	 *
+	 * All functions to be loaded must already be registered with lunr.Pipeline.
+	 * If any function from the serialised data has not been registered then an
+	 * error will be thrown.
+	 *
+	 * @param {Object} serialised The serialised pipeline to load.
+	 * @returns {lunr.Pipeline}
+	 * @memberOf Pipeline
+	 */
+	lunr.Pipeline.load = function (serialised) {
+	  var pipeline = new lunr.Pipeline
+
+	  serialised.forEach(function (fnName) {
+	    var fn = lunr.Pipeline.registeredFunctions[fnName]
+
+	    if (fn) {
+	      pipeline.add(fn)
+	    } else {
+	      throw new Error('Cannot load un-registered function: ' + fnName)
+	    }
+	  })
+
+	  return pipeline
+	}
+
+	/**
+	 * Adds new functions to the end of the pipeline.
+	 *
+	 * Logs a warning if the function has not been registered.
+	 *
+	 * @param {Function} functions Any number of functions to add to the pipeline.
+	 * @memberOf Pipeline
+	 */
+	lunr.Pipeline.prototype.add = function () {
+	  var fns = Array.prototype.slice.call(arguments)
+
+	  fns.forEach(function (fn) {
+	    lunr.Pipeline.warnIfFunctionNotRegistered(fn)
+	    this._stack.push(fn)
+	  }, this)
+	}
+
+	/**
+	 * Adds a single function after a function that already exists in the
+	 * pipeline.
+	 *
+	 * Logs a warning if the function has not been registered.
+	 *
+	 * @param {Function} existingFn A function that already exists in the pipeline.
+	 * @param {Function} newFn The new function to add to the pipeline.
+	 * @memberOf Pipeline
+	 */
+	lunr.Pipeline.prototype.after = function (existingFn, newFn) {
+	  lunr.Pipeline.warnIfFunctionNotRegistered(newFn)
+
+	  var pos = this._stack.indexOf(existingFn)
+	  if (pos == -1) {
+	    throw new Error('Cannot find existingFn')
+	  }
+
+	  pos = pos + 1
+	  this._stack.splice(pos, 0, newFn)
+	}
+
+	/**
+	 * Adds a single function before a function that already exists in the
+	 * pipeline.
+	 *
+	 * Logs a warning if the function has not been registered.
+	 *
+	 * @param {Function} existingFn A function that already exists in the pipeline.
+	 * @param {Function} newFn The new function to add to the pipeline.
+	 * @memberOf Pipeline
+	 */
+	lunr.Pipeline.prototype.before = function (existingFn, newFn) {
+	  lunr.Pipeline.warnIfFunctionNotRegistered(newFn)
+
+	  var pos = this._stack.indexOf(existingFn)
+	  if (pos == -1) {
+	    throw new Error('Cannot find existingFn')
+	  }
+
+	  this._stack.splice(pos, 0, newFn)
+	}
+
+	/**
+	 * Removes a function from the pipeline.
+	 *
+	 * @param {Function} fn The function to remove from the pipeline.
+	 * @memberOf Pipeline
+	 */
+	lunr.Pipeline.prototype.remove = function (fn) {
+	  var pos = this._stack.indexOf(fn)
+	  if (pos == -1) {
+	    return
+	  }
+
+	  this._stack.splice(pos, 1)
+	}
+
+	/**
+	 * Runs the current list of functions that make up the pipeline against the
+	 * passed tokens.
+	 *
+	 * @param {Array} tokens The tokens to run through the pipeline.
+	 * @returns {Array}
+	 * @memberOf Pipeline
+	 */
+	lunr.Pipeline.prototype.run = function (tokens) {
+	  var out = [],
+	      tokenLength = tokens.length,
+	      stackLength = this._stack.length
+
+	  for (var i = 0; i < tokenLength; i++) {
+	    var token = tokens[i]
+
+	    for (var j = 0; j < stackLength; j++) {
+	      token = this._stack[j](token, i, tokens)
+	      if (token === void 0 || token === '') break
+	    };
+
+	    if (token !== void 0 && token !== '') out.push(token)
+	  };
+
+	  return out
+	}
+
+	/**
+	 * Resets the pipeline by removing any existing processors.
+	 *
+	 * @memberOf Pipeline
+	 */
+	lunr.Pipeline.prototype.reset = function () {
+	  this._stack = []
+	}
+
+	/**
+	 * Returns a representation of the pipeline ready for serialisation.
+	 *
+	 * Logs a warning if the function has not been registered.
+	 *
+	 * @returns {Array}
+	 * @memberOf Pipeline
+	 */
+	lunr.Pipeline.prototype.toJSON = function () {
+	  return this._stack.map(function (fn) {
+	    lunr.Pipeline.warnIfFunctionNotRegistered(fn)
+
+	    return fn.label
+	  })
+	}
+	/*!
+	 * lunr.Vector
+	 * Copyright (C) 2016 Oliver Nightingale
+	 */
+
+	/**
+	 * lunr.Vectors implement vector related operations for
+	 * a series of elements.
+	 *
+	 * @constructor
+	 */
+	lunr.Vector = function () {
+	  this._magnitude = null
+	  this.list = undefined
+	  this.length = 0
+	}
+
+	/**
+	 * lunr.Vector.Node is a simple struct for each node
+	 * in a lunr.Vector.
+	 *
+	 * @private
+	 * @param {Number} The index of the node in the vector.
+	 * @param {Object} The data at this node in the vector.
+	 * @param {lunr.Vector.Node} The node directly after this node in the vector.
+	 * @constructor
+	 * @memberOf Vector
+	 */
+	lunr.Vector.Node = function (idx, val, next) {
+	  this.idx = idx
+	  this.val = val
+	  this.next = next
+	}
+
+	/**
+	 * Inserts a new value at a position in a vector.
+	 *
+	 * @param {Number} The index at which to insert a value.
+	 * @param {Object} The object to insert in the vector.
+	 * @memberOf Vector.
+	 */
+	lunr.Vector.prototype.insert = function (idx, val) {
+	  this._magnitude = undefined;
+	  var list = this.list
+
+	  if (!list) {
+	    this.list = new lunr.Vector.Node (idx, val, list)
+	    return this.length++
+	  }
+
+	  if (idx < list.idx) {
+	    this.list = new lunr.Vector.Node (idx, val, list)
+	    return this.length++
+	  }
+
+	  var prev = list,
+	      next = list.next
+
+	  while (next != undefined) {
+	    if (idx < next.idx) {
+	      prev.next = new lunr.Vector.Node (idx, val, next)
+	      return this.length++
+	    }
+
+	    prev = next, next = next.next
+	  }
+
+	  prev.next = new lunr.Vector.Node (idx, val, next)
+	  return this.length++
+	}
+
+	/**
+	 * Calculates the magnitude of this vector.
+	 *
+	 * @returns {Number}
+	 * @memberOf Vector
+	 */
+	lunr.Vector.prototype.magnitude = function () {
+	  if (this._magnitude) return this._magnitude
+	  var node = this.list,
+	      sumOfSquares = 0,
+	      val
+
+	  while (node) {
+	    val = node.val
+	    sumOfSquares += val * val
+	    node = node.next
+	  }
+
+	  return this._magnitude = Math.sqrt(sumOfSquares)
+	}
+
+	/**
+	 * Calculates the dot product of this vector and another vector.
+	 *
+	 * @param {lunr.Vector} otherVector The vector to compute the dot product with.
+	 * @returns {Number}
+	 * @memberOf Vector
+	 */
+	lunr.Vector.prototype.dot = function (otherVector) {
+	  var node = this.list,
+	      otherNode = otherVector.list,
+	      dotProduct = 0
+
+	  while (node && otherNode) {
+	    if (node.idx < otherNode.idx) {
+	      node = node.next
+	    } else if (node.idx > otherNode.idx) {
+	      otherNode = otherNode.next
+	    } else {
+	      dotProduct += node.val * otherNode.val
+	      node = node.next
+	      otherNode = otherNode.next
+	    }
+	  }
+
+	  return dotProduct
+	}
+
+	/**
+	 * Calculates the cosine similarity between this vector and another
+	 * vector.
+	 *
+	 * @param {lunr.Vector} otherVector The other vector to calculate the
+	 * similarity with.
+	 * @returns {Number}
+	 * @memberOf Vector
+	 */
+	lunr.Vector.prototype.similarity = function (otherVector) {
+	  return this.dot(otherVector) / (this.magnitude() * otherVector.magnitude())
+	}
+	/*!
+	 * lunr.SortedSet
+	 * Copyright (C) 2016 Oliver Nightingale
+	 */
+
+	/**
+	 * lunr.SortedSets are used to maintain an array of uniq values in a sorted
+	 * order.
+	 *
+	 * @constructor
+	 */
+	lunr.SortedSet = function () {
+	  this.length = 0
+	  this.elements = []
+	}
+
+	/**
+	 * Loads a previously serialised sorted set.
+	 *
+	 * @param {Array} serialisedData The serialised set to load.
+	 * @returns {lunr.SortedSet}
+	 * @memberOf SortedSet
+	 */
+	lunr.SortedSet.load = function (serialisedData) {
+	  var set = new this
+
+	  set.elements = serialisedData
+	  set.length = serialisedData.length
+
+	  return set
+	}
+
+	/**
+	 * Inserts new items into the set in the correct position to maintain the
+	 * order.
+	 *
+	 * @param {Object} The objects to add to this set.
+	 * @memberOf SortedSet
+	 */
+	lunr.SortedSet.prototype.add = function () {
+	  var i, element
+
+	  for (i = 0; i < arguments.length; i++) {
+	    element = arguments[i]
+	    if (~this.indexOf(element)) continue
+	    this.elements.splice(this.locationFor(element), 0, element)
+	  }
+
+	  this.length = this.elements.length
+	}
+
+	/**
+	 * Converts this sorted set into an array.
+	 *
+	 * @returns {Array}
+	 * @memberOf SortedSet
+	 */
+	lunr.SortedSet.prototype.toArray = function () {
+	  return this.elements.slice()
+	}
+
+	/**
+	 * Creates a new array with the results of calling a provided function on every
+	 * element in this sorted set.
+	 *
+	 * Delegates to Array.prototype.map and has the same signature.
+	 *
+	 * @param {Function} fn The function that is called on each element of the
+	 * set.
+	 * @param {Object} ctx An optional object that can be used as the context
+	 * for the function fn.
+	 * @returns {Array}
+	 * @memberOf SortedSet
+	 */
+	lunr.SortedSet.prototype.map = function (fn, ctx) {
+	  return this.elements.map(fn, ctx)
+	}
+
+	/**
+	 * Executes a provided function once per sorted set element.
+	 *
+	 * Delegates to Array.prototype.forEach and has the same signature.
+	 *
+	 * @param {Function} fn The function that is called on each element of the
+	 * set.
+	 * @param {Object} ctx An optional object that can be used as the context
+	 * @memberOf SortedSet
+	 * for the function fn.
+	 */
+	lunr.SortedSet.prototype.forEach = function (fn, ctx) {
+	  return this.elements.forEach(fn, ctx)
+	}
+
+	/**
+	 * Returns the index at which a given element can be found in the
+	 * sorted set, or -1 if it is not present.
+	 *
+	 * @param {Object} elem The object to locate in the sorted set.
+	 * @returns {Number}
+	 * @memberOf SortedSet
+	 */
+	lunr.SortedSet.prototype.indexOf = function (elem) {
+	  var start = 0,
+	      end = this.elements.length,
+	      sectionLength = end - start,
+	      pivot = start + Math.floor(sectionLength / 2),
+	      pivotElem = this.elements[pivot]
+
+	  while (sectionLength > 1) {
+	    if (pivotElem === elem) return pivot
+
+	    if (pivotElem < elem) start = pivot
+	    if (pivotElem > elem) end = pivot
+
+	    sectionLength = end - start
+	    pivot = start + Math.floor(sectionLength / 2)
+	    pivotElem = this.elements[pivot]
+	  }
+
+	  if (pivotElem === elem) return pivot
+
+	  return -1
+	}
+
+	/**
+	 * Returns the position within the sorted set that an element should be
+	 * inserted at to maintain the current order of the set.
+	 *
+	 * This function assumes that the element to search for does not already exist
+	 * in the sorted set.
+	 *
+	 * @param {Object} elem The elem to find the position for in the set
+	 * @returns {Number}
+	 * @memberOf SortedSet
+	 */
+	lunr.SortedSet.prototype.locationFor = function (elem) {
+	  var start = 0,
+	      end = this.elements.length,
+	      sectionLength = end - start,
+	      pivot = start + Math.floor(sectionLength / 2),
+	      pivotElem = this.elements[pivot]
+
+	  while (sectionLength > 1) {
+	    if (pivotElem < elem) start = pivot
+	    if (pivotElem > elem) end = pivot
+
+	    sectionLength = end - start
+	    pivot = start + Math.floor(sectionLength / 2)
+	    pivotElem = this.elements[pivot]
+	  }
+
+	  if (pivotElem > elem) return pivot
+	  if (pivotElem < elem) return pivot + 1
+	}
+
+	/**
+	 * Creates a new lunr.SortedSet that contains the elements in the intersection
+	 * of this set and the passed set.
+	 *
+	 * @param {lunr.SortedSet} otherSet The set to intersect with this set.
+	 * @returns {lunr.SortedSet}
+	 * @memberOf SortedSet
+	 */
+	lunr.SortedSet.prototype.intersect = function (otherSet) {
+	  var intersectSet = new lunr.SortedSet,
+	      i = 0, j = 0,
+	      a_len = this.length, b_len = otherSet.length,
+	      a = this.elements, b = otherSet.elements
+
+	  while (true) {
+	    if (i > a_len - 1 || j > b_len - 1) break
+
+	    if (a[i] === b[j]) {
+	      intersectSet.add(a[i])
+	      i++, j++
+	      continue
+	    }
+
+	    if (a[i] < b[j]) {
+	      i++
+	      continue
+	    }
+
+	    if (a[i] > b[j]) {
+	      j++
+	      continue
+	    }
+	  };
+
+	  return intersectSet
+	}
+
+	/**
+	 * Makes a copy of this set
+	 *
+	 * @returns {lunr.SortedSet}
+	 * @memberOf SortedSet
+	 */
+	lunr.SortedSet.prototype.clone = function () {
+	  var clone = new lunr.SortedSet
+
+	  clone.elements = this.toArray()
+	  clone.length = clone.elements.length
+
+	  return clone
+	}
+
+	/**
+	 * Creates a new lunr.SortedSet that contains the elements in the union
+	 * of this set and the passed set.
+	 *
+	 * @param {lunr.SortedSet} otherSet The set to union with this set.
+	 * @returns {lunr.SortedSet}
+	 * @memberOf SortedSet
+	 */
+	lunr.SortedSet.prototype.union = function (otherSet) {
+	  var longSet, shortSet, unionSet
+
+	  if (this.length >= otherSet.length) {
+	    longSet = this, shortSet = otherSet
+	  } else {
+	    longSet = otherSet, shortSet = this
+	  }
+
+	  unionSet = longSet.clone()
+
+	  for(var i = 0, shortSetElements = shortSet.toArray(); i < shortSetElements.length; i++){
+	    unionSet.add(shortSetElements[i])
+	  }
+
+	  return unionSet
+	}
+
+	/**
+	 * Returns a representation of the sorted set ready for serialisation.
+	 *
+	 * @returns {Array}
+	 * @memberOf SortedSet
+	 */
+	lunr.SortedSet.prototype.toJSON = function () {
+	  return this.toArray()
+	}
+	/*!
+	 * lunr.Index
+	 * Copyright (C) 2016 Oliver Nightingale
+	 */
+
+	/**
+	 * lunr.Index is object that manages a search index.  It contains the indexes
+	 * and stores all the tokens and document lookups.  It also provides the main
+	 * user facing API for the library.
+	 *
+	 * @constructor
+	 */
+	lunr.Index = function () {
+	  this._fields = []
+	  this._ref = 'id'
+	  this.pipeline = new lunr.Pipeline
+	  this.documentStore = new lunr.Store
+	  this.tokenStore = new lunr.TokenStore
+	  this.corpusTokens = new lunr.SortedSet
+	  this.eventEmitter =  new lunr.EventEmitter
+	  this.tokenizerFn = lunr.tokenizer
+
+	  this._idfCache = {}
+
+	  this.on('add', 'remove', 'update', (function () {
+	    this._idfCache = {}
+	  }).bind(this))
+	}
+
+	/**
+	 * Bind a handler to events being emitted by the index.
+	 *
+	 * The handler can be bound to many events at the same time.
+	 *
+	 * @param {String} [eventName] The name(s) of events to bind the function to.
+	 * @param {Function} fn The serialised set to load.
+	 * @memberOf Index
+	 */
+	lunr.Index.prototype.on = function () {
+	  var args = Array.prototype.slice.call(arguments)
+	  return this.eventEmitter.addListener.apply(this.eventEmitter, args)
+	}
+
+	/**
+	 * Removes a handler from an event being emitted by the index.
+	 *
+	 * @param {String} eventName The name of events to remove the function from.
+	 * @param {Function} fn The serialised set to load.
+	 * @memberOf Index
+	 */
+	lunr.Index.prototype.off = function (name, fn) {
+	  return this.eventEmitter.removeListener(name, fn)
+	}
+
+	/**
+	 * Loads a previously serialised index.
+	 *
+	 * Issues a warning if the index being imported was serialised
+	 * by a different version of lunr.
+	 *
+	 * @param {Object} serialisedData The serialised set to load.
+	 * @returns {lunr.Index}
+	 * @memberOf Index
+	 */
+	lunr.Index.load = function (serialisedData) {
+	  if (serialisedData.version !== lunr.version) {
+	    lunr.utils.warn('version mismatch: current ' + lunr.version + ' importing ' + serialisedData.version)
+	  }
+
+	  var idx = new this
+
+	  idx._fields = serialisedData.fields
+	  idx._ref = serialisedData.ref
+
+	  idx.tokenizer(lunr.tokenizer.load(serialisedData.tokenizer))
+	  idx.documentStore = lunr.Store.load(serialisedData.documentStore)
+	  idx.tokenStore = lunr.TokenStore.load(serialisedData.tokenStore)
+	  idx.corpusTokens = lunr.SortedSet.load(serialisedData.corpusTokens)
+	  idx.pipeline = lunr.Pipeline.load(serialisedData.pipeline)
+
+	  return idx
+	}
+
+	/**
+	 * Adds a field to the list of fields that will be searchable within documents
+	 * in the index.
+	 *
+	 * An optional boost param can be passed to affect how much tokens in this field
+	 * rank in search results, by default the boost value is 1.
+	 *
+	 * Fields should be added before any documents are added to the index, fields
+	 * that are added after documents are added to the index will only apply to new
+	 * documents added to the index.
+	 *
+	 * @param {String} fieldName The name of the field within the document that
+	 * should be indexed
+	 * @param {Number} boost An optional boost that can be applied to terms in this
+	 * field.
+	 * @returns {lunr.Index}
+	 * @memberOf Index
+	 */
+	lunr.Index.prototype.field = function (fieldName, opts) {
+	  var opts = opts || {},
+	      field = { name: fieldName, boost: opts.boost || 1 }
+
+	  this._fields.push(field)
+	  return this
+	}
+
+	/**
+	 * Sets the property used to uniquely identify documents added to the index,
+	 * by default this property is 'id'.
+	 *
+	 * This should only be changed before adding documents to the index, changing
+	 * the ref property without resetting the index can lead to unexpected results.
+	 *
+	 * The value of ref can be of any type but it _must_ be stably comparable and
+	 * orderable.
+	 *
+	 * @param {String} refName The property to use to uniquely identify the
+	 * documents in the index.
+	 * @param {Boolean} emitEvent Whether to emit add events, defaults to true
+	 * @returns {lunr.Index}
+	 * @memberOf Index
+	 */
+	lunr.Index.prototype.ref = function (refName) {
+	  this._ref = refName
+	  return this
+	}
+
+	/**
+	 * Sets the tokenizer used for this index.
+	 *
+	 * By default the index will use the default tokenizer, lunr.tokenizer. The tokenizer
+	 * should only be changed before adding documents to the index. Changing the tokenizer
+	 * without re-building the index can lead to unexpected results.
+	 *
+	 * @param {Function} fn The function to use as a tokenizer.
+	 * @returns {lunr.Index}
+	 * @memberOf Index
+	 */
+	lunr.Index.prototype.tokenizer = function (fn) {
+	  var isRegistered = fn.label && (fn.label in lunr.tokenizer.registeredFunctions)
+
+	  if (!isRegistered) {
+	    lunr.utils.warn('Function is not a registered tokenizer. This may cause problems when serialising the index')
+	  }
+
+	  this.tokenizerFn = fn
+	  return this
+	}
+
+	/**
+	 * Add a document to the index.
+	 *
+	 * This is the way new documents enter the index, this function will run the
+	 * fields from the document through the index's pipeline and then add it to
+	 * the index, it will then show up in search results.
+	 *
+	 * An 'add' event is emitted with the document that has been added and the index
+	 * the document has been added to. This event can be silenced by passing false
+	 * as the second argument to add.
+	 *
+	 * @param {Object} doc The document to add to the index.
+	 * @param {Boolean} emitEvent Whether or not to emit events, default true.
+	 * @memberOf Index
+	 */
+	lunr.Index.prototype.add = function (doc, emitEvent) {
+	  var docTokens = {},
+	      allDocumentTokens = new lunr.SortedSet,
+	      docRef = doc[this._ref],
+	      emitEvent = emitEvent === undefined ? true : emitEvent
+
+	  this._fields.forEach(function (field) {
+	    var fieldTokens = this.pipeline.run(this.tokenizerFn(doc[field.name]))
+
+	    docTokens[field.name] = fieldTokens
+
+	    for (var i = 0; i < fieldTokens.length; i++) {
+	      var token = fieldTokens[i]
+	      allDocumentTokens.add(token)
+	      this.corpusTokens.add(token)
+	    }
+	  }, this)
+
+	  this.documentStore.set(docRef, allDocumentTokens)
+
+	  for (var i = 0; i < allDocumentTokens.length; i++) {
+	    var token = allDocumentTokens.elements[i]
+	    var tf = 0;
+
+	    for (var j = 0; j < this._fields.length; j++){
+	      var field = this._fields[j]
+	      var fieldTokens = docTokens[field.name]
+	      var fieldLength = fieldTokens.length
+
+	      if (!fieldLength) continue
+
+	      var tokenCount = 0
+	      for (var k = 0; k < fieldLength; k++){
+	        if (fieldTokens[k] === token){
+	          tokenCount++
+	        }
+	      }
+
+	      tf += (tokenCount / fieldLength * field.boost)
+	    }
+
+	    this.tokenStore.add(token, { ref: docRef, tf: tf })
+	  };
+
+	  if (emitEvent) this.eventEmitter.emit('add', doc, this)
+	}
+
+	/**
+	 * Removes a document from the index.
+	 *
+	 * To make sure documents no longer show up in search results they can be
+	 * removed from the index using this method.
+	 *
+	 * The document passed only needs to have the same ref property value as the
+	 * document that was added to the index, they could be completely different
+	 * objects.
+	 *
+	 * A 'remove' event is emitted with the document that has been removed and the index
+	 * the document has been removed from. This event can be silenced by passing false
+	 * as the second argument to remove.
+	 *
+	 * @param {Object} doc The document to remove from the index.
+	 * @param {Boolean} emitEvent Whether to emit remove events, defaults to true
+	 * @memberOf Index
+	 */
+	lunr.Index.prototype.remove = function (doc, emitEvent) {
+	  var docRef = doc[this._ref],
+	      emitEvent = emitEvent === undefined ? true : emitEvent
+
+	  if (!this.documentStore.has(docRef)) return
+
+	  var docTokens = this.documentStore.get(docRef)
+
+	  this.documentStore.remove(docRef)
+
+	  docTokens.forEach(function (token) {
+	    this.tokenStore.remove(token, docRef)
+	  }, this)
+
+	  if (emitEvent) this.eventEmitter.emit('remove', doc, this)
+	}
+
+	/**
+	 * Updates a document in the index.
+	 *
+	 * When a document contained within the index gets updated, fields changed,
+	 * added or removed, to make sure it correctly matched against search queries,
+	 * it should be updated in the index.
+	 *
+	 * This method is just a wrapper around `remove` and `add`
+	 *
+	 * An 'update' event is emitted with the document that has been updated and the index.
+	 * This event can be silenced by passing false as the second argument to update. Only
+	 * an update event will be fired, the 'add' and 'remove' events of the underlying calls
+	 * are silenced.
+	 *
+	 * @param {Object} doc The document to update in the index.
+	 * @param {Boolean} emitEvent Whether to emit update events, defaults to true
+	 * @see Index.prototype.remove
+	 * @see Index.prototype.add
+	 * @memberOf Index
+	 */
+	lunr.Index.prototype.update = function (doc, emitEvent) {
+	  var emitEvent = emitEvent === undefined ? true : emitEvent
+
+	  this.remove(doc, false)
+	  this.add(doc, false)
+
+	  if (emitEvent) this.eventEmitter.emit('update', doc, this)
+	}
+
+	/**
+	 * Calculates the inverse document frequency for a token within the index.
+	 *
+	 * @param {String} token The token to calculate the idf of.
+	 * @see Index.prototype.idf
+	 * @private
+	 * @memberOf Index
+	 */
+	lunr.Index.prototype.idf = function (term) {
+	  var cacheKey = "@" + term
+	  if (Object.prototype.hasOwnProperty.call(this._idfCache, cacheKey)) return this._idfCache[cacheKey]
+
+	  var documentFrequency = this.tokenStore.count(term),
+	      idf = 1
+
+	  if (documentFrequency > 0) {
+	    idf = 1 + Math.log(this.documentStore.length / documentFrequency)
+	  }
+
+	  return this._idfCache[cacheKey] = idf
+	}
+
+	/**
+	 * Searches the index using the passed query.
+	 *
+	 * Queries should be a string, multiple words are allowed and will lead to an
+	 * AND based query, e.g. `idx.search('foo bar')` will run a search for
+	 * documents containing both 'foo' and 'bar'.
+	 *
+	 * All query tokens are passed through the same pipeline that document tokens
+	 * are passed through, so any language processing involved will be run on every
+	 * query term.
+	 *
+	 * Each query term is expanded, so that the term 'he' might be expanded to
+	 * 'hello' and 'help' if those terms were already included in the index.
+	 *
+	 * Matching documents are returned as an array of objects, each object contains
+	 * the matching document ref, as set for this index, and the similarity score
+	 * for this document against the query.
+	 *
+	 * @param {String} query The query to search the index with.
+	 * @returns {Object}
+	 * @see Index.prototype.idf
+	 * @see Index.prototype.documentVector
+	 * @memberOf Index
+	 */
+	lunr.Index.prototype.search = function (query) {
+	  var queryTokens = this.pipeline.run(this.tokenizerFn(query)),
+	      queryVector = new lunr.Vector,
+	      documentSets = [],
+	      fieldBoosts = this._fields.reduce(function (memo, f) { return memo + f.boost }, 0)
+
+	  var hasSomeToken = queryTokens.some(function (token) {
+	    return this.tokenStore.has(token)
+	  }, this)
+
+	  if (!hasSomeToken) return []
+
+	  queryTokens
+	    .forEach(function (token, i, tokens) {
+	      var tf = 1 / tokens.length * this._fields.length * fieldBoosts,
+	          self = this
+
+	      var set = this.tokenStore.expand(token).reduce(function (memo, key) {
+	        var pos = self.corpusTokens.indexOf(key),
+	            idf = self.idf(key),
+	            similarityBoost = 1,
+	            set = new lunr.SortedSet
+
+	        // if the expanded key is not an exact match to the token then
+	        // penalise the score for this key by how different the key is
+	        // to the token.
+	        if (key !== token) {
+	          var diff = Math.max(3, key.length - token.length)
+	          similarityBoost = 1 / Math.log(diff)
+	        }
+
+	        // calculate the query tf-idf score for this token
+	        // applying an similarityBoost to ensure exact matches
+	        // these rank higher than expanded terms
+	        if (pos > -1) queryVector.insert(pos, tf * idf * similarityBoost)
+
+	        // add all the documents that have this key into a set
+	        // ensuring that the type of key is preserved
+	        var matchingDocuments = self.tokenStore.get(key),
+	            refs = Object.keys(matchingDocuments),
+	            refsLen = refs.length
+
+	        for (var i = 0; i < refsLen; i++) {
+	          set.add(matchingDocuments[refs[i]].ref)
+	        }
+
+	        return memo.union(set)
+	      }, new lunr.SortedSet)
+
+	      documentSets.push(set)
+	    }, this)
+
+	  var documentSet = documentSets.reduce(function (memo, set) {
+	    return memo.intersect(set)
+	  })
+
+	  return documentSet
+	    .map(function (ref) {
+	      return { ref: ref, score: queryVector.similarity(this.documentVector(ref)) }
+	    }, this)
+	    .sort(function (a, b) {
+	      return b.score - a.score
+	    })
+	}
+
+	/**
+	 * Generates a vector containing all the tokens in the document matching the
+	 * passed documentRef.
+	 *
+	 * The vector contains the tf-idf score for each token contained in the
+	 * document with the passed documentRef.  The vector will contain an element
+	 * for every token in the indexes corpus, if the document does not contain that
+	 * token the element will be 0.
+	 *
+	 * @param {Object} documentRef The ref to find the document with.
+	 * @returns {lunr.Vector}
+	 * @private
+	 * @memberOf Index
+	 */
+	lunr.Index.prototype.documentVector = function (documentRef) {
+	  var documentTokens = this.documentStore.get(documentRef),
+	      documentTokensLength = documentTokens.length,
+	      documentVector = new lunr.Vector
+
+	  for (var i = 0; i < documentTokensLength; i++) {
+	    var token = documentTokens.elements[i],
+	        tf = this.tokenStore.get(token)[documentRef].tf,
+	        idf = this.idf(token)
+
+	    documentVector.insert(this.corpusTokens.indexOf(token), tf * idf)
+	  };
+
+	  return documentVector
+	}
+
+	/**
+	 * Returns a representation of the index ready for serialisation.
+	 *
+	 * @returns {Object}
+	 * @memberOf Index
+	 */
+	lunr.Index.prototype.toJSON = function () {
+	  return {
+	    version: lunr.version,
+	    fields: this._fields,
+	    ref: this._ref,
+	    tokenizer: this.tokenizerFn.label,
+	    documentStore: this.documentStore.toJSON(),
+	    tokenStore: this.tokenStore.toJSON(),
+	    corpusTokens: this.corpusTokens.toJSON(),
+	    pipeline: this.pipeline.toJSON()
+	  }
+	}
+
+	/**
+	 * Applies a plugin to the current index.
+	 *
+	 * A plugin is a function that is called with the index as its context.
+	 * Plugins can be used to customise or extend the behaviour the index
+	 * in some way. A plugin is just a function, that encapsulated the custom
+	 * behaviour that should be applied to the index.
+	 *
+	 * The plugin function will be called with the index as its argument, additional
+	 * arguments can also be passed when calling use. The function will be called
+	 * with the index as its context.
+	 *
+	 * Example:
+	 *
+	 *     var myPlugin = function (idx, arg1, arg2) {
+	 *       // `this` is the index to be extended
+	 *       // apply any extensions etc here.
+	 *     }
+	 *
+	 *     var idx = lunr(function () {
+	 *       this.use(myPlugin, 'arg1', 'arg2')
+	 *     })
+	 *
+	 * @param {Function} plugin The plugin to apply.
+	 * @memberOf Index
+	 */
+	lunr.Index.prototype.use = function (plugin) {
+	  var args = Array.prototype.slice.call(arguments, 1)
+	  args.unshift(this)
+	  plugin.apply(this, args)
+	}
+	/*!
+	 * lunr.Store
+	 * Copyright (C) 2016 Oliver Nightingale
+	 */
+
+	/**
+	 * lunr.Store is a simple key-value store used for storing sets of tokens for
+	 * documents stored in index.
+	 *
+	 * @constructor
+	 * @module
+	 */
+	lunr.Store = function () {
+	  this.store = {}
+	  this.length = 0
+	}
+
+	/**
+	 * Loads a previously serialised store
+	 *
+	 * @param {Object} serialisedData The serialised store to load.
+	 * @returns {lunr.Store}
+	 * @memberOf Store
+	 */
+	lunr.Store.load = function (serialisedData) {
+	  var store = new this
+
+	  store.length = serialisedData.length
+	  store.store = Object.keys(serialisedData.store).reduce(function (memo, key) {
+	    memo[key] = lunr.SortedSet.load(serialisedData.store[key])
+	    return memo
+	  }, {})
+
+	  return store
+	}
+
+	/**
+	 * Stores the given tokens in the store against the given id.
+	 *
+	 * @param {Object} id The key used to store the tokens against.
+	 * @param {Object} tokens The tokens to store against the key.
+	 * @memberOf Store
+	 */
+	lunr.Store.prototype.set = function (id, tokens) {
+	  if (!this.has(id)) this.length++
+	  this.store[id] = tokens
+	}
+
+	/**
+	 * Retrieves the tokens from the store for a given key.
+	 *
+	 * @param {Object} id The key to lookup and retrieve from the store.
+	 * @returns {Object}
+	 * @memberOf Store
+	 */
+	lunr.Store.prototype.get = function (id) {
+	  return this.store[id]
+	}
+
+	/**
+	 * Checks whether the store contains a key.
+	 *
+	 * @param {Object} id The id to look up in the store.
+	 * @returns {Boolean}
+	 * @memberOf Store
+	 */
+	lunr.Store.prototype.has = function (id) {
+	  return id in this.store
+	}
+
+	/**
+	 * Removes the value for a key in the store.
+	 *
+	 * @param {Object} id The id to remove from the store.
+	 * @memberOf Store
+	 */
+	lunr.Store.prototype.remove = function (id) {
+	  if (!this.has(id)) return
+
+	  delete this.store[id]
+	  this.length--
+	}
+
+	/**
+	 * Returns a representation of the store ready for serialisation.
+	 *
+	 * @returns {Object}
+	 * @memberOf Store
+	 */
+	lunr.Store.prototype.toJSON = function () {
+	  return {
+	    store: this.store,
+	    length: this.length
+	  }
+	}
+
+	/*!
+	 * lunr.stemmer
+	 * Copyright (C) 2016 Oliver Nightingale
+	 * Includes code from - http://tartarus.org/~martin/PorterStemmer/js.txt
+	 */
+
+	/**
+	 * lunr.stemmer is an english language stemmer, this is a JavaScript
+	 * implementation of the PorterStemmer taken from http://tartarus.org/~martin
+	 *
+	 * @module
+	 * @param {String} str The string to stem
+	 * @returns {String}
+	 * @see lunr.Pipeline
+	 */
+	lunr.stemmer = (function(){
+	  var step2list = {
+	      "ational" : "ate",
+	      "tional" : "tion",
+	      "enci" : "ence",
+	      "anci" : "ance",
+	      "izer" : "ize",
+	      "bli" : "ble",
+	      "alli" : "al",
+	      "entli" : "ent",
+	      "eli" : "e",
+	      "ousli" : "ous",
+	      "ization" : "ize",
+	      "ation" : "ate",
+	      "ator" : "ate",
+	      "alism" : "al",
+	      "iveness" : "ive",
+	      "fulness" : "ful",
+	      "ousness" : "ous",
+	      "aliti" : "al",
+	      "iviti" : "ive",
+	      "biliti" : "ble",
+	      "logi" : "log"
+	    },
+
+	    step3list = {
+	      "icate" : "ic",
+	      "ative" : "",
+	      "alize" : "al",
+	      "iciti" : "ic",
+	      "ical" : "ic",
+	      "ful" : "",
+	      "ness" : ""
+	    },
+
+	    c = "[^aeiou]",          // consonant
+	    v = "[aeiouy]",          // vowel
+	    C = c + "[^aeiouy]*",    // consonant sequence
+	    V = v + "[aeiou]*",      // vowel sequence
+
+	    mgr0 = "^(" + C + ")?" + V + C,               // [C]VC... is m>0
+	    meq1 = "^(" + C + ")?" + V + C + "(" + V + ")?$",  // [C]VC[V] is m=1
+	    mgr1 = "^(" + C + ")?" + V + C + V + C,       // [C]VCVC... is m>1
+	    s_v = "^(" + C + ")?" + v;                   // vowel in stem
+
+	  var re_mgr0 = new RegExp(mgr0);
+	  var re_mgr1 = new RegExp(mgr1);
+	  var re_meq1 = new RegExp(meq1);
+	  var re_s_v = new RegExp(s_v);
+
+	  var re_1a = /^(.+?)(ss|i)es$/;
+	  var re2_1a = /^(.+?)([^s])s$/;
+	  var re_1b = /^(.+?)eed$/;
+	  var re2_1b = /^(.+?)(ed|ing)$/;
+	  var re_1b_2 = /.$/;
+	  var re2_1b_2 = /(at|bl|iz)$/;
+	  var re3_1b_2 = new RegExp("([^aeiouylsz])\\1$");
+	  var re4_1b_2 = new RegExp("^" + C + v + "[^aeiouwxy]$");
+
+	  var re_1c = /^(.+?[^aeiou])y$/;
+	  var re_2 = /^(.+?)(ational|tional|enci|anci|izer|bli|alli|entli|eli|ousli|ization|ation|ator|alism|iveness|fulness|ousness|aliti|iviti|biliti|logi)$/;
+
+	  var re_3 = /^(.+?)(icate|ative|alize|iciti|ical|ful|ness)$/;
+
+	  var re_4 = /^(.+?)(al|ance|ence|er|ic|able|ible|ant|ement|ment|ent|ou|ism|ate|iti|ous|ive|ize)$/;
+	  var re2_4 = /^(.+?)(s|t)(ion)$/;
+
+	  var re_5 = /^(.+?)e$/;
+	  var re_5_1 = /ll$/;
+	  var re3_5 = new RegExp("^" + C + v + "[^aeiouwxy]$");
+
+	  var porterStemmer = function porterStemmer(w) {
+	    var   stem,
+	      suffix,
+	      firstch,
+	      re,
+	      re2,
+	      re3,
+	      re4;
+
+	    if (w.length < 3) { return w; }
+
+	    firstch = w.substr(0,1);
+	    if (firstch == "y") {
+	      w = firstch.toUpperCase() + w.substr(1);
+	    }
+
+	    // Step 1a
+	    re = re_1a
+	    re2 = re2_1a;
+
+	    if (re.test(w)) { w = w.replace(re,"$1$2"); }
+	    else if (re2.test(w)) { w = w.replace(re2,"$1$2"); }
+
+	    // Step 1b
+	    re = re_1b;
+	    re2 = re2_1b;
+	    if (re.test(w)) {
+	      var fp = re.exec(w);
+	      re = re_mgr0;
+	      if (re.test(fp[1])) {
+	        re = re_1b_2;
+	        w = w.replace(re,"");
+	      }
+	    } else if (re2.test(w)) {
+	      var fp = re2.exec(w);
+	      stem = fp[1];
+	      re2 = re_s_v;
+	      if (re2.test(stem)) {
+	        w = stem;
+	        re2 = re2_1b_2;
+	        re3 = re3_1b_2;
+	        re4 = re4_1b_2;
+	        if (re2.test(w)) {  w = w + "e"; }
+	        else if (re3.test(w)) { re = re_1b_2; w = w.replace(re,""); }
+	        else if (re4.test(w)) { w = w + "e"; }
+	      }
+	    }
+
+	    // Step 1c - replace suffix y or Y by i if preceded by a non-vowel which is not the first letter of the word (so cry -> cri, by -> by, say -> say)
+	    re = re_1c;
+	    if (re.test(w)) {
+	      var fp = re.exec(w);
+	      stem = fp[1];
+	      w = stem + "i";
+	    }
+
+	    // Step 2
+	    re = re_2;
+	    if (re.test(w)) {
+	      var fp = re.exec(w);
+	      stem = fp[1];
+	      suffix = fp[2];
+	      re = re_mgr0;
+	      if (re.test(stem)) {
+	        w = stem + step2list[suffix];
+	      }
+	    }
+
+	    // Step 3
+	    re = re_3;
+	    if (re.test(w)) {
+	      var fp = re.exec(w);
+	      stem = fp[1];
+	      suffix = fp[2];
+	      re = re_mgr0;
+	      if (re.test(stem)) {
+	        w = stem + step3list[suffix];
+	      }
+	    }
+
+	    // Step 4
+	    re = re_4;
+	    re2 = re2_4;
+	    if (re.test(w)) {
+	      var fp = re.exec(w);
+	      stem = fp[1];
+	      re = re_mgr1;
+	      if (re.test(stem)) {
+	        w = stem;
+	      }
+	    } else if (re2.test(w)) {
+	      var fp = re2.exec(w);
+	      stem = fp[1] + fp[2];
+	      re2 = re_mgr1;
+	      if (re2.test(stem)) {
+	        w = stem;
+	      }
+	    }
+
+	    // Step 5
+	    re = re_5;
+	    if (re.test(w)) {
+	      var fp = re.exec(w);
+	      stem = fp[1];
+	      re = re_mgr1;
+	      re2 = re_meq1;
+	      re3 = re3_5;
+	      if (re.test(stem) || (re2.test(stem) && !(re3.test(stem)))) {
+	        w = stem;
+	      }
+	    }
+
+	    re = re_5_1;
+	    re2 = re_mgr1;
+	    if (re.test(w) && re2.test(w)) {
+	      re = re_1b_2;
+	      w = w.replace(re,"");
+	    }
+
+	    // and turn initial Y back to y
+
+	    if (firstch == "y") {
+	      w = firstch.toLowerCase() + w.substr(1);
+	    }
+
+	    return w;
+	  };
+
+	  return porterStemmer;
+	})();
+
+	lunr.Pipeline.registerFunction(lunr.stemmer, 'stemmer')
+	/*!
+	 * lunr.stopWordFilter
+	 * Copyright (C) 2016 Oliver Nightingale
+	 */
+
+	/**
+	 * lunr.generateStopWordFilter builds a stopWordFilter function from the provided
+	 * list of stop words.
+	 *
+	 * The built in lunr.stopWordFilter is built using this generator and can be used
+	 * to generate custom stopWordFilters for applications or non English languages.
+	 *
+	 * @module
+	 * @param {Array} token The token to pass through the filter
+	 * @returns {Function}
+	 * @see lunr.Pipeline
+	 * @see lunr.stopWordFilter
+	 */
+	lunr.generateStopWordFilter = function (stopWords) {
+	  var words = stopWords.reduce(function (memo, stopWord) {
+	    memo[stopWord] = stopWord
+	    return memo
+	  }, {})
+
+	  return function (token) {
+	    if (token && words[token] !== token) return token
+	  }
+	}
+
+	/**
+	 * lunr.stopWordFilter is an English language stop word list filter, any words
+	 * contained in the list will not be passed through the filter.
+	 *
+	 * This is intended to be used in the Pipeline. If the token does not pass the
+	 * filter then undefined will be returned.
+	 *
+	 * @module
+	 * @param {String} token The token to pass through the filter
+	 * @returns {String}
+	 * @see lunr.Pipeline
+	 */
+	lunr.stopWordFilter = lunr.generateStopWordFilter([
+	  'a',
+	  'able',
+	  'about',
+	  'across',
+	  'after',
+	  'all',
+	  'almost',
+	  'also',
+	  'am',
+	  'among',
+	  'an',
+	  'and',
+	  'any',
+	  'are',
+	  'as',
+	  'at',
+	  'be',
+	  'because',
+	  'been',
+	  'but',
+	  'by',
+	  'can',
+	  'cannot',
+	  'could',
+	  'dear',
+	  'did',
+	  'do',
+	  'does',
+	  'either',
+	  'else',
+	  'ever',
+	  'every',
+	  'for',
+	  'from',
+	  'get',
+	  'got',
+	  'had',
+	  'has',
+	  'have',
+	  'he',
+	  'her',
+	  'hers',
+	  'him',
+	  'his',
+	  'how',
+	  'however',
+	  'i',
+	  'if',
+	  'in',
+	  'into',
+	  'is',
+	  'it',
+	  'its',
+	  'just',
+	  'least',
+	  'let',
+	  'like',
+	  'likely',
+	  'may',
+	  'me',
+	  'might',
+	  'most',
+	  'must',
+	  'my',
+	  'neither',
+	  'no',
+	  'nor',
+	  'not',
+	  'of',
+	  'off',
+	  'often',
+	  'on',
+	  'only',
+	  'or',
+	  'other',
+	  'our',
+	  'own',
+	  'rather',
+	  'said',
+	  'say',
+	  'says',
+	  'she',
+	  'should',
+	  'since',
+	  'so',
+	  'some',
+	  'than',
+	  'that',
+	  'the',
+	  'their',
+	  'them',
+	  'then',
+	  'there',
+	  'these',
+	  'they',
+	  'this',
+	  'tis',
+	  'to',
+	  'too',
+	  'twas',
+	  'us',
+	  'wants',
+	  'was',
+	  'we',
+	  'were',
+	  'what',
+	  'when',
+	  'where',
+	  'which',
+	  'while',
+	  'who',
+	  'whom',
+	  'why',
+	  'will',
+	  'with',
+	  'would',
+	  'yet',
+	  'you',
+	  'your'
+	])
+
+	lunr.Pipeline.registerFunction(lunr.stopWordFilter, 'stopWordFilter')
+	/*!
+	 * lunr.trimmer
+	 * Copyright (C) 2016 Oliver Nightingale
+	 */
+
+	/**
+	 * lunr.trimmer is a pipeline function for trimming non word
+	 * characters from the begining and end of tokens before they
+	 * enter the index.
+	 *
+	 * This implementation may not work correctly for non latin
+	 * characters and should either be removed or adapted for use
+	 * with languages with non-latin characters.
+	 *
+	 * @module
+	 * @param {String} token The token to pass through the filter
+	 * @returns {String}
+	 * @see lunr.Pipeline
+	 */
+	lunr.trimmer = function (token) {
+	  return token.replace(/^\W+/, '').replace(/\W+$/, '')
+	}
+
+	lunr.Pipeline.registerFunction(lunr.trimmer, 'trimmer')
+	/*!
+	 * lunr.stemmer
+	 * Copyright (C) 2016 Oliver Nightingale
+	 * Includes code from - http://tartarus.org/~martin/PorterStemmer/js.txt
+	 */
+
+	/**
+	 * lunr.TokenStore is used for efficient storing and lookup of the reverse
+	 * index of token to document ref.
+	 *
+	 * @constructor
+	 */
+	lunr.TokenStore = function () {
+	  this.root = { docs: {} }
+	  this.length = 0
+	}
+
+	/**
+	 * Loads a previously serialised token store
+	 *
+	 * @param {Object} serialisedData The serialised token store to load.
+	 * @returns {lunr.TokenStore}
+	 * @memberOf TokenStore
+	 */
+	lunr.TokenStore.load = function (serialisedData) {
+	  var store = new this
+
+	  store.root = serialisedData.root
+	  store.length = serialisedData.length
+
+	  return store
+	}
+
+	/**
+	 * Adds a new token doc pair to the store.
+	 *
+	 * By default this function starts at the root of the current store, however
+	 * it can start at any node of any token store if required.
+	 *
+	 * @param {String} token The token to store the doc under
+	 * @param {Object} doc The doc to store against the token
+	 * @param {Object} root An optional node at which to start looking for the
+	 * correct place to enter the doc, by default the root of this lunr.TokenStore
+	 * is used.
+	 * @memberOf TokenStore
+	 */
+	lunr.TokenStore.prototype.add = function (token, doc, root) {
+	  var root = root || this.root,
+	      key = token.charAt(0),
+	      rest = token.slice(1)
+
+	  if (!(key in root)) root[key] = {docs: {}}
+
+	  if (rest.length === 0) {
+	    root[key].docs[doc.ref] = doc
+	    this.length += 1
+	    return
+	  } else {
+	    return this.add(rest, doc, root[key])
+	  }
+	}
+
+	/**
+	 * Checks whether this key is contained within this lunr.TokenStore.
+	 *
+	 * By default this function starts at the root of the current store, however
+	 * it can start at any node of any token store if required.
+	 *
+	 * @param {String} token The token to check for
+	 * @param {Object} root An optional node at which to start
+	 * @memberOf TokenStore
+	 */
+	lunr.TokenStore.prototype.has = function (token) {
+	  if (!token) return false
+
+	  var node = this.root
+
+	  for (var i = 0; i < token.length; i++) {
+	    if (!node[token.charAt(i)]) return false
+
+	    node = node[token.charAt(i)]
+	  }
+
+	  return true
+	}
+
+	/**
+	 * Retrieve a node from the token store for a given token.
+	 *
+	 * By default this function starts at the root of the current store, however
+	 * it can start at any node of any token store if required.
+	 *
+	 * @param {String} token The token to get the node for.
+	 * @param {Object} root An optional node at which to start.
+	 * @returns {Object}
+	 * @see TokenStore.prototype.get
+	 * @memberOf TokenStore
+	 */
+	lunr.TokenStore.prototype.getNode = function (token) {
+	  if (!token) return {}
+
+	  var node = this.root
+
+	  for (var i = 0; i < token.length; i++) {
+	    if (!node[token.charAt(i)]) return {}
+
+	    node = node[token.charAt(i)]
+	  }
+
+	  return node
+	}
+
+	/**
+	 * Retrieve the documents for a node for the given token.
+	 *
+	 * By default this function starts at the root of the current store, however
+	 * it can start at any node of any token store if required.
+	 *
+	 * @param {String} token The token to get the documents for.
+	 * @param {Object} root An optional node at which to start.
+	 * @returns {Object}
+	 * @memberOf TokenStore
+	 */
+	lunr.TokenStore.prototype.get = function (token, root) {
+	  return this.getNode(token, root).docs || {}
+	}
+
+	lunr.TokenStore.prototype.count = function (token, root) {
+	  return Object.keys(this.get(token, root)).length
+	}
+
+	/**
+	 * Remove the document identified by ref from the token in the store.
+	 *
+	 * By default this function starts at the root of the current store, however
+	 * it can start at any node of any token store if required.
+	 *
+	 * @param {String} token The token to get the documents for.
+	 * @param {String} ref The ref of the document to remove from this token.
+	 * @param {Object} root An optional node at which to start.
+	 * @returns {Object}
+	 * @memberOf TokenStore
+	 */
+	lunr.TokenStore.prototype.remove = function (token, ref) {
+	  if (!token) return
+	  var node = this.root
+
+	  for (var i = 0; i < token.length; i++) {
+	    if (!(token.charAt(i) in node)) return
+	    node = node[token.charAt(i)]
+	  }
+
+	  delete node.docs[ref]
+	}
+
+	/**
+	 * Find all the possible suffixes of the passed token using tokens
+	 * currently in the store.
+	 *
+	 * @param {String} token The token to expand.
+	 * @returns {Array}
+	 * @memberOf TokenStore
+	 */
+	lunr.TokenStore.prototype.expand = function (token, memo) {
+	  var root = this.getNode(token),
+	      docs = root.docs || {},
+	      memo = memo || []
+
+	  if (Object.keys(docs).length) memo.push(token)
+
+	  Object.keys(root)
+	    .forEach(function (key) {
+	      if (key === 'docs') return
+
+	      memo.concat(this.expand(token + key, memo))
+	    }, this)
+
+	  return memo
+	}
+
+	/**
+	 * Returns a representation of the token store ready for serialisation.
+	 *
+	 * @returns {Object}
+	 * @memberOf TokenStore
+	 */
+	lunr.TokenStore.prototype.toJSON = function () {
+	  return {
+	    root: this.root,
+	    length: this.length
+	  }
+	}
+
+	  /**
+	   * export the module via AMD, CommonJS or as a browser global
+	   * Export code from https://github.com/umdjs/umd/blob/master/returnExports.js
+	   */
+	  ;(function (root, factory) {
+	    if (true) {
+	      // AMD. Register as an anonymous module.
+	      !(__WEBPACK_AMD_DEFINE_FACTORY__ = (factory), __WEBPACK_AMD_DEFINE_RESULT__ = (typeof __WEBPACK_AMD_DEFINE_FACTORY__ === 'function' ? (__WEBPACK_AMD_DEFINE_FACTORY__.call(exports, __webpack_require__, exports, module)) : __WEBPACK_AMD_DEFINE_FACTORY__), __WEBPACK_AMD_DEFINE_RESULT__ !== undefined && (module.exports = __WEBPACK_AMD_DEFINE_RESULT__))
+	    } else if (typeof exports === 'object') {
+	      /**
+	       * Node. Does not work with strict CommonJS, but
+	       * only CommonJS-like enviroments that support module.exports,
+	       * like Node.
+	       */
+	      module.exports = factory()
+	    } else {
+	      // Browser globals (root is window)
+	      root.lunr = factory()
+	    }
+	  }(this, function () {
+	    /**
+	     * Just return a value to define the module export.
+	     * This example returns an object, but the module
+	     * can return a function as the exported value.
+	     */
+	    return lunr
+	  }))
+	})();
+
+
+/***/ },
+/* 8 */
+/***/ function(module, exports, __webpack_require__) {
+
+	var __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_DEFINE_RESULT__;//     Underscore.js 1.8.3
+	//     http://underscorejs.org
+	//     (c) 2009-2015 Jeremy Ashkenas, DocumentCloud and Investigative Reporters & Editors
+	//     Underscore may be freely distributed under the MIT license.
+
+	(function() {
+
+	  // Baseline setup
+	  // --------------
+
+	  // Establish the root object, `window` in the browser, or `exports` on the server.
+	  var root = this;
+
+	  // Save the previous value of the `_` variable.
+	  var previousUnderscore = root._;
+
+	  // Save bytes in the minified (but not gzipped) version:
+	  var ArrayProto = Array.prototype, ObjProto = Object.prototype, FuncProto = Function.prototype;
+
+	  // Create quick reference variables for speed access to core prototypes.
+	  var
+	    push             = ArrayProto.push,
+	    slice            = ArrayProto.slice,
+	    toString         = ObjProto.toString,
+	    hasOwnProperty   = ObjProto.hasOwnProperty;
+
+	  // All **ECMAScript 5** native function implementations that we hope to use
+	  // are declared here.
+	  var
+	    nativeIsArray      = Array.isArray,
+	    nativeKeys         = Object.keys,
+	    nativeBind         = FuncProto.bind,
+	    nativeCreate       = Object.create;
+
+	  // Naked function reference for surrogate-prototype-swapping.
+	  var Ctor = function(){};
+
+	  // Create a safe reference to the Underscore object for use below.
+	  var _ = function(obj) {
+	    if (obj instanceof _) return obj;
+	    if (!(this instanceof _)) return new _(obj);
+	    this._wrapped = obj;
+	  };
+
+	  // Export the Underscore object for **Node.js**, with
+	  // backwards-compatibility for the old `require()` API. If we're in
+	  // the browser, add `_` as a global object.
+	  if (true) {
+	    if (typeof module !== 'undefined' && module.exports) {
+	      exports = module.exports = _;
+	    }
+	    exports._ = _;
+	  } else {
+	    root._ = _;
+	  }
+
+	  // Current version.
+	  _.VERSION = '1.8.3';
+
+	  // Internal function that returns an efficient (for current engines) version
+	  // of the passed-in callback, to be repeatedly applied in other Underscore
+	  // functions.
+	  var optimizeCb = function(func, context, argCount) {
+	    if (context === void 0) return func;
+	    switch (argCount == null ? 3 : argCount) {
+	      case 1: return function(value) {
+	        return func.call(context, value);
+	      };
+	      case 2: return function(value, other) {
+	        return func.call(context, value, other);
+	      };
+	      case 3: return function(value, index, collection) {
+	        return func.call(context, value, index, collection);
+	      };
+	      case 4: return function(accumulator, value, index, collection) {
+	        return func.call(context, accumulator, value, index, collection);
+	      };
+	    }
+	    return function() {
+	      return func.apply(context, arguments);
+	    };
+	  };
+
+	  // A mostly-internal function to generate callbacks that can be applied
+	  // to each element in a collection, returning the desired result — either
+	  // identity, an arbitrary callback, a property matcher, or a property accessor.
+	  var cb = function(value, context, argCount) {
+	    if (value == null) return _.identity;
+	    if (_.isFunction(value)) return optimizeCb(value, context, argCount);
+	    if (_.isObject(value)) return _.matcher(value);
+	    return _.property(value);
+	  };
+	  _.iteratee = function(value, context) {
+	    return cb(value, context, Infinity);
+	  };
+
+	  // An internal function for creating assigner functions.
+	  var createAssigner = function(keysFunc, undefinedOnly) {
+	    return function(obj) {
+	      var length = arguments.length;
+	      if (length < 2 || obj == null) return obj;
+	      for (var index = 1; index < length; index++) {
+	        var source = arguments[index],
+	            keys = keysFunc(source),
+	            l = keys.length;
+	        for (var i = 0; i < l; i++) {
+	          var key = keys[i];
+	          if (!undefinedOnly || obj[key] === void 0) obj[key] = source[key];
+	        }
+	      }
+	      return obj;
+	    };
+	  };
+
+	  // An internal function for creating a new object that inherits from another.
+	  var baseCreate = function(prototype) {
+	    if (!_.isObject(prototype)) return {};
+	    if (nativeCreate) return nativeCreate(prototype);
+	    Ctor.prototype = prototype;
+	    var result = new Ctor;
+	    Ctor.prototype = null;
+	    return result;
+	  };
+
+	  var property = function(key) {
+	    return function(obj) {
+	      return obj == null ? void 0 : obj[key];
+	    };
+	  };
+
+	  // Helper for collection methods to determine whether a collection
+	  // should be iterated as an array or as an object
+	  // Related: http://people.mozilla.org/~jorendorff/es6-draft.html#sec-tolength
+	  // Avoids a very nasty iOS 8 JIT bug on ARM-64. #2094
+	  var MAX_ARRAY_INDEX = Math.pow(2, 53) - 1;
+	  var getLength = property('length');
+	  var isArrayLike = function(collection) {
+	    var length = getLength(collection);
+	    return typeof length == 'number' && length >= 0 && length <= MAX_ARRAY_INDEX;
+	  };
+
+	  // Collection Functions
+	  // --------------------
+
+	  // The cornerstone, an `each` implementation, aka `forEach`.
+	  // Handles raw objects in addition to array-likes. Treats all
+	  // sparse array-likes as if they were dense.
+	  _.each = _.forEach = function(obj, iteratee, context) {
+	    iteratee = optimizeCb(iteratee, context);
+	    var i, length;
+	    if (isArrayLike(obj)) {
+	      for (i = 0, length = obj.length; i < length; i++) {
+	        iteratee(obj[i], i, obj);
+	      }
+	    } else {
+	      var keys = _.keys(obj);
+	      for (i = 0, length = keys.length; i < length; i++) {
+	        iteratee(obj[keys[i]], keys[i], obj);
+	      }
+	    }
+	    return obj;
+	  };
+
+	  // Return the results of applying the iteratee to each element.
+	  _.map = _.collect = function(obj, iteratee, context) {
+	    iteratee = cb(iteratee, context);
+	    var keys = !isArrayLike(obj) && _.keys(obj),
+	        length = (keys || obj).length,
+	        results = Array(length);
+	    for (var index = 0; index < length; index++) {
+	      var currentKey = keys ? keys[index] : index;
+	      results[index] = iteratee(obj[currentKey], currentKey, obj);
+	    }
+	    return results;
+	  };
+
+	  // Create a reducing function iterating left or right.
+	  function createReduce(dir) {
+	    // Optimized iterator function as using arguments.length
+	    // in the main function will deoptimize the, see #1991.
+	    function iterator(obj, iteratee, memo, keys, index, length) {
+	      for (; index >= 0 && index < length; index += dir) {
+	        var currentKey = keys ? keys[index] : index;
+	        memo = iteratee(memo, obj[currentKey], currentKey, obj);
+	      }
+	      return memo;
+	    }
+
+	    return function(obj, iteratee, memo, context) {
+	      iteratee = optimizeCb(iteratee, context, 4);
+	      var keys = !isArrayLike(obj) && _.keys(obj),
+	          length = (keys || obj).length,
+	          index = dir > 0 ? 0 : length - 1;
+	      // Determine the initial value if none is provided.
+	      if (arguments.length < 3) {
+	        memo = obj[keys ? keys[index] : index];
+	        index += dir;
+	      }
+	      return iterator(obj, iteratee, memo, keys, index, length);
+	    };
+	  }
+
+	  // **Reduce** builds up a single result from a list of values, aka `inject`,
+	  // or `foldl`.
+	  _.reduce = _.foldl = _.inject = createReduce(1);
+
+	  // The right-associative version of reduce, also known as `foldr`.
+	  _.reduceRight = _.foldr = createReduce(-1);
+
+	  // Return the first value which passes a truth test. Aliased as `detect`.
+	  _.find = _.detect = function(obj, predicate, context) {
+	    var key;
+	    if (isArrayLike(obj)) {
+	      key = _.findIndex(obj, predicate, context);
+	    } else {
+	      key = _.findKey(obj, predicate, context);
+	    }
+	    if (key !== void 0 && key !== -1) return obj[key];
+	  };
+
+	  // Return all the elements that pass a truth test.
+	  // Aliased as `select`.
+	  _.filter = _.select = function(obj, predicate, context) {
+	    var results = [];
+	    predicate = cb(predicate, context);
+	    _.each(obj, function(value, index, list) {
+	      if (predicate(value, index, list)) results.push(value);
+	    });
+	    return results;
+	  };
+
+	  // Return all the elements for which a truth test fails.
+	  _.reject = function(obj, predicate, context) {
+	    return _.filter(obj, _.negate(cb(predicate)), context);
+	  };
+
+	  // Determine whether all of the elements match a truth test.
+	  // Aliased as `all`.
+	  _.every = _.all = function(obj, predicate, context) {
+	    predicate = cb(predicate, context);
+	    var keys = !isArrayLike(obj) && _.keys(obj),
+	        length = (keys || obj).length;
+	    for (var index = 0; index < length; index++) {
+	      var currentKey = keys ? keys[index] : index;
+	      if (!predicate(obj[currentKey], currentKey, obj)) return false;
+	    }
+	    return true;
+	  };
+
+	  // Determine if at least one element in the object matches a truth test.
+	  // Aliased as `any`.
+	  _.some = _.any = function(obj, predicate, context) {
+	    predicate = cb(predicate, context);
+	    var keys = !isArrayLike(obj) && _.keys(obj),
+	        length = (keys || obj).length;
+	    for (var index = 0; index < length; index++) {
+	      var currentKey = keys ? keys[index] : index;
+	      if (predicate(obj[currentKey], currentKey, obj)) return true;
+	    }
+	    return false;
+	  };
+
+	  // Determine if the array or object contains a given item (using `===`).
+	  // Aliased as `includes` and `include`.
+	  _.contains = _.includes = _.include = function(obj, item, fromIndex, guard) {
+	    if (!isArrayLike(obj)) obj = _.values(obj);
+	    if (typeof fromIndex != 'number' || guard) fromIndex = 0;
+	    return _.indexOf(obj, item, fromIndex) >= 0;
+	  };
+
+	  // Invoke a method (with arguments) on every item in a collection.
+	  _.invoke = function(obj, method) {
+	    var args = slice.call(arguments, 2);
+	    var isFunc = _.isFunction(method);
+	    return _.map(obj, function(value) {
+	      var func = isFunc ? method : value[method];
+	      return func == null ? func : func.apply(value, args);
+	    });
+	  };
+
+	  // Convenience version of a common use case of `map`: fetching a property.
+	  _.pluck = function(obj, key) {
+	    return _.map(obj, _.property(key));
+	  };
+
+	  // Convenience version of a common use case of `filter`: selecting only objects
+	  // containing specific `key:value` pairs.
+	  _.where = function(obj, attrs) {
+	    return _.filter(obj, _.matcher(attrs));
+	  };
+
+	  // Convenience version of a common use case of `find`: getting the first object
+	  // containing specific `key:value` pairs.
+	  _.findWhere = function(obj, attrs) {
+	    return _.find(obj, _.matcher(attrs));
+	  };
+
+	  // Return the maximum element (or element-based computation).
+	  _.max = function(obj, iteratee, context) {
+	    var result = -Infinity, lastComputed = -Infinity,
+	        value, computed;
+	    if (iteratee == null && obj != null) {
+	      obj = isArrayLike(obj) ? obj : _.values(obj);
+	      for (var i = 0, length = obj.length; i < length; i++) {
+	        value = obj[i];
+	        if (value > result) {
+	          result = value;
+	        }
+	      }
+	    } else {
+	      iteratee = cb(iteratee, context);
+	      _.each(obj, function(value, index, list) {
+	        computed = iteratee(value, index, list);
+	        if (computed > lastComputed || computed === -Infinity && result === -Infinity) {
+	          result = value;
+	          lastComputed = computed;
+	        }
+	      });
+	    }
+	    return result;
+	  };
+
+	  // Return the minimum element (or element-based computation).
+	  _.min = function(obj, iteratee, context) {
+	    var result = Infinity, lastComputed = Infinity,
+	        value, computed;
+	    if (iteratee == null && obj != null) {
+	      obj = isArrayLike(obj) ? obj : _.values(obj);
+	      for (var i = 0, length = obj.length; i < length; i++) {
+	        value = obj[i];
+	        if (value < result) {
+	          result = value;
+	        }
+	      }
+	    } else {
+	      iteratee = cb(iteratee, context);
+	      _.each(obj, function(value, index, list) {
+	        computed = iteratee(value, index, list);
+	        if (computed < lastComputed || computed === Infinity && result === Infinity) {
+	          result = value;
+	          lastComputed = computed;
+	        }
+	      });
+	    }
+	    return result;
+	  };
+
+	  // Shuffle a collection, using the modern version of the
+	  // [Fisher-Yates shuffle](http://en.wikipedia.org/wiki/Fisher–Yates_shuffle).
+	  _.shuffle = function(obj) {
+	    var set = isArrayLike(obj) ? obj : _.values(obj);
+	    var length = set.length;
+	    var shuffled = Array(length);
+	    for (var index = 0, rand; index < length; index++) {
+	      rand = _.random(0, index);
+	      if (rand !== index) shuffled[index] = shuffled[rand];
+	      shuffled[rand] = set[index];
+	    }
+	    return shuffled;
+	  };
+
+	  // Sample **n** random values from a collection.
+	  // If **n** is not specified, returns a single random element.
+	  // The internal `guard` argument allows it to work with `map`.
+	  _.sample = function(obj, n, guard) {
+	    if (n == null || guard) {
+	      if (!isArrayLike(obj)) obj = _.values(obj);
+	      return obj[_.random(obj.length - 1)];
+	    }
+	    return _.shuffle(obj).slice(0, Math.max(0, n));
+	  };
+
+	  // Sort the object's values by a criterion produced by an iteratee.
+	  _.sortBy = function(obj, iteratee, context) {
+	    iteratee = cb(iteratee, context);
+	    return _.pluck(_.map(obj, function(value, index, list) {
+	      return {
+	        value: value,
+	        index: index,
+	        criteria: iteratee(value, index, list)
+	      };
+	    }).sort(function(left, right) {
+	      var a = left.criteria;
+	      var b = right.criteria;
+	      if (a !== b) {
+	        if (a > b || a === void 0) return 1;
+	        if (a < b || b === void 0) return -1;
+	      }
+	      return left.index - right.index;
+	    }), 'value');
+	  };
+
+	  // An internal function used for aggregate "group by" operations.
+	  var group = function(behavior) {
+	    return function(obj, iteratee, context) {
+	      var result = {};
+	      iteratee = cb(iteratee, context);
+	      _.each(obj, function(value, index) {
+	        var key = iteratee(value, index, obj);
+	        behavior(result, value, key);
+	      });
+	      return result;
+	    };
+	  };
+
+	  // Groups the object's values by a criterion. Pass either a string attribute
+	  // to group by, or a function that returns the criterion.
+	  _.groupBy = group(function(result, value, key) {
+	    if (_.has(result, key)) result[key].push(value); else result[key] = [value];
+	  });
+
+	  // Indexes the object's values by a criterion, similar to `groupBy`, but for
+	  // when you know that your index values will be unique.
+	  _.indexBy = group(function(result, value, key) {
+	    result[key] = value;
+	  });
+
+	  // Counts instances of an object that group by a certain criterion. Pass
+	  // either a string attribute to count by, or a function that returns the
+	  // criterion.
+	  _.countBy = group(function(result, value, key) {
+	    if (_.has(result, key)) result[key]++; else result[key] = 1;
+	  });
+
+	  // Safely create a real, live array from anything iterable.
+	  _.toArray = function(obj) {
+	    if (!obj) return [];
+	    if (_.isArray(obj)) return slice.call(obj);
+	    if (isArrayLike(obj)) return _.map(obj, _.identity);
+	    return _.values(obj);
+	  };
+
+	  // Return the number of elements in an object.
+	  _.size = function(obj) {
+	    if (obj == null) return 0;
+	    return isArrayLike(obj) ? obj.length : _.keys(obj).length;
+	  };
+
+	  // Split a collection into two arrays: one whose elements all satisfy the given
+	  // predicate, and one whose elements all do not satisfy the predicate.
+	  _.partition = function(obj, predicate, context) {
+	    predicate = cb(predicate, context);
+	    var pass = [], fail = [];
+	    _.each(obj, function(value, key, obj) {
+	      (predicate(value, key, obj) ? pass : fail).push(value);
+	    });
+	    return [pass, fail];
+	  };
+
+	  // Array Functions
+	  // ---------------
+
+	  // Get the first element of an array. Passing **n** will return the first N
+	  // values in the array. Aliased as `head` and `take`. The **guard** check
+	  // allows it to work with `_.map`.
+	  _.first = _.head = _.take = function(array, n, guard) {
+	    if (array == null) return void 0;
+	    if (n == null || guard) return array[0];
+	    return _.initial(array, array.length - n);
+	  };
+
+	  // Returns everything but the last entry of the array. Especially useful on
+	  // the arguments object. Passing **n** will return all the values in
+	  // the array, excluding the last N.
+	  _.initial = function(array, n, guard) {
+	    return slice.call(array, 0, Math.max(0, array.length - (n == null || guard ? 1 : n)));
+	  };
+
+	  // Get the last element of an array. Passing **n** will return the last N
+	  // values in the array.
+	  _.last = function(array, n, guard) {
+	    if (array == null) return void 0;
+	    if (n == null || guard) return array[array.length - 1];
+	    return _.rest(array, Math.max(0, array.length - n));
+	  };
+
+	  // Returns everything but the first entry of the array. Aliased as `tail` and `drop`.
+	  // Especially useful on the arguments object. Passing an **n** will return
+	  // the rest N values in the array.
+	  _.rest = _.tail = _.drop = function(array, n, guard) {
+	    return slice.call(array, n == null || guard ? 1 : n);
+	  };
+
+	  // Trim out all falsy values from an array.
+	  _.compact = function(array) {
+	    return _.filter(array, _.identity);
+	  };
+
+	  // Internal implementation of a recursive `flatten` function.
+	  var flatten = function(input, shallow, strict, startIndex) {
+	    var output = [], idx = 0;
+	    for (var i = startIndex || 0, length = getLength(input); i < length; i++) {
+	      var value = input[i];
+	      if (isArrayLike(value) && (_.isArray(value) || _.isArguments(value))) {
+	        //flatten current level of array or arguments object
+	        if (!shallow) value = flatten(value, shallow, strict);
+	        var j = 0, len = value.length;
+	        output.length += len;
+	        while (j < len) {
+	          output[idx++] = value[j++];
+	        }
+	      } else if (!strict) {
+	        output[idx++] = value;
+	      }
+	    }
+	    return output;
+	  };
+
+	  // Flatten out an array, either recursively (by default), or just one level.
+	  _.flatten = function(array, shallow) {
+	    return flatten(array, shallow, false);
+	  };
+
+	  // Return a version of the array that does not contain the specified value(s).
+	  _.without = function(array) {
+	    return _.difference(array, slice.call(arguments, 1));
+	  };
+
+	  // Produce a duplicate-free version of the array. If the array has already
+	  // been sorted, you have the option of using a faster algorithm.
+	  // Aliased as `unique`.
+	  _.uniq = _.unique = function(array, isSorted, iteratee, context) {
+	    if (!_.isBoolean(isSorted)) {
+	      context = iteratee;
+	      iteratee = isSorted;
+	      isSorted = false;
+	    }
+	    if (iteratee != null) iteratee = cb(iteratee, context);
+	    var result = [];
+	    var seen = [];
+	    for (var i = 0, length = getLength(array); i < length; i++) {
+	      var value = array[i],
+	          computed = iteratee ? iteratee(value, i, array) : value;
+	      if (isSorted) {
+	        if (!i || seen !== computed) result.push(value);
+	        seen = computed;
+	      } else if (iteratee) {
+	        if (!_.contains(seen, computed)) {
+	          seen.push(computed);
+	          result.push(value);
+	        }
+	      } else if (!_.contains(result, value)) {
+	        result.push(value);
+	      }
+	    }
+	    return result;
+	  };
+
+	  // Produce an array that contains the union: each distinct element from all of
+	  // the passed-in arrays.
+	  _.union = function() {
+	    return _.uniq(flatten(arguments, true, true));
+	  };
+
+	  // Produce an array that contains every item shared between all the
+	  // passed-in arrays.
+	  _.intersection = function(array) {
+	    var result = [];
+	    var argsLength = arguments.length;
+	    for (var i = 0, length = getLength(array); i < length; i++) {
+	      var item = array[i];
+	      if (_.contains(result, item)) continue;
+	      for (var j = 1; j < argsLength; j++) {
+	        if (!_.contains(arguments[j], item)) break;
+	      }
+	      if (j === argsLength) result.push(item);
+	    }
+	    return result;
+	  };
+
+	  // Take the difference between one array and a number of other arrays.
+	  // Only the elements present in just the first array will remain.
+	  _.difference = function(array) {
+	    var rest = flatten(arguments, true, true, 1);
+	    return _.filter(array, function(value){
+	      return !_.contains(rest, value);
+	    });
+	  };
+
+	  // Zip together multiple lists into a single array -- elements that share
+	  // an index go together.
+	  _.zip = function() {
+	    return _.unzip(arguments);
+	  };
+
+	  // Complement of _.zip. Unzip accepts an array of arrays and groups
+	  // each array's elements on shared indices
+	  _.unzip = function(array) {
+	    var length = array && _.max(array, getLength).length || 0;
+	    var result = Array(length);
+
+	    for (var index = 0; index < length; index++) {
+	      result[index] = _.pluck(array, index);
+	    }
+	    return result;
+	  };
+
+	  // Converts lists into objects. Pass either a single array of `[key, value]`
+	  // pairs, or two parallel arrays of the same length -- one of keys, and one of
+	  // the corresponding values.
+	  _.object = function(list, values) {
+	    var result = {};
+	    for (var i = 0, length = getLength(list); i < length; i++) {
+	      if (values) {
+	        result[list[i]] = values[i];
+	      } else {
+	        result[list[i][0]] = list[i][1];
+	      }
+	    }
+	    return result;
+	  };
+
+	  // Generator function to create the findIndex and findLastIndex functions
+	  function createPredicateIndexFinder(dir) {
+	    return function(array, predicate, context) {
+	      predicate = cb(predicate, context);
+	      var length = getLength(array);
+	      var index = dir > 0 ? 0 : length - 1;
+	      for (; index >= 0 && index < length; index += dir) {
+	        if (predicate(array[index], index, array)) return index;
+	      }
+	      return -1;
+	    };
+	  }
+
+	  // Returns the first index on an array-like that passes a predicate test
+	  _.findIndex = createPredicateIndexFinder(1);
+	  _.findLastIndex = createPredicateIndexFinder(-1);
+
+	  // Use a comparator function to figure out the smallest index at which
+	  // an object should be inserted so as to maintain order. Uses binary search.
+	  _.sortedIndex = function(array, obj, iteratee, context) {
+	    iteratee = cb(iteratee, context, 1);
+	    var value = iteratee(obj);
+	    var low = 0, high = getLength(array);
+	    while (low < high) {
+	      var mid = Math.floor((low + high) / 2);
+	      if (iteratee(array[mid]) < value) low = mid + 1; else high = mid;
+	    }
+	    return low;
+	  };
+
+	  // Generator function to create the indexOf and lastIndexOf functions
+	  function createIndexFinder(dir, predicateFind, sortedIndex) {
+	    return function(array, item, idx) {
+	      var i = 0, length = getLength(array);
+	      if (typeof idx == 'number') {
+	        if (dir > 0) {
+	            i = idx >= 0 ? idx : Math.max(idx + length, i);
+	        } else {
+	            length = idx >= 0 ? Math.min(idx + 1, length) : idx + length + 1;
+	        }
+	      } else if (sortedIndex && idx && length) {
+	        idx = sortedIndex(array, item);
+	        return array[idx] === item ? idx : -1;
+	      }
+	      if (item !== item) {
+	        idx = predicateFind(slice.call(array, i, length), _.isNaN);
+	        return idx >= 0 ? idx + i : -1;
+	      }
+	      for (idx = dir > 0 ? i : length - 1; idx >= 0 && idx < length; idx += dir) {
+	        if (array[idx] === item) return idx;
+	      }
+	      return -1;
+	    };
+	  }
+
+	  // Return the position of the first occurrence of an item in an array,
+	  // or -1 if the item is not included in the array.
+	  // If the array is large and already in sort order, pass `true`
+	  // for **isSorted** to use binary search.
+	  _.indexOf = createIndexFinder(1, _.findIndex, _.sortedIndex);
+	  _.lastIndexOf = createIndexFinder(-1, _.findLastIndex);
+
+	  // Generate an integer Array containing an arithmetic progression. A port of
+	  // the native Python `range()` function. See
+	  // [the Python documentation](http://docs.python.org/library/functions.html#range).
+	  _.range = function(start, stop, step) {
+	    if (stop == null) {
+	      stop = start || 0;
+	      start = 0;
+	    }
+	    step = step || 1;
+
+	    var length = Math.max(Math.ceil((stop - start) / step), 0);
+	    var range = Array(length);
+
+	    for (var idx = 0; idx < length; idx++, start += step) {
+	      range[idx] = start;
+	    }
+
+	    return range;
+	  };
+
+	  // Function (ahem) Functions
+	  // ------------------
+
+	  // Determines whether to execute a function as a constructor
+	  // or a normal function with the provided arguments
+	  var executeBound = function(sourceFunc, boundFunc, context, callingContext, args) {
+	    if (!(callingContext instanceof boundFunc)) return sourceFunc.apply(context, args);
+	    var self = baseCreate(sourceFunc.prototype);
+	    var result = sourceFunc.apply(self, args);
+	    if (_.isObject(result)) return result;
+	    return self;
+	  };
+
+	  // Create a function bound to a given object (assigning `this`, and arguments,
+	  // optionally). Delegates to **ECMAScript 5**'s native `Function.bind` if
+	  // available.
+	  _.bind = function(func, context) {
+	    if (nativeBind && func.bind === nativeBind) return nativeBind.apply(func, slice.call(arguments, 1));
+	    if (!_.isFunction(func)) throw new TypeError('Bind must be called on a function');
+	    var args = slice.call(arguments, 2);
+	    var bound = function() {
+	      return executeBound(func, bound, context, this, args.concat(slice.call(arguments)));
+	    };
+	    return bound;
+	  };
+
+	  // Partially apply a function by creating a version that has had some of its
+	  // arguments pre-filled, without changing its dynamic `this` context. _ acts
+	  // as a placeholder, allowing any combination of arguments to be pre-filled.
+	  _.partial = function(func) {
+	    var boundArgs = slice.call(arguments, 1);
+	    var bound = function() {
+	      var position = 0, length = boundArgs.length;
+	      var args = Array(length);
+	      for (var i = 0; i < length; i++) {
+	        args[i] = boundArgs[i] === _ ? arguments[position++] : boundArgs[i];
+	      }
+	      while (position < arguments.length) args.push(arguments[position++]);
+	      return executeBound(func, bound, this, this, args);
+	    };
+	    return bound;
+	  };
+
+	  // Bind a number of an object's methods to that object. Remaining arguments
+	  // are the method names to be bound. Useful for ensuring that all callbacks
+	  // defined on an object belong to it.
+	  _.bindAll = function(obj) {
+	    var i, length = arguments.length, key;
+	    if (length <= 1) throw new Error('bindAll must be passed function names');
+	    for (i = 1; i < length; i++) {
+	      key = arguments[i];
+	      obj[key] = _.bind(obj[key], obj);
+	    }
+	    return obj;
+	  };
+
+	  // Memoize an expensive function by storing its results.
+	  _.memoize = function(func, hasher) {
+	    var memoize = function(key) {
+	      var cache = memoize.cache;
+	      var address = '' + (hasher ? hasher.apply(this, arguments) : key);
+	      if (!_.has(cache, address)) cache[address] = func.apply(this, arguments);
+	      return cache[address];
+	    };
+	    memoize.cache = {};
+	    return memoize;
+	  };
+
+	  // Delays a function for the given number of milliseconds, and then calls
+	  // it with the arguments supplied.
+	  _.delay = function(func, wait) {
+	    var args = slice.call(arguments, 2);
+	    return setTimeout(function(){
+	      return func.apply(null, args);
+	    }, wait);
+	  };
+
+	  // Defers a function, scheduling it to run after the current call stack has
+	  // cleared.
+	  _.defer = _.partial(_.delay, _, 1);
+
+	  // Returns a function, that, when invoked, will only be triggered at most once
+	  // during a given window of time. Normally, the throttled function will run
+	  // as much as it can, without ever going more than once per `wait` duration;
+	  // but if you'd like to disable the execution on the leading edge, pass
+	  // `{leading: false}`. To disable execution on the trailing edge, ditto.
+	  _.throttle = function(func, wait, options) {
+	    var context, args, result;
+	    var timeout = null;
+	    var previous = 0;
+	    if (!options) options = {};
+	    var later = function() {
+	      previous = options.leading === false ? 0 : _.now();
+	      timeout = null;
+	      result = func.apply(context, args);
+	      if (!timeout) context = args = null;
+	    };
+	    return function() {
+	      var now = _.now();
+	      if (!previous && options.leading === false) previous = now;
+	      var remaining = wait - (now - previous);
+	      context = this;
+	      args = arguments;
+	      if (remaining <= 0 || remaining > wait) {
+	        if (timeout) {
+	          clearTimeout(timeout);
+	          timeout = null;
+	        }
+	        previous = now;
+	        result = func.apply(context, args);
+	        if (!timeout) context = args = null;
+	      } else if (!timeout && options.trailing !== false) {
+	        timeout = setTimeout(later, remaining);
+	      }
+	      return result;
+	    };
+	  };
+
+	  // Returns a function, that, as long as it continues to be invoked, will not
+	  // be triggered. The function will be called after it stops being called for
+	  // N milliseconds. If `immediate` is passed, trigger the function on the
+	  // leading edge, instead of the trailing.
+	  _.debounce = function(func, wait, immediate) {
+	    var timeout, args, context, timestamp, result;
+
+	    var later = function() {
+	      var last = _.now() - timestamp;
+
+	      if (last < wait && last >= 0) {
+	        timeout = setTimeout(later, wait - last);
+	      } else {
+	        timeout = null;
+	        if (!immediate) {
+	          result = func.apply(context, args);
+	          if (!timeout) context = args = null;
+	        }
+	      }
+	    };
+
+	    return function() {
+	      context = this;
+	      args = arguments;
+	      timestamp = _.now();
+	      var callNow = immediate && !timeout;
+	      if (!timeout) timeout = setTimeout(later, wait);
+	      if (callNow) {
+	        result = func.apply(context, args);
+	        context = args = null;
+	      }
+
+	      return result;
+	    };
+	  };
+
+	  // Returns the first function passed as an argument to the second,
+	  // allowing you to adjust arguments, run code before and after, and
+	  // conditionally execute the original function.
+	  _.wrap = function(func, wrapper) {
+	    return _.partial(wrapper, func);
+	  };
+
+	  // Returns a negated version of the passed-in predicate.
+	  _.negate = function(predicate) {
+	    return function() {
+	      return !predicate.apply(this, arguments);
+	    };
+	  };
+
+	  // Returns a function that is the composition of a list of functions, each
+	  // consuming the return value of the function that follows.
+	  _.compose = function() {
+	    var args = arguments;
+	    var start = args.length - 1;
+	    return function() {
+	      var i = start;
+	      var result = args[start].apply(this, arguments);
+	      while (i--) result = args[i].call(this, result);
+	      return result;
+	    };
+	  };
+
+	  // Returns a function that will only be executed on and after the Nth call.
+	  _.after = function(times, func) {
+	    return function() {
+	      if (--times < 1) {
+	        return func.apply(this, arguments);
+	      }
+	    };
+	  };
+
+	  // Returns a function that will only be executed up to (but not including) the Nth call.
+	  _.before = function(times, func) {
+	    var memo;
+	    return function() {
+	      if (--times > 0) {
+	        memo = func.apply(this, arguments);
+	      }
+	      if (times <= 1) func = null;
+	      return memo;
+	    };
+	  };
+
+	  // Returns a function that will be executed at most one time, no matter how
+	  // often you call it. Useful for lazy initialization.
+	  _.once = _.partial(_.before, 2);
+
+	  // Object Functions
+	  // ----------------
+
+	  // Keys in IE < 9 that won't be iterated by `for key in ...` and thus missed.
+	  var hasEnumBug = !{toString: null}.propertyIsEnumerable('toString');
+	  var nonEnumerableProps = ['valueOf', 'isPrototypeOf', 'toString',
+	                      'propertyIsEnumerable', 'hasOwnProperty', 'toLocaleString'];
+
+	  function collectNonEnumProps(obj, keys) {
+	    var nonEnumIdx = nonEnumerableProps.length;
+	    var constructor = obj.constructor;
+	    var proto = (_.isFunction(constructor) && constructor.prototype) || ObjProto;
+
+	    // Constructor is a special case.
+	    var prop = 'constructor';
+	    if (_.has(obj, prop) && !_.contains(keys, prop)) keys.push(prop);
+
+	    while (nonEnumIdx--) {
+	      prop = nonEnumerableProps[nonEnumIdx];
+	      if (prop in obj && obj[prop] !== proto[prop] && !_.contains(keys, prop)) {
+	        keys.push(prop);
+	      }
+	    }
+	  }
+
+	  // Retrieve the names of an object's own properties.
+	  // Delegates to **ECMAScript 5**'s native `Object.keys`
+	  _.keys = function(obj) {
+	    if (!_.isObject(obj)) return [];
+	    if (nativeKeys) return nativeKeys(obj);
+	    var keys = [];
+	    for (var key in obj) if (_.has(obj, key)) keys.push(key);
+	    // Ahem, IE < 9.
+	    if (hasEnumBug) collectNonEnumProps(obj, keys);
+	    return keys;
+	  };
+
+	  // Retrieve all the property names of an object.
+	  _.allKeys = function(obj) {
+	    if (!_.isObject(obj)) return [];
+	    var keys = [];
+	    for (var key in obj) keys.push(key);
+	    // Ahem, IE < 9.
+	    if (hasEnumBug) collectNonEnumProps(obj, keys);
+	    return keys;
+	  };
+
+	  // Retrieve the values of an object's properties.
+	  _.values = function(obj) {
+	    var keys = _.keys(obj);
+	    var length = keys.length;
+	    var values = Array(length);
+	    for (var i = 0; i < length; i++) {
+	      values[i] = obj[keys[i]];
+	    }
+	    return values;
+	  };
+
+	  // Returns the results of applying the iteratee to each element of the object
+	  // In contrast to _.map it returns an object
+	  _.mapObject = function(obj, iteratee, context) {
+	    iteratee = cb(iteratee, context);
+	    var keys =  _.keys(obj),
+	          length = keys.length,
+	          results = {},
+	          currentKey;
+	      for (var index = 0; index < length; index++) {
+	        currentKey = keys[index];
+	        results[currentKey] = iteratee(obj[currentKey], currentKey, obj);
+	      }
+	      return results;
+	  };
+
+	  // Convert an object into a list of `[key, value]` pairs.
+	  _.pairs = function(obj) {
+	    var keys = _.keys(obj);
+	    var length = keys.length;
+	    var pairs = Array(length);
+	    for (var i = 0; i < length; i++) {
+	      pairs[i] = [keys[i], obj[keys[i]]];
+	    }
+	    return pairs;
+	  };
+
+	  // Invert the keys and values of an object. The values must be serializable.
+	  _.invert = function(obj) {
+	    var result = {};
+	    var keys = _.keys(obj);
+	    for (var i = 0, length = keys.length; i < length; i++) {
+	      result[obj[keys[i]]] = keys[i];
+	    }
+	    return result;
+	  };
+
+	  // Return a sorted list of the function names available on the object.
+	  // Aliased as `methods`
+	  _.functions = _.methods = function(obj) {
+	    var names = [];
+	    for (var key in obj) {
+	      if (_.isFunction(obj[key])) names.push(key);
+	    }
+	    return names.sort();
+	  };
+
+	  // Extend a given object with all the properties in passed-in object(s).
+	  _.extend = createAssigner(_.allKeys);
+
+	  // Assigns a given object with all the own properties in the passed-in object(s)
+	  // (https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Object/assign)
+	  _.extendOwn = _.assign = createAssigner(_.keys);
+
+	  // Returns the first key on an object that passes a predicate test
+	  _.findKey = function(obj, predicate, context) {
+	    predicate = cb(predicate, context);
+	    var keys = _.keys(obj), key;
+	    for (var i = 0, length = keys.length; i < length; i++) {
+	      key = keys[i];
+	      if (predicate(obj[key], key, obj)) return key;
+	    }
+	  };
+
+	  // Return a copy of the object only containing the whitelisted properties.
+	  _.pick = function(object, oiteratee, context) {
+	    var result = {}, obj = object, iteratee, keys;
+	    if (obj == null) return result;
+	    if (_.isFunction(oiteratee)) {
+	      keys = _.allKeys(obj);
+	      iteratee = optimizeCb(oiteratee, context);
+	    } else {
+	      keys = flatten(arguments, false, false, 1);
+	      iteratee = function(value, key, obj) { return key in obj; };
+	      obj = Object(obj);
+	    }
+	    for (var i = 0, length = keys.length; i < length; i++) {
+	      var key = keys[i];
+	      var value = obj[key];
+	      if (iteratee(value, key, obj)) result[key] = value;
+	    }
+	    return result;
+	  };
+
+	   // Return a copy of the object without the blacklisted properties.
+	  _.omit = function(obj, iteratee, context) {
+	    if (_.isFunction(iteratee)) {
+	      iteratee = _.negate(iteratee);
+	    } else {
+	      var keys = _.map(flatten(arguments, false, false, 1), String);
+	      iteratee = function(value, key) {
+	        return !_.contains(keys, key);
+	      };
+	    }
+	    return _.pick(obj, iteratee, context);
+	  };
+
+	  // Fill in a given object with default properties.
+	  _.defaults = createAssigner(_.allKeys, true);
+
+	  // Creates an object that inherits from the given prototype object.
+	  // If additional properties are provided then they will be added to the
+	  // created object.
+	  _.create = function(prototype, props) {
+	    var result = baseCreate(prototype);
+	    if (props) _.extendOwn(result, props);
+	    return result;
+	  };
+
+	  // Create a (shallow-cloned) duplicate of an object.
+	  _.clone = function(obj) {
+	    if (!_.isObject(obj)) return obj;
+	    return _.isArray(obj) ? obj.slice() : _.extend({}, obj);
+	  };
+
+	  // Invokes interceptor with the obj, and then returns obj.
+	  // The primary purpose of this method is to "tap into" a method chain, in
+	  // order to perform operations on intermediate results within the chain.
+	  _.tap = function(obj, interceptor) {
+	    interceptor(obj);
+	    return obj;
+	  };
+
+	  // Returns whether an object has a given set of `key:value` pairs.
+	  _.isMatch = function(object, attrs) {
+	    var keys = _.keys(attrs), length = keys.length;
+	    if (object == null) return !length;
+	    var obj = Object(object);
+	    for (var i = 0; i < length; i++) {
+	      var key = keys[i];
+	      if (attrs[key] !== obj[key] || !(key in obj)) return false;
+	    }
+	    return true;
+	  };
+
+
+	  // Internal recursive comparison function for `isEqual`.
+	  var eq = function(a, b, aStack, bStack) {
+	    // Identical objects are equal. `0 === -0`, but they aren't identical.
+	    // See the [Harmony `egal` proposal](http://wiki.ecmascript.org/doku.php?id=harmony:egal).
+	    if (a === b) return a !== 0 || 1 / a === 1 / b;
+	    // A strict comparison is necessary because `null == undefined`.
+	    if (a == null || b == null) return a === b;
+	    // Unwrap any wrapped objects.
+	    if (a instanceof _) a = a._wrapped;
+	    if (b instanceof _) b = b._wrapped;
+	    // Compare `[[Class]]` names.
+	    var className = toString.call(a);
+	    if (className !== toString.call(b)) return false;
+	    switch (className) {
+	      // Strings, numbers, regular expressions, dates, and booleans are compared by value.
+	      case '[object RegExp]':
+	      // RegExps are coerced to strings for comparison (Note: '' + /a/i === '/a/i')
+	      case '[object String]':
+	        // Primitives and their corresponding object wrappers are equivalent; thus, `"5"` is
+	        // equivalent to `new String("5")`.
+	        return '' + a === '' + b;
+	      case '[object Number]':
+	        // `NaN`s are equivalent, but non-reflexive.
+	        // Object(NaN) is equivalent to NaN
+	        if (+a !== +a) return +b !== +b;
+	        // An `egal` comparison is performed for other numeric values.
+	        return +a === 0 ? 1 / +a === 1 / b : +a === +b;
+	      case '[object Date]':
+	      case '[object Boolean]':
+	        // Coerce dates and booleans to numeric primitive values. Dates are compared by their
+	        // millisecond representations. Note that invalid dates with millisecond representations
+	        // of `NaN` are not equivalent.
+	        return +a === +b;
+	    }
+
+	    var areArrays = className === '[object Array]';
+	    if (!areArrays) {
+	      if (typeof a != 'object' || typeof b != 'object') return false;
+
+	      // Objects with different constructors are not equivalent, but `Object`s or `Array`s
+	      // from different frames are.
+	      var aCtor = a.constructor, bCtor = b.constructor;
+	      if (aCtor !== bCtor && !(_.isFunction(aCtor) && aCtor instanceof aCtor &&
+	                               _.isFunction(bCtor) && bCtor instanceof bCtor)
+	                          && ('constructor' in a && 'constructor' in b)) {
+	        return false;
+	      }
+	    }
+	    // Assume equality for cyclic structures. The algorithm for detecting cyclic
+	    // structures is adapted from ES 5.1 section 15.12.3, abstract operation `JO`.
+
+	    // Initializing stack of traversed objects.
+	    // It's done here since we only need them for objects and arrays comparison.
+	    aStack = aStack || [];
+	    bStack = bStack || [];
+	    var length = aStack.length;
+	    while (length--) {
+	      // Linear search. Performance is inversely proportional to the number of
+	      // unique nested structures.
+	      if (aStack[length] === a) return bStack[length] === b;
+	    }
+
+	    // Add the first object to the stack of traversed objects.
+	    aStack.push(a);
+	    bStack.push(b);
+
+	    // Recursively compare objects and arrays.
+	    if (areArrays) {
+	      // Compare array lengths to determine if a deep comparison is necessary.
+	      length = a.length;
+	      if (length !== b.length) return false;
+	      // Deep compare the contents, ignoring non-numeric properties.
+	      while (length--) {
+	        if (!eq(a[length], b[length], aStack, bStack)) return false;
+	      }
+	    } else {
+	      // Deep compare objects.
+	      var keys = _.keys(a), key;
+	      length = keys.length;
+	      // Ensure that both objects contain the same number of properties before comparing deep equality.
+	      if (_.keys(b).length !== length) return false;
+	      while (length--) {
+	        // Deep compare each member
+	        key = keys[length];
+	        if (!(_.has(b, key) && eq(a[key], b[key], aStack, bStack))) return false;
+	      }
+	    }
+	    // Remove the first object from the stack of traversed objects.
+	    aStack.pop();
+	    bStack.pop();
+	    return true;
+	  };
+
+	  // Perform a deep comparison to check if two objects are equal.
+	  _.isEqual = function(a, b) {
+	    return eq(a, b);
+	  };
+
+	  // Is a given array, string, or object empty?
+	  // An "empty" object has no enumerable own-properties.
+	  _.isEmpty = function(obj) {
+	    if (obj == null) return true;
+	    if (isArrayLike(obj) && (_.isArray(obj) || _.isString(obj) || _.isArguments(obj))) return obj.length === 0;
+	    return _.keys(obj).length === 0;
+	  };
+
+	  // Is a given value a DOM element?
+	  _.isElement = function(obj) {
+	    return !!(obj && obj.nodeType === 1);
+	  };
+
+	  // Is a given value an array?
+	  // Delegates to ECMA5's native Array.isArray
+	  _.isArray = nativeIsArray || function(obj) {
+	    return toString.call(obj) === '[object Array]';
+	  };
+
+	  // Is a given variable an object?
+	  _.isObject = function(obj) {
+	    var type = typeof obj;
+	    return type === 'function' || type === 'object' && !!obj;
+	  };
+
+	  // Add some isType methods: isArguments, isFunction, isString, isNumber, isDate, isRegExp, isError.
+	  _.each(['Arguments', 'Function', 'String', 'Number', 'Date', 'RegExp', 'Error'], function(name) {
+	    _['is' + name] = function(obj) {
+	      return toString.call(obj) === '[object ' + name + ']';
+	    };
+	  });
+
+	  // Define a fallback version of the method in browsers (ahem, IE < 9), where
+	  // there isn't any inspectable "Arguments" type.
+	  if (!_.isArguments(arguments)) {
+	    _.isArguments = function(obj) {
+	      return _.has(obj, 'callee');
+	    };
+	  }
+
+	  // Optimize `isFunction` if appropriate. Work around some typeof bugs in old v8,
+	  // IE 11 (#1621), and in Safari 8 (#1929).
+	  if (typeof /./ != 'function' && typeof Int8Array != 'object') {
+	    _.isFunction = function(obj) {
+	      return typeof obj == 'function' || false;
+	    };
+	  }
+
+	  // Is a given object a finite number?
+	  _.isFinite = function(obj) {
+	    return isFinite(obj) && !isNaN(parseFloat(obj));
+	  };
+
+	  // Is the given value `NaN`? (NaN is the only number which does not equal itself).
+	  _.isNaN = function(obj) {
+	    return _.isNumber(obj) && obj !== +obj;
+	  };
+
+	  // Is a given value a boolean?
+	  _.isBoolean = function(obj) {
+	    return obj === true || obj === false || toString.call(obj) === '[object Boolean]';
+	  };
+
+	  // Is a given value equal to null?
+	  _.isNull = function(obj) {
+	    return obj === null;
+	  };
+
+	  // Is a given variable undefined?
+	  _.isUndefined = function(obj) {
+	    return obj === void 0;
+	  };
+
+	  // Shortcut function for checking if an object has a given property directly
+	  // on itself (in other words, not on a prototype).
+	  _.has = function(obj, key) {
+	    return obj != null && hasOwnProperty.call(obj, key);
+	  };
+
+	  // Utility Functions
+	  // -----------------
+
+	  // Run Underscore.js in *noConflict* mode, returning the `_` variable to its
+	  // previous owner. Returns a reference to the Underscore object.
+	  _.noConflict = function() {
+	    root._ = previousUnderscore;
+	    return this;
+	  };
+
+	  // Keep the identity function around for default iteratees.
+	  _.identity = function(value) {
+	    return value;
+	  };
+
+	  // Predicate-generating functions. Often useful outside of Underscore.
+	  _.constant = function(value) {
+	    return function() {
+	      return value;
+	    };
+	  };
+
+	  _.noop = function(){};
+
+	  _.property = property;
+
+	  // Generates a function for a given object that returns a given property.
+	  _.propertyOf = function(obj) {
+	    return obj == null ? function(){} : function(key) {
+	      return obj[key];
+	    };
+	  };
+
+	  // Returns a predicate for checking whether an object has a given set of
+	  // `key:value` pairs.
+	  _.matcher = _.matches = function(attrs) {
+	    attrs = _.extendOwn({}, attrs);
+	    return function(obj) {
+	      return _.isMatch(obj, attrs);
+	    };
+	  };
+
+	  // Run a function **n** times.
+	  _.times = function(n, iteratee, context) {
+	    var accum = Array(Math.max(0, n));
+	    iteratee = optimizeCb(iteratee, context, 1);
+	    for (var i = 0; i < n; i++) accum[i] = iteratee(i);
+	    return accum;
+	  };
+
+	  // Return a random integer between min and max (inclusive).
+	  _.random = function(min, max) {
+	    if (max == null) {
+	      max = min;
+	      min = 0;
+	    }
+	    return min + Math.floor(Math.random() * (max - min + 1));
+	  };
+
+	  // A (possibly faster) way to get the current timestamp as an integer.
+	  _.now = Date.now || function() {
+	    return new Date().getTime();
+	  };
+
+	   // List of HTML entities for escaping.
+	  var escapeMap = {
+	    '&': '&amp;',
+	    '<': '&lt;',
+	    '>': '&gt;',
+	    '"': '&quot;',
+	    "'": '&#x27;',
+	    '`': '&#x60;'
+	  };
+	  var unescapeMap = _.invert(escapeMap);
+
+	  // Functions for escaping and unescaping strings to/from HTML interpolation.
+	  var createEscaper = function(map) {
+	    var escaper = function(match) {
+	      return map[match];
+	    };
+	    // Regexes for identifying a key that needs to be escaped
+	    var source = '(?:' + _.keys(map).join('|') + ')';
+	    var testRegexp = RegExp(source);
+	    var replaceRegexp = RegExp(source, 'g');
+	    return function(string) {
+	      string = string == null ? '' : '' + string;
+	      return testRegexp.test(string) ? string.replace(replaceRegexp, escaper) : string;
+	    };
+	  };
+	  _.escape = createEscaper(escapeMap);
+	  _.unescape = createEscaper(unescapeMap);
+
+	  // If the value of the named `property` is a function then invoke it with the
+	  // `object` as context; otherwise, return it.
+	  _.result = function(object, property, fallback) {
+	    var value = object == null ? void 0 : object[property];
+	    if (value === void 0) {
+	      value = fallback;
+	    }
+	    return _.isFunction(value) ? value.call(object) : value;
+	  };
+
+	  // Generate a unique integer id (unique within the entire client session).
+	  // Useful for temporary DOM ids.
+	  var idCounter = 0;
+	  _.uniqueId = function(prefix) {
+	    var id = ++idCounter + '';
+	    return prefix ? prefix + id : id;
+	  };
+
+	  // By default, Underscore uses ERB-style template delimiters, change the
+	  // following template settings to use alternative delimiters.
+	  _.templateSettings = {
+	    evaluate    : /<%([\s\S]+?)%>/g,
+	    interpolate : /<%=([\s\S]+?)%>/g,
+	    escape      : /<%-([\s\S]+?)%>/g
+	  };
+
+	  // When customizing `templateSettings`, if you don't want to define an
+	  // interpolation, evaluation or escaping regex, we need one that is
+	  // guaranteed not to match.
+	  var noMatch = /(.)^/;
+
+	  // Certain characters need to be escaped so that they can be put into a
+	  // string literal.
+	  var escapes = {
+	    "'":      "'",
+	    '\\':     '\\',
+	    '\r':     'r',
+	    '\n':     'n',
+	    '\u2028': 'u2028',
+	    '\u2029': 'u2029'
+	  };
+
+	  var escaper = /\\|'|\r|\n|\u2028|\u2029/g;
+
+	  var escapeChar = function(match) {
+	    return '\\' + escapes[match];
+	  };
+
+	  // JavaScript micro-templating, similar to John Resig's implementation.
+	  // Underscore templating handles arbitrary delimiters, preserves whitespace,
+	  // and correctly escapes quotes within interpolated code.
+	  // NB: `oldSettings` only exists for backwards compatibility.
+	  _.template = function(text, settings, oldSettings) {
+	    if (!settings && oldSettings) settings = oldSettings;
+	    settings = _.defaults({}, settings, _.templateSettings);
+
+	    // Combine delimiters into one regular expression via alternation.
+	    var matcher = RegExp([
+	      (settings.escape || noMatch).source,
+	      (settings.interpolate || noMatch).source,
+	      (settings.evaluate || noMatch).source
+	    ].join('|') + '|$', 'g');
+
+	    // Compile the template source, escaping string literals appropriately.
+	    var index = 0;
+	    var source = "__p+='";
+	    text.replace(matcher, function(match, escape, interpolate, evaluate, offset) {
+	      source += text.slice(index, offset).replace(escaper, escapeChar);
+	      index = offset + match.length;
+
+	      if (escape) {
+	        source += "'+\n((__t=(" + escape + "))==null?'':_.escape(__t))+\n'";
+	      } else if (interpolate) {
+	        source += "'+\n((__t=(" + interpolate + "))==null?'':__t)+\n'";
+	      } else if (evaluate) {
+	        source += "';\n" + evaluate + "\n__p+='";
+	      }
+
+	      // Adobe VMs need the match returned to produce the correct offest.
+	      return match;
+	    });
+	    source += "';\n";
+
+	    // If a variable is not specified, place data values in local scope.
+	    if (!settings.variable) source = 'with(obj||{}){\n' + source + '}\n';
+
+	    source = "var __t,__p='',__j=Array.prototype.join," +
+	      "print=function(){__p+=__j.call(arguments,'');};\n" +
+	      source + 'return __p;\n';
+
+	    try {
+	      var render = new Function(settings.variable || 'obj', '_', source);
+	    } catch (e) {
+	      e.source = source;
+	      throw e;
+	    }
+
+	    var template = function(data) {
+	      return render.call(this, data, _);
+	    };
+
+	    // Provide the compiled source as a convenience for precompilation.
+	    var argument = settings.variable || 'obj';
+	    template.source = 'function(' + argument + '){\n' + source + '}';
+
+	    return template;
+	  };
+
+	  // Add a "chain" function. Start chaining a wrapped Underscore object.
+	  _.chain = function(obj) {
+	    var instance = _(obj);
+	    instance._chain = true;
+	    return instance;
+	  };
+
+	  // OOP
+	  // ---------------
+	  // If Underscore is called as a function, it returns a wrapped object that
+	  // can be used OO-style. This wrapper holds altered versions of all the
+	  // underscore functions. Wrapped objects may be chained.
+
+	  // Helper function to continue chaining intermediate results.
+	  var result = function(instance, obj) {
+	    return instance._chain ? _(obj).chain() : obj;
+	  };
+
+	  // Add your own custom functions to the Underscore object.
+	  _.mixin = function(obj) {
+	    _.each(_.functions(obj), function(name) {
+	      var func = _[name] = obj[name];
+	      _.prototype[name] = function() {
+	        var args = [this._wrapped];
+	        push.apply(args, arguments);
+	        return result(this, func.apply(_, args));
+	      };
+	    });
+	  };
+
+	  // Add all of the Underscore functions to the wrapper object.
+	  _.mixin(_);
+
+	  // Add all mutator Array functions to the wrapper.
+	  _.each(['pop', 'push', 'reverse', 'shift', 'sort', 'splice', 'unshift'], function(name) {
+	    var method = ArrayProto[name];
+	    _.prototype[name] = function() {
+	      var obj = this._wrapped;
+	      method.apply(obj, arguments);
+	      if ((name === 'shift' || name === 'splice') && obj.length === 0) delete obj[0];
+	      return result(this, obj);
+	    };
+	  });
+
+	  // Add all accessor Array functions to the wrapper.
+	  _.each(['concat', 'join', 'slice'], function(name) {
+	    var method = ArrayProto[name];
+	    _.prototype[name] = function() {
+	      return result(this, method.apply(this._wrapped, arguments));
+	    };
+	  });
+
+	  // Extracts the result from a wrapped and chained object.
+	  _.prototype.value = function() {
+	    return this._wrapped;
+	  };
+
+	  // Provide unwrapping proxy for some methods used in engine operations
+	  // such as arithmetic and JSON stringification.
+	  _.prototype.valueOf = _.prototype.toJSON = _.prototype.value;
+
+	  _.prototype.toString = function() {
+	    return '' + this._wrapped;
+	  };
+
+	  // AMD registration happens at the end for compatibility with AMD loaders
+	  // that may not enforce next-turn semantics on modules. Even though general
+	  // practice for AMD registration is to be anonymous, underscore registers
+	  // as a named module because, like jQuery, it is a base library that is
+	  // popular enough to be bundled in a third party lib, but not be part of
+	  // an AMD load request. Those cases could generate an error when an
+	  // anonymous define() is called outside of a loader request.
+	  if (true) {
+	    !(__WEBPACK_AMD_DEFINE_ARRAY__ = [], __WEBPACK_AMD_DEFINE_RESULT__ = function() {
+	      return _;
+	    }.apply(exports, __WEBPACK_AMD_DEFINE_ARRAY__), __WEBPACK_AMD_DEFINE_RESULT__ !== undefined && (module.exports = __WEBPACK_AMD_DEFINE_RESULT__));
+	  }
+	}.call(this));
+
+
+/***/ },
+/* 9 */
 /***/ function(module, exports, __webpack_require__) {
 
 	var $ = __webpack_require__(1);
@@ -10903,7 +14634,7 @@
 
 	  // a wrapper for jQuery's $.get
 	  getJSON: function (file) {
-	    return $.get(file);
+	    return $.getJSON(file);
 	  }
 	};
 
