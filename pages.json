@@ -1,0 +1,13 @@
+---
+---
+[
+  {% for page in site.pages %}
+    {% if page.layout == "default" %}
+      {
+        "title"    : "{{ page.title | escape }}",
+        "content"  : "{{ page.content | strip_html | strip_newlines | remove:  " " | escape | remove: "\"}}",
+        "url"      : "{{ site.baseurl }}{{ page.url }}"
+      }{% unless forloop.last %},{% endunless %}
+    {% endif %}
+  {% endfor %}
+]
