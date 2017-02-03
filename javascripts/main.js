@@ -10884,6 +10884,7 @@
 	  var $results = $('.js-search-results');
 	  var totalScore = 0;
 	  var percentOfTotal;
+	  var node;
 
 	  // PIECE 1
 	  // set up the allowable fields
@@ -10901,34 +10902,40 @@
 
 	  results = searchIndex.search(query);
 
-	  console.log(results.length);
+	  if (results.length > 0) {
+	    for (var result in results) {
+	      var node = data.filter(function (page) {
+	        return page.url === results[result].ref;
+	      })[0];
 
-	  for (var result in results) {
-	    var node = data.filter(function (page) {
-	      return page.url === results[result].ref;
-	    })[0];
+	      results[result].title = node.title;
+	      results[result].content = node.content;
+	    }
 
-	    results[result].title = node.title;
-	    results[result].content = node.content;
-	  }
+	    _.each(results, function (result) {
+	      totalScore += result.score;
+	    });
 
-	  _.each(results, function (result) {
-	    totalScore += result.score;
-	  });
+	    _.each(results, function (result) {
+	      percentOfTotal = result.score / totalScore;
 
-	  _.each(results, function (result) {
-	    var node;
-	    percentOfTotal = result.score / totalScore;
+	      var hint = extracto(query, result);
 
-	    var hint = extracto(query, result);
-
+	      if (lang === 'es') {
+	        node = '<li><a href="' + baseurl + result.ref + '">' + result.title + '</a>' + hint + '</li>';
+	      } else {
+	        node = '<li><a href="' + baseurl + '/' + lang + result.ref + '">' + result.title + '</a>' + hint + '</li>';
+	      }
+	      $results.append(node);
+	    });
+	  } else {
 	    if (lang === 'es') {
-	      node = '<li><a href="' + baseurl + result.ref + '">' + result.title + '</a>' + hint + '</li>';
+	      node = '<div class"no-results">No se han encontrado resultados</div>';
 	    } else {
-	      node = '<li><a href="' + baseurl + '/' + lang + result.ref + '">' + result.title + '</a>' + hint + '</li>';
+	      node = '<div class"no-results">Sorry, no results found</div>';
 	    }
 	    $results.append(node);
-	  });
+	  }
 	}
 
 	function search (e) {
