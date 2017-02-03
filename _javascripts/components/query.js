@@ -41,7 +41,7 @@ Query.prototype = {
 
   // a wrapper for jQuery's $.get
   getJSON: function (file) {
-    return $.get(file);
+    return $.getJSON(file);
   }
 };
 

@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Home
 ---
 
 # {{ site.data.home.title }}
