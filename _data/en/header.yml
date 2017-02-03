@@ -8,7 +8,7 @@ options:
     url: /
 menu:
   - title: Informe de auditoría
-    url: /informe-de-auditoria.html
+    url: /informe/auditoria.html
   - title: Cuentas anuales consolidadas
     url: /cuentas-anuales-consolidadas.html
   - title: Informe de gestión
