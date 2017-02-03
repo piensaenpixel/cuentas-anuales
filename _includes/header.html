@@ -26,7 +26,7 @@
     </nav>
 
     <div class="header-container">
-      <a href="/">
+      <a href="{{site.baseurl}}/">
       <svg width="94px" height="29px" viewBox="159 -788 94 29" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
         <g id="Logotipo_de_BBVA" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(159.000000, -788.000000)">
           <path d="M82.5300619,18.4846 L74.542,18.4846 L78.5064742,5.26543333 L82.5300619,18.4846 L82.5300619,18.4846 Z M81.2731753,0.0058 C83.4216082,0.0058 83.9739794,0.541333333 84.7909072,2.9609 L93.6055876,28.9787333 L85.7531959,28.9787333 L83.8383093,22.7244 L73.2686392,22.7244 L71.3634433,28.9787333 L66.8320619,28.9787333 L75.7213608,0.00386666667 L81.2731753,0.0058 Z" id="Shape" fill="#FFFFFF"></path>
@@ -45,7 +45,7 @@
       <ul class="menu">
         {% for menu in site.data.header.menu %}
           <li class="menu-item">
-            <a href="{{ menu.url }}">
+            <a href="{{site.baseurl}}{{ menu.url }}">
               {{ menu.title }}
             </a>
           </li>
