@@ -19,6 +19,9 @@
     "gulp-webpack": "^1.5.0",
     "imagemin": "^5.2.2",
     "jquery": "^3.1.1",
-    "uglify": "^0.1.5"
+    "lunr": "^0.7.2",
+    "uglify": "^0.1.5",
+    "underscore": "^1.8.3",
+    "webpack-stream": "^3.2.0"
   }
 }

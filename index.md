@@ -1,6 +1,6 @@
 ---
 layout: default
-lang: site.data["active_lang"]
+title: Home
 ---
 
 # {{ site.data.home.title }}
