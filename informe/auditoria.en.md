@@ -1,6 +1,8 @@
 ---
 layout: default
-title: Foo
+title: Foo en
+lang: en
+permalink: auditoria/
 ---
 
 {{ site.data.informe.body }}
