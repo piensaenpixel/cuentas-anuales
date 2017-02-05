@@ -1,17 +1,20 @@
-title: General accounts
 options:
-  - title: Español
+  - title: ES
     url: /
-  - title: Download report
+  - title: Descargar
     url: /
-  - title: Contact us
+  - title: Compartir
     url: /
 menu:
-  - title: Informe de auditoría
+  - title: Carta del presidente
     url: /informe/auditoria
-  - title: Cuentas anuales consolidadas
+  - title: Hitos 2016
     url: /cuentas-anuales-consolidadas.html
-  - title: Informe de gestión
+  - title: Nuestro propósito
+    url: /informe-de-gestion.html
+  - title: Grupos de interés
+    url: /informe-de-gestion.html
+  - title: Desempeño financiero
     url: /informe-de-gestion.html
 footer:
 - title: Centro de seguridad

@@ -1,14 +1,22 @@
 .header {
   background: $darkblue;
-  padding: 16px 0 26px;
+  padding: 23px 0 26px;
+}
+
+.Home .header {
+  background: transparent;
+  position: absolute; 
+  top: 0;
+  right: 0;
+  left: 0;
 }
 
 .header-container {
   @include display-flex;
   @include justify-content(space-between);
   @include align-items(flex-end);
-  margin-bottom: 26px;
-  margin-top: 46px;
+  margin-bottom: 4px;
+  margin-top: 23px;
 }
 
 .menu {
@@ -24,8 +32,9 @@
 
 .menu-item {
   font-family: 'BentonMedium';
-  font-size: 14px;
-  margin-right: 48px;
+  font-size: 12px;
+  margin-right: 50px;
+  text-transform: uppercase;
 
   a {
     color: rgba($white, .6);
@@ -38,6 +47,18 @@
 
   &:last-child {
     margin-right: 0;
+  }
+}
+
+.Home {
+  .menu-item a {
+    color: rgba($white, 1);
+    &:hover {
+      color: rgba($white, 0.6);
+    }
+  }
+  .search-item path {
+    fill: $white;
   }
 }
 
@@ -53,11 +74,11 @@
   margin-right: 20px;
 
   a {
-    color: rgba($white, .6);
+    color: rgba($white, 1);
 
     &:hover {
       @include transition(opacity, 300ms);
-      color: rgba($white, 1);
+      color: rgba($white, .6);
     }
   }
 
@@ -68,8 +89,12 @@
 
 .navigation {
   @include display-flex();
-  @include align-items(center);
+  @include align-items(flex-end);
   @include justify-content(space-between);
+}
+
+.search {
+  margin-left: 50px;
 }
 
 .search-item {

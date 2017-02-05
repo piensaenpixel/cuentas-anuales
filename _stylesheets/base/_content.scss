@@ -1,174 +1,313 @@
-.content {
-  padding-right: 180px;
-
-  .content-info {
-    margin-bottom: 35px;
-    margin-right: -180px;
-  }
-
-  > p {
-    color: $txtgrey;
-    font-family: 'BentonBook';
-    font-size: 15px;
-    line-height: 26px;
-    margin-bottom: 32px;
-  }
-
-  > h1 {
-    font-family: 'BentonBold';
-    font-size: 33px;
-    line-height: 45px;
-    margin-bottom: 22px;
-  }
-
-  > h2 {
-    font-family: 'BentonMedium';
-    font-size: 26px;
-    line-height: 32px;
-    margin-bottom: 32px;
-  }
-
-  > h3 {
-    font-family: 'BentonBook';
-    font-size: 22px;
-    line-height: 28px;
-    margin-bottom: 24px;
-  }
-
-  > ul {
-    color: $txtgrey;
-    font-size: 15px;
-    line-height: 26px;
-    list-style-type: disc;
-    margin-bottom: 32px;
-    margin-left: 36px;
-  }
-
-  > ol {
-    color: $txtgrey;
-    font-size: 15px;
-    line-height: 26px;
-    margin-bottom: 32px;
-    margin-left: 36px;
-  }
-
-  table {
-    border: 2px solid $tableborder;
-    width: 100%;
-  }
-
-  td {
-    border-left: 2px solid $tableborder;
-    color: $txtgrey;
-    font-family: 'BentonBook';
-    font-size: 15px;
-    line-height: 26px;
-    padding: 15px 20px;
-    vertical-align: top;
-
-    &:first-child {
-      border-left: 0;
-    }
-
-    &:last-child {
-      text-align: center;
-    }
-  }
-
-  th {
-    border-bottom: 2px solid $tableborder;
-    border-left: 2px solid $tableborder;
-    color: $dark;
-    font-family: 'BentonMedium';
-    font-size: 15px;
-    line-height: 26px;
-    padding: 25px 20px;
-    text-align: center;
-
-    &:first-child {
-      border-left: 0;
-      text-align: left;
-    }
-  }
-
-  .hover {
-    @include transition(background, 300ms);
-    background: $lightgrey;
-  }
-
-
+.section {
+  background: $white;
+  padding: 80px 0;
 }
 
-.content-info {
-  @include display-flex;
-  @include align-items(flex-start);
-  @include justify-content(space-between);
-}
-
-.content-dropdown {
-  @include display-flex;
-  @include align-items(flex-start);
-  @include flex(0 0 70%);
+.section--grey {
   background: $lightgrey;
-  height: 70px;
-  max-width: 70%;
-  overflow: hidden;
-  padding: 22px;
+}
 
-  &.is-open {
-    height: auto;
+.section--blue {
+  background: $bbvablue;
+  color: $white;
+}
 
-    .content-dropdownitem {
-      white-space: initial;
-    }
+.section--header {
+  @include display-flex;
+  @include align-items(center);
+  background-image: url('../assets/header-background.png');
+  background-position: left center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: $blueHeader;
+  padding: 154px 0 0 0;
+  height: 820px;
+}
+
+
+.section--letter {
+  background-image: url('../assets/bg-letter.svg');
+  background-position: left center;
+  background-repeat: no-repeat;
+  background-size: auto 102%;
+  padding-bottom: 0;
+  position: relative;
+}
+.section--letterBg {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-image: url('../assets/bg-letter-opacity.svg');
+  background-position: left top;
+  background-repeat: no-repeat;
+  background-size: cover;
+  z-index: 1;
+}
+
+.section--estrategia {
+  background-image: url('../assets/bg-estrategia.png');
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: $white;
+  padding: 90px 0 57px;
+  position: relative;
+
+  .container {
+    position: relative;
+    z-index: 2;
   }
-}
 
-.content-dropdownlist {
-  margin-right: 44px;
-  overflow: hidden;
-}
+  &::before {
+    background: rgba($turquoise, .5);
+    bottom: 0;
+    content: '';
+    display: block;
+    left: 0;
+    position: absolute;
+    right: 0;
+    top: 0;
+  }
 
-.content-dropdownitem {
-  @include text-overflow;
-  font-family: 'BentonBook';
-  font-size: 15px;
-  line-height: 26px;
-  margin-bottom: 32px;
-
+  h3 {
+    font-size: 72px;
+    line-height: 1;
+    margin-bottom: 40px;
+  }
+  p {
+    font: 18px 'BentonLight';
+    margin-bottom: 70px;
+  }
   a {
-    color: $dark;
+    font: 15px 'BentonMedium';
+    color: $white;
   }
+  .title-section {
+    margin-bottom: 30px;
+  }
+}
 
+
+.list {
+  @include display-flex;
+  @include flex-wrap(wrap);
+}
+
+.list--threeItems {
+  margin: 0 -15px ;
+
+  .list-item {
+    margin: 0 15px 30px;
+    width: calc(33.33% - 30px);
+  }
+}
+.list--twoItems {
+  margin: 0 -15px ;
+
+  .list-item {
+    margin: 0 15px 30px;
+    width: calc(50% - 30px);
+  }
+}
+.list--fourItems {
+  margin: 0 -15px ;
+
+  .list-item {
+    margin: 0 15px 30px;
+    width: calc(25% - 30px);
+  }
+}
+
+.list-numbersItem {
+  border-top: 1px solid $white;
+  padding-top: 35px;
+  margin-bottom: 60px;
+  .list-item {
+    margin-bottom: 0;
+  }
   &:last-child {
     margin-bottom: 0;
   }
+  h3 {
+    font: 26px/1 'BentonBold';
+    margin-bottom: 32px;
+  }
+  h4 {
+    font: 18px/1 'BentonBook';
+    margin-bottom: 24px;
+  }
+  .number {
+    font: 60px/1 'BentonLight';
+  }
 }
 
-.content-download {
-  font-family: 'BentonMedium';
-  font-size: 18px;
-  margin-top: 20px;
 
+.card {
+  background: $white;
+  border-bottom: 2px solid $tableborder;
+}
+
+.card-media {
+  img {
+    display: block;
+    width: 100%;
+  }
+}
+
+.card-txt {
+  @include display-flex;
+  @include flex-direction(column);
+  @include justify-content(space-between);
+  height: 222px;
+  padding: 30px;
+
+  h4 {
+    color: $bbvablue;
+    font: 11px 'BentonMedium';
+    margin-bottom: 4px;
+  }
+
+  h3 {
+    font: 26px 'BentonMedium';
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+
+  p {
+    color: $bbvablue;
+    font: 15px 'BentonMedium';
+  }
+}
+
+.card-inner {
+  color: $dark;
+}
+
+.card-highlight {
+  display: block;
+  overflow: hidden;
+  position: relative;
+
+  img {
+    display: block;
+  }
+
+  &::before {
+    background: rgba($dark, .20);
+    bottom: 0;
+    content: '';
+    display: block;
+    left: 0;
+    position: absolute;
+    right: 0;
+    top: 0;
+  }
+
+  .card-highlightTxt {
+    @include transition(all, 300ms, ease-in);
+    position: absolute;
+    padding: 40px;
+    top: calc(100% - 110px);
+
+    h2 {
+      font: 40px 'BentonBold';
+      margin-bottom: 20px;
+      color: $white;
+    }
+    p {
+      font: 20px 'BentonLight';
+      color: $white;
+    }
+  }
+  &:hover {
+    .card-highlightTxt {
+      top: 0;
+    }
+    &::before {
+      background: rgba($darkHover, 0.8);
+    }
+  }
+}
+
+.container-letter {
+  @include display-flex;
+  position: relative;
+}
+
+.letter {
+  color: $white;
+  width: 50%;
+  position: relative;
+  z-index: 2;
+
+  h2 {
+    font: 36px/1 'BentonLight';
+    margin-bottom: 48px;
+  }
+
+  h3 {
+    font: 40px/1.2 'BentonBook';
+    margin: 44px 0 54px;
+  }
+
+  p {
+    font: 18px/1 'BentonMedium';
+    margin-bottom: 40px;
+  }
   a {
+    font: 15px/1 'BentonMedium';
     color: $bbvablue;
   }
 }
-
-.content-dropdownlink {
-  cursor: pointer;
-  margin-top: 6px;
-
-  .is-open & {
-    transform: rotate(180deg);
+.letter-media {
+  width: 50%;
+  img {
+    display: block;
+    transform: translateX(84px);
   }
 }
 
-.content-downloadlink {
-  @include display-flex;
-  @include align-items(center);
-  svg {
-    margin-left: 12px;
+
+.section--header {
+  color: $white;
+  h1 {
+    font: 84px 'BentonBold'
+  }
+  h2 {
+    font: 35px 'BentonLight';
+    margin-bottom: 130px;
+  }
+  p {
+    font: 14px 'BentonBold';
+    span {
+      display: inline-block;
+      vertical-align: middle;
+      margin: 0 8px;
+    }
   }
 }
+
+.list-features {
+
+  .list-item {
+    padding-right: 100px;
+  }
+  .list-featuresMedia {
+    margin-bottom: 10px;
+  }
+  h2 {
+    font: 15px 'BentonMedium';
+    margin-bottom: 20px;
+    color: $bbvablue;
+  }
+
+  p {
+    font: 15px 'BentonBook';
+  }
+}
+
 

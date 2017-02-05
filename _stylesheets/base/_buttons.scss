@@ -1,0 +1,10 @@
+.button {
+  display: inline-block;
+  padding: 24px;
+}
+
+.button--green {
+  background: $green;
+  color: $white;
+  font: 15px 'BentonMedium';
+}
