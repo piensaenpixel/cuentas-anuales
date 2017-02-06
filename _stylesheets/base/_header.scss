@@ -5,7 +5,7 @@
 
 .Home .header {
   background: transparent;
-  position: absolute; 
+  position: absolute;
   top: 0;
   right: 0;
   left: 0;
@@ -41,6 +41,10 @@
 
     &:hover {
       @include transition(opacity, 300ms);
+      color: rgba($white, 1);
+    }
+
+    &.active {
       color: rgba($white, 1);
     }
   }
