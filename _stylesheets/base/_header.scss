@@ -34,6 +34,10 @@
       @include transition(opacity, 300ms);
       color: rgba($white, 1);
     }
+
+    &.active {
+      color: rgba($white, 1);
+    }
   }
 
   &:last-child {

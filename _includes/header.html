@@ -66,6 +66,24 @@
         <ul class="js-search-results"></ul>
       </div>
     </nav>
+
+    {% unless page.submenu == null %}
+    <nav class="navigation">
+      <ul class="menu">
+        {% for node in site.pages %}
+          {% if page.submenu == node.submenu %}
+            <li class="menu-item">
+            {% if page.url == node.url %}
+              <a href="{{node.url}}" class="active">{{node.title}}</a>
+            {% else %}
+              <a href="{{node.url}}">{{node.title}}</a>
+            {% endif %}
+            </li>
+          {% endif %}
+        {% endfor %}
+      </ul>
+    </nav>
+    {% endunless %}
   </div>
 
 </header>
