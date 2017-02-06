@@ -5,11 +5,8 @@ lang: es
 submenu: auditoria
 permalink: auditoria/foo/
 ---
-
-Los ingenieros hoy en día tienen una variedad de opciones de carrera. Usted podría ir a trabajar para una corporación grande, usted podría recaudar dinero y comenzar un arranque, podría freelance y pasar de un trabajo a otro con libertad-o podría iniciar un negocio con el objetivo de convertirse rápidamente en rentable.
-
-Courtland Allen fue un invitado en Software Engineering Daily hace unos meses, cuando habló de Indie Hackers, una plataforma que construyó para compartir las historias de los ingenieros de la construcción de negocios por su cuenta y ganar dinero.
-
-Sólo tocamos la punta del iceberg en nuestra conversación, así que estaba emocionado de invitarlo a la primera reunión de Software Engineering Daily Meetup, que ocurrió a principios de este mes. Hoy estamos reeditando su charla, y me encantaría escuchar sus comentarios sobre este formato. Estaremos experimentando más con nuevos anfitriones y formatos a lo largo de 2017, y si tiene ideas para el show o si está interesado en mostrar un show, por favor envíeme un correo electrónico.
-
-También el primer Meetup de Software Engineering Daily fue fantástico-hubo ~ 200 personas apareciendo así que puede que tengamos que tapar la asistencia en el siguiente. Únase al grupo Meetup si está interesado y le avisaremos cuando programemos nuestro próximo evento.
+<section class="section section--blue">
+  <div class="container u-txt-center title-section">
+    <p>Los ingenieros hoy en día tienen una variedad de opciones de carrera. Usted podría ir a trabajar para una corporación grande, usted podría recaudar dinero y comenzar un arranque, podría freelance y pasar de un trabajo a otro con libertad-o podría iniciar un negocio con el objetivo de convertirse rápidamente en rentable.</p>
+  </div>
+</section>
