@@ -45,10 +45,16 @@
 /***/ function(module, exports, __webpack_require__) {
 
 	var $ = __webpack_require__(1);
-	__webpack_require__(2)($);
-	__webpack_require__(3).init();
-	__webpack_require__(5).init();
-	__webpack_require__(6).init();
+
+	$(function () {
+	  __webpack_require__(2)($);
+	  __webpack_require__(3).init();
+	  __webpack_require__(5).init();
+	  __webpack_require__(6).init();
+
+	  var highlight = __webpack_require__(11);
+	  highlight();
+	});
 
 
 /***/ },
@@ -10828,6 +10834,7 @@
 	var _ = __webpack_require__(8);
 
 	var Query = __webpack_require__(9);
+	var utils = __webpack_require__(10);
 
 	var query = new Query();
 	var baseurl = window.baseurl;
@@ -10847,21 +10854,8 @@
 	  });
 	}
 
-	function createSearchTermRegExp (term) {
-	  term = term.replace(/(^ +| +$|['"‘’“”‚„*])/g, '').replace(/([+\[\](|){}\\^$])/g, '\\$1');
-	  var accentGroups = ['aáàäâåæ', 'cç', 'eéèëê', 'iíìïî', 'nñ', 'oóòöôøœ', 'uúùüû', 'yýÿ'];
-	  for (var i = 0; i < accentGroups.length; i++) {
-	    term = term.replace(new RegExp('[' + accentGroups[i] + ']', 'ig'), '[' + accentGroups[i] + ']');
-	  }
-	  // This has to be done after the accent handling, as '\n' is affected
-	  term = term.replace(/[.,:;…·\t\r\n \s]+/g, '[\'"‘’“”‚„*.,:;…·\\t\\r\\n \\s]+').replace(/[-–—]+/g, '[-–—]+');
-	  return new RegExp(term, 'ig');
-	};
-
 	function extracto (query, result) {
-	  console.log(result);
-
-	  var regexp = createSearchTermRegExp(query);
+	  var regexp = utils.createSearchTermRegExp(query);
 	  var pos = regexp.exec(result.content);
 	  pos = pos ? pos.index : 0;
 	  var pre = (pos > 20) ? '&#8230 ' : '';
@@ -10877,13 +10871,10 @@
 	}
 
 	function showResults (data, query) {
-	  console.log(data, query);
-
 	  var searchIndex;
 	  var results;
 	  var $results = $('.js-search-results');
 	  var totalScore = 0;
-	  var percentOfTotal;
 	  var node;
 
 	  // PIECE 1
@@ -10904,7 +10895,7 @@
 
 	  if (results.length > 0) {
 	    for (var result in results) {
-	      var node = data.filter(function (page) {
+	      node = data.filter(function (page) {
 	        return page.url === results[result].ref;
 	      })[0];
 
@@ -10917,14 +10908,12 @@
 	    });
 
 	    _.each(results, function (result) {
-	      percentOfTotal = result.score / totalScore;
-
 	      var hint = extracto(query, result);
 
 	      if (lang === 'es') {
-	        node = '<li><a href="' + baseurl + result.ref + '">' + result.title + '</a>' + hint + '</li>';
+	        node = '<li><a href="' + baseurl + result.ref + '?s=' + query + '">' + result.title + '</a>' + hint + '</li>';
 	      } else {
-	        node = '<li><a href="' + baseurl + '/' + lang + result.ref + '">' + result.title + '</a>' + hint + '</li>';
+	        node = '<li><a href="' + baseurl + '/' + lang + result.ref + '?s=' + query + '">' + result.title + '</a>' + hint + '</li>';
 	      }
 	      $results.append(node);
 	    });
@@ -14646,6 +14635,98 @@
 	};
 
 	module.exports = Query;
+
+
+/***/ },
+/* 10 */
+/***/ function(module, exports) {
+
+	module.exports = {
+	  createSearchTermRegExp: function (term) {
+	    term = term.replace(/(^ +| +$|['"‘’“”‚„*])/g, '').replace(/([+\[\](|){}\\^$])/g, '\\$1');
+	    var accentGroups = ['aáàäâåæ', 'cç', 'eéèëê', 'iíìïî', 'nñ', 'oóòöôøœ', 'uúùüû', 'yýÿ'];
+	    for (var i = 0; i < accentGroups.length; i++) {
+	      term = term.replace(new RegExp('[' + accentGroups[i] + ']', 'ig'), '[' + accentGroups[i] + ']');
+	    }
+	    // This has to be done after the accent handling, as '\n' is affected
+	    term = term.replace(/[.,:;…·\t\r\n \s]+/g, '[\'"‘’“”‚„*.,:;…·\\t\\r\\n \\s]+').replace(/[-–—]+/g, '[-–—]+');
+	    return new RegExp(term, 'ig');
+	  }
+	};
+
+
+/***/ },
+/* 11 */
+/***/ function(module, exports, __webpack_require__) {
+
+	var utils = __webpack_require__(10);
+	var $ = __webpack_require__(1);
+	var _ = __webpack_require__(8);
+
+	var query = function () {
+	  var location = window.location;
+	  if (!location.search) {
+	    return '';
+	  } else {
+	    var params = location.search.substring(1).split('&');
+	    for (var i = 0; i < params.length; i++) {
+	      var param = params[i].split('=');
+	      if (param[0] === 's' && (param.length === 2)) {
+	        return decodeURIComponent(param[1]);
+	      }
+	    }
+	  }
+	};
+
+	module.exports = function () {
+	  var location = window.location;
+
+	  if (location.search) {
+	    var searchword = query();
+	    if (searchword) {
+	      var re = utils.createSearchTermRegExp(searchword);
+	      $('section *').contents().each(function () {
+	        if (this.nodeType !== 3) {
+	          return;
+	        }
+
+	        var text = this.nodeValue ? this.nodeValue : this.textContent;
+	        if (!text) {
+	          return;
+	        }
+
+	        var matches = text.match(re);
+	        if (!matches) {
+	          return;
+	        }
+
+	        if ($(this).parent().is('span.highlight')) {
+	          return;
+	        }
+
+	        matches = _.uniq(matches);
+	        for (var i = matches.length - 1; i >= 0; --i) {
+	          var match = matches[i];
+	          var pieces = text.split(match);
+
+	          for (var t = pieces.length - 1; t >= 0; --t) {
+	            var piece = pieces[t];
+	            if (t < pieces.length - 1) {
+	              var newNode = document.createElement('SPAN');
+	              newNode.innerHTML = match;
+	              newNode.className = 'highlight';
+	              this.parentNode.insertBefore(newNode, this.nextSibling);
+	            }
+	            this.parentNode.insertBefore(document.createTextNode(piece), this.nextSibling);
+	          }
+
+	          this.parentNode.removeChild(this);
+	          return;
+	        }
+	      });
+	    }
+	  }
+	};
 
 
 /***/ }

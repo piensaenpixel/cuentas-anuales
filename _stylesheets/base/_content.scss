@@ -1,3 +1,35 @@
+.section {
+  background: $white;
+  padding: 80px 0;
+
+  span.highlight {
+    background-color: #ffec86;
+    color: #444;
+    padding: 2px;
+  }
+}
+
+.section--grey {
+  background: $lightgrey;
+}
+
+.section--blue {
+  background: $bbvablue;
+  color: $white;
+}
+
+.section--header {
+  @include display-flex;
+  @include align-items(center);
+  background-image: url('../assets/header-background.png');
+  background-position: left center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: $blueHeader;
+  padding: 154px 0 0 0;
+  height: 820px;
+}
+
 .content {
   padding-right: 180px;
 

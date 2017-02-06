@@ -3,6 +3,7 @@ var lunr = require('lunr');
 var _ = require('underscore');
 
 var Query = require('./query');
+var utils = require('./utils');
 
 var query = new Query();
 var baseurl = window.baseurl;
@@ -22,21 +23,8 @@ function filterData (data) {
   });
 }
 
-function createSearchTermRegExp (term) {
-  term = term.replace(/(^ +| +$|['"‘’“”‚„*])/g, '').replace(/([+\[\](|){}\\^$])/g, '\\$1');
-  var accentGroups = ['aáàäâåæ', 'cç', 'eéèëê', 'iíìïî', 'nñ', 'oóòöôøœ', 'uúùüû', 'yýÿ'];
-  for (var i = 0; i < accentGroups.length; i++) {
-    term = term.replace(new RegExp('[' + accentGroups[i] + ']', 'ig'), '[' + accentGroups[i] + ']');
-  }
-  // This has to be done after the accent handling, as '\n' is affected
-  term = term.replace(/[.,:;…·\t\r\n \s]+/g, '[\'"‘’“”‚„*.,:;…·\\t\\r\\n \\s]+').replace(/[-–—]+/g, '[-–—]+');
-  return new RegExp(term, 'ig');
-};
-
 function extracto (query, result) {
-  console.log(result);
-
-  var regexp = createSearchTermRegExp(query);
+  var regexp = utils.createSearchTermRegExp(query);
   var pos = regexp.exec(result.content);
   pos = pos ? pos.index : 0;
   var pre = (pos > 20) ? '&#8230 ' : '';
@@ -52,13 +40,10 @@ function clearSearchResults () {
 }
 
 function showResults (data, query) {
-  console.log(data, query);
-
   var searchIndex;
   var results;
   var $results = $('.js-search-results');
   var totalScore = 0;
-  var percentOfTotal;
   var node;
 
   // PIECE 1
@@ -79,7 +64,7 @@ function showResults (data, query) {
 
   if (results.length > 0) {
     for (var result in results) {
-      var node = data.filter(function (page) {
+      node = data.filter(function (page) {
         return page.url === results[result].ref;
       })[0];
 
@@ -92,14 +77,12 @@ function showResults (data, query) {
     });
 
     _.each(results, function (result) {
-      percentOfTotal = result.score / totalScore;
-
       var hint = extracto(query, result);
 
       if (lang === 'es') {
-        node = '<li><a href="' + baseurl + result.ref + '">' + result.title + '</a>' + hint + '</li>';
+        node = '<li><a href="' + baseurl + result.ref + '?s=' + query + '">' + result.title + '</a>' + hint + '</li>';
       } else {
-        node = '<li><a href="' + baseurl + '/' + lang + result.ref + '">' + result.title + '</a>' + hint + '</li>';
+        node = '<li><a href="' + baseurl + '/' + lang + result.ref + '?s=' + query + '">' + result.title + '</a>' + hint + '</li>';
       }
       $results.append(node);
     });
