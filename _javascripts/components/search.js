@@ -45,23 +45,19 @@ function showResults (data, query) {
   var $results = $('.js-search-results');
   var node;
 
-  var results = data.map(function (item) {
+  var hits = data.map(function (item) {
     var headingHits = (item.title.match(regexp) || []).length;
     item.score = (item.content.match(regexp) || []).length; // content match
     item.score += 5 * headingHits;  // h2 match
     return item;
-  });
-
-  results.sort(function (a, b) {
+  }).sort(function (a, b) {
     if (a.score > b.score) {
       return -1;
     } else if (a.score < b.score) {
       return 1;
     }
     return 0;
-  });
-
-  var hits = results.filter(function (result) {
+  }).filter(function (result) {
     return result.score !== 0;
   });
 
