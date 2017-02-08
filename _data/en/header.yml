@@ -8,11 +8,14 @@ options:
     url: /
 menu:
   - title: Informe de auditoría
-    url: /informe/auditoria
+    url: /informe-de-auditoria/
+    submenu: auditoria
   - title: Cuentas anuales consolidadas
-    url: /cuentas-anuales-consolidadas.html
+    url: /cuentas/notas-estados-financieros/
+    submenu: cuentas
   - title: Informe de gestión
-    url: /informe-de-gestion.html
+    url: /informe-de-gestion/
+    submenu: auditoria2
 footer:
 - title: Centro de seguridad
   url: /
