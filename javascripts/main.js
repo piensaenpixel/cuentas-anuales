@@ -10897,9 +10897,9 @@
 	      var hint = extracto(query, result);
 
 	      if (lang === 'es') {
-	        node = '<li><a href="' + baseurl + result.url + '?s=' + query + '">' + result.title + '</a>' + hint + '</li>';
+	        node = '<li><a href="' + result.url + '?s=' + query + '">' + result.title + '</a>' + hint + '</li>';
 	      } else {
-	        node = '<li><a href="' + baseurl + '/' + lang + result.url + '?s=' + query + '">' + result.title + '</a>' + hint + '</li>';
+	        node = '<li><a href="' + lang + result.url + '?s=' + query + '">' + result.title + '</a>' + hint + '</li>';
 	      }
 	      $results.append(node);
 	    });
@@ -10914,7 +10914,6 @@
 	}
 
 	function search (e) {
-	  // e.preventDefault();
 	  var searchQuery = $('.search-box').val().trim();
 	  query.set(searchQuery);
 	  clearSearchResults();
