@@ -8,10 +8,11 @@ var utils = require('./utils');
 var query = new Query();
 var baseurl = window.baseurl;
 var lang = window.lang;
+var debounce = utils.debounce;
 
 function getJsonURL () {
   if (lang === 'es') {
-    return '/pages.json';
+    return baseurl + '/pages.json';
   } else {
     return baseurl + '/' + lang + '/pages.json';
   }
@@ -114,6 +115,6 @@ function search (e) {
 
 module.exports = {
   init: function () {
-    $('.js-search').on('keyup', search);
+    $('.js-search').on('keyup', debounce(search, 100));
   }
 };

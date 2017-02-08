@@ -10839,10 +10839,11 @@
 	var query = new Query();
 	var baseurl = window.baseurl;
 	var lang = window.lang;
+	var debounce = utils.debounce;
 
 	function getJsonURL () {
 	  if (lang === 'es') {
-	    return '/pages.json';
+	    return baseurl + '/pages.json';
 	  } else {
 	    return baseurl + '/' + lang + '/pages.json';
 	  }
@@ -10945,7 +10946,7 @@
 
 	module.exports = {
 	  init: function () {
-	    $('.js-search').on('keyup', search);
+	    $('.js-search').on('keyup', debounce(search, 100));
 	  }
 	};
 
@@ -14651,6 +14652,21 @@
 	    // This has to be done after the accent handling, as '\n' is affected
 	    term = term.replace(/[.,:;…·\t\r\n \s]+/g, '[\'"‘’“”‚„*.,:;…·\\t\\r\\n \\s]+').replace(/[-–—]+/g, '[-–—]+');
 	    return new RegExp(term, 'ig');
+	  },
+
+	  debounce: function(func, wait, immediate) {
+	    var timeout;
+	    return function() {
+	      var context = this, args = arguments;
+	      var later = function() {
+	        timeout = null;
+	        if (!immediate) func.apply(context, args);
+	      };
+	      var callNow = immediate && !timeout;
+	      clearTimeout(timeout);
+	      timeout = setTimeout(later, wait);
+	      if (callNow) func.apply(context, args);
+	    };
 	  }
 	};
 
