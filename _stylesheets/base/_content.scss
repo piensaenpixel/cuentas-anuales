@@ -41,6 +41,27 @@ span.highlight {
     margin-bottom: 24px;
   }
 
+  > h4 {
+    font-family: 'BentonBook';
+    font-size: 20px;
+    line-height: 26px;
+    margin-bottom: 22px;
+  }
+
+  > h5 {
+    font-family: 'BentonBook';
+    font-size: 18px;
+    line-height: 24px;
+    margin-bottom: 20px;
+  }
+
+  > h6 {
+    font-family: 'BentonBook';
+    font-size: 16px;
+    line-height: 22px;
+    margin-bottom: 18px;
+  }
+
   > ul {
     color: $txtgrey;
     font-size: 15px;
