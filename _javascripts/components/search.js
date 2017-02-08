@@ -10,6 +10,8 @@ var baseurl = window.baseurl;
 var lang = window.lang;
 var debounce = utils.debounce;
 
+var filteredData;
+
 function getJsonURL () {
   if (lang === 'es') {
     return baseurl + '/pages.json';
@@ -103,13 +105,17 @@ function search (e) {
   clearSearchResults();
 
   if (searchQuery.length >= 3) {
-    query
+    if (filteredData == null) {
+      query
       .set(searchQuery)
       .getJSON(getJsonURL())
       .done(function (data) {
-        var filteredData = filterData(data);
+        filteredData = filterData(data);
         showResults(filteredData, query.get());
       });
+    } else {
+      showResults(filteredData, query.get());
+    }
   }
 }
 
