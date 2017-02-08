@@ -1,5 +1,4 @@
 var $ = require('jquery');
-var lunr = require('lunr');
 var _ = require('underscore');
 
 var Query = require('./query');
@@ -8,7 +7,6 @@ var utils = require('./utils');
 var query = new Query();
 var baseurl = window.baseurl;
 var lang = window.lang;
-var debounce = utils.debounce;
 
 var filteredData;
 
@@ -43,49 +41,38 @@ function clearSearchResults () {
 }
 
 function showResults (data, query) {
-  var searchIndex;
-  var results;
+  var regexp = utils.createSearchTermRegExp(query);
   var $results = $('.js-search-results');
-  var totalScore = 0;
   var node;
 
-  // PIECE 1
-  // set up the allowable fields
-  searchIndex = lunr(function () {
-    this.field('title');
-    this.field('content');
-    this.ref('url');
+  var results = data.map(function (item) {
+    var headingHits = (item.title.match(regexp) || []).length;
+    item.score = (item.content.match(regexp) || []).length; // content match
+    item.score += 5 * headingHits;  // h2 match
+    return item;
   });
 
-  // PIECE 2
-  // add each item from page.json to the index
-  _.each(data, function (item) {
-    searchIndex.add(item);
-  });
-
-  results = searchIndex.search(query);
-
-  if (results.length > 0) {
-    for (var result in results) {
-      node = data.filter(function (page) {
-        return page.url === results[result].ref;
-      })[0];
-
-      results[result].title = node.title;
-      results[result].content = node.content;
+  results.sort(function (a, b) {
+    if (a.score > b.score) {
+      return -1;
+    } else if (a.score < b.score) {
+      return 1;
     }
+    return 0;
+  });
 
-    _.each(results, function (result) {
-      totalScore += result.score;
-    });
+  var hits = results.filter(function (result) {
+    return result.score !== 0;
+  });
 
-    _.each(results, function (result) {
+  if (hits.length > 0) {
+    _.each(hits, function (result) {
       var hint = extracto(query, result);
 
       if (lang === 'es') {
-        node = '<li><a href="' + baseurl + result.ref + '?s=' + query + '">' + result.title + '</a>' + hint + '</li>';
+        node = '<li><a href="' + baseurl + result.url + '?s=' + query + '">' + result.title + '</a>' + hint + '</li>';
       } else {
-        node = '<li><a href="' + baseurl + '/' + lang + result.ref + '?s=' + query + '">' + result.title + '</a>' + hint + '</li>';
+        node = '<li><a href="' + baseurl + '/' + lang + result.url + '?s=' + query + '">' + result.title + '</a>' + hint + '</li>';
       }
       $results.append(node);
     });
@@ -102,17 +89,17 @@ function showResults (data, query) {
 function search (e) {
   // e.preventDefault();
   var searchQuery = $('.search-box').val().trim();
+  query.set(searchQuery);
   clearSearchResults();
 
   if (searchQuery.length >= 3) {
     if (filteredData == null) {
       query
-      .set(searchQuery)
-      .getJSON(getJsonURL())
-      .done(function (data) {
-        filteredData = filterData(data);
-        showResults(filteredData, query.get());
-      });
+        .getJSON(getJsonURL())
+        .done(function (data) {
+          filteredData = filterData(data);
+          showResults(filteredData, query.get());
+        });
     } else {
       showResults(filteredData, query.get());
     }
@@ -121,6 +108,6 @@ function search (e) {
 
 module.exports = {
   init: function () {
-    $('.js-search').on('keyup', debounce(search, 100));
+    $('.js-search').on('keyup', search);
   }
 };
