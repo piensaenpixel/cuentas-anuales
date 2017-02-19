@@ -24,6 +24,8 @@ module.exports = {
 
 $( ".js-searchAction" ).click(function() {
   $('.search').toggleClass('is-active');
+  $('.search-form input').focus();
+
 });
 
 $( ".js-hamburguer" ).click(function() {

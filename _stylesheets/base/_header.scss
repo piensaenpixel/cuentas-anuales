@@ -138,7 +138,7 @@
 
   @media (max-width: $mobile) {
     right: 0;
-    top: -2px;
+    top: 0;
   }
 
   &.is-active {
@@ -146,10 +146,28 @@
     @media (max-width: $mobile) {
       left: 0;
     }
+    .search-inner {
+      margin-right: 30px;
+      margin-top: -1px;
+      position: relative;
+    }
 
     .search-form {
+      @include flex(1);
       display: block;
       margin-left: 8px;
+
+      input {
+        width: 100%;
+        background: none;
+        border: 0;
+        font-family: 'BentonBook';
+        font-size: 15px;
+        color: $white;
+        &:focus {
+          outline: none;
+        }
+      }
     }
     .search-info {
       opacity: 1;
@@ -167,6 +185,7 @@
 
 .search-inner {
   @include display-flex();
+  @include flex(1);
   img {
     @media (max-width: $mobile) {
       width: 14px;
@@ -175,7 +194,9 @@
 }
 
 .search-item {
+  @include display-flex();
   @include flex(1);
+  @include align-items(center);
   cursor: pointer;
 }
 
@@ -237,12 +258,12 @@
   padding: 20px;
 
   @media (max-width: $mobile) {
-    top: 34px;
+    top: 36px;
     padding: 13px;
     border: 0;
     border-bottom: 2px solid #e9e9e9;
     left: -13px;
-    right: -13px;
+    right: -46px;
   }
 
   &:empty {
@@ -299,7 +320,7 @@
     background: $darkblue;
     top: 0;
     display: block;
-    padding: 100px 13px 13px 13px;
+    padding: 60px 13px 13px 13px;
     .menu {
       @include flex-direction(column);
     }
