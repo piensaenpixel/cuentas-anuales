@@ -1,3 +1,4 @@
+{% assign lang = site.active_lang %}
 <nav class="navigation-mobile">
   <ul class="menu">
     {% for menu in site.data.header.menu %}
@@ -24,5 +25,9 @@
         {% endunless %}
       </li>
     {% endfor %}
+  </ul>
+  <ul class="mobile-language">
+    <li><a href="#" class="active">ES</a></li>
+    <li><a href="#">EN</a></li>
   </ul>
 </nav>
