@@ -18,6 +18,7 @@ function splitTable (original) {
 
 function unsplitTable (original) {
   original.closest('.table-wrapper').find('.pinned').remove();
+  original.find('tr:first td, tr:first th').css('display', 'none');
   original.unwrap();
 }
 
@@ -61,13 +62,12 @@ function updateTables () {
 
 module.exports = {
   init: function () {
-    $('table').tableHover({colClass: 'hover', ignoreCols: [1]});
-    updateTables();
-
-    $(window).on('redraw', function () {
-      switched = false;
-      updateTables();
-    });
+   $('table').tableHover({colClass: 'hover', ignoreCols: [1]});
+   updateTables();
+   $(window).on('redraw', function () {
+     switched = false;
+     updateTables();
+   });
 
     $(window).on('resize', updateTables);
   }
