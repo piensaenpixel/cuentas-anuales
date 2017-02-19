@@ -11,6 +11,8 @@ var scrollHandler = function () {
 };
 
 var $w = $(window);
+var value = $( ".fix-header" ).height();
+
 
 module.exports = {
   init: function () {
@@ -18,3 +20,23 @@ module.exports = {
     $w.on('scroll', scrollHandler);
   }
 };
+
+
+$( ".js-searchAction" ).click(function() {
+  $('.search').toggleClass('is-active');
+});
+
+$( ".js-hamburguer" ).click(function() {
+  $('body').toggleClass('blocked');
+  $('.navigation-mobile').toggleClass('is-open');
+});
+
+function fixHeader() {
+  $('.container--fixed').css('padding-top', value+'px');
+};
+
+$(document).resize(function() {
+  fixHeader();
+});
+
+fixHeader();

@@ -6,10 +6,16 @@ span.highlight {
 
 .content {
   padding-right: 180px;
+  @media (max-width: $mobile) {
+    padding-right: 0;
+  }
 
   .content-info {
     margin-bottom: 35px;
     margin-right: -180px;
+    @media (max-width: $mobile) {
+      margin-right: 0;
+    }
   }
 
   > p {
@@ -130,6 +136,9 @@ span.highlight {
   @include display-flex;
   @include align-items(flex-start);
   @include justify-content(space-between);
+  @media (max-width: $mobile) {
+    display: block;
+  }
 }
 
 .content-dropdown {
@@ -141,6 +150,10 @@ span.highlight {
   max-width: 70%;
   overflow: hidden;
   padding: 22px;
+  @media (max-width: $mobile) {
+    @include flex(0 0 100%);
+    max-width: 100%;
+  }
 
   &.is-open {
     height: auto;

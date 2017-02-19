@@ -1,5 +1,5 @@
-var $ = require('jquery');
-window.jQuery = $;
+var $ = require('jquery')
+window.jQuery = $
 
 $(function () {
   require('./vendor/jquery.tablehover')($);

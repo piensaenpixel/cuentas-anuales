@@ -26,6 +26,10 @@ body {
   height: 100%;
 }
 
+body.blocked {
+  overflow: hidden;
+}
+
 a {
   text-decoration: none;
 }

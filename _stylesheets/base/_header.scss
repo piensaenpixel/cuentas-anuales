@@ -1,6 +1,23 @@
+.fix-header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+}
+
 .header {
   background: $darkblue;
   padding: 16px 0 26px;
+  .container {
+    position: relative;
+  }
+  @media (max-width: $mobile) {
+    padding: 17px 13px;
+    .container {
+      padding-right: 0;
+      padding-left: 0;
+    }
+  }
 }
 
 .header-container {
@@ -9,6 +26,19 @@
   @include align-items(flex-end);
   margin-bottom: 26px;
   margin-top: 46px;
+  @media (max-width: $mobile) {
+    @include justify-content(flex-start);
+    @include align-items(center);
+    margin: 0;
+    a {
+      height: 15px;
+      width: 49px;
+    }
+    img {
+      height: 15px;
+      width: auto;
+    }
+  }
 }
 
 .menu {
@@ -20,6 +50,10 @@
   font-family: 'BentonLight';
   font-size: 34px;
   line-height: 1;
+  @media (max-width: $mobile) {
+    font-size: 16px;
+    margin-left: 12px;
+  }
 }
 
 .menu-item {
@@ -45,6 +79,14 @@
   }
 }
 
+.options {
+  @media (max-width: $mobile) {
+    display: none;
+    &.is-mobile {
+      display: block;
+    }
+  }
+}
 
 .options-list {
   @include display-flex();
@@ -74,24 +116,199 @@
   @include display-flex();
   @include align-items(center);
   @include justify-content(space-between);
+  position: relative;
+  &.is-mobile {
+    display: none;
+  }
+  @media (max-width: $mobile) {
+    display: none;
+    &.is-mobile {
+      display: block;
+    }
+  }
+}
+
+.search {
+  @include display-flex();
+  background: $darkblue;
+  left: auto;
+  position: absolute;
+  right: 26px;
+  z-index: 1;
+
+  @media (max-width: $mobile) {
+    right: 0;
+    top: -2px;
+  }
+
+  &.is-active {
+    left: 26px;
+    @media (max-width: $mobile) {
+      left: 0;
+    }
+
+    .search-form {
+      display: block;
+      margin-left: 8px;
+    }
+    .search-info {
+      opacity: 1;
+    }
+    .search-results {
+      display: block;
+
+      &:empty {
+        display: none;
+      }
+    }
+
+  }
+}
+
+.search-inner {
+  @include display-flex();
+  img {
+    @media (max-width: $mobile) {
+      width: 14px;
+    }
+  }
 }
 
 .search-item {
+  @include flex(1);
   cursor: pointer;
+}
+
+.search-form {
+  display: none;
+}
+
+.search-info {
+  @include display-flex();
+  @include align-items(center);
+  position: absolute;
+  right: 0;
+  top: 0;
+  left: auto;
+  opacity: 0;
+  @media (max-width: $mobile) {
+    top: 3px;
+  }
+}
+.bbva-icon-close {
+  cursor: pointer;
+  margin-left: 20px;
+  img {
+    display: block;
+    @media (max-width: $mobile){
+      width: 14px;
+    }
+  }
+
+}
+.home-search-elements-press-enter {
+  font-style: italic;
+  font-weight: 600;
+  font-size: 12px;
+  color: $white;
+  white-space: nowrap;
 }
 
 .subnavigation {
   padding: 24px 0;
   background: $lightblue;
+  &.is-mobile {
+    display: none;
+  }
+  @media (max-width: $mobile) {
+    display: none;
+  }
 }
 
 .search-results {
+  display: none;
+  position: absolute;
+  top: 47px;
+  left: 0;
+  right: 0;
+  background: white;
+  border: 1px solid #e9e9e9;
+  border-top: 0;
+  padding: 20px;
 
+  @media (max-width: $mobile) {
+    top: 34px;
+    padding: 13px;
+    border: 0;
+    border-bottom: 2px solid #e9e9e9;
+    left: -13px;
+    right: -13px;
+  }
+
+  &:empty {
+    display: none;
+  }
+
+  li {
+    @include display-flex();
+    margin-bottom: 10px;
+    font-family: 'BentonLight';
+    font-size: 15px;
+    background: $white;
+    padding: 10px 0; 
+    color: #666;
+    &:last-child {
+      margin-bottom: 0;
+      padding-bottom: 0;
+    }
+    a {
+      color: $bbvablue;
+      font-family: 'BentonMedium';
+      margin-right: 8px,
+    }
+    @media (max-width: $mobile) {
+      @include flex-direction(column);
+      padding: 0;
+      margin-bottom: 13px;
+      &:last-child {
+        margin-bottom: 0;
+      }
+    }
+  }
 }
-.search-results li {
-  margin-bottom: 10px;
-  font-family: 'BentonLight';
-  font-size: 14px;
-  background: $white;
-  padding: 10px; 
+
+.hamburguer {
+  display: none;
+  margin-right: 24px;
+  cursor: pointer;
+  @media (max-width: $mobile) {
+    display: block;
+  }
 }
+
+.navigation-mobile {
+  display: none;
+  transform: translateX(-100%);
+  &.is-open {
+    transform: translateX(0);
+    width: 100%;
+    height: 100vh;
+    position: fixed;
+    background: $darkblue;
+    top: 0;
+    display: block;
+    padding: 100px 13px 13px 13px;
+    .menu {
+      @include flex-direction(column);
+    }
+    .menu-item {
+      border: 0;
+      border-bottom: 1px solid rgba(233, 233, 233, 0.2);
+      margin: 0 15px;
+      padding: 16px 15px;
+      font-size: 17px;
+      font-family: 'BentonLight';
+    }
+  }
+}
+
