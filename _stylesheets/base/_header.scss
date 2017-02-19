@@ -281,6 +281,8 @@
   display: none;
   margin-right: 24px;
   cursor: pointer;
+  width: 18px;
+  height: 18px;
   @media (max-width: $mobile) {
     display: block;
   }
@@ -308,6 +310,17 @@
       padding: 16px 15px;
       font-size: 17px;
       font-family: 'BentonLight';
+      a.active + .subnavigation {
+        display: block;
+        background: none;
+        padding: 0;
+        .menu-item {
+          padding: 0;
+          border: 0;
+          font-size: 15px;
+          margin-top: 15px;
+        }
+      }
     }
   }
 }
