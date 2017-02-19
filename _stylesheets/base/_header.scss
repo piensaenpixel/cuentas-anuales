@@ -3,6 +3,8 @@
   top: 0;
   left: 0;
   right: 0;
+  backface-visibility: hidden;
+  z-index: 1;
 }
 
 .header {
@@ -276,7 +278,7 @@
     font-family: 'BentonLight';
     font-size: 15px;
     background: $white;
-    padding: 10px 0; 
+    padding: 10px 0;
     color: #666;
     &:last-child {
       margin-bottom: 0;
@@ -311,14 +313,18 @@
 
 .navigation-mobile {
   display: none;
-  transform: translateX(-100%);
+  // transform: translateX(-100%);
   &.is-open {
-    transform: translateX(0);
-    width: 100%;
-    height: 100vh;
+    // transform: translateX(0);
+    // width: 100%;
+    // height: 100vh;
+    backface-visibility: hidden;
     position: fixed;
     background: $darkblue;
     top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
     display: block;
     padding: 60px 13px 13px 13px;
     .menu {
