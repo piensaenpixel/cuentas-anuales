@@ -376,3 +376,25 @@
   }
 }
 
+.hamburguer-icon {
+  @include display-flex();
+  @include align-items(center);
+  @include justify-content(center);
+  width: 18px;
+  height: 18px;
+  &.is-hidden {
+    display: none;
+  }
+}
+
+.closeMenu-icon {
+  display: none;
+  width: 18px;
+  height: 18px;
+  &.is-open {
+    @include display-flex();
+    @include align-items(center);
+    @include justify-content(center);
+  }
+}
+

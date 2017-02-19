@@ -12687,6 +12687,8 @@
 	$( ".js-hamburguer" ).click(function() {
 	  $('body').toggleClass('blocked');
 	  $('.navigation-mobile').toggleClass('is-open');
+	  $('.hamburguer-icon').toggleClass('is-hidden');
+	  $('.closeMenu-icon').toggleClass('is-open');
 	});
 
 	function fixHeader() {
