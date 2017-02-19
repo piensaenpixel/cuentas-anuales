@@ -27,7 +27,12 @@
     {% endfor %}
   </ul>
   <ul class="mobile-language">
-    <li><a href="#" class="active">ES</a></li>
-    <li><a href="#">EN</a></li>
+    {% for language in site.languages %}
+      <li>
+        <a class="{% if language == lang %}active{% endif %}" href="{% if language == site.default_lang %} {{site.baseurl}}{{page.url}} {% else %} {{site.baseurl}}/{{language}}{{page.url}} {% endif %}">
+        {{ language | upcase }}
+      </a>
+      </li>
+    {% endfor %}
   </ul>
 </nav>
