@@ -102,8 +102,9 @@ gulp.task('jekyll', () => {
 // Optimise images + copy any other assets
 gulp.task('assets', () => {
   return gulp.src('_assets/*')
+    .pipe(gulp.dest('images'))
     .pipe(imagemin())
-    .pipe(gulp.dest('_site/assets'));
+    .pipe(gulp.dest('_site/images'));
 });
 
 gulp.task('default', ['css', 'js', 'fonts', 'assets', 'jekyll', 'serve']);

@@ -29,7 +29,7 @@ permalink: pretty
 # Language settings
 languages: ["es", "en"]
 default_lang: "es"
-exclude_from_localization: ["javascript", "assets", "stylesheets"]
+exclude_from_localization: ["javascript", "assets", "images", "stylesheets"]
 parallel_localization: true
 
 # Build settings
