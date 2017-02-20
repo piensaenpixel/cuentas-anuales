@@ -1,433 +1,13 @@
-<!DOCTYPE HTML>
-<html lang="es">
-    <head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-
-  <title>Your awesome title | Anexos</title>
-  <meta name="description" content="Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
-">
-
-  <meta http-equiv="Content-Language" content="es"><link rel="alternate" i18n="es" href="/cuentas/anexos/" />
-<link rel="alternate" i18n="en" href="/en/cuentas/anexos/" />
-
-  <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
-  <link rel="stylesheet" href="/stylesheets/main.css">
-  <link rel="canonical" href="/cuentas/anexos/">
-</head>
-  <body>
-    
-<nav class="navigation-mobile">
-  <ul class="menu">
-    
-      <li class="menu-item">
-        <a  href="/informe-de-auditoria/">
-          Informe de auditoría
-        </a>
-        
-          <nav class="subnavigation">
-            <ul class="menu">
-              
-                
-                  <li class="menu-item">
-                  
-                    <a href="/cuentas/anexos/" class="active">Anexos</a>
-                  
-                  </li>
-                
-              
-                
-                  <li class="menu-item">
-                  
-                    <a href="/cuentas-anuales-consolidadas/"></a>
-                  
-                  </li>
-                
-              
-                
-                  <li class="menu-item">
-                  
-                    <a href="/cuentas/estados-financieros/">Estados financieros</a>
-                  
-                  </li>
-                
-              
-                
-              
-                
-                  <li class="menu-item">
-                  
-                    <a href="/cuentas/glosario/">Glosario de terminos</a>
-                  
-                  </li>
-                
-              
-                
-              
-                
-              
-                
-              
-                
-                  <li class="menu-item">
-                  
-                    <a href="/cuentas/notas-estados-financieros/">Notas de los estados financieros consolidados adjuntos</a>
-                  
-                  </li>
-                
-              
-                
-              
-                
-              
-                
-              
-                
-              
-            </ul>
-          </nav>
-        
-      </li>
-    
-      <li class="menu-item">
-        <a class="active" href="/cuentas/notas-estados-financieros/">
-          Cuentas anuales consolidadas
-        </a>
-        
-          <nav class="subnavigation">
-            <ul class="menu">
-              
-                
-                  <li class="menu-item">
-                  
-                    <a href="/cuentas/anexos/" class="active">Anexos</a>
-                  
-                  </li>
-                
-              
-                
-                  <li class="menu-item">
-                  
-                    <a href="/cuentas-anuales-consolidadas/"></a>
-                  
-                  </li>
-                
-              
-                
-                  <li class="menu-item">
-                  
-                    <a href="/cuentas/estados-financieros/">Estados financieros</a>
-                  
-                  </li>
-                
-              
-                
-              
-                
-                  <li class="menu-item">
-                  
-                    <a href="/cuentas/glosario/">Glosario de terminos</a>
-                  
-                  </li>
-                
-              
-                
-              
-                
-              
-                
-              
-                
-                  <li class="menu-item">
-                  
-                    <a href="/cuentas/notas-estados-financieros/">Notas de los estados financieros consolidados adjuntos</a>
-                  
-                  </li>
-                
-              
-                
-              
-                
-              
-                
-              
-                
-              
-            </ul>
-          </nav>
-        
-      </li>
-    
-      <li class="menu-item">
-        <a  href="/informe-de-gestion/">
-          Informe de gestión
-        </a>
-        
-          <nav class="subnavigation">
-            <ul class="menu">
-              
-                
-                  <li class="menu-item">
-                  
-                    <a href="/cuentas/anexos/" class="active">Anexos</a>
-                  
-                  </li>
-                
-              
-                
-                  <li class="menu-item">
-                  
-                    <a href="/cuentas-anuales-consolidadas/"></a>
-                  
-                  </li>
-                
-              
-                
-                  <li class="menu-item">
-                  
-                    <a href="/cuentas/estados-financieros/">Estados financieros</a>
-                  
-                  </li>
-                
-              
-                
-              
-                
-                  <li class="menu-item">
-                  
-                    <a href="/cuentas/glosario/">Glosario de terminos</a>
-                  
-                  </li>
-                
-              
-                
-              
-                
-              
-                
-              
-                
-                  <li class="menu-item">
-                  
-                    <a href="/cuentas/notas-estados-financieros/">Notas de los estados financieros consolidados adjuntos</a>
-                  
-                  </li>
-                
-              
-                
-              
-                
-              
-                
-              
-                
-              
-            </ul>
-          </nav>
-        
-      </li>
-    
-  </ul>
-  <ul class="mobile-language">
-    
-      <li>
-        <a class="active" href=" /cuentas/anexos/ ">
-        ES
-      </a>
-      </li>
-    
-      <li>
-        <a class="" href=" /en/cuentas/anexos/ ">
-        EN
-      </a>
-      </li>
-    
-  </ul>
-</nav>
-
-    <div class="fix-header">
-      
-<header class="header">
-
-  <div class="container">
-
-    <nav class="options">
-      <ul class="options-list">
-        
-          <li class="options-listitem">
-          
-            
-              
-            
-              
-                <a href=" /en/cuentas/anexos/ ">
-                  English
-                </a>
-              
-            
-          
-          </li>
-        
-          <li class="options-listitem">
-          
-            <a href="/">
-              Descargar informe
-            </a>
-          
-          </li>
-        
-          <li class="options-listitem">
-          
-            <a href="/">
-              Contacta con nosotros
-            </a>
-          
-          </li>
-        
-      </ul>
-    </nav>
-
-    <div class="header-container">
-      <span class="hamburguer">
-        <span class="js-hamburguer">
-          <span class="hamburguer-icon">
-            <svg width="18px" height="13px" viewBox="412 460 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-              <g id="Group" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(412.000000, 460.000000)">
-                <polygon id="Path-2" fill="#FFFFFF" points="0 0 2.22044605e-16 3 16 3 18 0"></polygon>
-                <polygon id="Path-2-Copy" fill="#FFFFFF" points="0 5 0 8 13 8 15 5"></polygon>
-                <polygon id="Path-2-Copy-2" fill="#FFFFFF" points="0 10 0 13 10 13 12 10"></polygon>
-              </g>
-            </svg>
-          </span>
-          <span class="closeMenu-icon ">
-            <img src="/assets/close-white.svg" />
-          </span>
-        </span>
-      </span>
-      <a href="/">
-        <img src="/assets/logo.svg" />
-      </a>
-      <h1 class="header-title">
-        Cuentas generales
-      </h1>
-    </div>
-
-    <div class="search">
-      <span class="search-item">
-        <div class="search-inner">
-          <img class="js-searchAction" src="/assets/search.svg" />
-        </span>
-        <ul class="js-search-results search-results"></ul>
-
-        <form class="search-form js-search">
-          <input type="text" class="search-box" id="search" />
-        </form>
-      </div>
-      <div class="search-info">
-      <!--
-        <span class="home-search-elements-press-enter">Pulsar Enter</span>-->
-        <span class="bbva-icon-close">
-          <img class="js-searchAction" src="/assets/close.svg" />
-        </span>
-      </div>
-    </div>
+---
+layout: default
+title: Anexos
+lang: es
+submenu: cuentas
+permalink: cuentas/anexos/
+---
 
 
-    <nav class="navigation">
-      <ul class="menu">
-        
-          <li class="menu-item">
-            <a  href="/informe-de-auditoria/">
-              Informe de auditoría
-            </a>
-          </li>
-        
-          <li class="menu-item">
-            <a class="active" href="/cuentas/notas-estados-financieros/">
-              Cuentas anuales consolidadas
-            </a>
-          </li>
-        
-          <li class="menu-item">
-            <a  href="/informe-de-gestion/">
-              Informe de gestión
-            </a>
-          </li>
-        
-      </ul>
-    </nav>
-  </div>
-</header>
-
-  <nav class="subnavigation">
-    <div class="container">
-      <ul class="menu">
-        
-          
-            <li class="menu-item">
-            
-              <a href="/cuentas/anexos/" class="active">Anexos</a>
-            
-            </li>
-          
-        
-          
-            <li class="menu-item">
-            
-              <a href="/cuentas-anuales-consolidadas/"></a>
-            
-            </li>
-          
-        
-          
-            <li class="menu-item">
-            
-              <a href="/cuentas/estados-financieros/">Estados financieros</a>
-            
-            </li>
-          
-        
-          
-        
-          
-            <li class="menu-item">
-            
-              <a href="/cuentas/glosario/">Glosario de terminos</a>
-            
-            </li>
-          
-        
-          
-        
-          
-        
-          
-        
-          
-            <li class="menu-item">
-            
-              <a href="/cuentas/notas-estados-financieros/">Notas de los estados financieros consolidados adjuntos</a>
-            
-            </li>
-          
-        
-          
-        
-          
-        
-          
-        
-          
-        
-      </ul>
-    </div>
-  </nav>
-
-    </div>
-    <div class="container container--fixed">
-      <div class="inner content">
-        <h1 id="anexos">Anexos</h1>
+# Anexos
 
 <div class="content-info">
   <div class="content-dropdown js-dropdown">
@@ -448,7 +28,7 @@
   </p>
 </div>
 
-<h2 id="anexo-i-información-adicional-sobre-sociedades-dependientes-que-componen-el-grupo-bbva-y-entidades-estructuradas-consolidadas">ANEXO I Información adicional sobre sociedades dependientes que componen el Grupo BBVA y entidades estructuradas consolidadas</h2>
+## ANEXO I Información adicional sobre sociedades dependientes que componen el Grupo BBVA y entidades estructuradas consolidadas
 
 <table>
     <thead>
@@ -1105,13 +685,14 @@
     </tbody>
 </table>
 
-<p>(<em>) Datos de sociedades extranjeras al tipo de cambio del 31 de diciembre de 2016
-(<strong>) Esta sociedad cuenta con préstamos participativos de CATALUNYACAIXA IMMOBILIARIA, S.A.
-(</strong></em>) Esta sociedad cuenta con un préstamo participativo de UNNIM SOCIEDAD PARA LA GESTION DE ACTIVOS INMOBILIARIOS, S.A
+(*) Datos de sociedades extranjeras al tipo de cambio del 31 de diciembre de 2016
+(**) Esta sociedad cuenta con préstamos participativos de CATALUNYACAIXA IMMOBILIARIA, S.A.
+(***) Esta sociedad cuenta con un préstamo participativo de UNNIM SOCIEDAD PARA LA GESTION DE ACTIVOS INMOBILIARIOS, S.A
 (1) Sociedad controlada por integración global de acuerdo a normas contables (ver anexo Glosario)
-(2) Los resultados de estas sociedades procedentes de la compra de Catalunya Banc, S.A. corresponden desde mayo a diciembre-2016</p>
+(2) Los resultados de estas sociedades procedentes de la compra de Catalunya Banc, S.A. corresponden desde mayo a diciembre-2016
 
-<h3 id="información-adicional-sobre-sociedades-dependientes-consolidadas-que-componen-el-grupo-bbva-y-entidades-estructuradas-consolidadas-continuación">Información adicional sobre sociedades dependientes consolidadas que componen el Grupo BBVA y entidades estructuradas consolidadas (Continuación)</h3>
+
+### Información adicional sobre sociedades dependientes consolidadas que componen el Grupo BBVA y entidades estructuradas consolidadas (Continuación)
 
 <div class="content-info">
   <div class="content-dropdown js-dropdown">
@@ -1635,7 +1216,7 @@
             <td>(10)</td>
         </tr>
         <tr>
-            <td>BBVA DATA &amp; ANALYTICS, S.L.</td>
+            <td>BBVA DATA & ANALYTICS, S.L.</td>
             <td>&nbsp;</td>
             <td>ESPAÑA </td>
             <td>SERVICIOS</td>
@@ -1787,11 +1368,12 @@
     </tbody>
 </table>
 
-<p>(*) Datos de sociedades extranjeras al tipo de cambio del 31 de diciembre de 2016
+(*) Datos de sociedades extranjeras al tipo de cambio del 31 de diciembre de 2016
 (1) Sociedad controlada por integración global de acuerdo a normas contables (ver anexo Glosario)
-(2) Los resultados de estas sociedades procedentes de la compra de Catalunya Banc, S.A. corresponden desde mayo a diciembre-2016</p>
+(2) Los resultados de estas sociedades procedentes de la compra de Catalunya Banc, S.A. corresponden desde mayo a diciembre-2016
 
-<h3 id="información-adicional-sobre-sociedades-dependientes-consolidadas-que-componen-el-grupo-bbva-y-entidades-estructuradas-consolidadas-continuación-1">Información adicional sobre sociedades dependientes consolidadas que componen el Grupo BBVA y entidades estructuradas consolidadas (Continuación)</h3>
+
+### Información adicional sobre sociedades dependientes consolidadas que componen el Grupo BBVA y entidades estructuradas consolidadas (Continuación)
 
 <div class="content-info">
   <div class="content-dropdown js-dropdown">
@@ -2467,13 +2049,14 @@
     </tbody>
 </table>
 
-<p>(<em>) Datos de sociedades extranjeras al tipo de cambio del 31 de diciembre de 2016
-(<strong>) Esta sociedad cuenta con un préstamo participativo de ARRELS CT PATRIMONI I PROYECTES, S.A.
-(</strong></em>) Esta sociedad cuenta con un préstamo participativo de UNNIM SOCIEDAD PARA LA GESTION DE ACTIVOS INMOBILIARIOS, S.A
+(*) Datos de sociedades extranjeras al tipo de cambio del 31 de diciembre de 2016
+(**) Esta sociedad cuenta con un préstamo participativo de ARRELS CT PATRIMONI I PROYECTES, S.A.
+(***) Esta sociedad cuenta con un préstamo participativo de UNNIM SOCIEDAD PARA LA GESTION DE ACTIVOS INMOBILIARIOS, S.A
 (1) Sociedad controlada por integración global de acuerdo a normas contables (ver anexo Glosario)
-(2) Los resultados de estas sociedades procedentes de la compra de Catalunya Banc, S.A. corresponden desde mayo a diciembre-2016</p>
+(2) Los resultados de estas sociedades procedentes de la compra de Catalunya Banc, S.A. corresponden desde mayo a diciembre-2016
 
-<h3 id="información-adicional-sobre-sociedades-dependientes-consolidadas-que-componen-el-grupo-bbva-y-entidades-estructuradas-consolidadas-continuación-2">Información adicional sobre sociedades dependientes consolidadas que componen el Grupo BBVA y entidades estructuradas consolidadas (Continuación)</h3>
+
+### Información adicional sobre sociedades dependientes consolidadas que componen el Grupo BBVA y entidades estructuradas consolidadas (Continuación)
 
 <div class="content-info">
   <div class="content-dropdown js-dropdown">
@@ -3119,15 +2702,16 @@
     </tbody>
 </table>
 
-<p>(<em>) Datos de sociedades extranjeras al tipo de cambio del 31 de diciembre de 2016
-(<strong>) Esta sociedad cuenta con préstamos participativos de BBVA ELCANO EMPRESARIAL, S.A. EN LIQUIDACION y BBVA ELCANO EMPRESARIAL II, S.A. EN LIQUIDACION
-(</strong></em>) Esta sociedad cuenta con un préstamo participativo de EXPANSION INTERCOMARCAL, S.L.
-(<strong>**) Esta sociedad cuenta con un préstamo participativo de PROMOTORA DEL VALLES, S.L.
-(</strong>***) Esta sociedad cuenta con un préstamo participativo de ANIDA OPERACIONES SINGULARES, S.A.
+(*) Datos de sociedades extranjeras al tipo de cambio del 31 de diciembre de 2016
+(**) Esta sociedad cuenta con préstamos participativos de BBVA ELCANO EMPRESARIAL, S.A. EN LIQUIDACION y BBVA ELCANO EMPRESARIAL II, S.A. EN LIQUIDACION
+(***) Esta sociedad cuenta con un préstamo participativo de EXPANSION INTERCOMARCAL, S.L.
+(****) Esta sociedad cuenta con un préstamo participativo de PROMOTORA DEL VALLES, S.L.
+(*****) Esta sociedad cuenta con un préstamo participativo de ANIDA OPERACIONES SINGULARES, S.A.
 (1) Sociedad controlada por integración global de acuerdo a normas contables (ver anexo Glosario)
-(2) Los resultados de estas sociedades procedentes de la compra de Catalunya Banc, S.A. corresponden desde mayo a diciembre-2016</p>
+(2) Los resultados de estas sociedades procedentes de la compra de Catalunya Banc, S.A. corresponden desde mayo a diciembre-2016
 
-<h3 id="información-adicional-sobre-sociedades-dependientes-consolidadas-que-componen-el-grupo-bbva-y-entidades-estructuradas-consolidadas-continuación-3">Información adicional sobre sociedades dependientes consolidadas que componen el Grupo BBVA y entidades estructuradas consolidadas (Continuación)</h3>
+
+### Información adicional sobre sociedades dependientes consolidadas que componen el Grupo BBVA y entidades estructuradas consolidadas (Continuación)
 
 <div class="content-info">
   <div class="content-dropdown js-dropdown">
@@ -3803,12 +3387,12 @@
     </tbody>
 </table>
 
-<p>(*) Datos de sociedades extranjeras al tipo de cambio del 31 de diciembre de 2016
+(*) Datos de sociedades extranjeras al tipo de cambio del 31 de diciembre de 2016
 (**) Esta sociedad cuenta con préstamos participativos de CATALUNYACAIXA IMMOBILIARIA, S.A.
 (1) Sociedad controlada por integración global de acuerdo a normas contables (ver anexo Glosario)
-(2) Los resultados de estas sociedades procedentes de la compra de Catalunya Banc, S.A. corresponden desde mayo a diciembre-2016</p>
+(2) Los resultados de estas sociedades procedentes de la compra de Catalunya Banc, S.A. corresponden desde mayo a diciembre-2016
 
-<h3 id="información-adicional-sobre-sociedades-dependientes-consolidadas-que-componen-el-grupo-bbva-y-entidades-estructuradas-consolidadas-continuación-4">Información adicional sobre sociedades dependientes consolidadas que componen el Grupo BBVA y entidades estructuradas consolidadas (Continuación)</h3>
+### Información adicional sobre sociedades dependientes consolidadas que componen el Grupo BBVA y entidades estructuradas consolidadas (Continuación)
 
 <div class="content-info">
   <div class="content-dropdown js-dropdown">
@@ -4484,15 +4068,16 @@
     </tbody>
 </table>
 
-<p>(<em>) Datos de sociedades extranjeras al tipo de cambio del 31 de diciembre de 2016
-(<strong>) Estas sociedades cuentan con un préstamo participativo de CATALUNYACAIXA IMMOBILIARIA, S.A.
-(</strong></em>) Esta sociedad cuenta con un préstamo participativo de EXPANSION INTERCOMARCAL, S.L.
-(<strong>**) Estas sociedades cuentan con un préstamo participativo de INVERPRO DESENVOLUPAMENT, S.L.
-(</strong>***) Esta sociedad cuenta con un préstamo participativo de UNNIM SOCIEDAD PARA LA GESTION DE ACTIVOS INMOBILIARIOS, S.A
+(*) Datos de sociedades extranjeras al tipo de cambio del 31 de diciembre de 2016
+(**) Estas sociedades cuentan con un préstamo participativo de CATALUNYACAIXA IMMOBILIARIA, S.A.
+(***) Esta sociedad cuenta con un préstamo participativo de EXPANSION INTERCOMARCAL, S.L.
+(****) Estas sociedades cuentan con un préstamo participativo de INVERPRO DESENVOLUPAMENT, S.L.
+(*****) Esta sociedad cuenta con un préstamo participativo de UNNIM SOCIEDAD PARA LA GESTION DE ACTIVOS INMOBILIARIOS, S.A
 (1) Sociedad controlada por integración global de acuerdo a normas contables (ver anexo Glosario)
-(2) Los resultados de estas sociedades procedentes de la compra de Catalunya Banc, S.A. corresponden desde mayo a diciembre-2016</p>
+(2) Los resultados de estas sociedades procedentes de la compra de Catalunya Banc, S.A. corresponden desde mayo a diciembre-2016
 
-<h3 id="información-adicional-sobre-sociedades-dependientes-consolidadas-que-componen-el-grupo-bbva-continuación-y-entidades-estructuradas-consolidadas">Información adicional sobre sociedades dependientes consolidadas que componen el Grupo BBVA (Continuación) y entidades estructuradas consolidadas</h3>
+
+### Información adicional sobre sociedades dependientes consolidadas que componen el Grupo BBVA (Continuación) y entidades estructuradas consolidadas
 
 <div class="content-info">
   <div class="content-dropdown js-dropdown">
@@ -5168,15 +4753,16 @@
     </tbody>
 </table>
 
-<p>(<em>) Datos de sociedades extranjeras al tipo de cambio del 31 de diciembre de 2016
-(<strong>) Esta sociedad cuenta con préstamos participativos de CATALUNYACAIXA IMMOBILIARIA, S.A.
-(</strong></em>) Esta sociedad cuenta con préstamos participativos de PROMOTORA DEL VALLES, S.L. y UNNIM SOCIEDAD PARA LA GESTION DE ACTIVOS INMOBILIARIOS, S.A.
-(<strong>**) Estas sociedades cuentan con un préstamo participativo de UNNIM SOCIEDAD PARA LA GESTION DE ACTIVOS INMOBILIARIOS, S.A.
-(</strong>***) Estas sociedades cuentan con préstamos participativos de ARRELS CT PROMOU, S.A. y UNNIM SOCIEDAD PARA LA GESTION DE ACTIVOS INMOBILIARIOS, S.A.
+(*) Datos de sociedades extranjeras al tipo de cambio del 31 de diciembre de 2016
+(**) Esta sociedad cuenta con préstamos participativos de CATALUNYACAIXA IMMOBILIARIA, S.A.
+(***) Esta sociedad cuenta con préstamos participativos de PROMOTORA DEL VALLES, S.L. y UNNIM SOCIEDAD PARA LA GESTION DE ACTIVOS INMOBILIARIOS, S.A.
+(****) Estas sociedades cuentan con un préstamo participativo de UNNIM SOCIEDAD PARA LA GESTION DE ACTIVOS INMOBILIARIOS, S.A.
+(*****) Estas sociedades cuentan con préstamos participativos de ARRELS CT PROMOU, S.A. y UNNIM SOCIEDAD PARA LA GESTION DE ACTIVOS INMOBILIARIOS, S.A.
 (1) Sociedad controlada por integración global de acuerdo a normas contables (ver anexo Glosario)
-(2) Los resultados de estas sociedades procedentes de la compra de Catalunya Banc, S.A. corresponden desde mayo a diciembre-2016</p>
+(2) Los resultados de estas sociedades procedentes de la compra de Catalunya Banc, S.A. corresponden desde mayo a diciembre-2016
 
-<h3 id="información-adicional-sobre-sociedades-dependientes-consolidadas-que-componen-el-grupo-bbva-continuación-y-entidades-estructuradas-consolidadas-1">Información adicional sobre sociedades dependientes consolidadas que componen el Grupo BBVA (Continuación) y entidades estructuradas consolidadas</h3>
+
+### Información adicional sobre sociedades dependientes consolidadas que componen el Grupo BBVA (Continuación) y entidades estructuradas consolidadas
 
 <div class="content-info">
   <div class="content-dropdown js-dropdown">
@@ -5837,14 +5423,14 @@
     </tbody>
 </table>
 
-<p>(<em>) Datos de sociedades extranjeras al tipo de cambio del 31 de diciembre de 2016
-(<strong>) Esta sociedad cuenta con un préstamo participativo de UNNIM SOCIEDAD PARA LA GESTION DE ACTIVOS INMOBILIARIOS, S.A.
-(</strong></em>) Estas sociedades cuentan con un préstamo participativo de CATALUNYACAIXA IMMOBILIARIA, S.A.
+(*) Datos de sociedades extranjeras al tipo de cambio del 31 de diciembre de 2016
+(**) Esta sociedad cuenta con un préstamo participativo de UNNIM SOCIEDAD PARA LA GESTION DE ACTIVOS INMOBILIARIOS, S.A.
+(***) Estas sociedades cuentan con un préstamo participativo de CATALUNYACAIXA IMMOBILIARIA, S.A.
 (*****) Esta sociedad cuentan con un préstamo participativo de INPAU, S.A. y de CATALUNYACAIXA IMMOBILIARIA, S.A.
 (1) Sociedad controlada por integración global de acuerdo a normas contables (ver anexo Glosario)
-(2) Los resultados de estas sociedades procedentes de la compra de Catalunya Banc, S.A. corresponden desde mayo a diciembre-2016</p>
+(2) Los resultados de estas sociedades procedentes de la compra de Catalunya Banc, S.A. corresponden desde mayo a diciembre-2016
 
-<h3 id="información-adicional-sobre-sociedades-dependientes-consolidadas-que-componen-el-grupo-bbva-continuación-y-entidades-estructuradas-consolidadas-2">Información adicional sobre sociedades dependientes consolidadas que componen el Grupo BBVA (Continuación) y entidades estructuradas consolidadas</h3>
+### Información adicional sobre sociedades dependientes consolidadas que componen el Grupo BBVA (Continuación) y entidades estructuradas consolidadas
 
 <div class="content-info">
   <div class="content-dropdown js-dropdown">
@@ -6520,12 +6106,12 @@
     </tbody>
 </table>
 
-<p>(*) Datos de sociedades extranjeras al tipo de cambio del 31 de diciembre de 2015
+(*) Datos de sociedades extranjeras al tipo de cambio del 31 de diciembre de 2015
 (**) Esta sociedad cuenta con un préstamo participativo de BBVA, S.A.
 (1) Sociedad controlada por integración global de acuerdo a normas contables (ver anexo Glosario)
-(2) Los resultados de estas sociedades procedentes de la compra de Catalunya Banc, S.A. corresponden desde mayo a diciembre-2015</p>
+(2) Los resultados de estas sociedades procedentes de la compra de Catalunya Banc, S.A. corresponden desde mayo a diciembre-2015
 
-<h3 id="información-adicional-sobre-sociedades-dependientes-consolidadas-que-componen-el-grupo-bbva-continuación-y-entidades-estructuradas-consolidadas-3">Información adicional sobre sociedades dependientes consolidadas que componen el Grupo BBVA (Continuación) y entidades estructuradas consolidadas</h3>
+### Información adicional sobre sociedades dependientes consolidadas que componen el Grupo BBVA (Continuación) y entidades estructuradas consolidadas
 
 <div class="content-info">
   <div class="content-dropdown js-dropdown">
@@ -6781,9 +6367,10 @@
     </tbody>
 </table>
 
-<h2 id="anexo-ii-información-adicional-sobre-participaciones-en-empresas-asociadas-y-en-negocios-conjuntos-del-grupo-bbva">ANEXO II Información adicional sobre participaciones en empresas asociadas y en negocios conjuntos del Grupo BBVA</h2>
 
-<h3 id="se-incluyen-las-sociedades-más-significativas-que-representan-en-conjunto-un-9971-del-total-de-inversión-en-este-colectivo">Se incluyen las sociedades más significativas que representan, en conjunto, un 99,71% del total de inversión en este colectivo</h3>
+## ANEXO II Información adicional sobre participaciones en empresas asociadas y en negocios conjuntos del Grupo BBVA
+
+### Se incluyen las sociedades más significativas que representan, en conjunto, un 99,71% del total de inversión en este colectivo
 
 <table>
     <thead>
@@ -6943,7 +6530,7 @@
             <td>(1)</td>
         </tr>
         <tr>
-            <td>CANCUN SUN &amp; GOLF COUNTRY CLUB, S.A.P.I. DE C.V.</td>
+            <td>CANCUN SUN & GOLF COUNTRY CLUB, S.A.P.I. DE C.V.</td>
             <td>&nbsp;</td>
             <td>MEXICO </td>
             <td>INMOBILIARIA</td>
@@ -7350,9 +6937,9 @@
     </tbody>
 </table>
 
-<h2 id="anexo-iii-variaciones-y-notificaciones-de-participaciones-en-el-grupo-bbva-en-el-ejercicio-2016">ANEXO III Variaciones y notificaciones de participaciones en el Grupo BBVA en el ejercicio 2016</h2>
+## ANEXO III Variaciones y notificaciones de participaciones en el Grupo BBVA en el ejercicio 2016
 
-<h3 id="adquisiciones-o-aumento-de-participación-en-entidades-dependientes-y-entidades-estructuradas">Adquisiciones o aumento de participación en entidades dependientes y entidades estructuradas</h3>
+### Adquisiciones o aumento de participación en entidades dependientes y entidades estructuradas
 
 <table>
     <thead>
@@ -7751,7 +7338,8 @@
     </tbody>
 </table>
 
-<h3 id="adquisiciones-o-aumento-de-participación-en-entidades-dependientes-y-entidades-estructuradas-1">Adquisiciones o aumento de participación en entidades dependientes y entidades estructuradas</h3>
+
+### Adquisiciones o aumento de participación en entidades dependientes y entidades estructuradas
 
 <div class="content-info">
   <div class="content-dropdown js-dropdown">
@@ -8085,7 +7673,8 @@
     </tbody>
 </table>
 
-<h3 id="ventas-o-disminución-de-participación-en-entidades-dependientes-y-entidades-estructuradas">Ventas o disminución de participación en entidades dependientes y entidades estructuradas</h3>
+
+### Ventas o disminución de participación en entidades dependientes y entidades estructuradas
 
 <div class="content-info">
   <div class="content-dropdown js-dropdown">
@@ -8347,7 +7936,7 @@
     </tbody>
 </table>
 
-<h3 id="adquisiciones-o-aumento-de-participación-en-entidades-asociadas-y-negocios-conjuntos-por-el-método-de-la-participación">Adquisiciones o aumento de participación en entidades asociadas y negocios conjuntos por el método de la participación</h3>
+### Adquisiciones o aumento de participación en entidades asociadas y negocios conjuntos por el método de la participación
 
 <div class="content-info">
   <div class="content-dropdown js-dropdown">
@@ -8801,7 +8390,7 @@
     </tbody>
 </table>
 
-<h3 id="ventas-o-disminución-de-participación-en-entidades-asociadas-y-negocios-conjuntos-por-el-método-de-la-participación">Ventas o disminución de participación en entidades asociadas y negocios conjuntos por el método de la participación</h3>
+### Ventas o disminución de participación en entidades asociadas y negocios conjuntos por el método de la participación
 
 <div class="content-info">
   <div class="content-dropdown js-dropdown">
@@ -8874,7 +8463,7 @@
     </tbody>
 </table>
 
-<h2 id="anexo-iv-sociedades-consolidadas-por-integración-global-con-accionistas-ajenos-al-grupo-con-una-participación-superior-al-10-a-31-de-diciembre-de-2016">ANEXO IV Sociedades consolidadas por integración global con accionistas ajenos al Grupo con una participación superior al 10% a 31 de diciembre de 2016</h2>
+## ANEXO IV Sociedades consolidadas por integración global con accionistas ajenos al Grupo con una participación superior al 10% a 31 de diciembre de 2016
 
 <table>
     <thead>
@@ -9093,7 +8682,7 @@
     </tbody>
 </table>
 
-<h2 id="anexo-v-fondos-de-titulización-del-grupo-bbva-entidades-estructuradas">ANEXO V Fondos de titulización del Grupo BBVA. Entidades estructuradas</h2>
+## ANEXO V Fondos de titulización del Grupo BBVA. Entidades estructuradas
 
 <table>
     <thead>
@@ -9534,9 +9123,10 @@
     </tbody>
 </table>
 
-<h2 id="anexo-vi-detalle-de-las-emisiones-vivas-a-31-de-diciembre-de-2016-2015-y-2014-de-pasivos-subordinados-emitidos-por-el-banco-o-por-sociedades-consolidables-del-grupo-bbva">ANEXO VI Detalle de las emisiones vivas a 31 de diciembre de 2016, 2015 y 2014 de pasivos subordinados emitidos por el Banco o por sociedades consolidables del Grupo BBVA</h2>
+## ANEXO VI Detalle de las emisiones vivas a 31 de diciembre de 2016, 2015 y 2014 de pasivos subordinados emitidos por el Banco o por sociedades consolidables del Grupo BBVA
 
-<h3 id="emisiones-vivas-al-31-de-diciembre-de-2016-de-pasivos-subordinadas">Emisiones vivas al 31 de diciembre de 2016 de pasivos subordinadas</h3>
+
+### Emisiones vivas al 31 de diciembre de 2016 de pasivos subordinadas
 
 <table>
     <thead>
@@ -9815,7 +9405,7 @@
     </tbody>
 </table>
 
-<h3 id="emisiones-vivas-al-31-de-diciembre-de-2016-de-pasivos-subordinadas-continuación">Emisiones vivas al 31 de diciembre de 2016 de pasivos subordinadas (Continuación)</h3>
+### Emisiones vivas al 31 de diciembre de 2016 de pasivos subordinadas (Continuación)
 
 <div class="content-info">
   <div class="content-dropdown js-dropdown">
@@ -10131,9 +9721,9 @@
     </tbody>
 </table>
 
-<p>(*) Las emisiones de BBVA Subordinated Capital, S.A.U. y BBVA Global Finance, Ltd., están avaladas, con carácter subordinado, por el Banco.</p>
+(*) Las emisiones de BBVA Subordinated Capital, S.A.U. y BBVA Global Finance, Ltd., están avaladas, con carácter subordinado, por el Banco.
 
-<h3 id="emisiones-vivas-al-31-de-diciembre-de-2016-de-pasivos-subordinadas-continuación-1">Emisiones vivas al 31 de diciembre de 2016 de pasivos subordinadas (Continuación)</h3>
+### Emisiones vivas al 31 de diciembre de 2016 de pasivos subordinadas (Continuación)
 
 <div class="content-info">
   <div class="content-dropdown js-dropdown">
@@ -10584,7 +10174,7 @@
     </tbody>
 </table>
 
-<h3 id="emisiones-vivas-al-31-de-diciembre-de-2016-de-preferentes">Emisiones vivas al 31 de diciembre de 2016 de preferentes</h3>
+### Emisiones vivas al 31 de diciembre de 2016 de preferentes
 
 <div class="content-info">
   <div class="content-dropdown js-dropdown">
@@ -10840,9 +10430,10 @@
     </tbody>
 </table>
 
-<p>(*) Emisión de Unim Banc, S.A. que debido a la fusión con BBVA, S.A en 2014 y 2013 figura en BBVA, S.A.</p>
+(*) Emisión de Unim Banc, S.A. que debido a la fusión con BBVA, S.A en 2014 y 2013 figura en BBVA, S.A.
 
-<h2 id="anexo-vii-balances-consolidados-a-31-de-diciembre-de-2016-2015-y-2014-de-saldos-mantenidos-en-moneda-extranjera">ANEXO VII Balances consolidados a 31 de diciembre de 2016, 2015 y 2014 de saldos mantenidos en moneda extranjera</h2>
+
+## ANEXO VII Balances consolidados a 31 de diciembre de 2016, 2015 y 2014 de saldos mantenidos en moneda extranjera
 
 <table>
     <thead>
@@ -11371,7 +10962,9 @@
     </tbody>
 </table>
 
-<h2 id="anexo-viii-cuentas-de-pérdidas-y-ganancias-consolidadas-del-primer-y-segundo-semestre-de-2016-y-2015">ANEXO VIII Cuentas de pérdidas y ganancias consolidadas del primer y segundo semestre de 2016 y 2015</h2>
+
+## ANEXO VIII Cuentas de pérdidas y ganancias consolidadas del primer y segundo semestre de 2016 y 2015
+
 
 <table>
     <thead>
@@ -11846,9 +11439,10 @@
     </tbody>
 </table>
 
-<h2 id="anexo-ix-estados-financieros-de-banco-bilbao-vizcaya-argentaria-sa">ANEXO IX Estados Financieros de Banco Bilbao Vizcaya Argentaria, S.A.</h2>
 
-<h3 id="balances-a-31-de-diciembre-de-2016-y-2015-de-bbvasa">Balances a 31 de diciembre de 2016 y 2015 de BBVA,S.A.</h3>
+## ANEXO IX Estados Financieros de Banco Bilbao Vizcaya Argentaria, S.A.
+
+### Balances a 31 de diciembre de 2016 y 2015 de BBVA,S.A.
 
 <table>
     <thead>
@@ -12784,7 +12378,7 @@
     </tbody>
 </table>
 
-<h3 id="estados-de-ingresos-y-gastos-reconocidos-correspondientes-a-los-periodos-comprendidos-entre-el-1-de-enero-y-el-31-de-diciembre-de-2016-y-2015-de-bbva-sa">Estados de ingresos y gastos reconocidos correspondientes a los periodos comprendidos entre el 1 de enero y el 31 de diciembre de 2016 y 2015 de BBVA, S.A</h3>
+### Estados de ingresos y gastos reconocidos correspondientes a los periodos comprendidos entre el 1 de enero y el 31 de diciembre de 2016 y 2015 de BBVA, S.A
 
 <div class="content-info">
   <div class="content-dropdown js-dropdown">
@@ -12972,7 +12566,7 @@
     </tbody>
 </table>
 
-<h3 id="estado-de-cambios-en-el-patrimonio-neto-correspondiente-al-periodo-comprendido-entre-el-1-de-enero-y-el-31-de-diciembre-de-2016-de-bbva-sa">Estado de cambios en el patrimonio neto correspondiente al periodo comprendido entre el 1 de enero y el 31 de diciembre de 2016 de BBVA, S.A.</h3>
+### Estado de cambios en el patrimonio neto correspondiente al periodo comprendido entre el 1 de enero y el 31 de diciembre de 2016 de BBVA, S.A.
 
 <div class="content-info">
   <div class="content-dropdown js-dropdown">
@@ -13339,7 +12933,7 @@
     </tbody>
 </table>
 
-<h3 id="estado-de-cambios-en-el-patrimonio-neto-correspondiente-al-periodo-comprendido-entre-el-1-de-enero-y-el-31-de-diciembre-de-2015-de-bbva-sa">Estado de cambios en el patrimonio neto correspondiente al periodo comprendido entre el 1 de enero y el 31 de diciembre de 2015 de BBVA, S.A.</h3>
+### Estado de cambios en el patrimonio neto correspondiente al periodo comprendido entre el 1 de enero y el 31 de diciembre de 2015 de BBVA, S.A.
 
 <div class="content-info">
   <div class="content-dropdown js-dropdown">
@@ -13751,7 +13345,7 @@
     </tbody>
 </table>
 
-<h3 id="estado-de-flujos-de-efectivo-generados-en-los-periodos-comprendidos-entre-el-1-de-enero-y-el-31-de-diciembre-de-2016-y-2015-de-bbva-sa">Estado de flujos de efectivo generados en los periodos comprendidos entre el 1 de enero y el 31 de diciembre de 2016 y 2015 de BBVA, S.A.</h3>
+### Estado de flujos de efectivo generados en los periodos comprendidos entre el 1 de enero y el 31 de diciembre de 2016 y 2015 de BBVA, S.A.
 
 <div class="content-info">
   <div class="content-dropdown js-dropdown">
@@ -14160,7 +13754,7 @@
     </tbody>
 </table>
 
-<h2 id="anexo-x-información-sobre-datos-procedentes-del-registro-contable-especial">ANEXO X Información sobre datos procedentes del registro contable especial</h2>
+## ANEXO X Información sobre datos procedentes del registro contable especial
 
 <table>
     <thead>
@@ -15409,7 +15003,7 @@
     </tbody>
 </table>
 
-<h2 id="anexo-xi-información-cuantitativa-sobre-refinanciaciones-y-reestructuraciones-y-otros-requerimientos-de-la-circular-62012-de-banco-de-españa">ANEXO XI Información cuantitativa sobre refinanciaciones y reestructuraciones y otros requerimientos de la Circular 6/2012 de Banco de España</h2>
+## ANEXO XI Información cuantitativa sobre refinanciaciones y reestructuraciones y otros requerimientos de la Circular 6/2012 de Banco de España
 
 <table>
     <thead>
@@ -16886,11 +16480,11 @@
     </tbody>
 </table>
 
-<h2 id="anexo-xii-información-adicional-sobre-riesgo-soberano">ANEXO XII Información adicional sobre Riesgo Soberano</h2>
+## ANEXO XII Información adicional sobre Riesgo Soberano
 
-<h3 id="exposición-al-riesgo-soberano-en-europa">Exposición al riesgo soberano en Europa</h3>
+### Exposición al riesgo soberano en Europa
 
-<p>A continuación se presenta a 31 de diciembre de 2015 y 2014, el desglose, por tipos de instrumentos financieros, de la exposición total de las entidades de crédito del Grupo a riesgos soberanos de los países europeos, con el criterio requerido por Autoridad Bancaria Europea (en adelante “EBA”, acrónimo en inglés de “European Banking Authority”):</p>
+A continuación se presenta a 31 de diciembre de 2015 y 2014, el desglose, por tipos de instrumentos financieros, de la exposición total de las entidades de crédito del Grupo a riesgos soberanos de los países europeos, con el criterio requerido por Autoridad Bancaria Europea (en adelante “EBA”, acrónimo en inglés de “European Banking Authority”):
 
 <table>
     <thead>
@@ -19440,7 +19034,7 @@
     </tbody>
 </table>
 
-<h2 id="anexo-xiii-xxxx">ANEXO XIII XXXX</h2>
+## ANEXO XIII XXXX
 
 <table>
     <thead>
@@ -19819,74 +19413,10 @@
     </tbody>
 </table>
 
-<h2 id="anexo-xiv-xxxx">ANEXO XIV XXXX</h2>
+## ANEXO XIV XXXX
 
 
-      </div>
-    </div>
-    <footer class="footer">
-  <div class="container">
-    <ul class="footer-social">
-      <li class="footer-socialitem">
-        <a href="#" class="footer-socialink">
-          <svg width="6px" height="14px" viewBox="6447 1439 6 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-            <path d="M6448.28866,1441.70577 L6448.28866,1443.62932 L6447,1443.62932 L6447,1445.98145 L6448.28866,1445.98145 L6448.28866,1452.97116 L6450.93585,1452.97116 L6450.93585,1445.98165 L6452.71224,1445.98165 C6452.71224,1445.98165 6452.8786,1444.85382 6452.95925,1443.62065 L6450.94586,1443.62065 L6450.94586,1442.0124 C6450.94586,1441.77203 6451.23449,1441.4487 6451.51975,1441.4487 L6452.96204,1441.4487 L6452.96204,1439 L6451.00102,1439 C6448.22323,1438.99984 6448.28866,1441.35431 6448.28866,1441.70577 Z" id="facebook" stroke="none" fill="#001D46"></path>
-          </svg>
-        </a>
-      </li>
-      <li class="footer-socialitem">
-        <a href="#" class="footer-socialink">
-          <svg width="17px" height="12px" viewBox="6502 1440 17 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-            <path d="M6517.04299,1445.2317 C6517.99582,1445.15309 6518.64213,1444.71993 6518.89086,1444.13218 C6518.54715,1444.34332 6517.48022,1444.57351 6516.89097,1444.35429 C6516.8621,1444.21584 6516.82984,1444.08434 6516.79816,1443.96561 C6516.34918,1442.31697 6514.81193,1440.98876 6513.20119,1441.14922 C6513.33151,1441.0966 6513.46368,1441.04761 6513.59546,1441.00363 C6513.77276,1440.94013 6514.81299,1440.77088 6514.64918,1440.4037 C6514.51113,1440.08074 6513.24019,1440.64777 6513.00089,1440.72189 C6513.31679,1440.60309 6513.83922,1440.39873 6513.89519,1440.03574 C6513.41122,1440.10212 6512.93613,1440.33093 6512.56903,1440.66363 C6512.70156,1440.52097 6512.8021,1440.3471 6512.82344,1440.15998 C6511.53262,1440.98462 6510.77859,1442.64715 6510.16836,1444.25986 C6509.68921,1443.7955 6509.26452,1443.42982 6508.88354,1443.22677 C6507.81475,1442.65362 6506.53683,1442.05562 6504.53079,1441.31093 C6504.46922,1441.97464 6504.85904,1442.85714 6505.9823,1443.44402 C6505.73894,1443.41144 6505.2939,1443.48413 6504.93796,1443.56937 C6505.08292,1444.32971 6505.55631,1444.95615 6506.8379,1445.25907 C6506.25221,1445.29773 6505.94952,1445.43101 6505.67519,1445.71827 C6505.94195,1446.24709 6506.59288,1446.86946 6507.76383,1446.7417 C6506.46197,1447.30282 6507.233,1448.34195 6508.29233,1448.18698 C6506.4852,1450.05355 6503.63606,1449.91636 6502,1448.35516 C6506.27165,1454.17587 6515.55724,1451.79753 6516.94103,1446.19108 C6517.97779,1446.19991 6518.58727,1445.83195 6518.96517,1445.42627 C6518.36784,1445.52764 6517.50207,1445.42288 6517.04299,1445.2317 Z" id="twitter" stroke="none" fill="#001D46" fill-rule="evenodd"></path>
-          </svg>
-        </a>
-      </li>
-      <li class="footer-socialitem">
-        <a href="#" class="footer-socialink">
-          <svg width="14px" height="14px" viewBox="6538 1440 14 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-            <path d="M6539.78586,1440 L6550.12771,1440 C6551.10986,1440 6551.91343,1440.72714 6551.91343,1441.78571 L6551.91343,1452.12786 C6551.91343,1453.18643 6551.10986,1453.91357 6550.12771,1453.91357 L6539.78586,1453.91357 C6538.80343,1453.91357 6538,1453.18643 6538,1452.12786 L6538,1441.78571 C6538,1440.72714 6538.80343,1440 6539.78586,1440 L6539.78586,1440 Z M6548.13543,1441.54586 C6547.79086,1441.54586 6547.50929,1441.82757 6547.50929,1442.17229 L6547.50929,1443.67157 C6547.50929,1444.01614 6547.79086,1444.298 6548.13543,1444.298 L6549.708,1444.298 C6550.05257,1444.298 6550.33443,1444.01614 6550.33443,1443.67157 L6550.33443,1442.17229 C6550.33443,1441.82757 6550.05257,1441.54586 6549.708,1441.54586 L6548.13543,1441.54586 L6548.13543,1441.54586 Z M6550.341,1445.884 L6549.11643,1445.884 C6549.23229,1446.26229 6549.295,1446.663 6549.295,1447.07757 C6549.295,1449.39186 6547.35843,1451.26786 6544.97,1451.26786 C6542.58171,1451.26786 6540.64543,1449.39186 6540.64543,1447.07757 C6540.64543,1446.66271 6540.708,1446.26214 6540.824,1445.884 L6539.54614,1445.884 L6539.54614,1451.76129 C6539.54614,1452.06543 6539.795,1452.31443 6540.09929,1452.31443 L6549.78814,1452.31443 C6550.09243,1452.31443 6550.34129,1452.06557 6550.34129,1451.76129 L6550.34129,1445.884 L6550.341,1445.884 Z M6544.96986,1444.219 C6543.42671,1444.219 6542.17557,1445.43114 6542.17557,1446.92657 C6542.17557,1448.422 6543.42671,1449.63414 6544.96986,1449.63414 C6546.51314,1449.63414 6547.76443,1448.422 6547.76443,1446.92657 C6547.76443,1445.43114 6546.51329,1444.219 6544.96986,1444.219 Z" id="instagram" stroke="none" fill="#001D46" fill-rule="evenodd"></path>
-          </svg>
-        </a>
-      </li>
-    </ul>
-    <nav>
-      <ul class="footer-navigation">
-        
-          <li class="footer-navigationitem">
-            <a href="#">
-              Centro de seguridad
-            </a>
-          </li>
-        
-          <li class="footer-navigationitem">
-            <a href="#">
-              Privacidad
-            </a>
-          </li>
-        
-          <li class="footer-navigationitem">
-            <a href="#">
-              Terminos y condiciones
-            </a>
-          </li>
-        
-          <li class="footer-navigationitem">
-            <a href="#">
-              Mapa del sitio
-            </a>
-          </li>
-        
-      </ul>
-      <p class="footer-credits">© 2016 BBVA</p>
-    </nav>
-  </div>
-</footer>
 
-<script>
-  window.lang = 'es';
-  window.baseurl = '';
-</script>
-<script src="/javascripts/main.js"></script>
 
-</body>
-</html>
+
+
