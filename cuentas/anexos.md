@@ -8227,7 +8227,7 @@ permalink: cuentas/anexos/
 
 ## ANEXO IV Sociedades consolidadas por integración global con accionistas ajenos al Grupo con una participación superior al 10% a 31 de diciembre de 2016
 
-<table>
+<table class="pagination">
     <thead>
         <tr>
             <th></th>
