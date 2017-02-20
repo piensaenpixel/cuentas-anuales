@@ -62,12 +62,13 @@ function updateTables () {
 
 module.exports = {
   init: function () {
-   $('table').tableHover({colClass: 'hover', ignoreCols: [1]});
-   updateTables();
-   $(window).on('redraw', function () {
-     switched = false;
-     updateTables();
-   });
+    $('table').tableHover({colClass: 'hover', ignoreCols: [1]});
+    updateTables();
+
+    $(window).on('redraw', function () {
+      switched = false;
+      updateTables();
+    });
 
     $(window).on('resize', updateTables);
   }
