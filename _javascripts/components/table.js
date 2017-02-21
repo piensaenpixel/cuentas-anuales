@@ -71,5 +71,10 @@ module.exports = {
     });
 
     $(window).on('resize', updateTables);
+
+    $('table.pagination tbody').paginathing({
+      perPage: 5,
+      insertAfter: 'table.pagination'
+    });
   }
 };

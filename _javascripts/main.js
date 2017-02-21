@@ -1,5 +1,7 @@
 var $ = require('jquery');
 window.jQuery = $;
+require('jquery.scrollto');
+require('./vendor/paginathing');
 
 $(function () {
   require('./vendor/jquery.tablehover')($);

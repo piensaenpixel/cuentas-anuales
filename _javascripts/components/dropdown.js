@@ -7,23 +7,6 @@ var state = {
 
 var TEMPLATE = '<li class="content-dropdownitem"><a href="#{{id}}">{{title}}</a></li>';
 
-var stripAccents = (function () {
-  var in_chrs = 'àáâãäçèéêëìíîïñòóôõöùúûüýÿÀÁÂÃÄÇÈÉÊËÌÍÎÏÑÒÓÔÕÖÙÚÛÜÝ';
-  var out_chrs = 'aaaaaceeeeiiiinooooouuuuyyAAAAACEEEEIIIINOOOOOUUUUY';
-  var chars_rgx = new RegExp('[' + in_chrs + ']', 'g');
-  var transl = {};
-  var i;
-  var lookup = function (m) { return transl[m] || m; };
-
-  for (i = 0; i < in_chrs.length; i++) {
-    transl[ in_chrs[i] ] = out_chrs[i];
-  }
-
-  return function (s) {
-    return s.replace(chars_rgx, lookup);
-  };
-})();
-
 var openHandler = function (e) {
   if (state.open === false) {
     e.preventDefault();
@@ -46,11 +29,8 @@ var generatePermalinks = function () {
     var title;
 
     $el = $(el);
+    id = $el.attr('id');
     title = $el.text();
-    id = stripAccents(title)
-          .replace(/([^A-Za-z0-9[\]{}_.:-])\s?/g, '-')
-          .toLowerCase();
-    $el.attr('id', id);
     generateDropdownOption(id, title);
   });
 };
@@ -65,10 +45,21 @@ var generateDropdownOption = function (id, title) {
   $el.append($(node));
 };
 
+var goTo = function (e) {
+  var offset = $('.fix-header').outerHeight();
+  var el = $(this);
+  var id = el.attr('href');
+  var target = $(id);
+  var pos = target.get(0).getBoundingClientRect();
+
+  $(window).scrollTo({top: pos.top - offset, left: 0}, 800);
+};
+
 module.exports = {
   init: function () {
     generatePermalinks();
     $('.js-dropdown').on('click', openHandler);
     $('.js-dropdown-chevron').on('click', closeHandler);
+    $('.js-dropdown-content').on('click', 'a', goTo);
   }
 };
