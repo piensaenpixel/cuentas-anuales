@@ -112,7 +112,7 @@ span.highlight {
     line-height: 26px;
     padding: 15px 20px;
     vertical-align: top;
-    text-align: center;
+    text-align: right;
     @media (max-width: $mobile) {
       padding: 10px;
     }
@@ -139,6 +139,7 @@ span.highlight {
     line-height: 26px;
     padding: 25px 20px;
     text-align: center;
+
     @media (max-width: $mobile) {
       padding: 10px;
     }
