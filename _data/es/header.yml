@@ -13,7 +13,7 @@ menu:
     url: /cuentas/notas-estados-financieros/
     submenu: cuentas
   - title: Informe de gestión
-    url: /informe-de-gestion/
+    url: /informe-de-gestion/introduccion/
     submenu: gestion
 footer:
 - title: Centro de seguridad

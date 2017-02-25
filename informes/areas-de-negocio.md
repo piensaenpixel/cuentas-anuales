@@ -10,6 +10,9 @@ permalink: informe-de-gestion/areas-de-negocio/
 
 # Áreas de negocio
 
+{% include dropdown.html %}
+
+
 En este apartado se presentan y analizan los datos más relevantes de las diferentes áreas de negocio del Grupo. En concreto, se muestra un resumen de la cuenta de resultados y del balance, cifras de actividad y los ratios más significativos de cada una de ellas.
 
 En el año 2016, la estructura de reporting de las áreas de negocio del Grupo BBVA sigue siendo básicamente la misma que la del ejercicio 2015:
@@ -32,7 +35,7 @@ Finalmente, cabe mencionar que, como viene siendo habitual, en el caso de las á
 
 Para la elaboración de la información por áreas se parte de las unidades de mínimo nivel y/o sociedades jurídicas que componen el Grupo y se asignan a las distintas áreas en función de la geografía en la que desarrollan su actividad. 
 
-#### Principales partidas de la cuenta de resultados por áreas de negocio
+## Principales partidas de la cuenta de resultados por áreas de negocio
 (Millones de euros)
 
 <table>
@@ -200,7 +203,7 @@ Para la elaboración de la información por áreas se parte de las unidades de m
 
 (1) Desde el tercer trimestre de 2015, la participación total de BBVA en Garanti se consolida por el método de la integración global. Para períodos anteriores, los ingresos y gastos de Garanti se integran en la proporción correspondiente al porcentaje de participación que el Grupo mantenía hasta entonces (25,01%).
 
-#### Composición del margen bruto, margen neto y beneficio atribuido por geografías (1)
+## Composición del margen bruto, margen neto y beneficio atribuido por geografías (1)
 (2016. Porcentaje)
 
 <table>
@@ -253,7 +256,7 @@ Para la elaboración de la información por áreas se parte de las unidades de m
 (1) No incluye el Centro Corporativo.
 (2) Incluye la actividad inmobiliaria en España.
 
-#### Principales partidas de balance y activos ponderados por riesgo por áreas de negocio
+## Principales partidas de balance y activos ponderados por riesgo por áreas de negocio
 (Millones de euros)
 
 <table>
@@ -401,7 +404,7 @@ Una vez definida la composición de cada área de negocio, se aplican determinad
 • Venta cruzada. En determinadas ocasiones se realizan ajustes para eliminar ciertas duplicidades que, por motivos de incentivación de la venta cruzada entre negocios, se hallan registradas en los resultados de dos o más unidades.
 
 
-#### Tipos de interés
+## Tipos de interés
 (Medias trimestrales. Porcentaje)
 
 <table>
@@ -483,7 +486,7 @@ Una vez definida la composición de cada área de negocio, se aplican determinad
     </tbody>
 </table>
 
-#### Tipos de cambio
+## Tipos de cambio
 (Expresados en divisa/euro)
 
 <table>
@@ -614,7 +617,7 @@ Los depósitos de clientes en gestión crecen en 2016 (+2,5% en términos intera
 Finalmente, los recursos fuera de balance presentan un crecimiento interanual del 3,0%, con especial incidencia en el avance experimentado en el cuarto trimestre (+2,6% frente al trimestre previo). Los fondos de inversión se incrementan un 3,7% y los de pensiones un 2,4%. 
  
 
-### Estados financieros e indicadores relevantes de gestión
+## Estados financieros e indicadores relevantes de gestión
 (Millones de euros y porcentaje)
 
 <table>

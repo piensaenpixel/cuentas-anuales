@@ -8,7 +8,7 @@ permalink: cuentas/anexoss/
 
 {% include subir.html %}
 
-# Anexos2
+# Anexos
 
 {% include dropdown.html %}
 
@@ -35,6 +35,10 @@ permalink: cuentas/anexoss/
 {% include anexos/11.html %}
 
 {% include anexos/12.html %}
+
+{% include anexos/13.html %}
+
+{% include anexos/14.html %}
 
 
 
