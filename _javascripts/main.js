@@ -9,7 +9,8 @@ $(function () {
   require('./components/table').init();
   require('./components/search').init();
   require('./components/header').init();
-  require('./components/scroll-observer').init();
+  // need to investigate
+  // require('./components/scroll-observer').init();
 
   var highlight = require('./components/highlight');
   highlight();
