@@ -7,7 +7,6 @@ order: 5
 permalink: informe-de-gestion/otra-info/
 ---
 
-{% include subir.html %}
 
 # Otra información requerida legalmente
 

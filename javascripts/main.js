@@ -58,7 +58,8 @@
 	  // need to investigate
 	  // require('./components/scroll-observer').init();
 
-	  var highlight = __webpack_require__(13);
+	  __webpack_require__(13).init();
+	  var highlight = __webpack_require__(14);
 	  highlight();
 	});
 
@@ -11185,7 +11186,6 @@
 
 	var openHandler = function (e) {
 	  if (state.open === false) {
-	    console.log('1');
 	    e.preventDefault();
 
 	    state.open = true;
@@ -13155,6 +13155,40 @@
 
 /***/ },
 /* 13 */
+/***/ function(module, exports, __webpack_require__) {
+
+	var $ = __webpack_require__(1);
+	var $w = $(window);
+	var up = $('.js-up');
+	var existeScrollTop = up.length > 0;
+
+	function scrollHandler () {
+	  var offset = 300;
+	  var scrollTop = $w.scrollTop();
+	  up.toggleClass('is-show', scrollTop > offset);
+	}
+
+	function clickHandler (e) {
+	  var duration = 800;
+
+	  e.preventDefault();
+	  $('body,html').animate({
+	    scrollTop: 0
+	  }, duration);
+	}
+
+	module.exports = {
+	  init: function () {
+	    if (existeScrollTop) {
+	      $w.on('scroll', scrollHandler);
+	      up.on('click', clickHandler);
+	    }
+	  }
+	};
+
+
+/***/ },
+/* 14 */
 /***/ function(module, exports, __webpack_require__) {
 
 	var utils = __webpack_require__(11);

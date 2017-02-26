@@ -6,8 +6,6 @@ submenu: cuentas
 permalink: cuentas/estados-financieros/
 ---
 
-{% include subir.html %}
-
 
 # Estados financieros
 

@@ -6,8 +6,6 @@ submenu: cuentas
 permalink: cuentas/anexos/
 ---
 
-{% include subir.html %}
-
 # Anexos
 
 {% include dropdown.html %}

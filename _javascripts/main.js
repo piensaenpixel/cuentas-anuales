@@ -12,6 +12,7 @@ $(function () {
   // need to investigate
   // require('./components/scroll-observer').init();
 
+  require('./components/scrollToTop').init();
   var highlight = require('./components/highlight');
   highlight();
 });

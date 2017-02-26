@@ -6,7 +6,6 @@ submenu: cuentas
 permalink: cuentas/notas-estados-financieros/
 ---
 
-{% include subir.html %}
 
 # Memoria consolidada correspondiente al ejercicio anual terminado el 31 de diciembre de 2016.
 
@@ -91,7 +90,7 @@ El SCIF es un modelo dinámico - evoluciona en el tiempo de forma continua para 
 
 Las mencionadas unidades de Control Interno Financiero están integradas dentro del modelo de Control Interno del Grupo BBVA que se estructura en dos pilares:
 
-• Un sistema de control organizado en tres líneas de defensa: 
+• Un sistema de control organizado en tres líneas de defensa:
 - La primera línea de defensa está localizada en las unidades operativas, quienes son responsables de identificar los riesgos vinculados a sus procesos y de implantar los controles necesarios para su mitigación.
 - La segunda línea está integrada por las unidades especialistas de control (entre otras: Control Interno de Riesgos, Control Interno Financiero, Control de la Operativa, Control Interno de Tecnología y Cumplimiento) quienes definen los modelos y políticas de control para su ámbito de responsabilidad y supervisan la correcta implantación, el diseño y la efectividad de los controles.
 - La tercera línea de control es el área de Auditoría Interna, quien realiza una evaluación independiente del diseño y la eficacia del modelo.
@@ -121,14 +120,14 @@ En el Glosario de términos (en adelante, “Glosario”) se presentan las defin
 
 A efectos de su consolidación, y siguiendo los criterios establecidos por las NIIF-UE, en el Grupo BBVA se integran, además del Banco, cuatro tipos de sociedades: entidades dependientes, negocios conjuntos, entidades asociadas y entidades estructuradas, que se definen a continuación:
 
-• Entidades dependientes 
+• Entidades dependientes
 
 Las entidades dependientes son aquellas sobre las que el Grupo tiene el control (ver definición de control en el Glosario). Los estados financieros de las entidades dependientes se consolidan con los del Banco. La participación de los accionistas minoritarios de las sociedades dependientes en el patrimonio neto consolidado del Grupo se presenta en el capítulo “Intereses minoritarios – Participaciones no dominantes” del balance consolidado y su participación en los resultados del periodo o ejercicio se presenta en el epígrafe “Resultado del periodo - Atribuible a intereses minoritarios (participaciones no dominantes)” de la cuenta de pérdidas y ganancias consolidada (ver Nota 31).
 En la Nota 3 se facilita información sobre las principales entidades dependientes del Grupo a 31 de diciembre de 2016 y, en el Anexo I, se muestra otra información significativa sobre estas mismas entidades.
 
-• Negocios conjuntos 
+• Negocios conjuntos
 
-Son aquellas entidades sobre las que se tienen acuerdos de control conjunto con terceros distintos del Grupo (ver definiciones de acuerdos conjuntos, control conjunto y negocios conjuntos en el Glosario). 
+Son aquellas entidades sobre las que se tienen acuerdos de control conjunto con terceros distintos del Grupo (ver definiciones de acuerdos conjuntos, control conjunto y negocios conjuntos en el Glosario).
 Las participaciones en negocios conjuntos se valoran por aplicación del método de la participación (ver Nota 16). En el Anexo II se incluyen las principales magnitudes de los negocios conjuntos del Grupo.
 
 • Entidades asociadas
@@ -143,7 +142,7 @@ Las entidades asociadas se valoran por el método de la participación (ver Nota
 
 • Entidades estructuradas
 
-Una entidad estructurada es una entidad que ha sido diseñada de modo que los derechos de voto u otros derechos similares no sean el factor primordial a la hora de decidir quién controla la entidad; por ejemplo en el caso en que los derechos de voto se refieran sólo a tareas administrativas y las actividades relevantes se gestionen a través de acuerdos contractuales (ver Glosario). 
+Una entidad estructurada es una entidad que ha sido diseñada de modo que los derechos de voto u otros derechos similares no sean el factor primordial a la hora de decidir quién controla la entidad; por ejemplo en el caso en que los derechos de voto se refieran sólo a tareas administrativas y las actividades relevantes se gestionen a través de acuerdos contractuales (ver Glosario).
 
 En aquellos casos en los que el Grupo constituye entidades o participa de ellas, con el objeto de permitir el acceso a los clientes a determinadas inversiones o para la transmisión de riesgos u otros fines, se determina, de acuerdo con criterios y procedimientos internos y considerando lo establecido en la normativa de referencia, si existe control sobre la entidad participada y, por tanto, si ésta debe ser o no objeto de consolidación.
 
@@ -157,9 +156,9 @@ Con el objeto de determinar si existe control sobre una entidad estructurada y, 
 – Compromisos implícitos o explícitos del Grupo para respaldar a la entidad.
 – Si el Grupo tiene la capacidad de utilizar su poder sobre la entidad para influir en el importe de los rendimientos a los que se encuentra expuesto.
 
-Se producen casos en los que el Grupo tiene una exposición alta a los rendimientos variables existentes y mantiene el poder de decisión sobre la entidad, bien de forma directa o a través de un agente. 
+Se producen casos en los que el Grupo tiene una exposición alta a los rendimientos variables existentes y mantiene el poder de decisión sobre la entidad, bien de forma directa o a través de un agente.
 
-Las principales entidades estructuradas del Grupo son los denominados “Fondos de titulización de activos”, a los que las entidades del Grupo BBVA transfieren carteras de préstamos y partidas a cobrar y otros vehículos cuyo objeto es permitir el acceso de los clientes del Grupo a determinadas inversiones o la transmisión de riesgos u otros fines (ver Anexo I y Anexo V). En todas ellas, el Grupo mantiene la facultad de decisión sobre las actividades relevantes y se han instrumentalizado con apoyos financieros recogidos contractualmente que son de uso común en el mercado de titulizaciones. Los más comunes son: posiciones inversoras en tramos equity de las notas; existencia de financiación subordinada; concesión de mejoras crediticias a través de instrumentos derivados o líneas de liquidez; derechos de gestión de los activos titulizados impagados; existencia de derivados “clean-up” call; y existencia de cláusulas de recompra de activos por parte de la entidad cedente. 
+Las principales entidades estructuradas del Grupo son los denominados “Fondos de titulización de activos”, a los que las entidades del Grupo BBVA transfieren carteras de préstamos y partidas a cobrar y otros vehículos cuyo objeto es permitir el acceso de los clientes del Grupo a determinadas inversiones o la transmisión de riesgos u otros fines (ver Anexo I y Anexo V). En todas ellas, el Grupo mantiene la facultad de decisión sobre las actividades relevantes y se han instrumentalizado con apoyos financieros recogidos contractualmente que son de uso común en el mercado de titulizaciones. Los más comunes son: posiciones inversoras en tramos equity de las notas; existencia de financiación subordinada; concesión de mejoras crediticias a través de instrumentos derivados o líneas de liquidez; derechos de gestión de los activos titulizados impagados; existencia de derivados “clean-up” call; y existencia de cláusulas de recompra de activos por parte de la entidad cedente.
 
 Por todo ello, en la práctica totalidad de las titulizaciones realizadas por el Banco o sociedades dependientes del Grupo BBVA se considera que los préstamos no pueden ser dados de baja del balance del banco matriz o sociedades dependientes y las emisiones de los fondos de titulización se registran como pasivos dentro del balance consolidado del Grupo.
 
@@ -194,7 +193,7 @@ En la elaboración de los estados financieros consolidados adjuntos se han aplic
 
 ##### Valoración de los instrumentos financieros y registro de las variaciones surgidas en su valoración posterior
 
-Todos los instrumentos financieros se registran inicialmente por su valor razonable; que, salvo evidencia en contrario, coincide con el precio de la transacción. 
+Todos los instrumentos financieros se registran inicialmente por su valor razonable; que, salvo evidencia en contrario, coincide con el precio de la transacción.
 
 Excepto en los activos financieros mantenidos para negociar e instrumentos registrados contra patrimonio, todas las variaciones en el valor de los instrumentos financieros con causa en el devengo de intereses y conceptos asimilados se registran en los capítulos “Ingresos por intereses” o “Gastos por intereses”, según proceda, de la cuenta de pérdidas y ganancias consolidada del ejercicio en el que se produjo el devengo (ver Nota 37). Los dividendos percibidos de otras sociedades distintas de las dependientes, asociadas o negocios conjuntos, se registran en el capítulo “Ingresos por dividendos” de la cuenta de pérdidas y ganancias consolidada del ejercicio en el que nace el derecho a percibirlos (ver Nota 38).
 
@@ -250,14 +249,14 @@ Un activo financiero se considera deteriorado y, por tanto, se corrige su valor 
 
 Como criterio general, la corrección del valor en libros de los instrumentos financieros por causa de su deterioro se efectúa con cargo a la cuenta de pérdidas y ganancias consolidada del ejercicio en el que tal deterioro se manifiesta y las recuperaciones de las pérdidas por deterioro previamente registradas, en caso de producirse, se reconocen en la cuenta de pérdidas y ganancias consolidada del ejercicio en el que el deterioro desaparece o se reduce. No obstante, la recuperación de las pérdidas por deterioro previamente registradas correspondientes a instrumentos de patrimonio clasificados como activos financieros disponibles para la venta, no se reconocen en la cuenta de pérdidas y ganancias consolidada, sino en el epígrafe “Otro resultado global acumulado - Elementos que pueden reclasificarse en resultados - Activos financieros disponibles para la venta” del balance consolidado (ver Nota 30).
 
-Con carácter general, los cobros percibidos con origen en préstamos y créditos deteriorados se aplican, primeramente, al reconocimiento de los intereses devengados y, el exceso que pudiera existir, a disminuir el capital pendiente de amortización. 
+Con carácter general, los cobros percibidos con origen en préstamos y créditos deteriorados se aplican, primeramente, al reconocimiento de los intereses devengados y, el exceso que pudiera existir, a disminuir el capital pendiente de amortización.
 
 Cuando se considera remota la recuperación de cualquier importe registrado, el activo se da de baja del balance consolidado, sin perjuicio de las actuaciones que puedan llevarse a cabo para intentar conseguir su cobro hasta tanto no se hayan extinguido definitivamente los derechos a percibirlo, sea por prescripción, condonación u otras causas.
 
-De acuerdo con las políticas del Grupo, la recuperación de un importe reconocido se considera remota, y por tanto, se da de baja en el balance consolidado en los siguientes casos: 
+De acuerdo con las políticas del Grupo, la recuperación de un importe reconocido se considera remota, y por tanto, se da de baja en el balance consolidado en los siguientes casos:
 
-• Cualquier préstamo (salvo los que estén vinculados a una garantía suficiente) cuyo acreditado se encuentre en quiebra y/o en las últimas fases del proceso de concurso de acreedores. 
-• Activos financieros (bonos, obligaciones, etc.) cuyo emisor haya sufrido una rebaja irrevocable de su solvencia. 
+• Cualquier préstamo (salvo los que estén vinculados a una garantía suficiente) cuyo acreditado se encuentre en quiebra y/o en las últimas fases del proceso de concurso de acreedores.
+• Activos financieros (bonos, obligaciones, etc.) cuyo emisor haya sufrido una rebaja irrevocable de su solvencia.
 
 Asimismo, los préstamos clasificados como dudosos con garantía real se dan de baja en el balance en un periodo máximo de cuatro años desde la fecha de su calificación como dudosos (por la parte no garantizada), mientras que los préstamos dudosos sin garantía real (préstamos al consumo o comerciales, tarjetas de crédito, etc.) por la parte no colateralizada se dan de baja en un periodo máximo de dos años desde la fecha de su calificación como dudosos.
 
@@ -301,23 +300,23 @@ En la estimación de los flujos de efectivo futuros de los instrumentos de deuda
 
 ###### Pérdidas por deterioro determinadas colectivamente
 
-De cara al análisis colectivo de deterioro, los activos financieros se agrupan en base a características similares de riesgo indicativas de la capacidad de pago del deudor en base a sus condiciones contractuales. Bajo este análisis se estima el deterioro de los préstamos que no son individualmente significativos, distinguiendo entre aquéllos que presentan evidencia objetiva de deterioro de los que no presentan evidencia objetiva de deterioro, así como el deterioro de los préstamos significativos para los que el Grupo ha determinado que no existe evidencia objetiva de deterioro. 
+De cara al análisis colectivo de deterioro, los activos financieros se agrupan en base a características similares de riesgo indicativas de la capacidad de pago del deudor en base a sus condiciones contractuales. Bajo este análisis se estima el deterioro de los préstamos que no son individualmente significativos, distinguiendo entre aquéllos que presentan evidencia objetiva de deterioro de los que no presentan evidencia objetiva de deterioro, así como el deterioro de los préstamos significativos para los que el Grupo ha determinado que no existe evidencia objetiva de deterioro.
 
 Con respecto a los activos financieros que no presentan evidencia objetiva de deterioro, el Grupo aplica procedimientos estadísticos usando su experiencia histórica y otras informaciones específicas, para estimar las pérdidas en las que el Grupo ha incurrido como resultado de eventos que se han producido a la fecha de elaboración de los estados financieros consolidados pero no se han conocido y se pondrán de manifiesto, de manera individualizada, después de la fecha de presentación de los mismos. Este cálculo es un paso intermedio hasta que se identifiquen de forma específica las pérdidas a nivel individual, momento en que se separarán estos instrumentos financieros del colectivo de activos financieros sin evidencia objetivo de deterioro.
 
 La cuantificación de las pérdidas incurridas tiene en cuenta tres factores fundamentales: la exposición, la probabilidad de incumplimiento (“default”) y la severidad.
 
 • Exposición (_Exposure at default – “EAD”_) es el importe del riesgo contraído en el momento de entrada en “default” de la contraparte.
-• Probabilidad de incumplimiento (_Probability of default – “PD”_) es la probabilidad de que la contraparte incumpla sus obligaciones de pago de capital y/o intereses. Esta probabilidad refleja las condiciones actuales de la cartera, a cada fecha de elaboración de los estados financieros, y se estima considerando las principales características de la calidad crediticia de la contraparte/operación. 
-En el caso concreto de los activos con un impago igual o superior a 90 días, la PD asignada es del 100%. 
-• Severidad (_Loss given default – “LGD”_) es la estimación de la pérdida en caso de que se produzca incumplimiento. 
+• Probabilidad de incumplimiento (_Probability of default – “PD”_) es la probabilidad de que la contraparte incumpla sus obligaciones de pago de capital y/o intereses. Esta probabilidad refleja las condiciones actuales de la cartera, a cada fecha de elaboración de los estados financieros, y se estima considerando las principales características de la calidad crediticia de la contraparte/operación.
+En el caso concreto de los activos con un impago igual o superior a 90 días, la PD asignada es del 100%.
+• Severidad (_Loss given default – “LGD”_) es la estimación de la pérdida en caso de que se produzca incumplimiento.
 
 Depende principalmente de las características de la operación y de la valoración de las garantías o colaterales asociados.
-Con el fin de calcular la LGD en cada fecha de balance, se estima el valor actual de los flujos de efectivo que está previsto obtener durante la vida remanente del activo financiero, incluidos los resultados de la venta (menos los costes de venta) de los colaterales en caso de adjudicación o adquisición de los mismos. 
+Con el fin de calcular la LGD en cada fecha de balance, se estima el valor actual de los flujos de efectivo que está previsto obtener durante la vida remanente del activo financiero, incluidos los resultados de la venta (menos los costes de venta) de los colaterales en caso de adjudicación o adquisición de los mismos.
 
 En caso de incumplimiento, se adquiere contractualmente el derecho de propiedad al final del proceso de ejecución hipotecaria o cuando se compra el activo de los prestatarios en dificultades, y se reconoce en los estados financieros consolidados. Después del reconocimiento inicial, estos activos, clasificados como “Activos no corrientes y grupos enajenables de elementos que se han clasificado como mantenidos para la venta y los pasivos incluidos en dichos grupos” (ver Nota 2.2.4) o “Otros activos - Existencias” (ver Nota 2.2.6) y se valoran por el menor importe entre su valor razonable menos el coste estimado de su venta y su valor en libros.
 
-Adicionalmente, para identificar las posibles pérdidas no comunicadas individualmente (incurred but not reported, o “IBNR”) en la cartera no deteriorada, es necesario introducir un parámetro adicional denominado “LIP” (acrónimo en inglés de Loss identification period). El parámetro LIP o periodo de identificación de la pérdida, es el tiempo que transcurre entre el momento en el que se produce el evento que genera una determinada pérdida y el momento en el que se hace patente a nivel individual tal pérdida. El análisis de los LIPs se realiza sobre la base de carteras homogéneas de riesgos. 
+Adicionalmente, para identificar las posibles pérdidas no comunicadas individualmente (incurred but not reported, o “IBNR”) en la cartera no deteriorada, es necesario introducir un parámetro adicional denominado “LIP” (acrónimo en inglés de Loss identification period). El parámetro LIP o periodo de identificación de la pérdida, es el tiempo que transcurre entre el momento en el que se produce el evento que genera una determinada pérdida y el momento en el que se hace patente a nivel individual tal pérdida. El análisis de los LIPs se realiza sobre la base de carteras homogéneas de riesgos.
 
 A 31 de diciembre de 2016, 2015 y 2014, los modelos internos del Grupo arrojan un resultado de estimación de pérdidas incurridas por riesgo de crédito que no presenta diferencias materiales respecto de las provisiones determinadas siguiendo los requerimientos de Banco de España.
 
@@ -326,7 +325,7 @@ A 31 de diciembre de 2016, 2015 y 2014, los modelos internos del Grupo arrojan u
 
 La pérdida por deterioro de los valores representativos de deuda incluidos en la categoría de “Activos financieros disponibles para la venta” equivale, en su caso, a la diferencia positiva entre su coste de adquisición (neto de cualquier amortización de principal), una vez deducida cualquier pérdida por deterioro previamente reconocida en la cuenta de pérdidas y ganancias consolidada, y su valor razonable.
 
-Cuando existe una evidencia objetiva de que las diferencias negativas surgidas en la valoración de estos activos tienen su origen en un deterioro de los mismos, dejan de considerarse como un “Otro resultado global acumulado - Elementos que pueden reclasificarse en resultados - Activos financieros disponibles para la venta” y se registran en la cuenta de pérdidas y ganancias consolidada del ejercicio en que se evidencia tal hecho. 
+Cuando existe una evidencia objetiva de que las diferencias negativas surgidas en la valoración de estos activos tienen su origen en un deterioro de los mismos, dejan de considerarse como un “Otro resultado global acumulado - Elementos que pueden reclasificarse en resultados - Activos financieros disponibles para la venta” y se registran en la cuenta de pérdidas y ganancias consolidada del ejercicio en que se evidencia tal hecho.
 
 De recuperarse posteriormente la totalidad o parte de las pérdidas por deterioro, su importe se reconocería en la cuenta de pérdidas y ganancias consolidada del ejercicio en que se produce la recuperación, hasta el límite del importe previamente reconocido en resultados.
 
@@ -335,7 +334,7 @@ De recuperarse posteriormente la totalidad o parte de las pérdidas por deterior
 
 El importe del deterioro de los instrumentos de patrimonio se determina en función de su naturaleza, como se describe a continuación:
 
-_• Instrumentos de patrimonio disponibles para la venta, valorados a valor razonable:_ Cuando existe una evidencia objetiva de que las diferencias negativas surgidas en la valoración de estos activos tienen su origen en un deterioro de los mismos, dejan de registrarse en “Otro resultado global acumulado - Elementos que pueden reclasificarse en resultados - Activos financieros disponibles para la venta” y se registran en la cuenta de pérdidas y ganancias consolidada. Con carácter general, el Grupo considera que hay una evidencia objetiva de deterioro de los instrumentos de patrimonio clasificados como disponibles para la venta cuando, de manera sostenida, han existido minusvalías latentes significativas debidas a una caída de cotización de al menos el 40% o prolongada durante más de 18 meses. 
+_• Instrumentos de patrimonio disponibles para la venta, valorados a valor razonable:_ Cuando existe una evidencia objetiva de que las diferencias negativas surgidas en la valoración de estos activos tienen su origen en un deterioro de los mismos, dejan de registrarse en “Otro resultado global acumulado - Elementos que pueden reclasificarse en resultados - Activos financieros disponibles para la venta” y se registran en la cuenta de pérdidas y ganancias consolidada. Con carácter general, el Grupo considera que hay una evidencia objetiva de deterioro de los instrumentos de patrimonio clasificados como disponibles para la venta cuando, de manera sostenida, han existido minusvalías latentes significativas debidas a una caída de cotización de al menos el 40% o prolongada durante más de 18 meses.
 
 Para la aplicación de estas evidencias de deterioro, el Grupo tiene en cuenta la volatilidad que muestra cada título individualmente en su cotización, para determinar si es un porcentaje recuperable mediante su venta en el mercado, pudiendo existir otros umbrales diferentes para determinados títulos o sectores específicos.
 
@@ -386,7 +385,7 @@ Los activos no corrientes y grupos enajenables de elementos que se han clasifica
 
 Las ganancias y pérdidas generadas en la enajenación de los activos no corrientes y grupos enajenables de elementos que se han clasificado como mantenidos para la venta y pasivos incluidos en grupos enajenables de elementos que se han clasificado como mantenidos para la venta, así como las pérdidas por deterioro y, cuando proceda, su recuperación, se reconocen en el capítulo “Ganancias o pérdidas procedentes de activos no corrientes y grupos enajenables de elementos clasificados como mantenidos para la venta no admisibles como actividades interrumpidas” de las cuentas de pérdidas y ganancias consolidadas (ver Nota 50). Los restantes ingresos y gastos correspondientes a dichos activos y pasivos se clasifican en las partidas de la cuenta de pérdidas y ganancias consolidada de acuerdo con su naturaleza.
 
-Por otra parte, los ingresos y gastos de las operaciones en interrupción, cualquiera que sea su naturaleza, generados en el ejercicio, aunque se hubiesen generado antes de su clasificación como operación en interrupción, se presentan, netos del efecto impositivo, como un único importe en el capítulo “Ganancias o pérdidas después de impuestos procedentes de actividades interrumpidas” de la cuenta de pérdidas y ganancias consolidada, tanto si el negocio permanece en balance como si se ha dado de baja de él. Mientras un activo permanezca en esta categoría no será amortizado. Este capítulo incluye también los resultados obtenidos en su enajenación o disposición. 
+Por otra parte, los ingresos y gastos de las operaciones en interrupción, cualquiera que sea su naturaleza, generados en el ejercicio, aunque se hubiesen generado antes de su clasificación como operación en interrupción, se presentan, netos del efecto impositivo, como un único importe en el capítulo “Ganancias o pérdidas después de impuestos procedentes de actividades interrumpidas” de la cuenta de pérdidas y ganancias consolidada, tanto si el negocio permanece en balance como si se ha dado de baja de él. Mientras un activo permanezca en esta categoría no será amortizado. Este capítulo incluye también los resultados obtenidos en su enajenación o disposición.
 
 
 #### 2.2.5 Activos tangibles
@@ -522,8 +521,8 @@ Representa el valor de las obligaciones netas comprometidas con el tomador de lo
 • Provisiones de seguros de no vida:
 - Provisiones para primas no consumidas: Las provisiones para primas no consumidas tienen por objeto la periodificación, a la fecha de cálculo, de las primas emitidas; reflejando su saldo la fracción de las primas cobradas hasta la fecha de cierre que deba imputarse al periodo comprendido entre la fecha de cierre y el término del periodo de cobertura.
 - Provisiones para riesgo en curso: La provisión para riesgos en curso complementa la provisión para primas no consumidas en la medida que su importe no sea suficiente para reflejar la valoración de todos los riesgos y gastos a cubrir por las compañías de seguro que se correspondan con el periodo de cobertura no transcurrido a la fecha de cierre del ejercicio.
-• Provisión para prestaciones: 
-Recoge el importe total de las obligaciones pendientes de pago derivadas de los siniestros ocurridos con anterioridad a la fecha de cierre del ejercicio. Las compañías de seguros calculan esta provisión como la diferencia entre el coste total estimado o cierto de los siniestros pendientes de declaración, liquidación o pago y el conjunto de los importes ya pagados con origen en dichos siniestros. 
+• Provisión para prestaciones:
+Recoge el importe total de las obligaciones pendientes de pago derivadas de los siniestros ocurridos con anterioridad a la fecha de cierre del ejercicio. Las compañías de seguros calculan esta provisión como la diferencia entre el coste total estimado o cierto de los siniestros pendientes de declaración, liquidación o pago y el conjunto de los importes ya pagados con origen en dichos siniestros.
 • Provisión para participación en beneficios y extornos:
 Esta provisión recoge el importe de los beneficios devengados a favor de los tomadores, asegurados o beneficiarios que, en su caso, procede restituir a los tomadores o asegurados en virtud del comportamiento experimentado por el riesgo asegurado, en tanto no haya sido asignado individualmente a cada uno de ellos.
 • Provisiones técnicas del reaseguro cedido:
@@ -542,7 +541,7 @@ Los activos y pasivos por impuestos diferidos incluyen las diferencias temporari
 
 El capítulo “Activos por impuestos” de los balances consolidados incluye el importe de todos los activos de naturaleza fiscal, diferenciándose entre: “Activos por impuestos corrientes” (importes a recuperar por impuestos en los próximos doce meses) y “Activos por impuestos diferidos” (que engloba los importes de los impuestos a recuperar en ejercicios futuros, incluidos los derivados de bases imponibles negativas o de créditos por deducciones o bonificaciones susceptibles de ser compensadas). El capítulo “Pasivos por impuestos” de los balances consolidados incluye el importe de todos los pasivos de naturaleza fiscal, excepto las provisiones por impuestos, y se desglosan en: “Pasivos por impuestos corrientes” (recoge el importe a pagar en los próximos doce meses por el Impuesto sobre Sociedades relativo a la ganancia fiscal del ejercicio y otros impuestos) y “Pasivos por impuestos diferidos” (que representa el importe de los impuestos sobre sociedades a pagar en ejercicios posteriores).
 
-Los pasivos por impuestos diferidos ocasionados por diferencias temporarias asociadas a inversiones en entidades dependientes, asociadas y participaciones en negocios conjuntos, se reconocen contablemente, excepto si el Grupo es capaz de controlar el momento de reversión de la diferencia temporaria y, además, es probable que ésta no se revierta en el futuro. Por su parte, los activos por impuestos diferidos solamente se reconocen en el caso de que se considere probable que las entidades consolidadas vayan a tener en el futuro suficientes ganancias fiscales contra las que poder hacerlos efectivos y no procedan del reconocimiento inicial (salvo en una combinación de negocios) de otros activos y pasivos en una operación que no afecta ni al resultado fiscal ni al resultado contable. 
+Los pasivos por impuestos diferidos ocasionados por diferencias temporarias asociadas a inversiones en entidades dependientes, asociadas y participaciones en negocios conjuntos, se reconocen contablemente, excepto si el Grupo es capaz de controlar el momento de reversión de la diferencia temporaria y, además, es probable que ésta no se revierta en el futuro. Por su parte, los activos por impuestos diferidos solamente se reconocen en el caso de que se considere probable que las entidades consolidadas vayan a tener en el futuro suficientes ganancias fiscales contra las que poder hacerlos efectivos y no procedan del reconocimiento inicial (salvo en una combinación de negocios) de otros activos y pasivos en una operación que no afecta ni al resultado fiscal ni al resultado contable.
 
 Con ocasión de cada cierre contable, las entidades consolidadas revisan los impuestos diferidos registrados (tanto activos como pasivos) con objeto de comprobar que se mantienen vigentes; efectuándose las oportunas correcciones a los mismos de acuerdo con los resultados de los análisis realizados. En aquellas circunstancias en que existe incertidumbre sobre la aplicación de las leyes fiscales a algunas circunstancias o transacciones particulares y el tratamiento fiscal definitivo depende de las decisiones que tomen las autoridades fiscales relevantes en el futuro, la entidad reconoce y valora los activos o pasivos por impuestos corrientes y diferidos, según proceda, teniendo en cuenta sus expectativas de que la autoridad fiscal acepte o no su posición fiscal. Así, en caso de que la entidad concluya que no es probable que la autoridad fiscal acepte una determinada posición fiscal incierta, la valoración de los correspondientes activos o pasivos por impuestos reflejan los importes que la entidad prevea recuperar (pagar) a las autoridades fiscales.
 
@@ -562,12 +561,12 @@ Entre otros conceptos, estas provisiones incluyen los compromisos asumidos con s
 
 Los activos contingentes son activos posibles, surgidos como consecuencia de sucesos pasados, cuya existencia está condicionada y deberá confirmarse cuando ocurran, o no, eventos que están fuera del control del Grupo. Los activos contingentes no se reconocen en el balance ni en la cuenta de pérdidas y ganancias, consolidados, pero se informarán en caso de existir, en los estados financieros consolidados siempre y cuando sea probable el aumento de recursos que incorporen beneficios económicos por esta causa.
 
-Los pasivos contingentes son obligaciones posibles del Grupo, surgidas como consecuencia de sucesos pasados, cuya existencia está condicionada a que ocurran, o no, uno o más eventos futuros independientes de la voluntad del Grupo. Incluyen también las obligaciones actuales del Grupo, cuya cancelación no es probable que origine una disminución de recursos que incorporen beneficios económicos o cuyo importe, en casos extremadamente poco habituales, no pueda ser cuantificado con la suficiente fiabilidad. 
+Los pasivos contingentes son obligaciones posibles del Grupo, surgidas como consecuencia de sucesos pasados, cuya existencia está condicionada a que ocurran, o no, uno o más eventos futuros independientes de la voluntad del Grupo. Incluyen también las obligaciones actuales del Grupo, cuya cancelación no es probable que origine una disminución de recursos que incorporen beneficios económicos o cuyo importe, en casos extremadamente poco habituales, no pueda ser cuantificado con la suficiente fiabilidad.
 
 Los pasivos contingentes no se reconocen en el balance ni en la cuenta de pérdidas y ganancias, consolidados, (salvo los registrados en una combinación de negocio) pero se desglosan en los estados financieros consolidados.
 
 
-#### 2.2.12 Pensiones y otros compromisos post-empleo 
+#### 2.2.12 Pensiones y otros compromisos post-empleo
 
 A continuación se describen los criterios contables más significativos relacionados con los compromisos contraídos con el personal, tanto por retribuciones post-empleo como por otros compromisos a largo plazo, asumidos por determinadas sociedades del Grupo BBVA, españolas y extranjeras (ver Nota 25).
 
@@ -584,9 +583,9 @@ Al establecer las hipótesis actuariales se tiene en cuenta que:
 El Grupo BBVA registra las diferencias actuariales con origen en los compromisos asumidos con el personal prejubilado, los premios de antigüedad y otros conceptos asimilados, en el capítulo “Provisiones o reversión de provisiones” de la cuenta de pérdidas y ganancias consolidada del ejercicio en que se producen tales diferencias (ver Nota 46). Las diferencias actuariales con origen en los compromisos de prestación definida por retribuciones post-empleo se reconocen, directamente, con cargo al epígrafe “Otro resultado global acumulado - Elementos que no se reclasificarán en resultados – Resto de ajustes por valoración” del patrimonio neto de los balances consolidados (ver Nota 30).
 
 
-##### Compromisos por retribuciones post-empleo 
+##### Compromisos por retribuciones post-empleo
 
-###### Pensiones 
+###### Pensiones
 
 Los compromisos por retribuciones post-empleo asumidos por el Grupo BBVA son o de aportación definida o de prestación definida.
 
@@ -645,7 +644,7 @@ Estos activos financieros se registran a su coste de adquisición y los benefici
 
 #### 2.2.16 Operaciones en moneda extranjera y diferencias de conversión
 
-La moneda funcional del Grupo BBVA y la moneda de presentación de sus estados financieros consolidados es el euro. Por tanto, todos los saldos y transacciones denominados en monedas diferentes al euro se consideran denominados en “moneda extranjera”. 
+La moneda funcional del Grupo BBVA y la moneda de presentación de sus estados financieros consolidados es el euro. Por tanto, todos los saldos y transacciones denominados en monedas diferentes al euro se consideran denominados en “moneda extranjera”.
 
 La conversión a euros de los saldos en moneda extranjera se realiza en dos fases consecutivas:
 • Conversión de la moneda extranjera a la moneda funcional (moneda del entorno económico principal en el que opera la entidad); y
@@ -678,12 +677,12 @@ El desglose de los principales saldos de los balances consolidados mantenidos en
 
 ####### Venezuela
 
-Los estados financieros locales de las sociedades del Grupo radicadas en Venezuela son expresados en la moneda bolívar fuerte venezolano y, de cara a la elaboración de los estados financieros consolidados del Grupo, se convierten a euros, tal y como se indica a continuación, dado que Venezuela es un país con fuertes restricciones cambiarias y que cuenta con distintos tipos publicados oficialmente: 
+Los estados financieros locales de las sociedades del Grupo radicadas en Venezuela son expresados en la moneda bolívar fuerte venezolano y, de cara a la elaboración de los estados financieros consolidados del Grupo, se convierten a euros, tal y como se indica a continuación, dado que Venezuela es un país con fuertes restricciones cambiarias y que cuenta con distintos tipos publicados oficialmente:
 
-• El 10 de febrero de 2015, el gobierno venezolano anunció la aparición de un nuevo mercado de moneda extranjera denominado Sistema Marginal de Divisas (SIMADI). 
+• El 10 de febrero de 2015, el gobierno venezolano anunció la aparición de un nuevo mercado de moneda extranjera denominado Sistema Marginal de Divisas (SIMADI).
 • El Grupo utilizó el tipo de cambio SIMADI a partir de marzo de 2015 para la conversión de los estados financieros de las sociedades del Grupo radicadas en Venezuela a los efectos de elaborar sus estados financieros consolidados intermedios. El tipo SIMADI empezó reflejando el tipo de cambio de transacciones reales, incrementándose rápidamente hasta aproximadamente 200 bolívares por dólar (aproximadamente 218 bolívares por euro) pero, a partir de mayo, y durante el segundo semestre de 2015 se confirmó la tendencia, el tipo SIMADI apenas fluctuó, situándose al cierre del ejercicio 2015 en 216,3 bolívares por euro, por lo que podría considerarse poco representativo de la convertibilidad de la divisa venezolana.
-• En febrero de 2016, el gobierno venezolano aprobó un nuevo convenio cambiario que incluye el establecimiento de dos nuevos mecanismos que regulan la compra y venta de divisa extranjera y la suspensión del tipo de cambio SIMADI.   
-• A 31 de diciembre de 2015 y a 30 de junio de 2016, los administradores del Grupo consideran que el uso de los nuevos tipos de cambio y, anteriormente, del SIMADI para la conversión de los bolívares a euros en la elaboración de los estados financieros consolidados no refleja la imagen fiel de los estados financieros consolidados del Grupo y de la situación financiera de las entidades del Grupo en Venezuela. 
+• En febrero de 2016, el gobierno venezolano aprobó un nuevo convenio cambiario que incluye el establecimiento de dos nuevos mecanismos que regulan la compra y venta de divisa extranjera y la suspensión del tipo de cambio SIMADI.
+• A 31 de diciembre de 2015 y a 30 de junio de 2016, los administradores del Grupo consideran que el uso de los nuevos tipos de cambio y, anteriormente, del SIMADI para la conversión de los bolívares a euros en la elaboración de los estados financieros consolidados no refleja la imagen fiel de los estados financieros consolidados del Grupo y de la situación financiera de las entidades del Grupo en Venezuela.
 • Por tanto, a 31 de diciembre de 2015 y 30 de junio de 2016 el Grupo utilizó en la conversión de los estados financieros de dichas sociedades un tipo de cambio estimado que ascendió a 469 y 1.170 bolívares por euro, respectivamente. Estos tipos de cambio han sido calculados teniendo en consideración la evolución de la inflación estimada en Venezuela a dichas fechas (a 31 de diciembre de 2015, 170% y a 30 de junio de 2016, 133,6%) por el servicio de estudios del Grupo (véase Nota 2.2.20).
 
 
@@ -718,7 +717,7 @@ En los arrendamientos financieros, cuando las entidades consolidadas actúan com
 
 En los arrendamientos operativos, si las entidades consolidadas actúan como arrendadoras, presentan el coste de adquisición de los bienes arrendados en el epígrafe "Activos tangibles - Inmovilizado material - Cedidos en arrendamiento operativo" de los balances consolidados (ver Nota 17). Estos activos se amortizan de acuerdo con las políticas adoptadas para los activos materiales similares de uso propio y los ingresos y gastos procedentes de los contratos de arrendamiento se reconocen en las cuentas de pérdidas y ganancias consolidadas, de forma lineal, en los epígrafes "Otros ingresos de explotación - Resto de ingresos de explotación” y " Otros gastos de explotación - Resto de gastos de explotación”, respectivamente (ver Nota 43).
 
-En el caso de ventas a su valor razonable con arrendamiento operativo posterior, los resultados generados por la venta se registran en la cuenta de pérdidas y ganancias consolidada en el momento de la misma. En el caso de arrendamiento financiero posterior, los resultados generados se periodifican a lo largo del periodo de arrendamiento. 
+En el caso de ventas a su valor razonable con arrendamiento operativo posterior, los resultados generados por la venta se registran en la cuenta de pérdidas y ganancias consolidada en el momento de la misma. En el caso de arrendamiento financiero posterior, los resultados generados se periodifican a lo largo del periodo de arrendamiento.
 
 Los activos cedidos bajo contratos de arrendamiento operativo a otras entidades del Grupo se tratan en los estados financieros consolidados como de uso propio y, por tanto, se eliminan los gastos y los ingresos por alquileres y se registran las amortizaciones correspondientes.
 
@@ -749,7 +748,7 @@ Las pérdidas registradas en el epígrafe “Resultado del periodo - Atribuible 
 
 En el inicio del ejercicio de 2016 entraron en vigor las siguientes modificaciones de las NIIF y de las interpretaciones de las mismas (en adelante, “CINIIF”), que no han tenido un impacto significativo en los presentes estados financieros consolidados del Grupo BBVA.
 
-##### NIIF 11 modificada – “Acuerdos conjuntos” 
+##### NIIF 11 modificada – “Acuerdos conjuntos”
 
 Las modificaciones realizadas a la NIIF11 introducen una guía de contabilización de las adquisiciones de participaciones en operaciones conjuntas cuya actividad constituye un negocio, según la cual éstas se deberán contabilizar aplicando los principios de la NIIF 3 – Combinaciones de negocio.
 
@@ -757,11 +756,11 @@ Las modificaciones realizadas a la NIIF11 introducen una guía de contabilizaci�
 
 Las modificaciones realizadas a la NIC 16 y a la NIC 38 excluyen, como norma general, de entre los métodos de depreciación y amortización de activos, aquellos métodos basados en los ingresos, por la razón de que, salvo en casos muy excepcionales, estos métodos no reflejan el patrón con arreglo al cual se espera que la entidad consuma los beneficios económicos del activo.
 
-##### NIC 27 modificada – “Estados financieros consolidados y separados” 
+##### NIC 27 modificada – “Estados financieros consolidados y separados”
 
 Las modificaciones realizadas a la NIC 27 permiten que las entidades utilicen el método de la participación para contabilizar sus inversiones en subsidiarias, negocios conjuntos y asociadas, en sus estados financieros separados.
 
-##### Proyecto anual de mejoras de las NIIFs 2012-2014 
+##### Proyecto anual de mejoras de las NIIFs 2012-2014
 
 El proyecto anual de mejoras a las NIIFs 2012-2014 introduce pequeñas modificaciones y aclaraciones a la NIIF 5 – “Activos no corrientes mantenidos para la venta y operaciones discontinuadas”, NIIF 7 – “Instrumentos financiaros: Información a revelar”, NIC 19 – “Beneficios a los empleados” y NIC 34 – “Información financiera intermedia”.
 
@@ -785,7 +784,7 @@ A la fecha de formulación de los estados financieros consolidados adjuntos se h
 
 Con fecha 24 de julio de 2014, el IASB emitió la NIIF 9 que sustituirá en el futuro a la NIC 39 e incluye requerimientos para la clasificación y valoración de los activos y pasivos financieros, el deterioro de activos financieros y la contabilidad de coberturas. La clasificación de los activos financieros dependerá del modelo de negocio de la entidad para su gestión y de las características de los flujos de caja contractuales, y resultará en que los activos financieros se valorarán a coste amortizado, a valor razonable con cambios en patrimonio neto o a valor razonable con cambios en pérdidas y ganancias. El efecto combinado de la aplicación del modelo negocio y las características de flujos contractuales puede resultar en diferencias en la población de activos financieros valorados a coste amortizado o a valor razonable en comparación con NIC 39, aunque el Grupo no espera cambios relevantes en este sentido. En relación con los pasivos financieros, las categorías de clasificación propuestas por la NIIF 9 son similares a las ya existentes en la NIC 39, de modo que no deberían existir diferencias muy relevantes salvo por el requisito de registro de las variaciones del valor razonable relacionado con el riesgo propio de crédito como un componente del patrimonio, en el caso de los pasivos financieros medidos a valor razonable.
 
-Los requisitos de deterioro aplicarán para los activos financieros valorados a coste amortizado y a valor razonable con cambios en patrimonio neto, y para los contratos de arrendamiento y ciertos compromisos de préstamos y contratos de garantía financiera. En el reconocimiento inicial, se requiere una provisión por las pérdidas esperadas resultantes de eventos de deterioro que es posible que ocurran en los próximos 12 meses (“pérdida esperada a 12 meses”). En caso de un incremento de riesgo de crédito significativo, se requiere una provisión relativa a todos los posibles eventos de deterioro que se esperan a lo largo de la vida del instrumento financiero (“pérdida esperada a lo largo de la vida de toda la operación”). La evaluación de si el riesgo de crédito se ha incrementado significativamente desde el reconocimiento inicial debe realizarse, para cada periodo de información, considerando el cambio en el riesgo de incumplimiento a lo largo de la vida remanente del instrumento financiero. La evaluación del riesgo de crédito, y la estimación de las pérdidas esperadas, deben realizarse de forma que resulten en una estimación ponderada e insesgada y deberá incorporar toda la información disponible que sea relevante para la evaluación, incluyendo información sobre eventos pasados, condiciones actuales y previsiones razonables y soportadas de eventos futuros y de condiciones económicas en la fecha de información. Como resultado, el objetivo es que el reconocimiento y la valoración del deterioro se realicen de forma más anticipatoria y prospectiva que bajo el actual modelo de pérdida incurrida de la NIC 39. En principio, se espera un incremento en el nivel total de provisiones por deterioro, ya que todos los activos financieros llevarán consigo al menos una provisión por pérdida esperada de 12 meses y la población de activos financieros a los que aplicará una provisión por pérdida esperada a lo largo de la vida de toda la operación se espera que sea mayor que la población para la cual existe evidencia objetiva de deterioro bajo NIC 39. 
+Los requisitos de deterioro aplicarán para los activos financieros valorados a coste amortizado y a valor razonable con cambios en patrimonio neto, y para los contratos de arrendamiento y ciertos compromisos de préstamos y contratos de garantía financiera. En el reconocimiento inicial, se requiere una provisión por las pérdidas esperadas resultantes de eventos de deterioro que es posible que ocurran en los próximos 12 meses (“pérdida esperada a 12 meses”). En caso de un incremento de riesgo de crédito significativo, se requiere una provisión relativa a todos los posibles eventos de deterioro que se esperan a lo largo de la vida del instrumento financiero (“pérdida esperada a lo largo de la vida de toda la operación”). La evaluación de si el riesgo de crédito se ha incrementado significativamente desde el reconocimiento inicial debe realizarse, para cada periodo de información, considerando el cambio en el riesgo de incumplimiento a lo largo de la vida remanente del instrumento financiero. La evaluación del riesgo de crédito, y la estimación de las pérdidas esperadas, deben realizarse de forma que resulten en una estimación ponderada e insesgada y deberá incorporar toda la información disponible que sea relevante para la evaluación, incluyendo información sobre eventos pasados, condiciones actuales y previsiones razonables y soportadas de eventos futuros y de condiciones económicas en la fecha de información. Como resultado, el objetivo es que el reconocimiento y la valoración del deterioro se realicen de forma más anticipatoria y prospectiva que bajo el actual modelo de pérdida incurrida de la NIC 39. En principio, se espera un incremento en el nivel total de provisiones por deterioro, ya que todos los activos financieros llevarán consigo al menos una provisión por pérdida esperada de 12 meses y la población de activos financieros a los que aplicará una provisión por pérdida esperada a lo largo de la vida de toda la operación se espera que sea mayor que la población para la cual existe evidencia objetiva de deterioro bajo NIC 39.
 
 La contabilidad general de coberturas también implicará cambios, pues el enfoque de la norma es distinto al de la actual NIC 39, al tratar de alinear la contabilidad con la gestión económica del riesgo. Asimismo, la NIIF 9 permitirá aplicar contabilidad de coberturas a una mayor variedad de riesgos e instrumentos de cobertura. La norma no trata la contabilidad de las denominadas estrategias de macrocoberturas. Con objeto de evitar algún conflicto entre la contabilidad actual de macrocoberturas y el nuevo régimen general de contabilidad de coberturas, la NIIF 9 incluye una opción de política contable para seguir aplicando contabilidad de coberturas de acuerdo a NIC 39.
 
@@ -812,19 +811,19 @@ Las modificaciones introducen dos opciones para abordar la problemática relacio
 
 La NIIF 15 establece los principios que una entidad deberá aplicar para contabilizar los ingresos y flujos de fondos procedentes de los contratos para la venta de bienes o servicios a sus clientes.
 
-Según esta nueva norma, las entidades reconocerán los ingresos procedentes de un contrato con clientes cuando hayan satisfecho sus obligaciones de transmisión de bienes o realización de servicios a sus clientes, de acuerdo con lo contractualmente pactado, y se considera que un bien o servicio ha sido transferido cuando el cliente obtiene el control del mismo. Respecto al importe que se ha de reconocer, éste será aquel que refleje el pago al que se espera tener dere cho por los bienes o servicios transferidos. 
+Según esta nueva norma, las entidades reconocerán los ingresos procedentes de un contrato con clientes cuando hayan satisfecho sus obligaciones de transmisión de bienes o realización de servicios a sus clientes, de acuerdo con lo contractualmente pactado, y se considera que un bien o servicio ha sido transferido cuando el cliente obtiene el control del mismo. Respecto al importe que se ha de reconocer, éste será aquel que refleje el pago al que se espera tener dere cho por los bienes o servicios transferidos.
 
 Esta norma será de aplicación a los ejercicios que comiencen a partir del 1 de enero de 2018, aunque se permite su aplicación anticipada.
 
 ##### NIIF 15 - "Aclaraciones a la NIIF 15 Ingresos de contratos con clientes"
 
-Las modificaciones realizadas a la NIIF 15 aclaran cómo deben ser aplicados algunos de los principios de la nueva Norma. En concreto, aclaran: 
+Las modificaciones realizadas a la NIIF 15 aclaran cómo deben ser aplicados algunos de los principios de la nueva Norma. En concreto, aclaran:
 
 • Cómo identificar una obligación de ejecución (promesa de transferir un bien o un servicio a un cliente) en un contrato;
 • Cómo determinar si una entidad actúa como principal (proveedor de un bien o servicio) o como agente (responsable de la organización para que se transfiera el bien o servicio); y
 • Cómo determinar si el ingreso de la concesión de una licencia debe ser reconocido en un momento determinado o a lo largo del tiempo.
 
-Además, se incluyen dos modificaciones para reducir el coste y la complejidad de la aplicación por primera vez de la nueva Norma. 
+Además, se incluyen dos modificaciones para reducir el coste y la complejidad de la aplicación por primera vez de la nueva Norma.
 
 Las modificaciones serán de aplicación al mismo tiempo que la NIIF 15, es decir, a los ejercicios que comiencen a partir del 1 de enero de 2018, aunque se permite su aplicación anticipada.
 
@@ -842,7 +841,7 @@ Las modificaciones realizadas a la NIC 12 aclaran los requisitos para el reconoc
 • La entidad evaluará la utilización de una diferencia temporaria deducible en combinación con otras diferencias temporarias deducibles. Cuando las leyes fiscales restrinjan la utilización de pérdidas fiscales, la entidad deberá valorar su utilización en relación con otras diferencias temporarias del tipo adecuado.
 • La estimación de los beneficios fiscales futuros puede contemplar beneficios derivados de la recuperación de activos por un importe superior a su valor en libros, siempre y cuando exista evidencia suficiente de que es probable que ése sea el importe por el que se vaya a recuperar el activo.
 • La estimación de los beneficios fiscales futuros excluye las deducciones fiscales procedentes de la reversión de diferencias temporarias deducibles.
-Las modificaciones serán de aplicación a los ejercicios que comiencen a partir del 1 de enero de 2017, aunque se permite su aplicación anticipada. 
+Las modificaciones serán de aplicación a los ejercicios que comiencen a partir del 1 de enero de 2017, aunque se permite su aplicación anticipada.
 
 ##### NIIF 16 – “Arrendamientos”
 
@@ -854,7 +853,7 @@ Esta norma será de aplicación a los ejercicios que comiencen a partir del 1 de
 
 ##### NIC 7 - "Estado de Flujos de Efectivo. Iniciativa sobre Información a Revelar"
 
-Las modificaciones realizadas a la NIC 7 introducen los siguientes nuevos desgloses de información relacionada con los cambios en los pasivos procedentes de las actividades de financiación, en la medida necesaria para que los usuarios de los estados financieros puedan evaluar los cambios en dichos pasivos: cambios de los flujos de efectivo de financiación; cambios derivados de la obtención o pérdida del control de subsidiarias u otros negocios; el efecto de los cambios en los tipos de cambio; cambios en el valor razonable; y otros cambios. 
+Las modificaciones realizadas a la NIC 7 introducen los siguientes nuevos desgloses de información relacionada con los cambios en los pasivos procedentes de las actividades de financiación, en la medida necesaria para que los usuarios de los estados financieros puedan evaluar los cambios en dichos pasivos: cambios de los flujos de efectivo de financiación; cambios derivados de la obtención o pérdida del control de subsidiarias u otros negocios; el efecto de los cambios en los tipos de cambio; cambios en el valor razonable; y otros cambios.
 
 Los pasivos procedentes de las actividades de financiación son pasivos para los cuales los flujos de efectivo eran, o para los cuales los flujos de efectivo futuros serán, clasificados en el estado de flujos de efectivo como flujos de efectivo de las actividades de financiación. Además, los requisitos de desgloses también se aplican a los cambios en los activos financieros si los flujos de efectivo de los activos financieros eran, o si los flujos de efectivo futuros serán, incluidos en los flujos de efectivo de las actividades de financiación.
 
@@ -887,11 +886,11 @@ Los activos totales y resultados a dichas fechas agrupados por segmentos de nego
 La actividad del Grupo BBVA se desarrolla principalmente en España, México, América del Sur, Estados Unidos y Turquía, además mantiene una presencia activa en otros países, como se muestra a continuación:
 
 • España
-La actividad del Grupo en España se realiza, fundamentalmente, a través de Banco Bilbao Vizcaya Argentaria, S.A., sociedad matriz del Grupo BBVA (incluyendo Catalunya Banc). Adicionalmente, existen otras sociedades del Grupo en España que operan en el sector bancario, asegurador, inmobiliario, de servicios y de arrendamiento operativo. 
+La actividad del Grupo en España se realiza, fundamentalmente, a través de Banco Bilbao Vizcaya Argentaria, S.A., sociedad matriz del Grupo BBVA (incluyendo Catalunya Banc). Adicionalmente, existen otras sociedades del Grupo en España que operan en el sector bancario, asegurador, inmobiliario, de servicios y de arrendamiento operativo.
 • México
 El Grupo BBVA está presente en México, tanto en el sector bancario como en el de seguros, a través del Grupo Financiero Bancomer.
 • América del Sur
-La actividad del Grupo BBVA en América del Sur se desarrolla, principalmente, en el negocio bancario y asegurador en los siguientes países: Argentina, Chile, Colombia, Paraguay, Perú, Uruguay y Venezuela. También tiene una oficina de representación en Sao Paulo (Brasil). 
+La actividad del Grupo BBVA en América del Sur se desarrolla, principalmente, en el negocio bancario y asegurador en los siguientes países: Argentina, Chile, Colombia, Paraguay, Perú, Uruguay y Venezuela. También tiene una oficina de representación en Sao Paulo (Brasil).
 En la mayoría de las sociedades participadas radicadas en estos países, el Grupo posee un porcentaje de participación superior al 50%. En el Anexo I se indican las sociedades en las que, aunque el Grupo BBVA poseía a 31 de diciembre de 2016 un porcentaje de propiedad inferior al 50%, se consolidan por el método de integración global (ver Nota 2.1).
 • Estados Unidos
 La actividad del Grupo en Estados Unidos se desarrolla, principalmente, a través de un grupo de sociedades cuya cabecera es BBVA Compass Bancshares, Inc.; de la sucursal de BBVA en Nueva York y de una oficina de representación en Silicon Valley (California).
@@ -900,14 +899,14 @@ La actividad del Grupo en Turquía se desarrolla principalmente a través del Gr
 • Resto de Europa
 La actividad del Grupo en el resto de Europa se desarrolla a través de entidades bancarias y financieras, principalmente, en Irlanda, Suiza, Italia, Países Bajos, Rumanía, Rusia y Portugal; sucursales del Banco en Alemania, Bélgica, Francia, Italia y Reino Unido y oficinas de representación en Rusia.
 • Asia-Pacífico
-La actividad del Grupo en esta región se desarrolla a través de sucursales del Banco (Taipéi, Seúl, Tokio, Hong Kong, Singapur y Shanghái) y de oficinas de representación (Beijing, Mumbai, Abu Dhabi, Sidney y Yakarta). 
+La actividad del Grupo en esta región se desarrolla a través de sucursales del Banco (Taipéi, Seúl, Tokio, Hong Kong, Singapur y Shanghái) y de oficinas de representación (Beijing, Mumbai, Abu Dhabi, Sidney y Yakarta).
 
 
 #### Variaciones en el Grupo en 2016
 
 ##### Fusiones
 
-El Grupo BBVA acordó en la reunión del Consejo de Administración del Banco celebrada el día 31 de marzo de 2016 iniciar el proceso para la integración de las sociedades BBVA, S.A., Catalunya Banc, S.A., Banco Depositario BBVA, S.A. y Unoe Bank, S.A., siendo la primera la sociedad absorbente. Esta operación forma parte de un proceso de reorganización societaria de sus filiales bancarias en España. 
+El Grupo BBVA acordó en la reunión del Consejo de Administración del Banco celebrada el día 31 de marzo de 2016 iniciar el proceso para la integración de las sociedades BBVA, S.A., Catalunya Banc, S.A., Banco Depositario BBVA, S.A. y Unoe Bank, S.A., siendo la primera la sociedad absorbente. Esta operación forma parte de un proceso de reorganización societaria de sus filiales bancarias en España.
 
 El día 9 de septiembre de 2016, tras obtener la autorización pertinente de las autoridades, se procedió a la inscripción en el Registro Mercantil de Bizkaia de la escritura de fusión por absorción de Catalunya Banc, S.A. por BBVA, S.A.
 En los Estados Financieros consolidados, las operaciones de fusión referidas son neutras tanto a efectos contables como de solvencia.
@@ -933,16 +932,16 @@ La puesta a valor razonable antes mencionada supuso un impacto negativo no recur
 
 Los mencionados acuerdos con el grupo Dogus incluyen un pacto para la gestión de dicho banco y la designación por el Grupo BBVA de la mayoría de los miembros de su Consejo de Administración (7 de un total de 10). La participación del 39,9% en Garanti se consolida en el Grupo BBVA, debido a los mencionados acuerdos de gestión.
 
-La estimación realizada por el Grupo, de acuerdo con el método de adquisición, que compara entre los valores razonables asignados a los activos adquiridos y pasivos asumidos de Garanti, junto con los activos intangibles identificados, y el pago en efectivo realizado por el Grupo como contraprestación de la operación, generó una diferencia de 0000 millones de euros (al tipo de cambio de 31 de diciembre de 2016), que se encuentra registrada en el capítulo “Activos intangibles – Fondo de comercio” del balance consolidado a 31 de diciembre de 2016 (ver Nota 18.1). 
+La estimación realizada por el Grupo, de acuerdo con el método de adquisición, que compara entre los valores razonables asignados a los activos adquiridos y pasivos asumidos de Garanti, junto con los activos intangibles identificados, y el pago en efectivo realizado por el Grupo como contraprestación de la operación, generó una diferencia de 0000 millones de euros (al tipo de cambio de 31 de diciembre de 2016), que se encuentra registrada en el capítulo “Activos intangibles – Fondo de comercio” del balance consolidado a 31 de diciembre de 2016 (ver Nota 18.1).
 
 
 ###### Adquisición de Catalunya Banc
 
 El 21 de julio de 2014, la Comisión Rectora del Fondo de Reestructuración Ordenada Bancaria (“FROB”), adjudicó a la oferta de BBVA el proceso competitivo para la adquisición de Catalunya Banc, S.A. (“Catalunya Banc”).
 
-El 24 de abril de 2015, una vez obtenidas las preceptivas autorizaciones regulatorias de las autoridades competentes, se formalizó la compra de un total de 1.947.166.809 acciones de Catalunya Banc, S.A. representativas del aproximadamente 98,4% de su capital social por un precio de, aproximadamente, 1.165 millones de euros. 
+El 24 de abril de 2015, una vez obtenidas las preceptivas autorizaciones regulatorias de las autoridades competentes, se formalizó la compra de un total de 1.947.166.809 acciones de Catalunya Banc, S.A. representativas del aproximadamente 98,4% de su capital social por un precio de, aproximadamente, 1.165 millones de euros.
 
-A 31 de diciembre de 2015, de acuerdo con el método de adquisición, la comparación entre los valores razonables asignados a los activos adquiridos y pasivos asumidos de Catalunya Banc, junto con los activos intangibles identificados, y el pago en efectivo realizado por el Grupo al FROB como contraprestación de la operación, generó una diferencia de 26 millones de euros, que se encuentra registrada en el capítulo “Fondo de comercio negativo reconocido en resultados” de la cuenta de pérdidas y ganancias consolidada del ejercicio 2015. De acuerdo con la NIIF 3, se disponía de un plazo de hasta un año para poder finalizar los ajustes necesarios al cálculo de adquisición inicial (ver Nota 18.1). Transcurrido dicho plazo, no se ha producido ningún ajuste significativo que implique modificar el cálculo registrado en el ejercicio 2015. 
+A 31 de diciembre de 2015, de acuerdo con el método de adquisición, la comparación entre los valores razonables asignados a los activos adquiridos y pasivos asumidos de Catalunya Banc, junto con los activos intangibles identificados, y el pago en efectivo realizado por el Grupo al FROB como contraprestación de la operación, generó una diferencia de 26 millones de euros, que se encuentra registrada en el capítulo “Fondo de comercio negativo reconocido en resultados” de la cuenta de pérdidas y ganancias consolidada del ejercicio 2015. De acuerdo con la NIIF 3, se disponía de un plazo de hasta un año para poder finalizar los ajustes necesarios al cálculo de adquisición inicial (ver Nota 18.1). Transcurrido dicho plazo, no se ha producido ningún ajuste significativo que implique modificar el cálculo registrado en el ejercicio 2015.
 
 
 ##### Desinversiones
@@ -951,9 +950,9 @@ A 31 de diciembre de 2015, de acuerdo con el método de adquisición, la compara
 
 El 23 de enero de 2015, el Grupo BBVA anunció la firma de un acuerdo para vender un 4,9% del capital social de China CITIC Bank Corporation Limited (CNCB) a UBS AG, London Branch (UBS) quien, a su vez, firmó determinados acuerdos, conforme a los cuales las acciones de CNCB serían transferidas a un tercero y el beneficiario económico final de la propiedad de dichas acciones será Xinhu Zhongbao Co. Ltd. (Xinhu). El 12 de marzo de 2015, una vez obtenidas las preceptivas autorizaciones regulatorias de las autoridades competentes, se formalizó la venta.
 
-El precio de venta que pagó UBS fue de 5,73 dólares de Hong Kong (HK$) por acción y el importe total fue de HK$ 13.136 millones, equivalente aproximadamente a 1.555 millones de euros (calculados al tipo de cambio: EUR/HK$= 8,45 vigente al cierre de la operación). 
+El precio de venta que pagó UBS fue de 5,73 dólares de Hong Kong (HK$) por acción y el importe total fue de HK$ 13.136 millones, equivalente aproximadamente a 1.555 millones de euros (calculados al tipo de cambio: EUR/HK$= 8,45 vigente al cierre de la operación).
 
-Adicionales al 4,9% y hasta completar un 6,34%, se realizaron distintas ventas en mercado durante el primer semestre 2015. El impacto total de dichas ventas en los estados financieros consolidados del Grupo BBVA fue una plusvalía neta de aproximadamente 705 millones de euros. La plusvalía bruta de impuestos se encuentra registrada en el epígrafe “Ganancias o pérdidas procedentes de activos no corrientes y grupos enajenables de elementos clasificados como mantenidos para la venta no admisibles como actividades interrumpidas” de la cuenta de pérdidas y ganancias consolidada del primer semestre de 2015 adjunta (ver Nota 50). 
+Adicionales al 4,9% y hasta completar un 6,34%, se realizaron distintas ventas en mercado durante el primer semestre 2015. El impacto total de dichas ventas en los estados financieros consolidados del Grupo BBVA fue una plusvalía neta de aproximadamente 705 millones de euros. La plusvalía bruta de impuestos se encuentra registrada en el epígrafe “Ganancias o pérdidas procedentes de activos no corrientes y grupos enajenables de elementos clasificados como mantenidos para la venta no admisibles como actividades interrumpidas” de la cuenta de pérdidas y ganancias consolidada del primer semestre de 2015 adjunta (ver Nota 50).
 
 A 31 de diciembre de 2016, el valor en libros de la participación mantenida en CNCB asciende a 0000 millones de euros, equivalente al 0000% de participación y se encuentra registrada en el epígrafe “Activos financieros disponibles para la venta” del balance consolidado a dicha fecha.
 
@@ -966,20 +965,20 @@ El 27 de agosto de 2015 se completó la venta de dicha participación sin impact
 
 #### Variaciones en el Grupo en 2014
 
-Sin variaciones significativas durante el ejercicio 2014. 
+Sin variaciones significativas durante el ejercicio 2014.
 
 
 ## 4. Sistema de retribución a los accionistas
 
 #### Esquema de retribución a los accionistas
 
-Durante los ejercicios 2012, 2013, 2014, 2015 y 2016, el Grupo tiene implementado un sistema de retribución al accionista denominado “Dividendo Opción”. 
+Durante los ejercicios 2012, 2013, 2014, 2015 y 2016, el Grupo tiene implementado un sistema de retribución al accionista denominado “Dividendo Opción”.
 
 A través de este esquema de retribución, BBVA ofrece a sus accionistas la posibilidad de recibir la totalidad o parte de su remuneración en acciones ordinarias de nueva emisión, manteniendo, en todo caso, la posibilidad de que el accionista, a su elección, perciba su retribución en efectivo, vendiendo los derechos de asignación gratuita que le son asignados en cada aumento de capital, bien a BBVA (en el ejercicio del compromiso de adquisición de los derechos de asignación gratuita asumido por el Banco al precio fijo que se establezca) o bien en el mercado al precio en que coticen en cada momento.
 
-El 31 de marzo de 2016, el Consejo de Administración del Banco acordó llevar a efecto el primero de los aumentos de capital con cargo a reservas voluntarias acordados por la Junta General Ordinaria de Accionistas de 11 de marzo de 2016 para el desarrollo del sistema de retribución al accionista denominado “Dividendo Opción”. Ello supuso finalmente un aumento de capital de 55.702.125,43 euros (113.677.807 acciones de 0,49 euros de valor nominal), dado que titulares del 82,13% de los derechos de asignación gratuita optaron por recibir nuevas acciones ordinarias de BBVA. Titulares del 17,87% restante de los derechos de asignación gratuita, ejercitaron el compromiso de adquisición de dichos derechos asumido por BBVA, por lo que BBVA adquirió 1.137.500.965 derechos a un precio bruto fijo de 0,129 euros por derecho, lo que supuso un importe total de 146.737.624,49 euros, que se encuentra registrado en el epígrafe “Patrimonio neto - Fondos Propios - Dividendos a cuenta” del balance consolidado a 30 de junio de 2016. 
+El 31 de marzo de 2016, el Consejo de Administración del Banco acordó llevar a efecto el primero de los aumentos de capital con cargo a reservas voluntarias acordados por la Junta General Ordinaria de Accionistas de 11 de marzo de 2016 para el desarrollo del sistema de retribución al accionista denominado “Dividendo Opción”. Ello supuso finalmente un aumento de capital de 55.702.125,43 euros (113.677.807 acciones de 0,49 euros de valor nominal), dado que titulares del 82,13% de los derechos de asignación gratuita optaron por recibir nuevas acciones ordinarias de BBVA. Titulares del 17,87% restante de los derechos de asignación gratuita, ejercitaron el compromiso de adquisición de dichos derechos asumido por BBVA, por lo que BBVA adquirió 1.137.500.965 derechos a un precio bruto fijo de 0,129 euros por derecho, lo que supuso un importe total de 146.737.624,49 euros, que se encuentra registrado en el epígrafe “Patrimonio neto - Fondos Propios - Dividendos a cuenta” del balance consolidado a 30 de junio de 2016.
 
-El 30 de septiembre de 2015, el Consejo de Administración del Banco acordó llevar a efecto el segundo de los aumentos de capital con cargo a reservas voluntarias acordados por la Junta General de Accionistas de 13 de marzo de 2015 para la implementación del “Dividendo Opción”. Ello supuso finalmente un aumento de capital de 30.106.631,94 euros (61.442.106 acciones de 0,49 euros de valor nominal), dado que titulares del 89,65% de los derechos de asignación gratuita optaron por recibir nuevas acciones ordinarias de BBVA. Titulares del 10,35% restante de los derechos de asignación gratuita ejercitaron el compromiso de adquisición de dichos derechos asumido por BBVA, por lo que BBVA adquirió 652.564.118 derechos a un precio bruto fijo de 0,08 euros por derecho, lo que supuso un importe total de 52.205.129,44 euros, que se encuentra registrado en el epígrafe “Patrimonio neto - Fondos Propios - Dividendos a cuenta” del balance consolidado a 31 de diciembre de 2015. 
+El 30 de septiembre de 2015, el Consejo de Administración del Banco acordó llevar a efecto el segundo de los aumentos de capital con cargo a reservas voluntarias acordados por la Junta General de Accionistas de 13 de marzo de 2015 para la implementación del “Dividendo Opción”. Ello supuso finalmente un aumento de capital de 30.106.631,94 euros (61.442.106 acciones de 0,49 euros de valor nominal), dado que titulares del 89,65% de los derechos de asignación gratuita optaron por recibir nuevas acciones ordinarias de BBVA. Titulares del 10,35% restante de los derechos de asignación gratuita ejercitaron el compromiso de adquisición de dichos derechos asumido por BBVA, por lo que BBVA adquirió 652.564.118 derechos a un precio bruto fijo de 0,08 euros por derecho, lo que supuso un importe total de 52.205.129,44 euros, que se encuentra registrado en el epígrafe “Patrimonio neto - Fondos Propios - Dividendos a cuenta” del balance consolidado a 31 de diciembre de 2015.
 
 El 25 de marzo de 2015, el Consejo de Administración del Banco acordó llevar a efecto el primero de los aumentos de capital con cargo a reservas voluntarias acordados por la Junta General Ordinaria de Accionistas de 13 de marzo de 2015 para la implementación del “Dividendo Opción”. Ello supuso finalmente un aumento de capital de 39.353.896,26 euros (80.314.074 acciones de 0,49 euros de valor nominal), dado que titulares del 90,31% de los derechos de asignación gratuita optaron por recibir nuevas acciones ordinarias de BBVA. Titulares del 9,69% restante de los derechos de asignación gratuita ejercitaron el compromiso de adquisición de dichos derechos asumido por BBVA, por lo que BBVA adquirió 602.938.646 derechos a un precio bruto fijo de 0,13 euros por derecho, lo que supuso un importe total de 78.382.023,98 euros, que se encuentra registrado en el epígrafe “Patrimonio neto - Fondos Propios – Dividendos a cuenta” del balance consolidado a 31 de diciembre de 2015.
 
@@ -994,12 +993,12 @@ La cantidad total a cuenta del primer dividendo del ejercicio 2016 abonada a los
 
 El Consejo de Administración de BBVA, en su reunión del 22 de diciembre de 2015, aprobó la distribución en efectivo de la segunda cantidad a cuenta del dividendo del ejercicio 2015, por importe de 0,08 euros brutos (0,0648 euros tras las retenciones correspondientes) por cada acción de BBVA en circulación, que fue abonada el 12 de enero de 2016.
 
-La cantidad total a cuenta del segundo dividendo del ejercicio 2015 que fue abonada a los accionistas el 12 de enero de 2016, deducidas las acciones mantenidas en autocartera por las sociedades del Grupo, ha ascendido a 506 millones de euros y figura registrada en el epígrafe “Fondos Propios – Dividendos a cuenta”, con abono al epígrafe “Pasivos financieros a coste amortizado – Otros pasivos financieros” (ver Nota 22.4) del balance consolidado a 31 de diciembre de 2015. 
+La cantidad total a cuenta del segundo dividendo del ejercicio 2015 que fue abonada a los accionistas el 12 de enero de 2016, deducidas las acciones mantenidas en autocartera por las sociedades del Grupo, ha ascendido a 506 millones de euros y figura registrada en el epígrafe “Fondos Propios – Dividendos a cuenta”, con abono al epígrafe “Pasivos financieros a coste amortizado – Otros pasivos financieros” (ver Nota 22.4) del balance consolidado a 31 de diciembre de 2015.
 
 El Consejo de Administración de BBVA, en su reunión del 1 de julio de 2015, aprobó la distribución en efectivo de la primera cantidad a cuenta del dividendo del ejercicio 2015, por importe de 0,08 euros brutos (0,064 euros tras las retenciones correspondientes) por cada acción de BBVA en circulación, que fue abonada el 16 de julio de 2015.
 
 La cantidad total a cuenta del primer dividendo del ejercicio 2015 que fue pagada a los accionistas el 16 de julio de 2015, deducidas las acciones mantenidas en autocartera por las sociedades del Grupo, ascendió a 504 millones de euros y figura registrado en el epígrafe “Patrimonio Neto - Fondos Propios – Dividendos a cuenta” del balance consolidado a 31 de diciembre de 2015.
- 
+
 
 ## 5. Beneficio atribuido por acción
 
@@ -1016,26 +1015,26 @@ A 31 de diciembre de 2016, 2015 y 2014, no existían otros instrumentos financie
 
 ## 6. Información por segmentos de negocio
 
-La información por segmentos de negocio se presenta de acuerdo a la NIIF 8 “Segmentos de negocio”. La información por segmentos de negocio constituye una herramienta básica para el seguimiento y la gestión de las diferentes actividades del Grupo BBVA. En la elaboración de la información por segmentos de negocio se parte de las unidades de mínimo nivel, que se agregan de acuerdo con la estructura establecida por la Dirección del Grupo para configurar unidades de ámbito superior y, finalmente, los propios segmentos de negocio. 
+La información por segmentos de negocio se presenta de acuerdo a la NIIF 8 “Segmentos de negocio”. La información por segmentos de negocio constituye una herramienta básica para el seguimiento y la gestión de las diferentes actividades del Grupo BBVA. En la elaboración de la información por segmentos de negocio se parte de las unidades de mínimo nivel, que se agregan de acuerdo con la estructura establecida por la Dirección del Grupo para configurar unidades de ámbito superior y, finalmente, los propios segmentos de negocio.
 
-En el año 2016, la estructura de la información por segmentos de negocio del Grupo BBVA sigue siendo básicamente la misma que la del ejercicio 2015. Con todo, la estructura actual de los segmentos de negocio del Grupo es la siguiente: 
+En el año 2016, la estructura de la información por segmentos de negocio del Grupo BBVA sigue siendo básicamente la misma que la del ejercicio 2015. Con todo, la estructura actual de los segmentos de negocio del Grupo es la siguiente:
 
-• Actividad bancaria en España 
-Incluye las unidades en España de Red Minorista; Banca de Empresas y Corporaciones (BEC); Corporate & Investment Banking (CIB); BBVA Seguros y Asset Management. También incorpora las carteras, financiación y posiciones estructurales de tipo de interés del balance euro. 
-• Actividad inmobiliaria en España 
-Gestiona, de manera especializada, los activos inmobiliarios (excluidos los inmuebles de uso propio) en España, entre los que se incluyen: los inmuebles adjudicados, tanto los procedentes de hipotecas residenciales como de origen promotor; así como el negocio crediticio promotor. 
+• Actividad bancaria en España
+Incluye las unidades en España de Red Minorista; Banca de Empresas y Corporaciones (BEC); Corporate & Investment Banking (CIB); BBVA Seguros y Asset Management. También incorpora las carteras, financiación y posiciones estructurales de tipo de interés del balance euro.
+• Actividad inmobiliaria en España
+Gestiona, de manera especializada, los activos inmobiliarios (excluidos los inmuebles de uso propio) en España, entre los que se incluyen: los inmuebles adjudicados, tanto los procedentes de hipotecas residenciales como de origen promotor; así como el negocio crediticio promotor.
 • Estados Unidos
-Incorpora los negocios que el Grupo desarrolla en este país a través del grupo BBVA Compass y la sucursal de BBVA en Nueva York. 
-• Turquía 
-Incorpora los negocios que el Grupo desarrolla a través del grupo Garanti. 
+Incorpora los negocios que el Grupo desarrolla en este país a través del grupo BBVA Compass y la sucursal de BBVA en Nueva York.
+• Turquía
+Incorpora los negocios que el Grupo desarrolla a través del grupo Garanti.
 • México
-Aglutina todos los negocios bancarios, los inmobiliarios y los de seguros efectuados en este país. 
+Aglutina todos los negocios bancarios, los inmobiliarios y los de seguros efectuados en este país.
 • América del Sur
-Incluye fundamentalmente la actividad bancaria y de seguros que BBVA desarrolla en la región. 
-• Resto de Eurasia 
+Incluye fundamentalmente la actividad bancaria y de seguros que BBVA desarrolla en la región.
+• Resto de Eurasia
 Incorpora la actividad llevada a cabo en el resto de Europa y Asia, es decir, los negocios minoristas y mayoristas desarrollados por el Grupo en la zona.
 
-Por último, el Centro Corporativo es un agregado que contiene todos aquellos activos y pasivos no asignados a los otros segmentos de negocio por corresponder básicamente a la función de holding del Grupo. Aglutina: los costes de las unidades centrales que tienen una función corporativa; la gestión de las posiciones estructurales de tipo de cambio; determinadas emisiones de instrumentos de patrimonio realizadas para el adecuado manejo de la solvencia global del Grupo; carteras, con sus correspondientes resultados, cuya gestión no está vinculada a relaciones con la clientela, tales como las participaciones industriales; ciertos activos y pasivos por impuestos; fondos por compromisos con empleados; fondos de comercio y otros intangibles; y los resultados procedentes de ciertas operaciones corporativas. En el segundo semestre de 2015, se reclasificaron algunos gastos de explotación, relacionados con Tecnología, desde el Centro Corporativo al área de negocio de Actividad Bancaria en España. Esta reclasificación se produjo como consecuencia del traspaso, a lo largo del año 2015, de competencias de gestión, recursos y responsabilidades, en materia de Tecnología, desde el Centro Corporativo al área de negocio de Actividad Bancaria en España. Los saldos correspondientes a junio 2015 han sido reexpresados para facilitar la comparabilidad con junio 2016. 
+Por último, el Centro Corporativo es un agregado que contiene todos aquellos activos y pasivos no asignados a los otros segmentos de negocio por corresponder básicamente a la función de holding del Grupo. Aglutina: los costes de las unidades centrales que tienen una función corporativa; la gestión de las posiciones estructurales de tipo de cambio; determinadas emisiones de instrumentos de patrimonio realizadas para el adecuado manejo de la solvencia global del Grupo; carteras, con sus correspondientes resultados, cuya gestión no está vinculada a relaciones con la clientela, tales como las participaciones industriales; ciertos activos y pasivos por impuestos; fondos por compromisos con empleados; fondos de comercio y otros intangibles; y los resultados procedentes de ciertas operaciones corporativas. En el segundo semestre de 2015, se reclasificaron algunos gastos de explotación, relacionados con Tecnología, desde el Centro Corporativo al área de negocio de Actividad Bancaria en España. Esta reclasificación se produjo como consecuencia del traspaso, a lo largo del año 2015, de competencias de gestión, recursos y responsabilidades, en materia de Tecnología, desde el Centro Corporativo al área de negocio de Actividad Bancaria en España. Los saldos correspondientes a junio 2015 han sido reexpresados para facilitar la comparabilidad con junio 2016.
 
 El desglose del activo total del Grupo BBVA por segmentos de negocio a 31 de diciembre de 2016, 2015 y 2014 es:
 
@@ -1056,11 +1055,11 @@ El Grupo BBVA cuenta con un Modelo general de control y gestión de riesgos (den
 
 Este modelo se aplica de forma integral en el Grupo y se compone de los elementos básicos que se enumeran a continuación:
 
-• Gobierno y organización. 
+• Gobierno y organización.
 • Apetito de Riesgo.
-• Decisiones y procesos. 
-• Evaluación, seguimiento y reporting. 
-• Infraestructura. 
+• Decisiones y procesos.
+• Evaluación, seguimiento y reporting.
+• Infraestructura.
 
 El Grupo impulsa el desarrollo de una cultura de riesgos que asegure la aplicación consistente del modelo de control y gestión de riesgos en el Grupo, y que garantice que la función de riesgos es entendida e interiorizada a todos los niveles de la organización.
 
@@ -1072,7 +1071,7 @@ De este modo, y como a continuación se desarrolla, son los órganos sociales lo
 
 La responsabilidad de la gestión diaria de los riesgos corresponde a los negocios, que se atienen en el desarrollo de su actividad a las políticas, normas, procedimientos, infraestructuras y controles que, partiendo del marco fijado por los órganos sociales, son definidos por la función de riesgos.
 
-Para llevar a cabo esta labor de manera adecuada, la función de riesgos en el Grupo BBVA se ha configurado como una función única, global e independiente de las áreas comerciales. 
+Para llevar a cabo esta labor de manera adecuada, la función de riesgos en el Grupo BBVA se ha configurado como una función única, global e independiente de las áreas comerciales.
 
 
 ##### Esquema corporativo de gobierno
@@ -1084,42 +1083,42 @@ Sobre la base establecida por el Consejo de Administración, la Comisión Delega
 
 Finalmente, el Consejo de Administración ha constituido una comisión especializada en materia de riesgos, la Comisión de Riesgos (“CR”). A esta comisión le corresponde el análisis y seguimiento periódico del riesgo en el ámbito de las atribuciones de los órganos sociales, y así asiste al Consejo de Administración y a la CDP en la determinación y seguimiento de la estrategia de riesgos y de las políticas corporativas, respectivamente. Asimismo realiza, como labor de especial relevancia, un control y seguimiento detallado de los riesgos que afectan al Grupo en su conjunto, que le permite vigilar la efectiva integración en la gestión de la estrategia de riesgos y la aplicación de las políticas corporativas aprobadas por los órganos sociales.
 
-El máximo responsable de la función de riesgos en la línea ejecutiva, el Director de Riesgos del Grupo (“CRO”), desempeña su labor con la independencia, autoridad, rango y los recursos necesarios para ello. Es nombrado por el Consejo de Administración del Banco, como miembro de su Alta Dirección, y tiene acceso directo a sus órganos sociales (Consejo de Administración, Comisión Delegada Permanente y Comisión de Riesgos), a quienes reporta regularmente sobre la situación de los riesgos en el Grupo. 
+El máximo responsable de la función de riesgos en la línea ejecutiva, el Director de Riesgos del Grupo (“CRO”), desempeña su labor con la independencia, autoridad, rango y los recursos necesarios para ello. Es nombrado por el Consejo de Administración del Banco, como miembro de su Alta Dirección, y tiene acceso directo a sus órganos sociales (Consejo de Administración, Comisión Delegada Permanente y Comisión de Riesgos), a quienes reporta regularmente sobre la situación de los riesgos en el Grupo.
 
 El Director de Riesgos, para el mejor cumplimiento de sus funciones, se apoya en una estructura compuesta por unidades transversales de riesgos en el área corporativa y unidades específicas de riesgos en las geografías y/o áreas de negocio que tiene el Grupo. Cada una de estas unidades tiene como responsable un Director de Riesgos del área geográfica y/o de negocio que desarrolla, dentro de su ámbito de competencia, funciones de gestión y control de riesgos y es el responsable de aplicar las políticas y normas corporativas aprobadas a nivel Grupo de manera consistente, adaptándolas, si fuera necesario, a los requerimientos locales y reportando de todo ello a los órganos sociales locales.
 
-Los Directores de Riesgos de las áreas geográficas y/o de negocio mantienen una doble dependencia con el Director de Riesgos del Grupo y con el responsable de su área geográfica y/o de negocio. Este sistema de co-dependencia persigue asegurar la independencia de la función de riesgos local de las funciones operativas, y permitir su alineamiento con las políticas corporativas y los objetivos del Grupo en materia de riesgos. 
+Los Directores de Riesgos de las áreas geográficas y/o de negocio mantienen una doble dependencia con el Director de Riesgos del Grupo y con el responsable de su área geográfica y/o de negocio. Este sistema de co-dependencia persigue asegurar la independencia de la función de riesgos local de las funciones operativas, y permitir su alineamiento con las políticas corporativas y los objetivos del Grupo en materia de riesgos.
 
 ##### Estructura organizativa y cuerpo de comités
 
-La función de Riesgos, como se ha mencionado anteriormente, está compuesta por unidades de riesgos del área corporativa, que realizan funciones transversales, y por unidades de riesgos de las áreas geográficas y/o de negocio. 
+La función de Riesgos, como se ha mencionado anteriormente, está compuesta por unidades de riesgos del área corporativa, que realizan funciones transversales, y por unidades de riesgos de las áreas geográficas y/o de negocio.
 
 • Las unidades de riesgos del área corporativa (“GRM”) desarrollan y formulan al Director de Riesgos del Grupo (CRO) la propuesta del Apetito de Riesgo del Grupo, las políticas corporativas, normas, procedimientos e infraestructuras globales dentro del marco de actuación aprobado por los órganos sociales, se aseguran de su aplicación y reportan, directamente o a través del Director de Riesgos del Grupo (CRO), a los órganos sociales del Banco. Entre sus funciones se incluyen:
-- Gestión de las distintas tipologías de riesgos a nivel Grupo de acuerdo con la estrategia definida por los órganos sociales. 
+- Gestión de las distintas tipologías de riesgos a nivel Grupo de acuerdo con la estrategia definida por los órganos sociales.
 - Planificación de riesgos alineada con los principios del Apetito de Riesgo definido por el Grupo.
 - Seguimiento y control del perfil de riesgos del Grupo en relación al Apetito de Riesgo aprobado por los órganos sociales del Banco, proporcionando información precisa y fiable con la frecuencia y el formato requerido.
-- Realización de análisis prospectivos que permitan evaluar el cumplimiento del Apetito de Riesgo en escenarios de estrés y el análisis de los mecanismos para su mitigación. 
+- Realización de análisis prospectivos que permitan evaluar el cumplimiento del Apetito de Riesgo en escenarios de estrés y el análisis de los mecanismos para su mitigación.
 - Gestión de los desarrollos tecnológicos y metodológicos necesarios para el desarrollo del Modelo en el Grupo.
 - Articular el modelo de Control Interno de Riesgos del Grupo y definir la metodología, criterios corporativos y procedimientos para identificar y priorizar el riesgo inherente a las actividades y procesos de cada unidad.
 - Validación de los modelos utilizados y de los resultados obtenidos por los mismos para verificar su adecuación a los distintos usos a los que se aplican.
-• Las unidades de riesgos de las áreas de negocio desarrollan y formulan al Director de Riesgos del área geográfica y/o de negocio la propuesta del Apetito de Riesgo que resulta de aplicación en cada área geográfica y/o de negocio, con autonomía y siempre dentro del Apetito de Riesgo del Grupo. Asimismo se aseguran de la aplicación de las políticas y normas corporativas aprobadas a nivel Grupo de manera consistente, adaptándolas, en su caso, a los requerimientos locales, y se dotan de las infraestructuras adecuadas para el control y gestión de sus riesgos, y reportan, según corresponda, a sus órganos sociales y alta dirección. 
+• Las unidades de riesgos de las áreas de negocio desarrollan y formulan al Director de Riesgos del área geográfica y/o de negocio la propuesta del Apetito de Riesgo que resulta de aplicación en cada área geográfica y/o de negocio, con autonomía y siempre dentro del Apetito de Riesgo del Grupo. Asimismo se aseguran de la aplicación de las políticas y normas corporativas aprobadas a nivel Grupo de manera consistente, adaptándolas, en su caso, a los requerimientos locales, y se dotan de las infraestructuras adecuadas para el control y gestión de sus riesgos, y reportan, según corresponda, a sus órganos sociales y alta dirección.
 
-De este modo, las unidades de riesgos locales trabajan con las unidades de riesgos del área corporativa con el objetivo de adecuarse a la estrategia de riesgos a nivel Grupo y poner en común toda la información necesaria para llevar a cabo el seguimiento de la evolución de sus riesgos. 
+De este modo, las unidades de riesgos locales trabajan con las unidades de riesgos del área corporativa con el objetivo de adecuarse a la estrategia de riesgos a nivel Grupo y poner en común toda la información necesaria para llevar a cabo el seguimiento de la evolución de sus riesgos.
 
-La función de riesgos cuenta con un proceso de toma de decisiones apoyado en una estructura de comités. El Comité global de dirección del área de riesgo (GRMC) es el máximo comité de la función de riesgos y en él se proponen, contrastan y, en su caso aprueban, entre otros, el marco normativo interno de riesgos, los procedimientos e infraestructuras necesarios para identificar, evaluar, medir y gestionar los riesgos a los que se enfrenta el Grupo en el desarrollo de sus negocios, así como la admisión de las operaciones de riesgos más relevantes. Son miembros de dicho Comité el Director de Riesgos del Grupo y los máximos responsables de las unidades de riesgos del área corporativa y de las áreas geográficas y/o de negocio más representativas. 
+La función de riesgos cuenta con un proceso de toma de decisiones apoyado en una estructura de comités. El Comité global de dirección del área de riesgo (GRMC) es el máximo comité de la función de riesgos y en él se proponen, contrastan y, en su caso aprueban, entre otros, el marco normativo interno de riesgos, los procedimientos e infraestructuras necesarios para identificar, evaluar, medir y gestionar los riesgos a los que se enfrenta el Grupo en el desarrollo de sus negocios, así como la admisión de las operaciones de riesgos más relevantes. Son miembros de dicho Comité el Director de Riesgos del Grupo y los máximos responsables de las unidades de riesgos del área corporativa y de las áreas geográficas y/o de negocio más representativas.
 
-El Global Risk Management Committee (GRMC) articula el desarrollo de sus funciones en distintos comités de apoyo, entre los que cabe destacar: 
+El Global Risk Management Committee (GRMC) articula el desarrollo de sus funciones en distintos comités de apoyo, entre los que cabe destacar:
 
-• Comité Técnico de Operaciones Global: tiene por objeto la toma de decisiones relativas a la admisión de riesgos de crédito mayorista de determinados segmentos de clientela. 
-• Information, Monitoring & Reporting Committee: garantiza la existencia y el adecuado desarrollo de los aspectos relativos a la gestión de la información, seguimiento y reporting de riesgos con una visión integral y transversal. 
+• Comité Técnico de Operaciones Global: tiene por objeto la toma de decisiones relativas a la admisión de riesgos de crédito mayorista de determinados segmentos de clientela.
+• Information, Monitoring & Reporting Committee: garantiza la existencia y el adecuado desarrollo de los aspectos relativos a la gestión de la información, seguimiento y reporting de riesgos con una visión integral y transversal.
 • Comité de Asset Allocation: instancia ejecutiva para el análisis y decisión sobre todos aquellos asuntos en materia de riesgos de crédito relacionados con los procesos destinados a la obtención de equilibrio entre riesgo y rentabilidad de acuerdo al Apetito de Riesgo del Grupo.
 • Technology & Analytics Committee: su objeto es garantizar una correcta toma de decisiones en relación al diseño, desarrollo, implantación y uso de las herramientas tecnológicas y modelos de riesgo necesarios para una adecuada gestión de los mismos en el Grupo BBVA.
 • Comité Corporativo de Riesgos Tecnológicos y de Control de la Operativa: su objeto es la aprobación de los Marcos de Gestión de Riesgos Tecnológicos y de Control de la Operativa, de acuerdo con la arquitectura del Modelo General de Riesgos, y hacer el seguimiento de métricas, perfiles de riesgo y eventos de pérdidas operacionales.
-• Comité Global de Global Market Risk Unit (CGGMRU): su objetivo es formalizar, supervisar y comunicar el seguimiento del riesgo en sala en la totalidad de las unidades de negocio de Global Markets. 
-• Comité Corporativo de Admisión de Riesgo Operacional y Outsourcing: su objeto es la identificación, evaluación y análisis de los riesgos operacionales de nuevos negocios, nuevos productos y servicios y de iniciativas de outsourcing. 
+• Comité Global de Global Market Risk Unit (CGGMRU): su objetivo es formalizar, supervisar y comunicar el seguimiento del riesgo en sala en la totalidad de las unidades de negocio de Global Markets.
+• Comité Corporativo de Admisión de Riesgo Operacional y Outsourcing: su objeto es la identificación, evaluación y análisis de los riesgos operacionales de nuevos negocios, nuevos productos y servicios y de iniciativas de outsourcing.
 • Comité de Riesgos Minoristas: su objeto es garantizar la alineación de las prácticas y procesos que rigen el ciclo de riesgos del crédito minorista con los niveles aprobados / objetivo de tolerancia al riesgo y el crecimiento del negocio y desarrollo definidos en la estrategia corporativa para el Grupo.
 
-Cada área geográfica y/o de negocio cuenta con su propio comité (o comités) de gestión de riesgos, con objetivos y contenidos similares a los del área corporativa, que desarrollan sus funciones de forma consistente y alineadas con las políticas y normas corporativas en materia de riesgos. 
+Cada área geográfica y/o de negocio cuenta con su propio comité (o comités) de gestión de riesgos, con objetivos y contenidos similares a los del área corporativa, que desarrollan sus funciones de forma consistente y alineadas con las políticas y normas corporativas en materia de riesgos.
 
 Con este esquema organizativo, la función de riesgos se asegura la integración y la aplicación en todo el Grupo de la estrategia de riesgos, marco normativo, infraestructuras y controles de riesgo homogéneos, a la vez que se beneficia del conocimiento y cercanía al cliente de cada área geográfica y/o de negocio y transmite a los diferentes estamentos del Grupo la cultura corporativa existente en esta materia.
 
@@ -1148,16 +1147,16 @@ El Apetito de Riesgo del Grupo aprobado por el Consejo de Administración determ
 
 El Apetito de Riesgo se explicita a través de los siguientes elementos:
 
-• Declaración de Apetito de Riesgo: recoge los principios generales de la estrategia de riesgos del Grupo y el perfil de riesgo objetivo. 
-La política de riesgos de BBVA está dirigida a lograr el mantenimiento del perfil de riesgos explicitado en la Declaración de Apetito de Riesgo del Grupo, que se materializa en una serie de métricas que sirven de aproximación a la misma (Métricas Fundamentales y Límites). 
+• Declaración de Apetito de Riesgo: recoge los principios generales de la estrategia de riesgos del Grupo y el perfil de riesgo objetivo.
+La política de riesgos de BBVA está dirigida a lograr el mantenimiento del perfil de riesgos explicitado en la Declaración de Apetito de Riesgo del Grupo, que se materializa en una serie de métricas que sirven de aproximación a la misma (Métricas Fundamentales y Límites).
 • Métricas Fundamentales: plasman en términos cuantitativos los principios y perfil de riesgo objetivo recogido en la declaración de Apetito de Riesgo.
-• Límites: articulan el Apetito de Riesgo al nivel de las áreas geográficas y/o de negocio, entidades legales, tipologías de riesgo, o cualquier otro que se considere apropiado, permitiendo su integración en la gestión. 
+• Límites: articulan el Apetito de Riesgo al nivel de las áreas geográficas y/o de negocio, entidades legales, tipologías de riesgo, o cualquier otro que se considere apropiado, permitiendo su integración en la gestión.
 
 El área corporativa de riesgos trabaja con las diferentes áreas geográficas y/o de negocio a los efectos de definir su Apetito de Riesgo, de manera que éste se encuentre coordinado y enmarcado en el del Grupo, y asegurarse de que su perfil se ajusta con el definido.
 
-El Grupo BBVA asume un determinado grado de riesgo para poder prestar los servicios financieros y productos a sus clientes y obtener niveles atractivos de retorno para el accionista. La organización debe entender, gestionar y controlar los riesgos que asume. 
+El Grupo BBVA asume un determinado grado de riesgo para poder prestar los servicios financieros y productos a sus clientes y obtener niveles atractivos de retorno para el accionista. La organización debe entender, gestionar y controlar los riesgos que asume.
 
-El objetivo del Grupo no es eliminar todos los riesgos a los que se enfrenta, sino asumir un nivel prudente de riesgos que permita a la organización generar rendimientos a la vez que mantener niveles aceptables de capital y de fondeo y generar beneficios de forma recurrente. 
+El objetivo del Grupo no es eliminar todos los riesgos a los que se enfrenta, sino asumir un nivel prudente de riesgos que permita a la organización generar rendimientos a la vez que mantener niveles aceptables de capital y de fondeo y generar beneficios de forma recurrente.
 
 El Apetito de Riesgo definido por BBVA expresa los niveles y tipos de riesgo que el Grupo está dispuesto a asumir para poder llevar a cabo su plan estratégico sin desviaciones relevantes incluso en situaciones de tensión. El Apetito de Riesgo se encuentra integrado en la gestión y determina las líneas básicas de actividad del Grupo, ya que establece el marco en el que se desarrolla el presupuesto.
 
@@ -1172,10 +1171,10 @@ Las métricas fundamentales son de carácter estratégico, difundidas a nivel de
 
 ##### Límites
 
-Son métricas que determinan el posicionamiento estratégico del Grupo para los diferentes tipos de riesgo: crédito, ALM (Asset Liability Management), liquidez, mercados, operacional… Los siguientes aspectos las diferencian de las Métricas Fundamentales: 
+Son métricas que determinan el posicionamiento estratégico del Grupo para los diferentes tipos de riesgo: crédito, ALM (Asset Liability Management), liquidez, mercados, operacional… Los siguientes aspectos las diferencian de las Métricas Fundamentales:
 
 • Son palancas no el resultado: son una herramienta de gestión que responde a un posicionamiento estratégico y que deben estar orientadas a permitir el cumplimiento de las Métricas Fundamentales incluso en escenario adverso.
-• Métricas de riesgo: nivel de especialización mayor, no tienen necesariamente que ser difundidas por todo el Grupo. 
+• Métricas de riesgo: nivel de especialización mayor, no tienen necesariamente que ser difundidas por todo el Grupo.
 • Independientes del ciclo: puede incluir métricas con poca correlación con el ciclo económico por lo que permite una comparabilidad aislada de la situación macro específica.
 
 Por tanto, son palancas para mantenerse dentro de los umbrales definidos en las métricas fundamentales y utilizadas para la gestión de riesgo en el día a día. Incluyen límites de tolerancia, sublímites y alertas establecidas al nivel del de área de negocio / geografía, carteras y productos. Durante 2016, las métricas de Apetito de Riesgo evolucionaron de manera coherente con el perfil establecido.
@@ -1193,7 +1192,7 @@ La traslación del Apetito de Riesgo a la gestión ordinaria se apoya en tres as
 
 Corresponde al área corporativa de GRM la propuesta de definición y el desarrollo de las políticas corporativas, normas específicas, procedimientos y esquemas de delegación en base a los cuales se deben adoptar las decisiones de riesgos dentro del Grupo.
 
-Este proceso persigue los siguientes objetivos: 
+Este proceso persigue los siguientes objetivos:
 
 • Jerarquización y estructuración: información bien estructurada mediante una jerarquía clara y simple que permita la relación de documentos dependientes entre sí.
 • Simplicidad: número adecuado y suficiente de documentos.
@@ -1202,7 +1201,7 @@ Este proceso persigue los siguientes objetivos:
 
 La aprobación de las políticas corporativas para todo tipo de riesgos corresponde a los órganos sociales del Banco, mientras que el área corporativa de riesgos aprueba el resto de la normativa.
 
-Las unidades de riesgos de las áreas geográficas y/o de negocio siguen y, en su caso, adaptan a las exigencias locales dicho cuerpo normativo, a los efectos de contar con un proceso de decisión que resulte adecuado a nivel local y alineado con las políticas del Grupo. En caso de ser necesaria dicha adaptación, el área de riesgos local deberá informar al área corporativa de GRM, quien deberá velar por la consistencia del cuerpo normativo a nivel de todo el Grupo y, por tanto deberá, en su caso, dar su conformidad previa a las modificaciones propuestas por las áreas de riesgos locales. 
+Las unidades de riesgos de las áreas geográficas y/o de negocio siguen y, en su caso, adaptan a las exigencias locales dicho cuerpo normativo, a los efectos de contar con un proceso de decisión que resulte adecuado a nivel local y alineado con las políticas del Grupo. En caso de ser necesaria dicha adaptación, el área de riesgos local deberá informar al área corporativa de GRM, quien deberá velar por la consistencia del cuerpo normativo a nivel de todo el Grupo y, por tanto deberá, en su caso, dar su conformidad previa a las modificaciones propuestas por las áreas de riesgos locales.
 
 ##### Planificación de riesgos
 
@@ -1210,9 +1209,9 @@ La planificación de riesgos permite asegurar la integración en la gestión del
 
 Dicho proceso cuenta con herramientas que permiten la asignación y seguimiento del Apetito de Riesgo definido a nivel agregado, por áreas de negocio, entidades legales, tipologías de riesgo, concentraciones y cualquier otro nivel que se considere necesario.
 
-El proceso de planificación de riesgos se encuentra presente dentro del resto del marco de planificación del Grupo de forma que se asegure la coherencia de todos estos procesos entre sí. 
+El proceso de planificación de riesgos se encuentra presente dentro del resto del marco de planificación del Grupo de forma que se asegure la coherencia de todos estos procesos entre sí.
 
-##### Gestión diaria del riesgo 
+##### Gestión diaria del riesgo
 
 Todos los riesgos deben ser gestionados de forma integrada durante su ciclo de vida, en base a un tratamiento diferenciado en función de su tipología.
 
@@ -1229,18 +1228,18 @@ El ciclo de gestión del riesgo está compuesto por 5 elementos:
 
 La evaluación, seguimiento y reporting es un elemento transversal que deberá permitir que el Modelo tenga una visión dinámica y anticipatoria que haga posible el cumplimiento de Apetito de Riesgo aprobado por los órganos sociales, incluso ante escenarios desfavorables. La realización de este proceso cubre todas las categorías de riesgos materiales y tiene los siguientes objetivos:
 
-• Evaluar el cumplimiento del Apetito de Riesgo en el momento presente, mediante un seguimiento de las métricas fundamentales y los límites. 
+• Evaluar el cumplimiento del Apetito de Riesgo en el momento presente, mediante un seguimiento de las métricas fundamentales y los límites.
 • Evaluar el cumplimiento del Apetito de Riesgo a futuro mediante la proyección de las variables del Apetito tanto en un escenario base determinado por el presupuesto, como en un escenario de riesgo determinado por las pruebas de stress-test.
 • Identificar y valorar los factores de riesgo y escenarios que pudieran comprometer el cumplimiento del Apetito de Riesgo, mediante el desarrollo de un repositorio de riesgos y un análisis del impacto de los mismos.
 • Actuar para mitigar el impacto en el Grupo de los factores y escenarios de riesgo identificados, haciendo que éste se mantenga dentro del perfil de riesgos objetivo.
-• Supervisar las variables claves, que directamente no forman parte del Apetito de Riesgo, pero que condicionan su cumplimiento. Estas pueden ser tanto externas o internas. 
+• Supervisar las variables claves, que directamente no forman parte del Apetito de Riesgo, pero que condicionan su cumplimiento. Estas pueden ser tanto externas o internas.
 
 Para la realización de este proceso se deberán desarrollar las siguientes fases:
 
-• Identificación de factores de riesgo, que tiene como objetivo la generación de un mapa con los factores de riesgo más relevantes que pueden comprometer el desempeño del Grupo en relación a los umbrales definidos en el Apetito de Riesgo. 
-• Evaluación del impacto: consiste en evaluar qué impacto podría tener en las métricas del Apetito de Riesgo la materialización de uno o varios de los factores de riesgo identificados en la fase anterior, mediante la ocurrencia de un determinado escenario. 
+• Identificación de factores de riesgo, que tiene como objetivo la generación de un mapa con los factores de riesgo más relevantes que pueden comprometer el desempeño del Grupo en relación a los umbrales definidos en el Apetito de Riesgo.
+• Evaluación del impacto: consiste en evaluar qué impacto podría tener en las métricas del Apetito de Riesgo la materialización de uno o varios de los factores de riesgo identificados en la fase anterior, mediante la ocurrencia de un determinado escenario.
 • Respuesta ante situaciones no deseadas y propuesta de medidas de reconducción: los rebasamientos de las referencias llevarán asociados el análisis de las medidas de reconducción ante la instancia que corresponda, que permitan una gestión dinámica de la situación, incluso con anterioridad a que esta se produzca.
-• Seguimiento: tiene como objetivo evitar de forma ex ante las pérdidas, mediante la vigilancia del perfil actual de riesgo del Grupo y de los factores de riesgo identificados. 
+• Seguimiento: tiene como objetivo evitar de forma ex ante las pérdidas, mediante la vigilancia del perfil actual de riesgo del Grupo y de los factores de riesgo identificados.
 • Reporting, tiene como objetivo dar información del perfil de riesgo asumido, ofreciendo datos precisos, completos y fiables a los órganos sociales y a la alta dirección con la frecuencia y exhaustividad acorde con la naturaleza, importancia y complejidad de los riesgos.
 
 
@@ -1259,7 +1258,7 @@ Los principios según los cuales se rige la tecnología de riesgos del Grupo son
 • Automatización de los principales procesos que componen el ciclo de gestión del riesgo.
 • Adecuación: aprovisionamiento de información de forma adecuada en el momento oportuno.
 
-A través de la función de “Risk Analytics”, el Grupo cuenta con un marco corporativo para el desarrollo de las técnicas de medición y modelos, que cubre todas tipologías de riesgo y las distintas finalidades e implica un lenguaje homogéneo para todas las actividades y geografías/ áreas de negocio. La ejecución se realiza de forma descentralizada, lo que permite aprovechar la globalidad del Grupo, con el objetivo de evolucionar continuamente los modelos de riesgos existentes y generar otros que cubran los nuevos ámbitos de los negocios que se desarrollan, con el objetivo de que se refuerce la anticipación y proactividad que caracteriza a la función de riesgos en el Grupo. 
+A través de la función de “Risk Analytics”, el Grupo cuenta con un marco corporativo para el desarrollo de las técnicas de medición y modelos, que cubre todas tipologías de riesgo y las distintas finalidades e implica un lenguaje homogéneo para todas las actividades y geografías/ áreas de negocio. La ejecución se realiza de forma descentralizada, lo que permite aprovechar la globalidad del Grupo, con el objetivo de evolucionar continuamente los modelos de riesgos existentes y generar otros que cubran los nuevos ámbitos de los negocios que se desarrollan, con el objetivo de que se refuerce la anticipación y proactividad que caracteriza a la función de riesgos en el Grupo.
 Igualmente las unidades de riesgos de las áreas geográficas y/o de negocio se asegurarán de que cuentan con medios suficientes desde el punto de vista de recursos, estructuras y herramientas para desarrollar una gestión de riesgo acorde con el modelo corporativo.
 
 
@@ -1287,14 +1286,14 @@ En este contexto, existen una serie de riesgos emergentes que podrían afectar a
 
 • Riesgos macroeconómicos y geopolíticos:
 
-Con la última información disponible, el crecimiento global se mantiene estabilizado ligeramente por encima del 3% interanual. 
-Recientemente, la incertidumbre del panorama global se ha incrementado con la victoria de la opción de salida de la Unión Europea en el referéndum realizado en el Reino Unido. 
-En general, la recuperación gradual del bloque de economías desarrolladas no está siendo suficiente para compensar la desaceleración de las emergentes. La evolución de la economía china, con vulnerabilidades derivadas de su elevado nivel de deuda, seguirá determinando las perspectivas de crecimiento global y, en particular, de las economías emergentes. 
+Con la última información disponible, el crecimiento global se mantiene estabilizado ligeramente por encima del 3% interanual.
+Recientemente, la incertidumbre del panorama global se ha incrementado con la victoria de la opción de salida de la Unión Europea en el referéndum realizado en el Reino Unido.
+En general, la recuperación gradual del bloque de economías desarrolladas no está siendo suficiente para compensar la desaceleración de las emergentes. La evolución de la economía china, con vulnerabilidades derivadas de su elevado nivel de deuda, seguirá determinando las perspectivas de crecimiento global y, en particular, de las economías emergentes.
 Otros sucesos completan el panorama de incertidumbres globales para 2016 y 2017, y que podrían afectar a la valoración de las participaciones del Grupo en ciertos países:
 - Las tensiones geopolíticas en algunas geografías. En relación con este tema, cabe destacar la incertidumbre sobre la situación política y económica generada tras los recientes acontecimientos sucedidos desde el pasado 15 de julio en Turquía.
 - El riesgo de un escenario de ajuste en Estados Unidos. Dicho ajuste podría producirse derivado de la decisión de la Reserva Federal de aplazar nuevamente la subida de tipos de interés y de una previsión de crecimiento menor que la anteriormente prevista.
 Estas incertidumbres han provocado un significativo aumento de la volatilidad en los mercados financieros, caídas en el precio de los activos e importantes devaluaciones en los países emergentes.
-La información sobre el entorno macroeconómico y sectorial de cada una de las geografías donde el Grupo opera se menciona en el apartado de Áreas de Negocio del Informe de Gestión consolidado adjunto. 
+La información sobre el entorno macroeconómico y sectorial de cada una de las geografías donde el Grupo opera se menciona en el apartado de Áreas de Negocio del Informe de Gestión consolidado adjunto.
 
 • Riesgos regulatorios, legales, fiscales y reputacionales:
 
@@ -1307,9 +1306,9 @@ En relación con los efectos derivados de la nulidad de las cláusulas de limita
 - El Tribunal Supremo en España, en sentencia de 9 de mayo de 2013, dictada en una acción colectiva contra BBVA y otros, que ya es firme, resolvió por unanimidad que esas cláusulas debían considerarse nulas si no cumplían con determinados requisitos de transparencia material, establecidos en ese mismo pronunciamiento judicial. Esa sentencia igualmente estableció que no procedía la devolución de las cantidades cobradas en aplicación de estas cláusulas con anterioridad al 9 de mayo de 2013.
 - El Tribunal Supremo ha confirmado su criterio también en sentencias dictadas en demandas individuales de consumidores, en las que ha reiterado que no procede la devolución de las cantidades cobradas por la aplicación de esas cláusulas con anterioridad al 9 de mayo de 2013.
 
-En una demanda individual, la Audiencia Provincial de Alicante ha planteado una cuestión prejudicial ante el Tribunal de Justicia de la Unión Europea (TJUE), para que dictamine si la limitación temporal para la devolución de cantidades fijada por el Tribunal Supremo es conforme al contenido de la Directiva 93/13/CEE. El 13 de julio se ha publicado el informe del Abogado General del TJUE en cuyas conclusiones se indica que la directiva comunitaria no se opone a que un Tribunal Supremo de un Estado Miembro limite, atendiendo a circunstancias excepcionales, los efectos restitutorios de la nulidad a la fecha en que dictó su primera sentencia en este sentido. 
+En una demanda individual, la Audiencia Provincial de Alicante ha planteado una cuestión prejudicial ante el Tribunal de Justicia de la Unión Europea (TJUE), para que dictamine si la limitación temporal para la devolución de cantidades fijada por el Tribunal Supremo es conforme al contenido de la Directiva 93/13/CEE. El 13 de julio se ha publicado el informe del Abogado General del TJUE en cuyas conclusiones se indica que la directiva comunitaria no se opone a que un Tribunal Supremo de un Estado Miembro limite, atendiendo a circunstancias excepcionales, los efectos restitutorios de la nulidad a la fecha en que dictó su primera sentencia en este sentido.
 
-En el estado actual del proceso, y en línea con el parecer del Abogado General y con la opinión jurídica de los asesores externos contratados, la probabilidad de que BBVA se vea obligado a devolver estas cantidades puede ser calificada como remota. 
+En el estado actual del proceso, y en línea con el parecer del Abogado General y con la opinión jurídica de los asesores externos contratados, la probabilidad de que BBVA se vea obligado a devolver estas cantidades puede ser calificada como remota.
 
 No obstante lo anterior, a los efectos de una mayor transparencia y habida cuenta del interés que la cuestión ha suscitado en analistas e inversores, se informa que la mejor estimación del importe máximo susceptible de ser objeto de reclamación, en caso de un criterio adverso del TJUE, se situaría en torno a los 1.200 millones de euros, si bien la experiencia en supuestos similares indica que el impacto sería probablemente menor.
 
@@ -1326,13 +1325,13 @@ Representa el riesgo más relevante para el Grupo e incluye la gestión del ries
 
 Los principios que sustentan la gestión del riesgo de crédito en BBVA son los siguientes:
 
-• Disponibilidad de información básica para el estudio de riesgo, la propuesta de riesgo y tener el soporte documental de aprobación, donde se recojan las condiciones requeridas por el organismo interno pertinente. 
+• Disponibilidad de información básica para el estudio de riesgo, la propuesta de riesgo y tener el soporte documental de aprobación, donde se recojan las condiciones requeridas por el organismo interno pertinente.
 • Suficiencia en la generación de recursos y solvencia patrimonial del cliente para asumir las amortizaciones de capital e intereses de los créditos adeudados.
 • Constitución de adecuadas y suficientes garantías que permitan una efectiva recuperación de la operación, siendo considerada esta como una segunda y excepcional vía de recobro para cuando haya fallado la primera.
-La gestión del riesgo de crédito en el Grupo cuenta con una estructura integral de todas sus funciones que permita la toma decisiones con objetividad y de forma independiente durante todo el ciclo de vida del riesgo. 
+La gestión del riesgo de crédito en el Grupo cuenta con una estructura integral de todas sus funciones que permita la toma decisiones con objetividad y de forma independiente durante todo el ciclo de vida del riesgo.
 • A nivel Grupo: se definen marcos de actuación y normas de conducta homogéneas en el tratamiento del riesgo, en concreto los circuitos, procedimientos, estructura y supervisión.
 • A nivel área de negocio: son las encargadas de adaptar los criterios del Grupo a las realidades locales de cada geografía, siendo responsables de la gestión directa del riesgo en función del circuito de decisión:
-- Riesgos minoristas: con carácter general, las decisiones se formalizan en función del dictamen de las herramientas de scoring, dentro del marco de actuación general en materia de riesgos de cada área de negocio. Los cambios de peso y variables de dichas herramientas deberán ser validadas por el área corporativa de GRM. 
+- Riesgos minoristas: con carácter general, las decisiones se formalizan en función del dictamen de las herramientas de scoring, dentro del marco de actuación general en materia de riesgos de cada área de negocio. Los cambios de peso y variables de dichas herramientas deberán ser validadas por el área corporativa de GRM.
 - Riesgos mayoristas: con carácter general, las decisiones se formalizan por cada área de negocio dentro de su marco general de actuación en materia de riesgos, que incorpora la norma de delegación y las políticas corporativas del Grupo.
 
 
@@ -1350,7 +1349,7 @@ A efectos del cuadro anterior, la exposición máxima al riesgo de crédito se d
 - El primer factor, el valor de mercado, refleja la diferencia entre los compromisos originales y el valor de mercado en la fecha de presentación ("mark-to-market"). Como se indica en la Nota 2.2.1, los derivados se contabilizan a cada fecha de cierre por su valor razonable de acuerdo con la NIC 39.
 - El segundo factor, el riesgo potencial (“add-on”), es una estimación del incremento máximo esperado de la exposición al riesgo a través de un derivado valorado a valor de mercado (con un nivel de confianza estadística) como resultado de cambios futuros en los precios de valoración en el plazo residual hasta el vencimiento final de la operación.
 
-El riesgo potencial (“add-on”) relaciona la exposición al riesgo con el nivel de exposición en el momento del incumplimiento de un cliente. El nivel de exposición dependerá de la calidad crediticia del cliente y del tipo de transacción con dicho cliente. Teniendo en cuenta que por defecto es un hecho incierto que podría darse en cualquier momento durante la vigencia de un contrato, el Grupo considera no sólo el riesgo de crédito del contrato en la fecha informada, sino también los posibles cambios en la exposición durante la vida del contrato. Esto es especialmente importante para los contratos de derivados, cuya valoración cambia sustancialmente a través del tiempo, dependiendo de la fluctuación de los precios de mercado. 
+El riesgo potencial (“add-on”) relaciona la exposición al riesgo con el nivel de exposición en el momento del incumplimiento de un cliente. El nivel de exposición dependerá de la calidad crediticia del cliente y del tipo de transacción con dicho cliente. Teniendo en cuenta que por defecto es un hecho incierto que podría darse en cualquier momento durante la vigencia de un contrato, el Grupo considera no sólo el riesgo de crédito del contrato en la fecha informada, sino también los posibles cambios en la exposición durante la vida del contrato. Esto es especialmente importante para los contratos de derivados, cuya valoración cambia sustancialmente a través del tiempo, dependiendo de la fluctuación de los precios de mercado.
 
 El detalle por contraparte y por producto de los préstamos y anticipos, neto de pérdidas por deterioro, clasificados en las distintas categorías de activos a 31 de diciembre de 2016 y 2015 se muestra a continuación:
 
@@ -1371,7 +1370,7 @@ Los métodos utilizados para valorar las garantías coinciden con las mejores pr
 A continuación se describen los principales tipos de garantías recibidas por cada categoría de instrumentos financieros:
 
 • Activos financieros mantenidos para negociar: Las garantías o mejoras crediticias que se obtengan directamente del emisor o contrapartida están implícitas en las cláusulas del instrumento.
-• Derivados y derivados-contabilidad de coberturas: En los derivados, el riesgo de crédito se minimiza mediante acuerdos contractuales de compensación por los que derivados activos y pasivos con la misma contrapartida son liquidados por su saldo neto. Además, pueden existir garantías de otro tipo, dependiendo de la solvencia de la contraparte y de la naturaleza de la operación. 
+• Derivados y derivados-contabilidad de coberturas: En los derivados, el riesgo de crédito se minimiza mediante acuerdos contractuales de compensación por los que derivados activos y pasivos con la misma contrapartida son liquidados por su saldo neto. Además, pueden existir garantías de otro tipo, dependiendo de la solvencia de la contraparte y de la naturaleza de la operación.
 • Activos financieros designados a valor razonable con cambios en resultados y activos financieros disponibles para la venta: Las garantías o mejoras crediticias obtenidas directamente del emisor o contrapartida, son inherentes a la estructura del instrumento.
 • Préstamos y partidas a cobrar:
 - Préstamos y anticipos a entidades de crédito: Habitualmente, solo cuentan con la garantía personal de la contraparte.
@@ -1380,7 +1379,7 @@ A continuación se describen los principales tipos de garantías recibidas por c
 
 El desglose de los créditos concedidos por el Grupo que tienen asociadas garantías reales, excluyendo aquellos saldos que se consideraban deteriorados a 31 de diciembre de 2016, 2015 y 2014 se muestran en la Nota 13.2.
 
-• Garantías financieras, otros riesgos contingentes y disponibles para terceros: Cuentan con la garantía personal de la contraparte. 
+• Garantías financieras, otros riesgos contingentes y disponibles para terceros: Cuentan con la garantía personal de la contraparte.
 
 
 #### 7.3.3 Calidad crediticia de los activos financieros no vencidos ni deteriorados
@@ -1415,7 +1414,7 @@ IMAGE GOES HERE
 
 La determinación de estos distintos niveles y sus límites de probabilidad de incumplimiento (PD) se realizó tomando como referencia las escalas de rating y tasas de incumplimiento de las agencias externas Standard & Poor’s y Moody’s. De esta manera se establecen los niveles de probabilidad de incumplimiento de la Escala Maestra del Grupo BBVA. Dicha escala es común para todo el Grupo, sin embargo, las calibraciones (mapeo de puntuaciones a tramos de PD/niveles de la Escala Maestra) se realizan a nivel de herramienta para cada uno de los países en los que el Grupo dispone de herramientas.
 
-Seguidamente se presenta la distribución, por ratings internos, de la exposición (incluidos los derivados) con empresas, entidades financieras e instituciones (excluyendo riesgo soberano) relativa a BBVA S.A., Bancomer, Compass y filiales en España a 31 de diciembre de 2016, y 2015: 
+Seguidamente se presenta la distribución, por ratings internos, de la exposición (incluidos los derivados) con empresas, entidades financieras e instituciones (excluyendo riesgo soberano) relativa a BBVA S.A., Bancomer, Compass y filiales en España a 31 de diciembre de 2016, y 2015:
 
 IMAGE GOES HERE
 
@@ -1457,15 +1456,15 @@ IMAGE GOES HERE
 
 La formalización de una operación refinanciada/reestructurada (ver definición en el Glosario) se realiza en relación con aquel cliente que haya solicitado la operación para atender su deuda actual y que presente, o se prevé que pueda presentar en el futuro, dificultades financieras en el pago de la misma.
 
-El objetivo fundamental de la formalización de una operación refinanciada/reestructurada es proporcionar al cliente viabilidad financiera duradera en el tiempo, adecuando el pago de sus deudas contraídas con el Grupo a la nueva situación de generación de recursos del cliente. La utilización de la refinanciación o reestructuración con otros objetivos, como pueda ser el retrasar el reconocimiento de las pérdidas, es contraria a las políticas del Grupo BBVA. 
+El objetivo fundamental de la formalización de una operación refinanciada/reestructurada es proporcionar al cliente viabilidad financiera duradera en el tiempo, adecuando el pago de sus deudas contraídas con el Grupo a la nueva situación de generación de recursos del cliente. La utilización de la refinanciación o reestructuración con otros objetivos, como pueda ser el retrasar el reconocimiento de las pérdidas, es contraria a las políticas del Grupo BBVA.
 
 Las políticas de refinanciación/reestructuración del Grupo BBVA se basan en los siguientes principios generales:
 
-• Las refinanciaciones y reestructuraciones se autorizan en base a la evaluación de la capacidad de pago de los clientes para atender la nueva cuota. Para ello, se identifica primero el origen de las dificultades de pago y se realiza un análisis de la viabilidad del cliente, incluyendo el análisis actualizado de su situación económica y financiera y de su capacidad de pago y generación de recursos. En el caso de que el cliente sea una empresa, se analiza también la evolución del sector del que forma parte. 
-• Con el objetivo de incrementar la solvencia de la operación, se procura, en lo posible, la obtención de nuevas garantías y/o garantes con solvencia demostrada. Dentro de este proceso, es esencial el análisis de la eficacia de las garantías aportadas, tanto las nuevas como las originales. 
-• El análisis se realiza desde la perspectiva global del cliente o grupo, y no únicamente desde la perspectiva de una operación concreta. 
-• En las operaciones de refinanciación y reestructuración no se aumenta, con carácter general, el importe de la deuda del cliente, con la única excepción de los gastos inherentes a la propia operación. 
-• La capacidad de realizar refinanciaciones y reestructuraciones no está delegada en la red de oficinas, sino que son decididas en el ámbito de las unidades de riesgos. 
+• Las refinanciaciones y reestructuraciones se autorizan en base a la evaluación de la capacidad de pago de los clientes para atender la nueva cuota. Para ello, se identifica primero el origen de las dificultades de pago y se realiza un análisis de la viabilidad del cliente, incluyendo el análisis actualizado de su situación económica y financiera y de su capacidad de pago y generación de recursos. En el caso de que el cliente sea una empresa, se analiza también la evolución del sector del que forma parte.
+• Con el objetivo de incrementar la solvencia de la operación, se procura, en lo posible, la obtención de nuevas garantías y/o garantes con solvencia demostrada. Dentro de este proceso, es esencial el análisis de la eficacia de las garantías aportadas, tanto las nuevas como las originales.
+• El análisis se realiza desde la perspectiva global del cliente o grupo, y no únicamente desde la perspectiva de una operación concreta.
+• En las operaciones de refinanciación y reestructuración no se aumenta, con carácter general, el importe de la deuda del cliente, con la única excepción de los gastos inherentes a la propia operación.
+• La capacidad de realizar refinanciaciones y reestructuraciones no está delegada en la red de oficinas, sino que son decididas en el ámbito de las unidades de riesgos.
 • Periódicamente se revisan las decisiones adoptadas, con el fin de comprobar el adecuado cumplimiento de las políticas de refinanciación y reestructuración.
 
 Estos principios generales se adaptan, en cada caso, en función de las condiciones y circunstancias de cada geografía en las que el Grupo opera y de la distinta tipología de clientes.
@@ -1478,7 +1477,7 @@ En el caso de clientes mayoristas, fundamentalmente, empresas y corporaciones, l
 • La evolución prevista de ingresos, márgenes y generación de flujos de caja para un periodo lo suficientemente largo (en el entorno de los cinco años), que permita a la empresas implantar las medidas de ajustes de costes (reestructuración industrial) y un desarrollo del plan de negocio que contribuyan a reducir el nivel de apalancamiento a niveles sostenibles (capacidad de acceso a los mercados financieros).
 • La existencia, en su caso, de un plan de desinversiones en activos y/o segmentos de negocio que permitan generar caja para ayudar al proceso de desapalancamiento.
 • La capacidad de los accionistas de aportar capital y/o garantías que puedan dar soporte al plan de viabilidad.
-De acuerdo con la política del Grupo, el hecho de la formalización de una operación refinanciada/reestructurada no implica su reclasificación de las categorías de “Dudoso” o “Subestándar” a riesgos vivos, sino que dicha reclasificación debe basarse en los análisis, antes comentados, de viabilidad y de eficacia de las nuevas garantías aportadas. 
+De acuerdo con la política del Grupo, el hecho de la formalización de una operación refinanciada/reestructurada no implica su reclasificación de las categorías de “Dudoso” o “Subestándar” a riesgos vivos, sino que dicha reclasificación debe basarse en los análisis, antes comentados, de viabilidad y de eficacia de las nuevas garantías aportadas.
 El Grupo mantiene la política de incluir los riesgos refinanciados/reestructurados como:
 • “Riesgos dudosos”, ya que, aunque el cliente esté al corriente de pago, se califican como dudosos por razones distintas de su morosidad cuando existan dudas relevantes de que puedan incumplirse los términos de la refinanciación.
 • “Riesgos subestándar”, porque exista alguna duda de un posible incumplimiento en la operación refinanciada.
@@ -1505,9 +1504,9 @@ El riesgo de mercado se genera por los movimientos en las variables de mercado q
 • Riesgo de renta variable: surge como consecuencia del movimiento en los precios de las acciones. Dicho riesgo se genera en las posiciones en contado de acciones así como en cualquier producto derivado cuyo subyacente sea una acción o un índice de renta variable. Como un sub-riesgo del de renta variable surge el riesgo de dividendo, como input de cualquier opción sobre renta variable, su variabilidad puede afectar a la valoración de las posiciones y, por lo tanto, es un factor generador de riesgo en los libros.
 • Riesgo de tipo de cambio: se produce por el movimiento en los tipos de cambio de las diferentes divisas en las que se tiene posición. Al igual que el de renta variable, este riesgo se genera en las posiciones de contado de divisa, así como en cualquier producto derivado cuyo subyacente sea un tipo de cambio. Adicionalmente, el efecto quanto (operaciones donde el subyacente y el nominal de la operación estén denominados en divisas diferentes) conlleva que en determinadas operaciones donde el subyacente no sea una divisa se genere un riesgo de tipo de cambio que es preciso medir y monitorizar
 • Riesgo de spread de crédito: El spread de crédito es un indicador de mercado de la calidad crediticia de un emisor. El riesgo de spread se produce por las variaciones en los niveles de spread tanto de emisores corporativos como gubernamentales y afecta tanto a las posiciones en bonos como en derivados de crédito.
-• Riesgo de volatilidad: se produce como consecuencia de las variaciones en los niveles de volatilidad implícita a la que cotizan los diferentes instrumentos de mercado en los que se negocien derivados. Este riesgo, a diferencia del resto, es un componente exclusivo de la operativa en derivados y se define como un riesgo de primer orden al cambio en la volatilidad que se genera en todos los posibles subyacentes en los que existan productos con opcionalidad que precisen de un input de volatilidad para su valoración. 
+• Riesgo de volatilidad: se produce como consecuencia de las variaciones en los niveles de volatilidad implícita a la que cotizan los diferentes instrumentos de mercado en los que se negocien derivados. Este riesgo, a diferencia del resto, es un componente exclusivo de la operativa en derivados y se define como un riesgo de primer orden al cambio en la volatilidad que se genera en todos los posibles subyacentes en los que existan productos con opcionalidad que precisen de un input de volatilidad para su valoración.
 
-Las métricas desarrolladas para el control y seguimiento del riesgo de mercado en el Grupo BBVA están alineadas con las mejores prácticas del mercado e implementadas de manera consistente en todas las unidades locales de riesgo de mercado. 
+Las métricas desarrolladas para el control y seguimiento del riesgo de mercado en el Grupo BBVA están alineadas con las mejores prácticas del mercado e implementadas de manera consistente en todas las unidades locales de riesgo de mercado.
 Los procedimientos de medición se establecen en términos de cómo impactaría una posible evolución negativa de las condiciones de los mercados, tanto bajo circunstancias ordinarias como en situaciones de tensión, a la cartera de trading de las unidades de Global Markets del Grupo.
 
 La métrica estándar de medición del Riesgo de Mercado es el Valor en Riesgo (“VaR”), que indica las pérdidas máximas que se pueden producir en las carteras a un nivel de confianza dado (99%) y a un horizonte temporal (un día). Este valor estadístico, de uso generalizado en el mercado, tiene la ventaja de resumir en una única métrica los riesgos inherentes a la actividad de trading teniendo en cuenta las relaciones existentes entre todos ellos, proporcionando la predicción de pérdidas que podría experimentar la cartera de trading como resultado de las variaciones de los precios de los mercados de renta variable, tipos de interés, tipos de cambio y commodities. El análisis de riesgo de mercado incluye la consideración de los siguientes riesgos: spread de crédito, bases entre distintos instrumentos, volatilidad o riesgo de correlación.
@@ -1527,7 +1526,7 @@ El modelo utilizado estima el VaR de acuerdo con la metodología de “simulaci�
 Las cifras de VaR se estiman siguiendo 2 metodologías:
 
 • VaR sin alisado, que equipondera la información diaria de los últimos 2 años transcurridos. Actualmente ésta es la metodología oficial de medición de riesgos de mercado de cara al seguimiento y control de límites de riesgo.
-• VaR con alisado, que da mayor peso a la información más reciente de los mercados. Es una medición complementaria a la anterior. 
+• VaR con alisado, que da mayor peso a la información más reciente de los mercados. Es una medición complementaria a la anterior.
 
 En el caso de las geografías de América del Sur (excepto BBVA Chile) se emplea metodología paramétrica para la medición del riesgo en términos de VaR.
 
@@ -1570,7 +1569,7 @@ En las carteras de trading del Grupo BBVA se realizan diferentes ejercicios de s
 ##### Escenarios históricos
 
 El escenario de stress histórico de referencia en el Grupo BBVA es el de Lehman Brothers, cuya abrupta quiebra en septiembre de 2008 derivó en un impacto significativo en el comportamiento de los mercados financieros a nivel global. Podríamos destacar como los efectos más relevantes de este escenario histórico los siguientes:
-• Shock de crédito: reflejado principalmente en el aumento de los spreads de crédito, y downgrades en calificaciones crediticias. 
+• Shock de crédito: reflejado principalmente en el aumento de los spreads de crédito, y downgrades en calificaciones crediticias.
 • Aumento en la volatilidad de gran parte de los mercados financieros (dando lugar a mucha variación en los precios de los diferentes activos (divisas, equity, deuda).
 • Shock de liquidez en los sistemas financieros, cuyo reflejo fue un fuerte movimiento de las curvas interbancarias, especialmente en los tramos más cortos de las curvas del euro y del dólar.
 
@@ -1622,7 +1621,7 @@ Las métricas de seguimiento del riesgo comprendidas en el esquema de límites e
 
 Periódicamente se revisa la bondad de estas métricas de estimación del riesgo mediante ejercicios de backtesting. El control del riesgo estructural de tipo de cambio se completa con el análisis de escenarios y de estrés con el fin de identificar, con carácter anticipatorio, posibles amenazas al cumplimiento futuro de los niveles de apetito de riesgo fijados, de tal manera que se posibilite la adopción, en su caso, de las acciones preventivas pertinentes. Los escenarios se basan tanto en situaciones históricas como simuladas por el modelo de riesgos, así como en los escenarios de riesgo proporcionados por BBVA Research.
 
-En cuanto al mercado, en el primer semestre de 2016 destaca la debilidad del dólar estadounidense y del peso mexicano y, por el contrario, el buen comportamiento de las divisas del eje andino y la lira turca, favorecidas por la recuperación de los precios de las materias primas, en especial el petróleo, y la menor incertidumbre sobre el crecimiento en dichas economías tras el retraso de las subidas de tipos de la Reserva Federal y las mejores perspectivas en China. 
+En cuanto al mercado, en el primer semestre de 2016 destaca la debilidad del dólar estadounidense y del peso mexicano y, por el contrario, el buen comportamiento de las divisas del eje andino y la lira turca, favorecidas por la recuperación de los precios de las materias primas, en especial el petróleo, y la menor incertidumbre sobre el crecimiento en dichas economías tras el retraso de las subidas de tipos de la Reserva Federal y las mejores perspectivas en China.
 A continuación se presentan los impactos en la cuenta de resultados y en patrimonio consolidado, en términos de sensibilidad, de las principales divisas con las que opera el Grupo durante 2016:
 
 IMAGE GOES HERE
@@ -1639,11 +1638,11 @@ Asimismo, los sistemas de gestión del riesgo con que cuenta el Grupo permiten a
 
 Periódicamente se realizan contrastes de backtesting del modelo de medición de riesgos utilizado.
 
-En el mercado el comportamiento de las bolsas europeas en el primer semestre del año 2016 ha sido negativo, en especial en la última parte del período, a causa de la adversa reacción de los mercados financieros al Brexit, ante la incertidumbre política que genera el proceso y su potencial impacto en el crecimiento de la eurozona. Este efecto ha supuesto un deterioro del valor de las inversiones de renta variable del Grupo a cierre de junio, aunque posteriormente se ha recuperado en buena medida ya que la mayoría de los índices bursátiles ha alcanzado nuevamente los niveles pre-Brexit en julio. 
+En el mercado el comportamiento de las bolsas europeas en el primer semestre del año 2016 ha sido negativo, en especial en la última parte del período, a causa de la adversa reacción de los mercados financieros al Brexit, ante la incertidumbre política que genera el proceso y su potencial impacto en el crecimiento de la eurozona. Este efecto ha supuesto un deterioro del valor de las inversiones de renta variable del Grupo a cierre de junio, aunque posteriormente se ha recuperado en buena medida ya que la mayoría de los índices bursátiles ha alcanzado nuevamente los niveles pre-Brexit en julio.
 
 El riesgo estructural de renta variable, medido en términos de capital económico, se ha reducido significativamente en el período a consecuencia del menor valor de las exposiciones y los dividendos cobrados, así como la reducción de posicionamiento en algunos sectores.
 
-Para profundizar en el análisis del perfil de riesgos, periódicamente se llevan a cabo pruebas de tensión y análisis de sensibilidad ante distintos escenarios simulados, tomando como base tanto situaciones de crisis pasadas como las previsiones realizadas por BBVA Research. Con ello se comprueba que los riesgos están acotados y que no se ponen en peligro los niveles de tolerancia fijados en el Grupo. 
+Para profundizar en el análisis del perfil de riesgos, periódicamente se llevan a cabo pruebas de tensión y análisis de sensibilidad ante distintos escenarios simulados, tomando como base tanto situaciones de crisis pasadas como las previsiones realizadas por BBVA Research. Con ello se comprueba que los riesgos están acotados y que no se ponen en peligro los niveles de tolerancia fijados en el Grupo.
 
 La sensibilidad agregada del patrimonio neto consolidado del Grupo BBVA ante un descenso del 1% en el precio de las acciones ascendía a 30 de junio de 2016 a -39 millones de euros. En la estimación de esta cifra se ha considerado la exposición en acciones valoradas a precio de mercado, o en su defecto, a valor razonable (excepto las posiciones en las carteras de las Áreas de Tesorería) y las posiciones netas en opciones sobre los mismos subyacentes en términos de delta equivalente.
 
@@ -1657,7 +1656,7 @@ En el actual contexto de mercado, los derivados se contratan bajo diferentes con
 
 Asimismo, el Grupo posee un alto volumen de adquisiciones y cesiones temporales de activos transaccionado a través de cámaras de compensación que articulan mecanismos de reducción de riesgo de contrapartida, así como a través de la firma de diversos contratos marco en la operativa bilateral, siendo el más utilizado el contrato GMRA (Global Master Repurchase Agreement), que publica el International Capital Market Association (“ICMA”), al que suelen incorporarse las cláusulas relativas al intercambio de colateral dentro del propio cuerpo del contrato marco.
 
-A continuación se presenta a 31 de diciembre de 2016 y 2015 un resumen del efecto de la compensación (via netting y colateral) para la operativa de derivados financieros y operaciones de financiación de valores: 
+A continuación se presenta a 31 de diciembre de 2016 y 2015 un resumen del efecto de la compensación (via netting y colateral) para la operativa de derivados financieros y operaciones de financiación de valores:
 
 IMAGE GOES HERE
 
@@ -1684,12 +1683,12 @@ IMAGE GOES HERE
 IMAGE GOES HERE
 
 Las métricas anteriores se completan con toda una serie de indicadores sobre los que se establecen umbrales que tienen como objetivo evitar la concentración en la financiación mayorista por producto, contrapartida, mercados y plazo, así como promover la diversificación por área geográfica. Adicionalmente, se establecen umbrales de referencia sobre una serie de indicadores adelantados que permiten anticipar situaciones de tensión en los mercados y adoptar, en su caso, acciones preventivas.
-Adicionalmente, los análisis de estrés son un elemento fundamental del esquema de seguimiento del riesgo de liquidez y financiación, ya que permiten anticipar desviaciones con respecto a los objetivos de liquidez y límites establecidos en el apetito, y establecer rangos de tolerancia en diferentes ejes de gestión. Asimismo, desempeñan un papel primordial en el diseño del Plan de Contingencia de Liquidez y en la definición de medidas de actuación concretas para reconducir el perfil de riesgo. 
+Adicionalmente, los análisis de estrés son un elemento fundamental del esquema de seguimiento del riesgo de liquidez y financiación, ya que permiten anticipar desviaciones con respecto a los objetivos de liquidez y límites establecidos en el apetito, y establecer rangos de tolerancia en diferentes ejes de gestión. Asimismo, desempeñan un papel primordial en el diseño del Plan de Contingencia de Liquidez y en la definición de medidas de actuación concretas para reconducir el perfil de riesgo.
 
-Para cada uno de los escenarios se contrasta si el Banco dispone de stock suficiente de activos líquidos que garanticen la capacidad de hacer frente a los compromisos/salidas de liquidez en los distintos períodos analizados. En el desarrollo del análisis se consideran cuatro escenarios: uno central y tres de crisis (crisis sistémica; crisis interna sobrevenida, con sensible disminución del rating y/o que afecte a la capacidad de emitir en mercados mayoristas y a la percepción del riesgo de negocio por parte de los intermediarios bancarios y los clientes de la Entidad; y escenario mixto, como una combinación de los dos anteriores). Cada escenario considera los siguientes factores: la liquidez existente en el mercado, el comportamiento de los clientes y las fuentes de financiación, el impacto de las bajadas de rating, los valores de mercado de activos líquidos y colaterales y la interacción entre los requerimientos de liquidez y la evolución de la calidad crediticia del Banco. 
+Para cada uno de los escenarios se contrasta si el Banco dispone de stock suficiente de activos líquidos que garanticen la capacidad de hacer frente a los compromisos/salidas de liquidez en los distintos períodos analizados. En el desarrollo del análisis se consideran cuatro escenarios: uno central y tres de crisis (crisis sistémica; crisis interna sobrevenida, con sensible disminución del rating y/o que afecte a la capacidad de emitir en mercados mayoristas y a la percepción del riesgo de negocio por parte de los intermediarios bancarios y los clientes de la Entidad; y escenario mixto, como una combinación de los dos anteriores). Cada escenario considera los siguientes factores: la liquidez existente en el mercado, el comportamiento de los clientes y las fuentes de financiación, el impacto de las bajadas de rating, los valores de mercado de activos líquidos y colaterales y la interacción entre los requerimientos de liquidez y la evolución de la calidad crediticia del Banco.
 
-De los ejercicios de estrés llevados a cabo periódicamente se desprende que BBVA mantiene un colchón de activos líquidos (buffer de estrés) suficiente para hacer frente a las salidas de liquidez estimadas en un escenario resultante de la combinación de una crisis sistémica y una crisis interna sobrevenida, durante un periodo por encima de 3 meses para todas las UGLs, incluyendo en el escenario una sensible disminución del rating del Banco de hasta tres escalones (“notches”). 
-Adicionalmente al comportamiento de los principales indicadores para todas las UGL’s del Grupo, BBVA ha establecido dentro del plan de adaptación de la gestión de los riesgos a los ratios regulatorios, un nivel de exigencia de cumplimiento del ratio LCR tanto para el conjunto del Grupo como para cada una de las UGLs individualmente. Los niveles internos exigidos están orientados a cumplir con suficiente antelación y eficiencia la implementación del requerimiento regulatorio de 2018, en un nivel por encima del 100%. 
+De los ejercicios de estrés llevados a cabo periódicamente se desprende que BBVA mantiene un colchón de activos líquidos (buffer de estrés) suficiente para hacer frente a las salidas de liquidez estimadas en un escenario resultante de la combinación de una crisis sistémica y una crisis interna sobrevenida, durante un periodo por encima de 3 meses para todas las UGLs, incluyendo en el escenario una sensible disminución del rating del Banco de hasta tres escalones (“notches”).
+Adicionalmente al comportamiento de los principales indicadores para todas las UGL’s del Grupo, BBVA ha establecido dentro del plan de adaptación de la gestión de los riesgos a los ratios regulatorios, un nivel de exigencia de cumplimiento del ratio LCR tanto para el conjunto del Grupo como para cada una de las UGLs individualmente. Los niveles internos exigidos están orientados a cumplir con suficiente antelación y eficiencia la implementación del requerimiento regulatorio de 2018, en un nivel por encima del 100%.
 
 A lo largo del primer semestre de 2016 el nivel de LCR para el Grupo BBVA se estima que se ha mantenido por encima del 100%. A nivel europeo el ratio LCR entró en vigor el 1 de octubre de 2015, con un nivel de exigencia inicial del 60%, y un faseado hasta el 100% en 2018, quedando desarrollos normativos pendientes por parte de las autoridades europeas en cuanto a la información a remitir al supervisor y publicación.
 
@@ -1762,14 +1761,14 @@ La gestión del riesgo operacional en el Grupo BBVA debe:
 
 Estos principios reflejan la visión que el Grupo BBVA tiene del riesgo operacional basándose en que los eventos que se producen como consecuencia del mismo tienen una causa última que siempre debe identificarse, que mediante su control reduce significativamente el impacto de los eventos.
 
-Con independencia de la adopción de todas las medidas y controles posibles para evitar o disminuir tanto la frecuencia como la severidad de los eventos de RO, BBVA asegura en todo momento el capital suficiente para hacer frente a las pérdidas esperadas o inesperadas que puedan suceder. 
+Con independencia de la adopción de todas las medidas y controles posibles para evitar o disminuir tanto la frecuencia como la severidad de los eventos de RO, BBVA asegura en todo momento el capital suficiente para hacer frente a las pérdidas esperadas o inesperadas que puedan suceder.
 
 
 ### 7.8 Concentración de riesgos
 
-##### Políticas sobre concentración de riesgos 
+##### Políticas sobre concentración de riesgos
 
-En lo que respecta a la mitigación de la concentración del riesgo de crédito por ámbito geográfico, individual y sectorial, el Grupo BBVA mantiene actualizados los índices máximos autorizados de concentración, tanto individual como sectorial, en función de las diferentes variables observables relacionadas con el riesgo de crédito. 
+En lo que respecta a la mitigación de la concentración del riesgo de crédito por ámbito geográfico, individual y sectorial, el Grupo BBVA mantiene actualizados los índices máximos autorizados de concentración, tanto individual como sectorial, en función de las diferentes variables observables relacionadas con el riesgo de crédito.
 Por otra parte, la presencia o cuota financiera del Grupo en un cliente concreto está condicionada por su calidad crediticia, la naturaleza de los riesgos que se mantienen con él y la presencia del Grupo en el mercado, de acuerdo con las siguientes pautas:
 • Se intenta compatibilizar al máximo posible las necesidades de financiación del cliente (comerciales/financieras, corto plazo/largo plazo, etc.) con los intereses del Grupo.
 • Se tienen en consideración los límites legales que puedan existir sobre concentración de riesgos (relación entre los riesgos mantenidos con un cliente y los fondos propios de la entidad que los asume), la situación de los mercados, la coyuntura macroeconómica, etc.
@@ -1830,13 +1829,13 @@ En los casos de refinanciaciones, las herramientas para la obtención de mejoras
 
 ###### Políticas aplicadas en la gestión de los activos inmobiliarios en España
 
-La política aplicada en la gestión de estos activos depende del tipo de activo inmobiliario, como se detalla a continuación: 
+La política aplicada en la gestión de estos activos depende del tipo de activo inmobiliario, como se detalla a continuación:
 
 • En el caso de viviendas terminadas, el objetivo último es la venta de estas viviendas a particulares, diluyendo así el riesgo y comenzando un nuevo ciclo de negocio. En este contexto, la estrategia ha sido la de facilitar la subrogación (la tasa de mora de este canal de negocio es notablemente inferior a la de cualquier otro canal de vivienda de particulares) así como la de apoyar directamente la venta de los clientes, utilizando el propio canal BBVA (BBVA Servicios y las propias oficinas) incentivándose la venta, así como recogiendo mandatos de venta a favor del BBVA. En casos singulares se ha trabajado incluso aceptando quitas parciales, con objeto de facilitar la venta.
 • En el caso de obras en curso, la estrategia ha sido facilitar y promover la terminación de la obra con objeto de pasar la inversión a viviendas terminadas. Se ha revisado toda la cartera promotor en obra (Plan Obra en Curso), clasificándola en distintos estadios con objeto de utilizar distintas herramientas para apoyar la estrategia. La utilización de “confirming-promotor” como forma de control de pagos, la utilización de la figura del “project monitoring”, apoyándose en la propia Unidad Inmobiliaria y en definitiva la gestión de proveedores directos de la obra como complemento a la propia gestión del cliente promotor.
 • Respecto a los suelos, donde la gran mayoría del riesgo es suelo urbano, la gestión se simplifica. La gestión urbanística y el control de liquidez para acometer los gastos de urbanización también son objeto de especial seguimiento.
 
-Para información cuantitativa sobre la concentración de riesgos en el sector promotor e inmobiliario en España véase el Anexo XII. 
+Para información cuantitativa sobre la concentración de riesgos en el sector promotor e inmobiliario en España véase el Anexo XII.
 
 
 ## 8. Valor razonable
@@ -1893,12 +1892,12 @@ Las principales técnicas utilizadas para la valoración de los principales inst
 • Precios comparables (precios activos similares): se utilizan precios de instrumentos comparables, índices de referencia o benchmark de mercado para calcular su rendimiento desde el precio de entrada o su valoración actual realizando ajustes posteriores para tomar en cuenta diferencias que puede haber entre el activo valorado y el que se toma como referencia. También se puede simplemente asumir que el precio de un instrumento equivale al del otro.
 • Net asset value: representa el valor total de los activos y pasivos de un fondo y es publicado por la entidad gestora del mismo.
 • Cópula gaussiana: en los instrumentos de crédito dependientes de varias referencias, la función de densidad conjunta a integrar para valorarlos se construye mediante una cópula gaussiana que relaciona las densidades marginales mediante una distribución normal, que suele extraerse de la matriz de correlaciones de los eventos de default que se aproxima por la de los CDS de los emisores.
-• Black 76: variante del modelo Black Scholes cuya principal aplicación es la valoración de Opciones de Bonos, Caps/ floors y Swaptions de los modelos directamente el comportamiento del Forward y no el propio Spot. 
+• Black 76: variante del modelo Black Scholes cuya principal aplicación es la valoración de Opciones de Bonos, Caps/ floors y Swaptions de los modelos directamente el comportamiento del Forward y no el propio Spot.
 • Heston: el modelo, que normalmente se aplica opciones de renta variable, presume un comportamiento estocástico de la volatilidad. Según éste, la volatilidad sigue un proceso que revierte a un nivel de largo plazo y está correlacionado con el que sigue el subyacente. Frente a los modelos de volatilidad local, en los que la volatilidad evoluciona determinísticamente, el modelo de Heston es más flexible, permitiendo que sea similar al observado en el corto plazo hoy.
 • Libor market model: este modelo presume que la dinámica de la curva de tipos de interés se puede modelar en base al proceso conjunto de los forwards que la componen. La matriz de correlaciones se parametriza bajo la hipótesis de que la correlación entre dos forwards cualesquiera decrece a una tasa instantánea constante, beta, en la medida en que disten sus respectivos vencimientos. El input “Volatilidad de impago” es la parte volátil del factor dinámico del modelo. El marco multifactorial del modelo lo hace ideal para la valoración de instrumentos sensibles a la pendiente o curvatura.
 
 
-##### Ajustes a la valoración por riesgo de incumplimiento 
+##### Ajustes a la valoración por riesgo de incumplimiento
 
 Los ajustes por valoración de crédito (Credit Valuation Adjustment, en adelante “CVA”) y los ajustes por valoración de débito (Debit Valuation Adjustment, en adelante “DVA”) se incorporan en las valoraciones de derivados, tanto de activo como de pasivo, para reflejar el impacto en el valor razonable del riesgo de crédito de la contraparte y el propio, respectivamente.
 
@@ -1918,7 +1917,7 @@ IMAGE GOES HERE
 
 En el ejercicio 2016, el resultado por ventas de instrumentos financieros clasificados en Nivel 3, registrado en la cuenta de pérdidas y ganancias de dicho ejercicio no fue significativo.
 
-##### Traspasos entre niveles 
+##### Traspasos entre niveles
 
 El área de Valoración Global de Mercados, en colaboración con el Área de Tecnología y Metodologías, ha establecido los criterios para la adecuada clasificación de los activos financieros mantenidos para negociar y activos disponibles para la venta de acuerdo con la jerarquía de valor razonable definida por las normas internacionales de contabilidad.
 
@@ -1934,7 +1933,7 @@ El importe de los instrumentos financieros que fueron traspasados entre los dist
 • Los traspasos desde el Nivel 2 al Nivel 3 se deben principalmente a instrumentos de patrimonio y valores representativos de deuda, para los cuales no se consigue obtener datos observables en su valoración.
 • Los traspasos desde el Nivel 3 al Nivel 2 se producen íntegramente en instrumentos de patrimonio, en los que se logra localizar datos observables en el mercado para su valoración.
 
-##### Análisis de sensibilidad  
+##### Análisis de sensibilidad
 El análisis de sensibilidad se realiza sobre los activos con inputs no observables importantes, es decir, para aquellos incluidos en el Nivel 3, para tener un rango razonable de las posibles valoraciones alternativas. Este análisis se lleva a cabo, con periodicidad mensual, en base a los criterios definidos por el Área Global de Valoración teniendo en cuenta la naturaleza de los métodos empleados para realizar la valoración y la fiabilidad y disponibilidad de los inputs y proxies utilizados. Esto se realiza con el objeto de establecer, con un grado de certeza adecuado, el riesgo valorativo en el que se incurre en dichos activos sin aplicar criterios de diversificación entre los mismos.
 
 A 31 de diciembre 2016, el efecto en los resultados y en el patrimonio neto, consolidados, resultante de cambiar las principales asunciones utilizadas en la valoración de los instrumentos financieros del Nivel 3 por otras hipótesis razonablemente posibles, tomando el valor más alto (hipótesis más favorables) o más bajo (hipótesis menos favorables) del rango que se estima probable, sería:
@@ -1951,7 +1950,7 @@ La siguiente tabla presenta el valor razonable de los principales instrumentos f
 
 IMAGE GOES HERE
 
-A continuación se presentan los principales métodos de valoración, hipótesis e inputs utilizados en la estimación del valor razonable de los instrumentos financieros contabilizados a coste clasificados en Nivel 2 y Nivel 3, según el tipo de instrumento financiero de que se trate, y los correspondientes saldos a 31 de diciembre 2016: 
+A continuación se presentan los principales métodos de valoración, hipótesis e inputs utilizados en la estimación del valor razonable de los instrumentos financieros contabilizados a coste clasificados en Nivel 2 y Nivel 3, según el tipo de instrumento financiero de que se trate, y los correspondientes saldos a 31 de diciembre 2016:
 
 IMAGE GOES HERE
 
@@ -2044,7 +2043,7 @@ IMAGE GOES HERE
 
 ### 10.4 Derivados
 
-La cartera de derivados surge de la necesidad del Grupo de gestionar los riesgos en que incurre en el curso normal de su actividad así como la comercialización de productos a los clientes. A 31 de diciembre 2016, 2015 y 2014 los derivados estaban, en su mayor parte, contratados en mercados no organizados, tenían sus contrapartidas en entidades de crédito no residentes en España y estaban relacionados con riesgos de cambio, de tipo de interés y de acciones. 
+La cartera de derivados surge de la necesidad del Grupo de gestionar los riesgos en que incurre en el curso normal de su actividad así como la comercialización de productos a los clientes. A 31 de diciembre 2016, 2015 y 2014 los derivados estaban, en su mayor parte, contratados en mercados no organizados, tenían sus contrapartidas en entidades de crédito no residentes en España y estaban relacionados con riesgos de cambio, de tipo de interés y de acciones.
 
 A continuación se presenta un desglose, por tipo de riesgo y tipo de producto o mercado, del valor razonable así como los nocionales relacionados de los derivados financieros de negociación registrados en los balances consolidados adjuntos, distinguiendo entre los contratados en mercados organizados y no organizados:
 
@@ -2057,7 +2056,7 @@ La composición del saldo de estos capítulos de los balances consolidados adjun
 
 IMAGE GOES HERE
 
-A 31 de diciembre 2016, 2015 y 2014 el saldo más representativo dentro de estos capítulos corresponde a los activos y pasivos vinculados a los productos de seguros en los que el tomador asume el riesgo (“Unit-Link”). Este tipo de producto se comercializa únicamente en España, a través de BBVA Seguros S.A., de Seguros y Reaseguros y en México a través de Seguros Bancomer S.A, de C.V. 
+A 31 de diciembre 2016, 2015 y 2014 el saldo más representativo dentro de estos capítulos corresponde a los activos y pasivos vinculados a los productos de seguros en los que el tomador asume el riesgo (“Unit-Link”). Este tipo de producto se comercializa únicamente en España, a través de BBVA Seguros S.A., de Seguros y Reaseguros y en México a través de Seguros Bancomer S.A, de C.V.
 
 Dado que los pasivos vinculados a los productos de seguros en los que el tomador asume el riesgo se valoran como el activo asociado a dichos seguros, no existe ningún componente de riesgo de crédito asumido por el Grupo en relación a estos pasivos.
 
@@ -2070,7 +2069,7 @@ La composición del saldo de este capítulo de los balances consolidados adjunto
 
 IMAGE GOES HERE
 
-El importe del capítulo ”Activos financieros disponibles para la venta-Valores representativos de deuda” disminuye en el ejercicio 2016, principalmente por la reclasificación de ciertos valores representativos de deuda al capítulo “Inversiones mantenidas hasta el vencimiento”, correspondientes, en su gran mayoría, a títulos de Deuda Pública (véase nota 14). 
+El importe del capítulo ”Activos financieros disponibles para la venta-Valores representativos de deuda” disminuye en el ejercicio 2016, principalmente por la reclasificación de ciertos valores representativos de deuda al capítulo “Inversiones mantenidas hasta el vencimiento”, correspondientes, en su gran mayoría, a títulos de Deuda Pública (véase nota 14).
 
 
 ### 12.2 Valores representativos de deuda
@@ -2100,7 +2099,7 @@ El movimiento de las plusvalías/minusvalías (netas de impuestos) registradas e
 
 IMAGE GOES HERE
 
-En el ejercicio 2016, se ha registrado deterioro para ciertos Valores representativos de deuda de Brasil y Colombia en el epígrafe de resultados “'Deterioro del valor o reversión del deterioro del valor de activos financieros no valorados a valor razonable con cambios en resultados – Activos financieros disponibles para la venta” por importe de 0000 millones de euros (Nota 47). En los ejercicios 2016, 2015 y 2014 las minusvalías registradas no fueron significativas (0000, 0000 y 0000  millones de euros respectivamente). 
+En el ejercicio 2016, se ha registrado deterioro para ciertos Valores representativos de deuda de Brasil y Colombia en el epígrafe de resultados “'Deterioro del valor o reversión del deterioro del valor de activos financieros no valorados a valor razonable con cambios en resultados – Activos financieros disponibles para la venta” por importe de 0000 millones de euros (Nota 47). En los ejercicios 2016, 2015 y 2014 las minusvalías registradas no fueron significativas (0000, 0000 y 0000  millones de euros respectivamente).
 
 Para el resto de valores, el 0000% de las minusvalías latentes registradas en el epígrafe “Otro resultado global acumulado - Elementos que pueden reclasificarse en resultados - Activos financieros disponibles para la venta” con origen en los valores representativos de deuda, que presentaban minusvalías en el ejercicio precedente, estaban generadas en más de doce meses. Sin embargo, no se ha considerado la existencia de deterioro ya que, después de haberse analizado las minusvalías no realizadas, se puede concluir que las mismas eran temporales debido a las siguientes razones: se han cumplido las fechas de pago de intereses de todos los valores de renta fija; y no hay evidencias de que el emisor no continúe cumpliendo con sus obligaciones de pago ni de que los futuros pagos, tanto de principal como intereses, no sean suficientes para recuperar el coste de los valores de renta fija.
 
@@ -2145,7 +2144,7 @@ La composición del saldo de este epígrafe de los balances consolidados adjunto
 
 IMAGE GOES HERE
 
-En el ejercicio 2016, se ha procedido a reclasificar ciertos valores representativos de deuda desde el epígrafe “Activos financieros disponibles para la venta” al epígrafe “Préstamos y partidas a cobrar- Valores representativos de deuda”. 
+En el ejercicio 2016, se ha procedido a reclasificar ciertos valores representativos de deuda desde el epígrafe “Activos financieros disponibles para la venta” al epígrafe “Préstamos y partidas a cobrar- Valores representativos de deuda”.
 
 A continuación se muestra información sobre los valores razonables y los valores en libros de estos activos financieros reclasificados:
 
@@ -2154,7 +2153,7 @@ IMAGE GOES HERE
 La siguiente tabla muestra el importe registrado en la cuenta de pérdidas y ganancias consolidada del ejercicio 2016 derivado de la valoración a coste amortizado de los activos financieros reclasificados, así como el impacto que se hubiera registrado en la cuenta de pérdidas y ganancias consolidada y en el epígrafe de “Patrimonio neto – Otro resultado global acumulado”, a 31 de diciembre 2016, de no haber realizado la reclasificación.
 
 
-## 14. Inversiones mantenidas hasta el vencimiento 
+## 14. Inversiones mantenidas hasta el vencimiento
 
 La composición del saldo de este capítulo de los balances consolidados adjuntos, atendiendo a la contrapartida del instrumento financiero en el que tiene su origen, es la siguiente:
 
@@ -2170,7 +2169,7 @@ A continuación se muestra información sobre los valores razonables y los valor
 
 IMAGE GOES HERE
 
-El valor razonable de estos activos en la fecha de reclasificación se ha convertido en el nuevo coste amortizado. Las plusvalías latentes reconocidas hasta la fecha de reclasificación en el epígrafe “Otro resultado global acumulado - Elementos que pueden reclasificarse en resultados – Activos financieros disponibles para la venta” se amortizarán contra resultados a lo largo de la vida restante de las inversiones mantenidas hasta el vencimiento, utilizando el método del tipo de interés efectivo. La diferencia entre el nuevo coste amortizado y el importe a vencimiento se amortizará de manera simétrica a lo largo de la vida restante del activo financiero utilizando el método del tipo de interés efectivo, de forma similar a la amortización de una prima o descuento. 
+El valor razonable de estos activos en la fecha de reclasificación se ha convertido en el nuevo coste amortizado. Las plusvalías latentes reconocidas hasta la fecha de reclasificación en el epígrafe “Otro resultado global acumulado - Elementos que pueden reclasificarse en resultados – Activos financieros disponibles para la venta” se amortizarán contra resultados a lo largo de la vida restante de las inversiones mantenidas hasta el vencimiento, utilizando el método del tipo de interés efectivo. La diferencia entre el nuevo coste amortizado y el importe a vencimiento se amortizará de manera simétrica a lo largo de la vida restante del activo financiero utilizando el método del tipo de interés efectivo, de forma similar a la amortización de una prima o descuento.
 
 La siguiente tabla muestra el importe registrado en la cuenta de pérdidas y ganancias consolidada del ejercicio 2016 derivado de la valoración a coste amortizado de los activos financieros reclasificados, así como el impacto que se hubiera registrado en la cuenta de pérdidas y ganancias consolidada y en el epígrafe de “Patrimonio neto – Otro resultado global acumulado”, a 31 de diciembre 2016, de no haber realizado la reclasificación.
 
@@ -2200,11 +2199,11 @@ IMAGE GOES HERE
 IMAGE GOES HERE
 IMAGE GOES HERE
 
-A continuación se presentan los flujos de caja previstos en los próximos años para las coberturas de los flujos de efectivo registrados en el balance consolidado adjunto a 31 de diciembre 2016: 
+A continuación se presentan los flujos de caja previstos en los próximos años para las coberturas de los flujos de efectivo registrados en el balance consolidado adjunto a 31 de diciembre 2016:
 
 IMAGE GOES HERE
 
-Los anteriores flujos de efectivo incidirán en las cuentas de pérdidas y ganancias consolidadas del Grupo hasta el año 0000. 
+Los anteriores flujos de efectivo incidirán en las cuentas de pérdidas y ganancias consolidadas del Grupo hasta el año 0000.
 
 Durante los ejercicios 2016, 2015 y 2014, no hubo reclasificación en las cuentas de pérdidas y ganancias consolidadas adjuntas por ningún importe significativo diferentes de los mostrados en los estados de ingresos y gastos reconocidos consolidados adjuntos.
 
@@ -2228,13 +2227,13 @@ El movimiento del ejercicio2016 corresponde principalmente a la ampliación de c
 
 Las notificaciones sobre la adquisición y venta de inversiones en dependientes, negocios conjuntos y asociadas, en cumplimiento de lo dispuesto en el artículo 155 de la Ley de Sociedades de Capital y en el artículo 53 de la Ley 24/1988, del Mercado de Valores, se indican en el Anexo III.
 
-### 16.2 Otra información de entidades asociadas y negocios conjuntos 
+### 16.2 Otra información de entidades asociadas y negocios conjuntos
 
 Si estas sociedades se hubiesen consolidado por el método de integración global en lugar de por el método de la participación, la variación en cada una de las líneas de los balances y las cuentas de pérdidas y ganancias consolidadas, no sería significativa.
 
-A 31 de diciembre de 2016, no existía ningún acuerdo de apoyo financiero ni otro tipo de compromiso contractual ni de la matriz ni de las entidades dependientes a las entidades asociadas y los negocios conjuntos, que no esté reconocido en los estados financieros (ver Nota 53.2). 
+A 31 de diciembre de 2016, no existía ningún acuerdo de apoyo financiero ni otro tipo de compromiso contractual ni de la matriz ni de las entidades dependientes a las entidades asociadas y los negocios conjuntos, que no esté reconocido en los estados financieros (ver Nota 53.2).
 
-A 31 de diciembre de 2016, no existía ningún pasivo contingente en relación con las inversiones en negocios conjuntos o asociadas (ver Nota 53.2). 
+A 31 de diciembre de 2016, no existía ningún pasivo contingente en relación con las inversiones en negocios conjuntos o asociadas (ver Nota 53.2).
 
 ### 16.3  Existencia de deterioro
 
@@ -2265,7 +2264,7 @@ IMAGE GOES HERE
 
 ### 18.1 Fondo de comercio
 
-La composición del saldo y el movimiento de este epígrafe de los balances consolidados adjuntos, en función de las unidades generadoras de efectivo (en adelante, “UGE”) que lo originan, es: 
+La composición del saldo y el movimiento de este epígrafe de los balances consolidados adjuntos, en función de las unidades generadoras de efectivo (en adelante, “UGE”) que lo originan, es:
 
 IMAGE GOES HERE
 
@@ -2279,13 +2278,13 @@ IMAGE GOES HERE
 
 ##### Test de deterioro
 
-Tal y como se menciona en la Nota 2.2.8, las unidades generadoras de efectivo (“UGEs”) a las que se han asignado los fondos de comercio se analizan periódicamente, incluyendo en su valor en libros la parte del fondo de comercio asignada, para determinar si se han deteriorado. Este análisis se realiza al menos anualmente, o siempre que existan indicios de deterioro. 
+Tal y como se menciona en la Nota 2.2.8, las unidades generadoras de efectivo (“UGEs”) a las que se han asignado los fondos de comercio se analizan periódicamente, incluyendo en su valor en libros la parte del fondo de comercio asignada, para determinar si se han deteriorado. Este análisis se realiza al menos anualmente, o siempre que existan indicios de deterioro.
 
 Tanto los valores razonables de las UGEs como la asignación de valores razonables a los activos y pasivos de las mismas, están basados en las estimaciones e hipótesis que la Dirección del Grupo ha considerado más apropiadas, dadas las circunstancias. Sin embargo, ciertos cambios en las hipótesis de valoración utilizadas podrían dar lugar a diferencias en el resultado del test de deterioro.
 
-En el cálculo del test del deterioro se utilizan tres hipótesis claves que son aquéllas a las que el importe del valor recuperable es más sensible: 
+En el cálculo del test del deterioro se utilizan tres hipótesis claves que son aquéllas a las que el importe del valor recuperable es más sensible:
 
-• Las proyecciones de los flujos de caja estimados por la Dirección del Grupo, basadas en los últimos presupuestos disponibles para los próximos 5 años. 
+• Las proyecciones de los flujos de caja estimados por la Dirección del Grupo, basadas en los últimos presupuestos disponibles para los próximos 5 años.
 • La tasa de crecimiento sostenible constante para extrapolar los flujos de caja, a partir del quinto año (2021), más allá del periodo cubierto por los presupuestos o previsiones.
 • La tasa para descontar los flujos de caja futuros, que coincide con el coste de capital asignado a cada UGE, y que se compone de una tasa libre de riesgo más una prima que refleja el riesgo inherente de cada uno de los negocios evaluados.
 
@@ -2305,7 +2304,7 @@ IMAGE GOES HERE
 
 (*) En base a los movimientos históricos observados, el uso de 50 puntos básicos para el cálculo de un análisis de sensibilidad supondría una variación razonable respecto a la media de las variaciones observadas en los últimos cinco años (32 puntos básicos).
 
-Como se mencionaba anteriormente, la otra de las hipótesis utilizada con más impacto en el test de deterioro son los presupuestos de la UGE y, en concreto, el efecto que las variaciones de tipo de interés tienen en los flujos de caja. En el caso razonablemente más probable de una subida de los tipos de interés, como queda demostrado tras la reciente subida de tipos de diciembre 2015 en Estados Unidos, el margen de intereses se vería afectado positivamente y, por tanto, el valor recuperable de esta UGE se incrementaría. 
+Como se mencionaba anteriormente, la otra de las hipótesis utilizada con más impacto en el test de deterioro son los presupuestos de la UGE y, en concreto, el efecto que las variaciones de tipo de interés tienen en los flujos de caja. En el caso razonablemente más probable de una subida de los tipos de interés, como queda demostrado tras la reciente subida de tipos de diciembre 2015 en Estados Unidos, el margen de intereses se vería afectado positivamente y, por tanto, el valor recuperable de esta UGE se incrementaría.
 
 
 ##### Combinaciones de negocio 2016
@@ -2322,7 +2321,7 @@ A continuación se muestra el detalle del valor en libros de los activos y pasiv
 
 IMAGE GOES HERE
 
-La diferencia negativa existente entre la contraprestación entregada y el importe de los socios externos, con el valor razonable neto de los activos identificados adquiridos menos los pasivos asumidos se estimó inicialmente, a 30 de junio de 2015, en un importe de 22 millones de euros pero, posteriormente, el cálculo se modificó hasta los 26 millones de euros que quedaron registrados en la cuenta de pérdidas y ganancias consolidada del ejercicio 2015, en el epígrafe “Diferencia negativa en combinaciones de negocio” (ver Nota 2.2.7). 
+La diferencia negativa existente entre la contraprestación entregada y el importe de los socios externos, con el valor razonable neto de los activos identificados adquiridos menos los pasivos asumidos se estimó inicialmente, a 30 de junio de 2015, en un importe de 22 millones de euros pero, posteriormente, el cálculo se modificó hasta los 26 millones de euros que quedaron registrados en la cuenta de pérdidas y ganancias consolidada del ejercicio 2015, en el epígrafe “Diferencia negativa en combinaciones de negocio” (ver Nota 2.2.7).
 
 El cálculo de este importe estaba sujeto a cambios ya que la estimación de todos los valores razonables estaba siendo revisada y, de acuerdo con la NIIF-3, podrían verse modificados durante el plazo de un año desde la adquisición (abril 2015). Transcurrido dicho plazo, no se ha producido ningún ajuste significativo que implique modificar los importes registrados en el ejercicio 2015.
 
@@ -2421,14 +2420,14 @@ IMAGE GOES HERE
 
 (*) Principalmente activos procedentes de la Adquisición de Catalunya Banc en 2015
 
- 
+
 ## 21. Activos no corrientes y grupos enajenables de elementos que se han clasificado como mantenidos para la venta
 
 El desglose del saldo del capítulo “Activos no corrientes y grupos enajenables de elementos que se han clasificado como mantenidos para la venta” de los balances consolidados adjuntos, en función de la procedencia de los mismos, se muestra a continuación:
 
 IMAGE GOES HERE
 
- (*)  Corresponde a la amortización acumulada de los activos antes de su clasificación como "Activos no corrientes y grupos enajenables de elementos que se han clasificado como mantenidos para la venta”. 
+ (*)  Corresponde a la amortización acumulada de los activos antes de su clasificación como "Activos no corrientes y grupos enajenables de elementos que se han clasificado como mantenidos para la venta”.
 
 
 ## 22. Pasivos financieros a coste amortizado
@@ -2475,13 +2474,13 @@ Las emisiones de deuda senior realizadas por BBVA Senior Finance, S.A.U., BBVA U
 
 De los saldos anteriores, las emisiones de BBVA International Preferred, S.A.U., BBVA Subordinated Capital, S.A.U., BBVA Global Finance, Ltd., Caixa Terrassa Societat de Participacions Preferents, S.A.U. y CaixaSabadell Preferents, S.A.U. están garantizadas con carácter solidario e irrevocable por el Banco. La variación del saldo se debe fundamentalmente a las siguientes operaciones:
 
-##### Valores perpetuos eventualmente convertibles 
+##### Valores perpetuos eventualmente convertibles
 
 El 8 de abril de 2016, BBVA realizó la cuarta emisión de valores perpetuos eventualmente convertibles en acciones ordinarias de nueva emisión de BBVA (instrumentos de capital de nivel 1 adicional), con exclusión del derecho de suscripción preferente, por un importe de 1.000 millones de euros. Dicha emisión fue dirigida únicamente a inversores cualificados y clientes de banca privada extranjeros, cotiza en la Bolsa de Irlanda y en ningún caso podrá ser suscrita en España ni por inversores residentes en España.
 
 El 10 de febrero de 2015, BBVA realizó la tercera emisión de valores perpetuos eventualmente convertibles en acciones ordinarias de nueva emisión de BBVA (instrumentos de capital de nivel 1 adicional), con exclusión del derecho de suscripción preferente, por un importe de 1.500 millones de euros. Dicha emisión fue dirigida únicamente a inversores cualificados y clientes de banca privada extranjeros, cotiza en la Bolsa de Irlanda y en ningún caso podrá ser suscrita en España ni por inversores residentes en España.
 
-Estos valores perpetuos son convertibles en acciones ordinarias de nueva emisión de BBVA si la ratio de capital de nivel 1 ordinario del Banco a nivel individual o consolidado se sitúa por debajo del 5,125%, entre otros supuestos. 
+Estos valores perpetuos son convertibles en acciones ordinarias de nueva emisión de BBVA si la ratio de capital de nivel 1 ordinario del Banco a nivel individual o consolidado se sitúa por debajo del 5,125%, entre otros supuestos.
 Estas emisiones son amortizables, en su totalidad o parcialmente, por decisión de BBVA, una vez hayan transcurrido, al menos, cinco años desde su fecha de emisión, según las condiciones particulares de cada una de ellas, y con el consentimiento previo del Banco de España o de la autoridad que resulte competente.
 
 ###### Participaciones preferentes
@@ -2515,7 +2514,7 @@ El Grupo realiza negocios de seguros, principalmente en España y en Latinoamér
 
 Los productos de ahorro tienen dos modalidades, una de seguros individuales, en los que se busca facilitar al cliente un ahorro finalista, para su jubilación o cualquier otro evento, y otros seguros colectivos que son contratados por empresas para cubrir los compromisos con sus empleados.
 
-La actividad aseguradora genera diferentes riesgos, incluyendo riesgos comunes a los del Grupo como son el riesgo de crédito, de mercado, de liquidez y operacional en los que se utilizan metodologías similares para su medición (ver Nota 7), si bien su gestión es diferenciada debido a las particulares características del negocio asegurador tales como la cobertura de las obligaciones contraídas o el plazo dilatado de los compromisos. Adicionalmente la actividad aseguradora genera riesgos específicos y diferenciales de este negocio, y de carácter probabilístico tales como: 
+La actividad aseguradora genera diferentes riesgos, incluyendo riesgos comunes a los del Grupo como son el riesgo de crédito, de mercado, de liquidez y operacional en los que se utilizan metodologías similares para su medición (ver Nota 7), si bien su gestión es diferenciada debido a las particulares características del negocio asegurador tales como la cobertura de las obligaciones contraídas o el plazo dilatado de los compromisos. Adicionalmente la actividad aseguradora genera riesgos específicos y diferenciales de este negocio, y de carácter probabilístico tales como:
 • Riesgo técnico: emerge ante desviaciones en la estimación de la siniestralidad de los seguros, ya sea en cuanto al número, al importe de dichos siniestros o al momento de su ocurrencia.
 • Riesgo biométrico: dependiente de las desviaciones en el comportamiento esperado de la mortalidad o la supervivencia de los asegurados.
 
@@ -2523,7 +2522,7 @@ El sector asegurador es un sector altamente regulado en cada geografía. En este
 
 Las provisiones más significativas registradas por las entidades aseguradoras consolidadas en lo que se refiere a las pólizas de seguros emitidas por ellas, se registran en el capítulo “Pasivos amparados por contratos de seguro o reaseguro” de los balances consolidados.
 
-El desglose del saldo de este capítulo de los balances consolidados adjuntos es: 
+El desglose del saldo de este capítulo de los balances consolidados adjuntos es:
 
 IMAGE GOES HERE
 
@@ -2557,7 +2556,7 @@ IMAGE IS HERE
 Durante el ejercicio de 2016, la variación del saldo del epígrafe “Otras provisiones” y “Provisiones para riesgos y compromisos contingentes” se debe, fundamentalmente, a la toma de control del Grupo Garanti (tercer trimestre) y a la adquisición del Grupo Catalunya Banc (segundo trimestre).
 
 El movimiento del epígrafe “Provisiones para riesgos y compromisos contingentes” de los balances consolidados adjuntos se presenta en la Nota 7.3.8, conjuntamente con el movimiento de las pérdidas por deterioro de otros instrumentos financieros.
-A continuación se muestra el movimiento que se ha producido durante los ejercicios 2016, 2015 y 2014 en el saldo de los epígrafes de este capítulo: 
+A continuación se muestra el movimiento que se ha producido durante los ejercicios 2016, 2015 y 2014 en el saldo de los epígrafes de este capítulo:
 
 IMAGE IS HERE
 
@@ -2572,7 +2571,7 @@ Diversas entidades del Grupo son parte en procedimientos judiciales en varias ju
 
 Como se describe en la Nota 2.2.12, las entidades del Grupo tienen asumidos compromisos con los empleados que incluyen planes de aportación definida y de prestación definida (ver Glosario), compromisos por gastos médicos con sus empleados, así como otros compromisos post-empleo.
 
-El Grupo financia planes de aportación definida en casi la totalidad de los países donde tiene presencia, siendo los más significativos los planes existentes en España y México. La mayoría de los planes de prestación definida corresponden a personal jubilado, los cuales se encuentran cerrados a nuevas incorporaciones, siendo España, México, Estados Unidos y Turquía los países que concentran la mayor parte de compromisos. El Grupo también mantiene en México compromisos por gastos médicos para un colectivo cerrado de empleados y familiares, tanto para el periodo activo como una vez jubilado. 
+El Grupo financia planes de aportación definida en casi la totalidad de los países donde tiene presencia, siendo los más significativos los planes existentes en España y México. La mayoría de los planes de prestación definida corresponden a personal jubilado, los cuales se encuentran cerrados a nuevas incorporaciones, siendo España, México, Estados Unidos y Turquía los países que concentran la mayor parte de compromisos. El Grupo también mantiene en México compromisos por gastos médicos para un colectivo cerrado de empleados y familiares, tanto para el periodo activo como una vez jubilado.
 
 El desglose de los pasivos registrados en los balances consolidados a 31 de diciembre de 2016, 2015 y 2014, que corresponden únicamente a los compromisos de prestación definida, se muestra a continuación:
 
@@ -2606,7 +2605,7 @@ Además de los compromisos anteriores, el Grupo mantiene otros compromisos de me
 
 Como se describe anteriormente, las entidades del Grupo mantienen compromisos por pensiones y gastos médicos con sus empleados.
 
-##### Retribuciones post-empleo y otras prestaciones a largo plazo 
+##### Retribuciones post-empleo y otras prestaciones a largo plazo
 
 Los compromisos corresponden mayoritariamente a pensiones en pago determinadas en base al salario y a los años de servicio. En la mayor parte de los planes, los pagos se originan por jubilación, fallecimiento e incapacidad laboral del empleado.
 
@@ -2640,7 +2639,7 @@ La Fundación que mantiene los activos y pasivos correspondientes a los empleado
 Adicionalmente Garanti tiene constituido un plan de pensiones de prestación definida para los empleados, complementario a las prestaciones otorgadas por la seguridad social, que se encuentra reflejado en el balance consolidado.
 
 
-##### Compromisos por gastos médicos 
+##### Compromisos por gastos médicos
 El movimiento de los compromisos médicos para los ejercicios 2016, 2015 y 2014 se detalla a continuación:
 
 IMAGE GOES HERE
@@ -2682,7 +2681,7 @@ IMAGE GOES HERE
 El resto de activos se encuentran invertidos principalmente en activos de Nivel 2 de acuerdo a la clasificación establecida en NIIF 13 (básicamente pólizas de seguros). A 31 de diciembre de 2016, casi la totalidad de los activos afectos a los compromisos con empleados correspondían a valores de renta fija.
 
 
-### 25.2 Planes de aportación definida 
+### 25.2 Planes de aportación definida
 
 Algunas sociedades del Grupo cuentan con planes de aportación definida, permitiendo en algunos casos que los empleados realicen aportaciones que posteriormente complementa la sociedad.
 
@@ -2724,7 +2723,7 @@ Asimismo, el Consejo de Administración de BBVA, en su reunión de 30 de septiem
 
 La Junta General Ordinaria de Accionistas del Banco celebrada el 16 de marzo de 2012 acordó, en el punto tercero del orden del día, delegar en el Consejo de Administración la facultad de aumentar el capital social, mediante aportaciones dinerarias, de acuerdo con lo previsto en el artículo 297.1.b) de la Ley de Sociedades de Capital, en una o varias veces, dentro del plazo legal de cinco años desde la fecha de adopción del acuerdo, hasta un importe nominal máximo del 50% del capital social suscrito y desembolsado en la fecha de adopción del acuerdo. Asimismo, se acordó facultar al Consejo de Administración para poder excluir el derecho de suscripción preferente en dichos aumentos de capital, de acuerdo con los términos del artículo 506 de la Ley de Sociedades de Capital, quedando esta facultad limitada a la cantidad correspondiente al 20% del capital social del Banco en la fecha de adopción del acuerdo.
 
-En su reunión celebrada el 19 de noviembre de 2014, el Consejo de Administración de BBVA, en uso de la delegación otorgada por la Junta General de Accionistas de 16 de marzo de 2012, en el punto tercero de su orden del día, acordó llevar a cabo un aumento de capital con exclusión del derecho de suscripción preferente y con cargo a aportaciones dinerarias, mediante un procedimiento de colocación privada acelerada denominado "Accelerated Bookbuilt Offering". 
+En su reunión celebrada el 19 de noviembre de 2014, el Consejo de Administración de BBVA, en uso de la delegación otorgada por la Junta General de Accionistas de 16 de marzo de 2012, en el punto tercero de su orden del día, acordó llevar a cabo un aumento de capital con exclusión del derecho de suscripción preferente y con cargo a aportaciones dinerarias, mediante un procedimiento de colocación privada acelerada denominado "Accelerated Bookbuilt Offering".
 
 El 20 de noviembre de 2014 se ejecutó efectivamente el aumento de capital, por un importe nominal total de 118.787.879,56 euros, mediante la emisión de 242.424.244 acciones ordinarias de BBVA, de 0,49 euros de valor nominal cada una de ellas, de la misma clase y serie que las actualmente en circulación. El tipo de emisión de estas nuevas acciones se fijó en la cantidad de 8,25 euros por acción (correspondiendo 0,49 euros al valor nominal y 7,76 euros a la prima de emisión). En consecuencia, el importe efectivo total del aumento de Capital ascendió a 2.000.000.013 euros, correspondiendo 118.787.879,56 euros al importe nominal y 1.881.212.133,44 euros a la prima de emisión (ver Nota 28).
 
@@ -2850,7 +2849,7 @@ Asimismo, el supervisor ha comunicado a BBVA que está incluida en el listado de
 A continuación se muestran, los recursos propios del Grupo, calculados con el perímetro de sociedades de acuerdo con las normativas aplicables en cada una de las fechas presentadas, 31 de diciembre de 2016, 2015 y 2014, aunque para esta última se ha adaptado la nomenclatura de las líneas del cuadro a la nomenclatura aplicable a 31 de diciembre de 2016 para facilitar la comparación:
 
 IMAGE GOES HERE
- 
+
 (*)   Datos provisionales para diciembre 2016.
 
 Las variaciones en el importe del capital de nivel 1 ordinario (CET 1) del cuadro anterior se explican principalmente por la generación orgánica de capital en el semestre apoyado en la recurrencia de los resultados y en una eficiente gestión y asignación de capital en línea con los objetivos estratégicos del Grupo.
@@ -2953,7 +2952,7 @@ En los ejercicios de 2016, 2015 y 2014, el coste medio de las financiaciones fue
 
 IMAGE GOES HERE
 
-La variación experimentada en el saldo de los capítulos “Ingresos por intereses” e “Gastos por intereses” de las cuentas de pérdidas y ganancias consolidadas adjuntas viene determinada, además del efecto del tipo de cambio que está implícito, por la variación en los precios (efecto precio) y la variación en el volumen de actividad (efecto volumen), como se desglosa a continuación: 
+La variación experimentada en el saldo de los capítulos “Ingresos por intereses” e “Gastos por intereses” de las cuentas de pérdidas y ganancias consolidadas adjuntas viene determinada, además del efecto del tipo de cambio que está implícito, por la variación en los precios (efecto precio) y la variación en el volumen de actividad (efecto volumen), como se desglosa a continuación:
 
 IMAGE GOES HERE
 
@@ -3047,8 +3046,8 @@ Esta política retributiva fue aprobada para los consejeros de BBVA por la Junta
 Las reglas específicas de liquidación y pago de la Retribución Variable Anual de los consejeros ejecutivos y miembros de la Alta Dirección se describen en la Nota 54, y por lo que se refiere al resto del Colectivo Identificado, se aplican las siguientes:
 
 • La Retribución Variable Anual de los miembros del Colectivo Identificado se abonará por partes iguales en efectivo y en acciones de BBVA.
-• El pago del 40% de la Retribución Variable Anual, - 50% en el caso de los consejeros ejecutivos y miembros de la Alta Dirección- tanto en efectivo como en acciones, se diferirá en su totalidad por un periodo de tres años, sometiéndose su devengo y pago al cumplimiento de una serie de indicadores plurianuales relacionados con la evolución de la acción y las métricas fundamentales de control y gestión de los riesgos del Grupo, referidas a su solvencia, liquidez y rentabilidad, que serán calculados a lo largo del periodo de diferimiento (en adelante “Indicadores de Evaluación Plurianual”). Estos Indicadores de Evaluación Plurianual podrán dar lugar a una reducción de la cantidad diferida, pudiendo ésta incluso llegar a ser cero, pero no servirán en ningún supuesto para incrementar dicha retribución diferida. 
-• Todas las acciones entregadas conforme a las reglas señaladas serán indisponibles durante un periodo de tiempo determinado desde su entrega, aplicándose esta retención sobre el importe neto de las acciones, una vez descontada la parte necesaria para hacer frente al pago de los impuestos por las acciones recibidas. 
+• El pago del 40% de la Retribución Variable Anual, - 50% en el caso de los consejeros ejecutivos y miembros de la Alta Dirección- tanto en efectivo como en acciones, se diferirá en su totalidad por un periodo de tres años, sometiéndose su devengo y pago al cumplimiento de una serie de indicadores plurianuales relacionados con la evolución de la acción y las métricas fundamentales de control y gestión de los riesgos del Grupo, referidas a su solvencia, liquidez y rentabilidad, que serán calculados a lo largo del periodo de diferimiento (en adelante “Indicadores de Evaluación Plurianual”). Estos Indicadores de Evaluación Plurianual podrán dar lugar a una reducción de la cantidad diferida, pudiendo ésta incluso llegar a ser cero, pero no servirán en ningún supuesto para incrementar dicha retribución diferida.
+• Todas las acciones entregadas conforme a las reglas señaladas serán indisponibles durante un periodo de tiempo determinado desde su entrega, aplicándose esta retención sobre el importe neto de las acciones, una vez descontada la parte necesaria para hacer frente al pago de los impuestos por las acciones recibidas.
 • Se establece además la prohibición de realizar coberturas tanto por las acciones entregadas indisponibles como por las acciones pendientes de recibirse.
 • Además, se han establecido supuestos que podrán limitar o llegar a impedir, en determinados casos, el abono de la Retribución Variable Anual (cláusulas “malus”) así como la actualización de las partes diferidas.
 • Por último, el componente variable de la remuneración correspondiente a un ejercicio de las personas del Colectivo Identificado quedará limitado a un importe máximo del 100% del componente fijo de la remuneración total, salvo para aquellos casos en los que la Junta General acuerde elevar este límite que, en todo caso, no podrá superar el 200% del componente fijo de la remuneración total.
@@ -3057,7 +3056,7 @@ A estos efectos, la Junta General de Accionistas celebrada el 14 de marzo de 201
 
 De acuerdo al esquema de liquidación y pago explicado anteriormente, durante el primer semestre de 2016 se han entregado al Colectivo Identificado 5.187.750 acciones correspondientes al pago inicial de la parte en acciones de la Retribución Variable Anual del ejercicio 2015.
 
-Asimismo, la política retributiva vigente hasta el año 2014, contaba con un sistema específico de liquidación y pago de la retribución variable para el Colectivo Identificado que establecía el diferimiento por tres años de un porcentaje de la Retribución Variable Anual, abonándose la cantidad diferida por tercios a lo largo de ese periodo. 
+Asimismo, la política retributiva vigente hasta el año 2014, contaba con un sistema específico de liquidación y pago de la retribución variable para el Colectivo Identificado que establecía el diferimiento por tres años de un porcentaje de la Retribución Variable Anual, abonándose la cantidad diferida por tercios a lo largo de ese periodo.
 
 Conforme a este esquema previo, durante el primer semestre de 2016, se han entregado a los beneficiarios miembros del Colectivo Identificado las acciones correspondientes a las partes diferidas de la Retribución Variable Anual en acciones de ejercicios anteriores, y sus correspondientes actualizaciones en efectivo, dando lugar en el primer semestre de 2016 a la entrega de un total de 945.053 acciones correspondientes al primer tercio diferido de la Retribución Variable Anual 2014, y 349.670 euros en concepto de actualización de las acciones entregadas; un total de 438.082 acciones correspondientes al segundo tercio diferido de la Retribución Variable Anual 2013, y 340.828 euros en concepto de actualización; y un total de 502.622 acciones correspondientes al último tercio de la Retribución Variable Anual 2012, y 551.879 euros en concepto de actualización.
 
@@ -3065,7 +3064,7 @@ Igualmente, durante el primer semestre de 2016 se han entregado a los beneficiar
 
 Una vez finalizado el plazo de duración del Plan de Incentivación en Acciones a Largo Plazo 2010-2012 de BBVA Compass, el 31 de diciembre de 2012, dirigido a su Equipo Directivo, se procedió a su liquidación en aplicación de las condiciones establecidas a su inicio.
 
-Para aquellos beneficiarios de este programa miembros del Colectivo Identificado, se acordó aplicar las mismas reglas del sistema de liquidación y pago señaladas anteriormente, con arreglo a la política retributiva anterior a 2015, que establecía el pago de la parte diferida por tercios durante el periodo de diferimiento. 
+Para aquellos beneficiarios de este programa miembros del Colectivo Identificado, se acordó aplicar las mismas reglas del sistema de liquidación y pago señaladas anteriormente, con arreglo a la política retributiva anterior a 2015, que establecía el pago de la parte diferida por tercios durante el periodo de diferimiento.
 
 Así, durante el primer semestre del ejercicio de 2016 se han entregado a los beneficiarios miembros del Colectivo Identificado en BBVA Compass 6.314 acciones, correspondientes al último tercio de la parte diferida de las acciones resultantes de la liquidación del Plan de Incentivación en Acciones a Largo Plazo 2010-2012, y 6.933 euros en concepto de actualización de las acciones entregadas.
 
@@ -3121,7 +3120,7 @@ Los principales conceptos incluidos en el saldo de este capítulo de las cuentas
 IMAGE GOES HERE
 
 
-## 51. Estados consolidados de flujos de efectivo 
+## 51. Estados consolidados de flujos de efectivo
 
 Los flujos de efectivo con origen en las actividades de explotación disminuyeron en el ejercicio 2016 en 0000 millones de euros (0000 y 0000 millones de euros de incremento en 2016 y 2015), debido fundamentalmente a la variación de “Préstamos y partidas a cobrar” y “Activos financieros mantenidos para negociar”.
 
@@ -3145,13 +3144,13 @@ Los servicios contratados con los auditores cumplen con los requisitos de indepe
 
 ## 53. Operaciones con partes vinculadas
 
-BBVA y otras sociedades del Grupo, en su condición de entidades financieras, mantienen operaciones con sus partes vinculadas dentro del curso ordinario de sus negocios. Todas estas operaciones son de escasa relevancia y se realizan en condiciones normales de mercado. En los ejercicios de 2016, 2015 y 2014, se han identificado operaciones con las siguientes partes vinculadas: 
+BBVA y otras sociedades del Grupo, en su condición de entidades financieras, mantienen operaciones con sus partes vinculadas dentro del curso ordinario de sus negocios. Todas estas operaciones son de escasa relevancia y se realizan en condiciones normales de mercado. En los ejercicios de 2016, 2015 y 2014, se han identificado operaciones con las siguientes partes vinculadas:
 
 ### 53.1  Operaciones con accionistas significativos
 
 A 31 de diciembre de 2016, no existían accionistas considerados como significativos (ver Nota 26).
 
-### 53.2 Operaciones con entidades del Grupo BBVA 
+### 53.2 Operaciones con entidades del Grupo BBVA
 
 Los saldos de las principales magnitudes de los balances consolidados adjuntos originados por las transacciones efectuadas por el Grupo BBVA con las entidades asociadas y negocios conjuntos, son los siguientes:
 
@@ -3172,7 +3171,7 @@ La información sobre retribuciones a los miembros del Consejo de Administració
 
 A 31 de diciembre de 2016, 2015 y 2014 el importe dispuesto de los créditos concedidos por entidades del Grupo a los miembros del Consejo de Administración del Banco ascendía a 0000, 200 y 235 miles de euros respectivamente. El importe dispuesto de los créditos concedidos por entidades del Grupo a los miembros de la Alta Dirección en esas mismas fechas (excluidos los consejeros ejecutivos), ascendía a 0000, 6.641 y 4.614 miles de euros, respectivamente.
 
-A 31 de diciembre de 2016 no se habían concedido créditos a partes vinculadas con los miembros del Consejo de Administración. A 31 de diciembre de 2015 el importe dispuesto de los créditos concedidos a partes vinculadas con los miembros del Consejo de Administración del Banco ascendía a 10.000  miles de euros y a 31 de diciembre de 2014 no se habían concedido créditos a partes vinculadas con los miembros del Consejo de Administración. A 31 de diciembre de 2016, 2015 y 2014, el importe dispuesto de los créditos concedidos a partes vinculadas con los miembros de la Alta Dirección ascendía a 0000, 113 y 291 miles de euros, respectivamente. 
+A 31 de diciembre de 2016 no se habían concedido créditos a partes vinculadas con los miembros del Consejo de Administración. A 31 de diciembre de 2015 el importe dispuesto de los créditos concedidos a partes vinculadas con los miembros del Consejo de Administración del Banco ascendía a 10.000  miles de euros y a 31 de diciembre de 2014 no se habían concedido créditos a partes vinculadas con los miembros del Consejo de Administración. A 31 de diciembre de 2016, 2015 y 2014, el importe dispuesto de los créditos concedidos a partes vinculadas con los miembros de la Alta Dirección ascendía a 0000, 113 y 291 miles de euros, respectivamente.
 
 A 31 de diciembre de 2016, 2015 y 2014, no se habían otorgado avales a ningún miembro del Consejo de Administración.
 
@@ -3183,7 +3182,7 @@ A 31 de diciembre de 2016, 2015 y 2014, el importe dispuesto por operaciones de 
 
 ### 53.4  Operaciones con otras partes vinculadas
 
-Durante los ejercicios 2016, 2015 y 2014, el Grupo no ha realizado operaciones con otras partes vinculadas que no pertenezcan al giro o tráfico ordinario de su actividad, que no se efectúen en condiciones normales de mercado y que no sean de escasa relevancia; entendiendo por tales aquellas cuya información no sea necesaria para expresar la imagen fiel del patrimonio, de la situación financiera y de los resultados, consolidados, del Grupo BBVA. 
+Durante los ejercicios 2016, 2015 y 2014, el Grupo no ha realizado operaciones con otras partes vinculadas que no pertenezcan al giro o tráfico ordinario de su actividad, que no se efectúen en condiciones normales de mercado y que no sean de escasa relevancia; entendiendo por tales aquellas cuya información no sea necesaria para expresar la imagen fiel del patrimonio, de la situación financiera y de los resultados, consolidados, del Grupo BBVA.
 
 
 ## 54. Retribuciones y otras prestaciones al Consejo de Administración y a los miembros de la Alta Dirección del Banco
@@ -3208,7 +3207,7 @@ Así, durante el ejercicio 2016 los consejeros ejecutivos han percibido el impor
 • El 50% de la Retribución Variable Anual, tanto en efectivo como en acciones, se diferirá en su totalidad por un periodo de tres años, sometiéndose su devengo y pago al cumplimiento de una serie de indicadores plurianuales.
 • Todas las acciones entregadas conforme a las reglas señaladas serán indisponibles durante un periodo de tiempo determinado desde su entrega, aplicándose esta retención sobre el importe neto de las acciones, una vez descontada la parte necesaria para hacer frente al pago de los impuestos por las acciones recibidas.
 • Se establece además la prohibición de realizar coberturas, tanto por las acciones entregadas indisponibles como por las acciones pendientes de recibirse.
-• Además, se establecen supuestos que podrán limitar o llegar a impedir, en determinados casos, el abono de la Retribución Variable Anual (cláusulas “malus”). 
+• Además, se establecen supuestos que podrán limitar o llegar a impedir, en determinados casos, el abono de la Retribución Variable Anual (cláusulas “malus”).
 • Las partes de la Retribución Variable Anual diferidas serán objeto de actualización en los términos establecidos por el Consejo de Administración.
 
 Igualmente, en aplicación del sistema de liquidación y pago de la Retribución Variable Anual de los ejercicios 2014, 2013 y 2012 conforme a la política aplicable en esos ejercicios, los consejeros ejecutivos han percibido las partes diferidas de la Retribución Variable Anual de dichos ejercicios, cuya entrega correspondía durante el primer trimestre del ejercicio 2016.
@@ -3219,7 +3218,7 @@ IMAGE GOES HERE
 
 Los consejeros ejecutivos percibirán, durante el primer trimestre de los dos próximos ejercicios, las cantidades que, en cada caso, les correspondan derivadas de la liquidación de la Retribución Variable Anual diferida de ejercicios anteriores (2014 y 2013), y sujeto a las condiciones establecidas en el sistema de liquidación y pago aplicable.
 
-Asimismo, los consejeros ejecutivos han percibido durante el ejercicio 2016 retribuciones en especie, que incluyen primas por seguros y otras, por un importe total conjunto de 0000 miles de euros, de los cuales 0000 miles de euros corresponden al Presidente; 0000 miles de euros al Consejero Delegado; y 0000 miles de euros al consejero ejecutivo Director de GERPA. 
+Asimismo, los consejeros ejecutivos han percibido durante el ejercicio 2016 retribuciones en especie, que incluyen primas por seguros y otras, por un importe total conjunto de 0000 miles de euros, de los cuales 0000 miles de euros corresponden al Presidente; 0000 miles de euros al Consejero Delegado; y 0000 miles de euros al consejero ejecutivo Director de GERPA.
 
 
 ##### Retribución de los miembros de la Alta Dirección percibida en 2016
@@ -3230,7 +3229,7 @@ IMAGE GOES HERE
 
 El conjunto de los miembros de la Alta Dirección percibirá, durante el primer trimestre de los dos próximos ejercicios, conforme al sistema de liquidación y pago de la retribución variable que resulta de aplicación a cada uno de ellos, las cantidades que, en su caso, les correspondan derivadas de la liquidación de la Retribución Variable Anual diferida de ejercicios anteriores (2014 y 2013), y sujeto a las condiciones establecidas en dicho sistema.
 
-Además, el conjunto de los miembros de la Alta Dirección, excluidos los consejeros ejecutivos, han percibido durante el ejercicio 2016 retribuciones en especie, que incluyen primas por seguros y otras, por importe total conjunto de 0000 miles de euros. 
+Además, el conjunto de los miembros de la Alta Dirección, excluidos los consejeros ejecutivos, han percibido durante el ejercicio 2016 retribuciones en especie, que incluyen primas por seguros y otras, por importe total conjunto de 0000 miles de euros.
 
 
 ##### Sistema de retribución en acciones con entrega diferida para consejeros no ejecutivos

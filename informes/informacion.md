@@ -7,7 +7,6 @@ order: 4
 permalink: informe-de-gestion/informacion/
 ---
 
-{% include subir.html %}
 
 # Información del grupo
 

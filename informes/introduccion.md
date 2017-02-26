@@ -7,7 +7,6 @@ order: 0
 permalink: informe-de-gestion/introduccion/
 ---
 
-{% include subir.html %}
 
 # Introduccion informe de gestion
 

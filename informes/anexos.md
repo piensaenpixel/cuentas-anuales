@@ -7,7 +7,6 @@ order: 1
 permalink: informe-de-gestion/anexos/
 ---
 
-{% include subir.html %}
 
 # Anexo
 

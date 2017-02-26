@@ -7,7 +7,6 @@ order: 2
 permalink: informe-de-gestion/areas-de-negocio/
 ---
 
-{% include subir.html %}
 
 # Áreas de negocio
 

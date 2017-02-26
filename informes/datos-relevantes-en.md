@@ -7,7 +7,6 @@ order: 3
 permalink: informe-de-gestion/datos-relevantes/
 ---
 
-{% include subir.html %}
 
 ## Datos relevantes del Grupo BBVA
 (cifras consolidadas)
