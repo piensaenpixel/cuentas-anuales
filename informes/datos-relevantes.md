@@ -3,6 +3,7 @@ layout: default
 title: Datos relevantes
 lang: es
 submenu: gestion
+order: 3
 permalink: informe-de-gestion/datos-relevantes/
 ---
 

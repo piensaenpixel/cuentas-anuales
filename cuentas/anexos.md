@@ -3,7 +3,7 @@ layout: default
 title: Anexos
 lang: es
 submenu: cuentas
-permalink: cuentas/anexoss/
+permalink: cuentas/anexos/
 ---
 
 {% include subir.html %}

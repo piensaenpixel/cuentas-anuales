@@ -3,6 +3,7 @@ layout: default
 title: Introduccion informe de gestion
 lang: es
 submenu: gestion
+order: 0
 permalink: informe-de-gestion/introduccion/
 ---
 
@@ -100,7 +101,7 @@ En es􏰅t􏰽e sentido, a lo largo de 2016 se han identificado las 􏰅palan�
 
 BBVA tiene como prioridad atraer, desarrollar, motivar y retener al mejor equipo, proporcionar la mejor experiencia de empleado y evolucionar la cultura corporativa para alinearla con el proceso de transformación del Grupo y con su Propósito.
 
-Para conseguir nuestros objetivos, entre otros aspectos, estamos transformando la Organización implantando nuevas formas de trabajo (organización basada en proyectos, comunidades de expertise, metodología agile, herramientas colaborativas, etc.) e impulsando una nueva cultura de colaboración y emprendimiento, con estructuras más planas. 
+Para conseguir nuestros objetivos, entre otros aspectos, estamos transformando la Organización implantando nuevas formas de trabajo (organización basada en proyectos, comunidades de expertise, metodología agile, herramientas colaborativas, etc.) e impulsando una nueva cultura de colaboración y emprendimiento, con estructuras más planas.
 
 También hemos puesto en marcha un nuevo modelo de compensación variable, alineado con los objetivos estratégicos de BBVA. Dichas iniciativas contribuirán a lograr que BBVA sea el mejor lugar para trabajar.
 

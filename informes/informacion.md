@@ -3,6 +3,7 @@ layout: default
 title: Información
 lang: es
 submenu: gestion
+order: 4
 permalink: informe-de-gestion/informacion/
 ---
 
@@ -1776,9 +1777,9 @@ IMAGE GOES HERE
 
 (1) Datos provisionales.
 
-• Los fondos de cobertura muestran un retroceso del 4,7% con respecto al dato de finales de septiembre (–14,6% en términos interanuales), muy influido por el descenso registrado en Turquía (impacto del tipo de cambio) y España.  
-• Con ello, la tasa de cobertura del Grupo se sitúa en el 70%.  
-• Por último, el coste de riesgo acumulado a diciembre vuelve a disminuir hasta el 0,84% (0,92% en el acumulado al tercer trimestre de 2016 y 1,06% en 2015). 
+• Los fondos de cobertura muestran un retroceso del 4,7% con respecto al dato de finales de septiembre (–14,6% en términos interanuales), muy influido por el descenso registrado en Turquía (impacto del tipo de cambio) y España. 
+• Con ello, la tasa de cobertura del Grupo se sitúa en el 70%. 
+• Por último, el coste de riesgo acumulado a diciembre vuelve a disminuir hasta el 0,84% (0,92% en el acumulado al tercer trimestre de 2016 y 1,06% en 2015).
 
 ### Riesgos estructurales
 
@@ -1786,18 +1787,18 @@ IMAGE GOES HERE
 
  La gestión de la liquidez y financiación promueve la financiación del crecimiento recurrente del negocio bancario en condiciones adecuadas de plazo y coste, a través de una amplia gama de instrumentos que permiten acceder a un gran número de fuentes de financiación alternativa, adecuándose en todo momento a las exigencias regulatorias actuales.
 
-Un principio básico de BBVA en la gestión de la liquidez y financiación del Grupo es la autosuficiencia financiera de sus filiales bancarias en el extranjero. Este principio evita la propagación de una crisis de liquidez entre las distintas áreas y garantiza la adecuada transmisión del coste de liquidez al proceso de formación de precios.  Durante el ejercicio 2016, las condiciones de liquidez y financiación se han mantenido holgadas en todas las geografías donde opera el Grupo BBVA. 
-• La solidez financiera de los bancos del Grupo se apoya en la financiación de la actividad crediticia, fundamentalmente, a través de recursos de clientes.  
-• En España y Estados Unidos, la evolución total de los depósitos ha mostrado una tendencia positiva aun a pesar del entorno actual de tipos, tanto a lo largo del año como en el último trimestre. Igualmente, México, América del Sur y Turquía también han presentado una trayectoria favorable.  
-• El Banco Central Europeo (BCE) ha adoptado una serie de medidas a lo largo del año, entre las que destacan: el recorte de los tipos de interés efectuado en marzo, la extensión del plazo del programa de compra de activos anunciada en diciembre, así como las cuatro nuevas rondas de inyección de liquidez mediante targeted longer-term refinancing operations (TLTROs, por sus siglas en inglés) a un plazo de cuatro años. Dentro de este programa, BBVA participó en la subasta efectuada en junio, incrementando su posición tomadora neta en unos 10.000 millones de euros.  
-• En México, la posición de liquidez continúa siendo sólida, pese a la volatilidad del mercado tras las elecciones americanas. La dependencia de financiación mayorista es relativamente baja, estando ligada básicamente a las carteras de títulos. Las buenas dinámicas de los recursos de clientes han permitido una baja  
-apelación a mercados mayoristas, que se ha satisfecho en el mercado local. 
-• En Estados Unidos, el descenso del gap de crédito en el año ha permitido cancelar una emisión y reducir la financiación mayorista, manteniéndose durante 2016 una situación de liquidez confortable. 
-• En Turquía, a pesar de las tensiones geopolíticas y de la revisión a la baja de la calificación crediticia de Moody’s, el entorno doméstico ha permanecido estable, sin presiones sobre las fuentes de financiación, apoyado por las medidas adoptadas por el Banco Central de Turquía (CBRT, por sus siglas en inglés). 
-• En el resto de franquicias, la situación de liquidez y financiación tanto en moneda local como en dólares ha permanecido, del mismo modo, estable. 
-• A lo largo del año, BBVA S.A. ha acudido a los mercados mayoristas por un importe total de 6.350 millones de euros, utilizando una gama diversificada de instrumentos de deuda, entre los que se incluye deuda senior, cédulas hipotecarias, Additional Tier 1 (AT1) y titulizaciones. En particular, durante el último trimestre del año, ha conseguido captar la atención de los inversores más importantes, con una exitosa emisión de cédulas hipotecarias de 1.000 millones de euros. 
-• Los mercados de financiación mayorista a largo plazo en el resto de geografías donde opera el Grupo han mostrado estabilidad, sin que se hayan realizado emisiones internacionales. Destaca Turquía, donde el acceso a financiación estable se ha manifestado a través del incremento de la financiación mayorista a largo plazo (+400 millones de euros), la renovación del importe total de préstamos sindicados (2.400 millones de euros) y las emisiones en divisa extranjera (610 millones de euros) que vencían en 2016. 
-• La financiación a corto plazo también ha continuado teniendo un favorable comportamiento, en un entorno de elevada liquidez. 
+Un principio básico de BBVA en la gestión de la liquidez y financiación del Grupo es la autosuficiencia financiera de sus filiales bancarias en el extranjero. Este principio evita la propagación de una crisis de liquidez entre las distintas áreas y garantiza la adecuada transmisión del coste de liquidez al proceso de formación de precios. Durante el ejercicio 2016, las condiciones de liquidez y financiación se han mantenido holgadas en todas las geografías donde opera el Grupo BBVA.
+• La solidez financiera de los bancos del Grupo se apoya en la financiación de la actividad crediticia, fundamentalmente, a través de recursos de clientes. 
+• En España y Estados Unidos, la evolución total de los depósitos ha mostrado una tendencia positiva aun a pesar del entorno actual de tipos, tanto a lo largo del año como en el último trimestre. Igualmente, México, América del Sur y Turquía también han presentado una trayectoria favorable. 
+• El Banco Central Europeo (BCE) ha adoptado una serie de medidas a lo largo del año, entre las que destacan: el recorte de los tipos de interés efectuado en marzo, la extensión del plazo del programa de compra de activos anunciada en diciembre, así como las cuatro nuevas rondas de inyección de liquidez mediante targeted longer-term refinancing operations (TLTROs, por sus siglas en inglés) a un plazo de cuatro años. Dentro de este programa, BBVA participó en la subasta efectuada en junio, incrementando su posición tomadora neta en unos 10.000 millones de euros. 
+• En México, la posición de liquidez continúa siendo sólida, pese a la volatilidad del mercado tras las elecciones americanas. La dependencia de financiación mayorista es relativamente baja, estando ligada básicamente a las carteras de títulos. Las buenas dinámicas de los recursos de clientes han permitido una baja 
+apelación a mercados mayoristas, que se ha satisfecho en el mercado local.
+• En Estados Unidos, el descenso del gap de crédito en el año ha permitido cancelar una emisión y reducir la financiación mayorista, manteniéndose durante 2016 una situación de liquidez confortable.
+• En Turquía, a pesar de las tensiones geopolíticas y de la revisión a la baja de la calificación crediticia de Moody’s, el entorno doméstico ha permanecido estable, sin presiones sobre las fuentes de financiación, apoyado por las medidas adoptadas por el Banco Central de Turquía (CBRT, por sus siglas en inglés).
+• En el resto de franquicias, la situación de liquidez y financiación tanto en moneda local como en dólares ha permanecido, del mismo modo, estable.
+• A lo largo del año, BBVA S.A. ha acudido a los mercados mayoristas por un importe total de 6.350 millones de euros, utilizando una gama diversificada de instrumentos de deuda, entre los que se incluye deuda senior, cédulas hipotecarias, Additional Tier 1 (AT1) y titulizaciones. En particular, durante el último trimestre del año, ha conseguido captar la atención de los inversores más importantes, con una exitosa emisión de cédulas hipotecarias de 1.000 millones de euros.
+• Los mercados de financiación mayorista a largo plazo en el resto de geografías donde opera el Grupo han mostrado estabilidad, sin que se hayan realizado emisiones internacionales. Destaca Turquía, donde el acceso a financiación estable se ha manifestado a través del incremento de la financiación mayorista a largo plazo (+400 millones de euros), la renovación del importe total de préstamos sindicados (2.400 millones de euros) y las emisiones en divisa extranjera (610 millones de euros) que vencían en 2016.
+• La financiación a corto plazo también ha continuado teniendo un favorable comportamiento, en un entorno de elevada liquidez.
 • En relación con el ratio regulatorio de liquidez LCR, BBVA conserva niveles por encima del 100%, claramente superiores a las exigencias regulatorias (mayor al 70% en 2016), en el Grupo y en todas sus filiales bancarias.
 
 #### Tipo de cambio
@@ -1810,11 +1811,11 @@ En este contexto, BBVA ha mantenido su política activa de cobertura de las prin
 
 #### Tipos de interés
 
-El objetivo de la gestión del riesgo de tipo de interés es mantener un crecimiento sostenido del margen de intereses a corto y medio plazo, con independencia del movimiento de los tipos de interés, controlando los impactos en el ratio de capital por la valoración de la cartera de activos disponibles para la venta. 
+El objetivo de la gestión del riesgo de tipo de interés es mantener un crecimiento sostenido del margen de intereses a corto y medio plazo, con independencia del movimiento de los tipos de interés, controlando los impactos en el ratio de capital por la valoración de la cartera de activos disponibles para la venta.
 
-Durante 2016, los resultados de esta gestión han sido satisfactorios, habiéndose mantenido estrategias de riesgo limitado en todos los bancos del Grupo orientadas a la mejora de la rentabilidad. El importe de los ROF generados en Europa y Estados Unidos corresponde a estrategias prudentes de gestión de cartera, especialmente de deuda soberana, en un entorno de bajos tipos de interés. En México, Turquía y América del Sur también se mantienen carteras, principalmente de deuda soberana, para la gestión de la estructura de balance. 
+Durante 2016, los resultados de esta gestión han sido satisfactorios, habiéndose mantenido estrategias de riesgo limitado en todos los bancos del Grupo orientadas a la mejora de la rentabilidad. El importe de los ROF generados en Europa y Estados Unidos corresponde a estrategias prudentes de gestión de cartera, especialmente de deuda soberana, en un entorno de bajos tipos de interés. En México, Turquía y América del Sur también se mantienen carteras, principalmente de deuda soberana, para la gestión de la estructura de balance.
 
-Finalmente, las incertidumbres políticas generadas por el “Brexit” y las elecciones norteamericanas han tenido un impacto reducido en los mercados de deuda, sin que se hayan observado grandes incrementos ni en los diferenciales de deuda soberana ni en los de BBVA, por lo que su efecto ha sido limitado en ROF y en valoración de las carteras COAP. En México, el Banco Central (Baxico) ha tratado de contener la inflación y proteger el peso mediante cinco subidas de tipos de interés a lo largo de 2016, por un total de 250 puntos básicos, situando el nivel de política monetaria en el 5,75%, nivel máximo desde 2009. Por su parte, en Turquía, los 
+Finalmente, las incertidumbres políticas generadas por el “Brexit” y las elecciones norteamericanas han tenido un impacto reducido en los mercados de deuda, sin que se hayan observado grandes incrementos ni en los diferenciales de deuda soberana ni en los de BBVA, por lo que su efecto ha sido limitado en ROF y en valoración de las carteras COAP. En México, el Banco Central (Baxico) ha tratado de contener la inflación y proteger el peso mediante cinco subidas de tipos de interés a lo largo de 2016, por un total de 250 puntos básicos, situando el nivel de política monetaria en el 5,75%, nivel máximo desde 2009. Por su parte, en Turquía, los
 mercados han mostrado resistencia pese a la volatilidad registrada, fundamentalmente por factores geopolíticos, por lo que el año ha cerrado con una prima de riesgo en línea con la de finales de 2015. El CBRT, que había venido bajando los tipos durante los tres primeros trimestres de 2016, los ha subido en noviembre, debido a la relativa ralentización del crecimiento y la debilidad de la lira turca.
 
 ### Capital económico
@@ -1906,14 +1907,14 @@ IMAGE GOES HERE
 
 (1) Calculada a partir de la remuneración al accionista de los últimos doce meses naturales dividida entre el precio de cierre del período.
 
-En cuanto a la remuneración al accionista, se ha realizado el pago de dos dividendos en efectivo por un importe bruto de 8 céntimos de euro por acción cada uno. Estos pagos se hicieron efectivos el 11 de julio de 2016 y el 12 de enero de 2017. Además, el Consejo de Administración de BBVA decidió, en sus reuniones de 31 de marzo y 28 de septiembre de 2016, llevar a cabo, de conformidad con los términos acordados en la Junta General Ordinaria de Accionistas de 11 de marzo de 2016, dos aumentos de capital con cargo a reservas voluntarias para el desarrollo del “dividendo-opción”. En el primero de ellos, los titulares del 82,13% de los derechos optaron por recibir acciones nuevas, mientras que en el segundo, los titulares del 87,85% decidieron recibir nuevas acciones. Estos porcentajes confirman, una vez más, la buena acogida de este sistema de retribución entre los accionistas de BBVA. 
+En cuanto a la remuneración al accionista, se ha realizado el pago de dos dividendos en efectivo por un importe bruto de 8 céntimos de euro por acción cada uno. Estos pagos se hicieron efectivos el 11 de julio de 2016 y el 12 de enero de 2017. Además, el Consejo de Administración de BBVA decidió, en sus reuniones de 31 de marzo y 28 de septiembre de 2016, llevar a cabo, de conformidad con los términos acordados en la Junta General Ordinaria de Accionistas de 11 de marzo de 2016, dos aumentos de capital con cargo a reservas voluntarias para el desarrollo del “dividendo-opción”. En el primero de ellos, los titulares del 82,13% de los derechos optaron por recibir acciones nuevas, mientras que en el segundo, los titulares del 87,85% decidieron recibir nuevas acciones. Estos porcentajes confirman, una vez más, la buena acogida de este sistema de retribución entre los accionistas de BBVA.
 
 #### Remuneración al accionista
 (Euros brutos/acción)
 
 IMAGE GOES HERE
 
-El número de acciones de BBVA a 31-12-2016 es de 6.566.615.242. Por su parte, el número de accionistas alcanza los 935.284. Por tipo de inversor, el 45,4% del capital pertenece a inversores residentes en España y el 54,6% restante está en manos de accionistas no residentes. 
+El número de acciones de BBVA a 31-12-2016 es de 6.566.615.242. Por su parte, el número de accionistas alcanza los 935.284. Por tipo de inversor, el 45,4% del capital pertenece a inversores residentes en España y el 54,6% restante está en manos de accionistas no residentes.
 
 #### Distribución estructural del accionariado
 (31-12-2016)
@@ -2031,14 +2032,14 @@ Por último, en materia de vivienda cabe resaltar la firma, en julio, de un acue
 
 #### Educación financiera
 
-El Institute for Financial Literacy, organización no gubernamental con sede en Estados Unidos, ha entregado a BBVA Bancomer el reconocimiento “Excellence in Financial Literacy Education” por el enfoque y resultados del programa de educación financiera “Adelante con tu futuro”, en la categoría “Organización del Año”. 
+El Institute for Financial Literacy, organización no gubernamental con sede en Estados Unidos, ha entregado a BBVA Bancomer el reconocimiento “Excellence in Financial Literacy Education” por el enfoque y resultados del programa de educación financiera “Adelante con tu futuro”, en la categoría “Organización del Año”.
 Con el fin de crear conciencia sobre la importancia de la educación financiera en la vida de las personas y contribuir a formar consumidores más conscientes e informados sobre los productos de la banca, BBVA Chile acaba de estrenar su nuevo sitio web educacionfinancierabbva.cl. Por su parte, más de 10.300 jóvenes chilenos, de los que el 60% viven en regiones apartadas de la capital, han participado este año en la “Liga de Educación Financiera BBVA”, un programa para enseñar a estudiantes entre 14 y 17 años buenos hábitos financieros.
 
 La Fundación BBVA Provincial ha celebrado, por segundo año consecutivo, el acto de entrega de sus premios “Adelante con la educación”, con la finalidad de brindar un reconocimiento a los estudiantes y docentes que participan en sus programas educativos.
 
 #### Conocimiento, Ciencia y Cultura
 
- Los Premios a la “Acción Magistral 2016”, convocados por la FAD, la Comisión Española de Cooperación con la UNESCO y BBVA, vuelven para distinguir a los mejores proyectos docentes que eduquen en valores. Se ha abierto el proceso de inscripción para conseguir estos galardones, que suponen un incentivo para aquellos profesores que quieren ir más allá de sus obligaciones diarias y hacen un esfuerzo por inculcar en las aulas valores, como la solidaridad o el respeto a los demás. 
+ Los Premios a la “Acción Magistral 2016”, convocados por la FAD, la Comisión Española de Cooperación con la UNESCO y BBVA, vuelven para distinguir a los mejores proyectos docentes que eduquen en valores. Se ha abierto el proceso de inscripción para conseguir estos galardones, que suponen un incentivo para aquellos profesores que quieren ir más allá de sus obligaciones diarias y hacen un esfuerzo por inculcar en las aulas valores, como la solidaridad o el respeto a los demás.
 Los Premios “Fundación BBVA Fronteras del Conocimiento” han distinguido, un año más, a los investigadores más destacados en sus diferentes campos, algunos de ellos enfocados en temas sociales y ambientales.
 
 La Fundación BBVA ha lanzado la convocatoria de las nuevas Ayudas a “Equipos de Investigación Científica y a Investigadores y Creadores Culturales”. Su objetivo es servir de apoyo para el desarrollo de proyectos que se caractericen por tener un espíritu innovador en áreas como la ecología o el big data.
@@ -2053,7 +2054,7 @@ Bancomer ha inaugurado el primer Centro de Innovación en el sector bancario en 
 
 #### Fundación Microfinanzas
 
-La Fundación Microfinanzas ha continuado dando acceso a productos financieros a los colectivos más vulnerables, haciendo especial hincapié en las mujeres como generadoras de riqueza en los países de América Latina. Así, el 61% de los emprendedores que apoya con créditos y asesoramiento son mujeres. En 2016 
+La Fundación Microfinanzas ha continuado dando acceso a productos financieros a los colectivos más vulnerables, haciendo especial hincapié en las mujeres como generadoras de riqueza en los países de América Latina. Así, el 61% de los emprendedores que apoya con créditos y asesoramiento son mujeres. En 2016
 se ha renovado, hasta 2019, el compromiso de la Fundación con el Fondo de los Objetivos de Desarrollo Sostenible (SDG-F). También ha participado en el Panel de Alto Nivel sobre empoderamiento económico de la mujer en América Latina de Naciones Unidas. El encuentro giró en torno a la brecha económica que separa a hombres y mujeres en América Latina y el Caribe.
 
 Para mostrar todos los esfuerzos realizados, la Fundación Microfinanzas BBVA ha presentado su Informe de Desempeño Social 2015 “Midiendo lo que realmente importa” en el Instituto de Finanzas Internacionales de Washington.

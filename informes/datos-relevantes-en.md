@@ -3,6 +3,7 @@ layout: default
 title: Introduccion informe de gestion
 lang: en
 submenu: gestion
+order: 3
 permalink: informe-de-gestion/datos-relevantes/
 ---
 

@@ -3,6 +3,7 @@ layout: default
 title: Anexos
 lang: es
 submenu: gestion
+order: 1
 permalink: informe-de-gestion/anexos/
 ---
 
@@ -390,7 +391,7 @@ Reducción del retroceso de los depósitos de clientes en gestión mostrado en l
 
 ## Resultados
 
-CIB registra un beneficio atribuido acumulado al cierre del año 2016 de 861 millones de euros, de los que 116 se obtuvieron en el primer trimestre, 206 en el segundo, 236 en el tercero y 304 en el cuarto, convirtiéndose en el mejor trimestre del ejercicio para este agregado. Lo más relevante de la cuenta de resultados de CIB se resume a continuación: 
+CIB registra un beneficio atribuido acumulado al cierre del año 2016 de 861 millones de euros, de los que 116 se obtuvieron en el primer trimestre, 206 en el segundo, 236 en el tercero y 304 en el cuarto, convirtiéndose en el mejor trimestre del ejercicio para este agregado. Lo más relevante de la cuenta de resultados de CIB se resume a continuación:
 
 • Margen bruto del cuarto trimestre del año por encima del trimestre anterior (+14,0%), fruto de la buena gestión de la volatilidad de los mercados por los equipos de Global Markets. En términos interanuales, el importe acumulado en 2016 se sitúa un 1,6% por encima del año previo, a pesar de la baja actividad en los mercados, con escasa nueva producción en el negocio puramente bancario y ausencia de operaciones singulares, especialmente en Europa.
 
@@ -406,8 +407,8 @@ Por lo que respecta a Corporate Finance, la parte final del año ha estado mar
 
 ## Conciliación de los estados financieros del Grupo BBVA
 
-Bajo estas líneas se presenta la conciliación entre la cuenta de pérdidas y ganancias consolidada y la cuenta de resultados de gestión, que se muestra a lo largo del presente informe de gestión, para el ejercicio 2015. La principal diferencia entre ambas se encuentra en el método por el cual se integraron los resultados 
-de Garanti. Esto es, en la cuenta de gestión, los resultados del Grupo se presentaron consolidando Garanti en la proporción correspondiente al porcentaje que el Grupo BBVA poseía en la entidad turca hasta el tercer trimestre de 2015 (del 25,01%), frente a la integración por el método de la participación en la cuenta de pérdidas y ganancias consolidada. Por otro lado, la rúbrica de resultado de operaciones corporativas de la cuenta de gestión de 2015 incorpora las plusvalías procedentes de las distintas operaciones de venta equivalentes a un 6,34% de la participación del Grupo BBVA en CNCB, el badwill generado por la operación de CX, el efecto de la puesta a valor razonable de la participación inicial del 25,01% en Garanti y el impacto procedente de la venta de la participación del 29,68% en CIFH. En la cuenta de pérdidas y ganancias consolidadas, estos resultados se incluyen dentro del resultado de las actividades continuadas. 
+Bajo estas líneas se presenta la conciliación entre la cuenta de pérdidas y ganancias consolidada y la cuenta de resultados de gestión, que se muestra a lo largo del presente informe de gestión, para el ejercicio 2015. La principal diferencia entre ambas se encuentra en el método por el cual se integraron los resultados
+de Garanti. Esto es, en la cuenta de gestión, los resultados del Grupo se presentaron consolidando Garanti en la proporción correspondiente al porcentaje que el Grupo BBVA poseía en la entidad turca hasta el tercer trimestre de 2015 (del 25,01%), frente a la integración por el método de la participación en la cuenta de pérdidas y ganancias consolidada. Por otro lado, la rúbrica de resultado de operaciones corporativas de la cuenta de gestión de 2015 incorpora las plusvalías procedentes de las distintas operaciones de venta equivalentes a un 6,34% de la participación del Grupo BBVA en CNCB, el badwill generado por la operación de CX, el efecto de la puesta a valor razonable de la participación inicial del 25,01% en Garanti y el impacto procedente de la venta de la participación del 29,68% en CIFH. En la cuenta de pérdidas y ganancias consolidadas, estos resultados se incluyen dentro del resultado de las actividades continuadas.
 
 ### Conciliación de las cuentas de resultados del Grupo BBVA. 2015
 (Millones de euros)

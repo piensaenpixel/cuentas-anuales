@@ -88,7 +88,8 @@
   <nav class="subnavigation">
     <div class="container">
       <ul class="menu">
-        {% for node in site.pages %}
+        {% assign sorted_pages = (site.pages | sort: 'order') %}
+        {% for node in sorted_pages %}
           {% if page.submenu == node.submenu %}
             <li class="menu-item">
             {% if page.url == node.url %}
