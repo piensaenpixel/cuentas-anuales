@@ -9,7 +9,6 @@ var TEMPLATE = '<li class="content-dropdownitem"><a href="#{{id}}">{{title}}</a>
 
 var openHandler = function (e) {
   if (state.open === false) {
-    console.log('1');
     e.preventDefault();
 
     state.open = true;
