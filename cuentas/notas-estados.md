@@ -6,6 +6,7 @@ submenu: cuentas
 permalink: cuentas/notas-estados-financieros/
 ---
 
+{% include subir.html %}
 
 # Memoria consolidada correspondiente al ejercicio anual terminado el 31 de diciembre de 2016.
 
@@ -90,7 +91,7 @@ El SCIF es un modelo dinámico - evoluciona en el tiempo de forma continua para 
 
 Las mencionadas unidades de Control Interno Financiero están integradas dentro del modelo de Control Interno del Grupo BBVA que se estructura en dos pilares:
 
-• Un sistema de control organizado en tres líneas de defensa:
+• Un sistema de control organizado en tres líneas de defensa: 
 - La primera línea de defensa está localizada en las unidades operativas, quienes son responsables de identificar los riesgos vinculados a sus procesos y de implantar los controles necesarios para su mitigación.
 - La segunda línea está integrada por las unidades especialistas de control (entre otras: Control Interno de Riesgos, Control Interno Financiero, Control de la Operativa, Control Interno de Tecnología y Cumplimiento) quienes definen los modelos y políticas de control para su ámbito de responsabilidad y supervisan la correcta implantación, el diseño y la efectividad de los controles.
 - La tercera línea de control es el área de Auditoría Interna, quien realiza una evaluación independiente del diseño y la eficacia del modelo.
@@ -98,7 +99,7 @@ Las mencionadas unidades de Control Interno Financiero están integradas dentro 
 
 Las distintas unidades de Control Interno siguen una metodología común y homogénea establecida a nivel corporativo conforme al siguiente esquema:
 
-IMAGE GOES HERE
+IMAGE GOES HERE - IMAGE FROM POWERPOINT
 
 El SCIF es evaluado anualmente por el Departamento de Auditoría Interna del Grupo y por los auditores externos, y es supervisado por la Comisión de Auditoría y Cumplimiento del Consejo de Administración del Banco.
 
@@ -120,14 +121,14 @@ En el Glosario de términos (en adelante, “Glosario”) se presentan las defin
 
 A efectos de su consolidación, y siguiendo los criterios establecidos por las NIIF-UE, en el Grupo BBVA se integran, además del Banco, cuatro tipos de sociedades: entidades dependientes, negocios conjuntos, entidades asociadas y entidades estructuradas, que se definen a continuación:
 
-• Entidades dependientes
+• Entidades dependientes 
 
 Las entidades dependientes son aquellas sobre las que el Grupo tiene el control (ver definición de control en el Glosario). Los estados financieros de las entidades dependientes se consolidan con los del Banco. La participación de los accionistas minoritarios de las sociedades dependientes en el patrimonio neto consolidado del Grupo se presenta en el capítulo “Intereses minoritarios – Participaciones no dominantes” del balance consolidado y su participación en los resultados del periodo o ejercicio se presenta en el epígrafe “Resultado del periodo - Atribuible a intereses minoritarios (participaciones no dominantes)” de la cuenta de pérdidas y ganancias consolidada (ver Nota 31).
 En la Nota 3 se facilita información sobre las principales entidades dependientes del Grupo a 31 de diciembre de 2016 y, en el Anexo I, se muestra otra información significativa sobre estas mismas entidades.
 
-• Negocios conjuntos
+• Negocios conjuntos 
 
-Son aquellas entidades sobre las que se tienen acuerdos de control conjunto con terceros distintos del Grupo (ver definiciones de acuerdos conjuntos, control conjunto y negocios conjuntos en el Glosario).
+Son aquellas entidades sobre las que se tienen acuerdos de control conjunto con terceros distintos del Grupo (ver definiciones de acuerdos conjuntos, control conjunto y negocios conjuntos en el Glosario). 
 Las participaciones en negocios conjuntos se valoran por aplicación del método de la participación (ver Nota 16). En el Anexo II se incluyen las principales magnitudes de los negocios conjuntos del Grupo.
 
 • Entidades asociadas
@@ -142,7 +143,7 @@ Las entidades asociadas se valoran por el método de la participación (ver Nota
 
 • Entidades estructuradas
 
-Una entidad estructurada es una entidad que ha sido diseñada de modo que los derechos de voto u otros derechos similares no sean el factor primordial a la hora de decidir quién controla la entidad; por ejemplo en el caso en que los derechos de voto se refieran sólo a tareas administrativas y las actividades relevantes se gestionen a través de acuerdos contractuales (ver Glosario).
+Una entidad estructurada es una entidad que ha sido diseñada de modo que los derechos de voto u otros derechos similares no sean el factor primordial a la hora de decidir quién controla la entidad; por ejemplo en el caso en que los derechos de voto se refieran sólo a tareas administrativas y las actividades relevantes se gestionen a través de acuerdos contractuales (ver Glosario). 
 
 En aquellos casos en los que el Grupo constituye entidades o participa de ellas, con el objeto de permitir el acceso a los clientes a determinadas inversiones o para la transmisión de riesgos u otros fines, se determina, de acuerdo con criterios y procedimientos internos y considerando lo establecido en la normativa de referencia, si existe control sobre la entidad participada y, por tanto, si ésta debe ser o no objeto de consolidación.
 
@@ -156,9 +157,9 @@ Con el objeto de determinar si existe control sobre una entidad estructurada y, 
 – Compromisos implícitos o explícitos del Grupo para respaldar a la entidad.
 – Si el Grupo tiene la capacidad de utilizar su poder sobre la entidad para influir en el importe de los rendimientos a los que se encuentra expuesto.
 
-Se producen casos en los que el Grupo tiene una exposición alta a los rendimientos variables existentes y mantiene el poder de decisión sobre la entidad, bien de forma directa o a través de un agente.
+Se producen casos en los que el Grupo tiene una exposición alta a los rendimientos variables existentes y mantiene el poder de decisión sobre la entidad, bien de forma directa o a través de un agente. 
 
-Las principales entidades estructuradas del Grupo son los denominados “Fondos de titulización de activos”, a los que las entidades del Grupo BBVA transfieren carteras de préstamos y partidas a cobrar y otros vehículos cuyo objeto es permitir el acceso de los clientes del Grupo a determinadas inversiones o la transmisión de riesgos u otros fines (ver Anexo I y Anexo V). En todas ellas, el Grupo mantiene la facultad de decisión sobre las actividades relevantes y se han instrumentalizado con apoyos financieros recogidos contractualmente que son de uso común en el mercado de titulizaciones. Los más comunes son: posiciones inversoras en tramos equity de las notas; existencia de financiación subordinada; concesión de mejoras crediticias a través de instrumentos derivados o líneas de liquidez; derechos de gestión de los activos titulizados impagados; existencia de derivados “clean-up” call; y existencia de cláusulas de recompra de activos por parte de la entidad cedente.
+Las principales entidades estructuradas del Grupo son los denominados “Fondos de titulización de activos”, a los que las entidades del Grupo BBVA transfieren carteras de préstamos y partidas a cobrar y otros vehículos cuyo objeto es permitir el acceso de los clientes del Grupo a determinadas inversiones o la transmisión de riesgos u otros fines (ver Anexo I y Anexo V). En todas ellas, el Grupo mantiene la facultad de decisión sobre las actividades relevantes y se han instrumentalizado con apoyos financieros recogidos contractualmente que son de uso común en el mercado de titulizaciones. Los más comunes son: posiciones inversoras en tramos equity de las notas; existencia de financiación subordinada; concesión de mejoras crediticias a través de instrumentos derivados o líneas de liquidez; derechos de gestión de los activos titulizados impagados; existencia de derivados “clean-up” call; y existencia de cláusulas de recompra de activos por parte de la entidad cedente. 
 
 Por todo ello, en la práctica totalidad de las titulizaciones realizadas por el Banco o sociedades dependientes del Grupo BBVA se considera que los préstamos no pueden ser dados de baja del balance del banco matriz o sociedades dependientes y las emisiones de los fondos de titulización se registran como pasivos dentro del balance consolidado del Grupo.
 
@@ -193,7 +194,7 @@ En la elaboración de los estados financieros consolidados adjuntos se han aplic
 
 ##### Valoración de los instrumentos financieros y registro de las variaciones surgidas en su valoración posterior
 
-Todos los instrumentos financieros se registran inicialmente por su valor razonable; que, salvo evidencia en contrario, coincide con el precio de la transacción.
+Todos los instrumentos financieros se registran inicialmente por su valor razonable; que, salvo evidencia en contrario, coincide con el precio de la transacción. 
 
 Excepto en los activos financieros mantenidos para negociar e instrumentos registrados contra patrimonio, todas las variaciones en el valor de los instrumentos financieros con causa en el devengo de intereses y conceptos asimilados se registran en los capítulos “Ingresos por intereses” o “Gastos por intereses”, según proceda, de la cuenta de pérdidas y ganancias consolidada del ejercicio en el que se produjo el devengo (ver Nota 37). Los dividendos percibidos de otras sociedades distintas de las dependientes, asociadas o negocios conjuntos, se registran en el capítulo “Ingresos por dividendos” de la cuenta de pérdidas y ganancias consolidada del ejercicio en el que nace el derecho a percibirlos (ver Nota 38).
 
@@ -249,14 +250,14 @@ Un activo financiero se considera deteriorado y, por tanto, se corrige su valor 
 
 Como criterio general, la corrección del valor en libros de los instrumentos financieros por causa de su deterioro se efectúa con cargo a la cuenta de pérdidas y ganancias consolidada del ejercicio en el que tal deterioro se manifiesta y las recuperaciones de las pérdidas por deterioro previamente registradas, en caso de producirse, se reconocen en la cuenta de pérdidas y ganancias consolidada del ejercicio en el que el deterioro desaparece o se reduce. No obstante, la recuperación de las pérdidas por deterioro previamente registradas correspondientes a instrumentos de patrimonio clasificados como activos financieros disponibles para la venta, no se reconocen en la cuenta de pérdidas y ganancias consolidada, sino en el epígrafe “Otro resultado global acumulado - Elementos que pueden reclasificarse en resultados - Activos financieros disponibles para la venta” del balance consolidado (ver Nota 30).
 
-Con carácter general, los cobros percibidos con origen en préstamos y créditos deteriorados se aplican, primeramente, al reconocimiento de los intereses devengados y, el exceso que pudiera existir, a disminuir el capital pendiente de amortización.
+Con carácter general, los cobros percibidos con origen en préstamos y créditos deteriorados se aplican, primeramente, al reconocimiento de los intereses devengados y, el exceso que pudiera existir, a disminuir el capital pendiente de amortización. 
 
 Cuando se considera remota la recuperación de cualquier importe registrado, el activo se da de baja del balance consolidado, sin perjuicio de las actuaciones que puedan llevarse a cabo para intentar conseguir su cobro hasta tanto no se hayan extinguido definitivamente los derechos a percibirlo, sea por prescripción, condonación u otras causas.
 
-De acuerdo con las políticas del Grupo, la recuperación de un importe reconocido se considera remota, y por tanto, se da de baja en el balance consolidado en los siguientes casos:
+De acuerdo con las políticas del Grupo, la recuperación de un importe reconocido se considera remota, y por tanto, se da de baja en el balance consolidado en los siguientes casos: 
 
-• Cualquier préstamo (salvo los que estén vinculados a una garantía suficiente) cuyo acreditado se encuentre en quiebra y/o en las últimas fases del proceso de concurso de acreedores.
-• Activos financieros (bonos, obligaciones, etc.) cuyo emisor haya sufrido una rebaja irrevocable de su solvencia.
+• Cualquier préstamo (salvo los que estén vinculados a una garantía suficiente) cuyo acreditado se encuentre en quiebra y/o en las últimas fases del proceso de concurso de acreedores. 
+• Activos financieros (bonos, obligaciones, etc.) cuyo emisor haya sufrido una rebaja irrevocable de su solvencia. 
 
 Asimismo, los préstamos clasificados como dudosos con garantía real se dan de baja en el balance en un periodo máximo de cuatro años desde la fecha de su calificación como dudosos (por la parte no garantizada), mientras que los préstamos dudosos sin garantía real (préstamos al consumo o comerciales, tarjetas de crédito, etc.) por la parte no colateralizada se dan de baja en un periodo máximo de dos años desde la fecha de su calificación como dudosos.
 
@@ -300,23 +301,23 @@ En la estimación de los flujos de efectivo futuros de los instrumentos de deuda
 
 ###### Pérdidas por deterioro determinadas colectivamente
 
-De cara al análisis colectivo de deterioro, los activos financieros se agrupan en base a características similares de riesgo indicativas de la capacidad de pago del deudor en base a sus condiciones contractuales. Bajo este análisis se estima el deterioro de los préstamos que no son individualmente significativos, distinguiendo entre aquéllos que presentan evidencia objetiva de deterioro de los que no presentan evidencia objetiva de deterioro, así como el deterioro de los préstamos significativos para los que el Grupo ha determinado que no existe evidencia objetiva de deterioro.
+De cara al análisis colectivo de deterioro, los activos financieros se agrupan en base a características similares de riesgo indicativas de la capacidad de pago del deudor en base a sus condiciones contractuales. Bajo este análisis se estima el deterioro de los préstamos que no son individualmente significativos, distinguiendo entre aquéllos que presentan evidencia objetiva de deterioro de los que no presentan evidencia objetiva de deterioro, así como el deterioro de los préstamos significativos para los que el Grupo ha determinado que no existe evidencia objetiva de deterioro. 
 
 Con respecto a los activos financieros que no presentan evidencia objetiva de deterioro, el Grupo aplica procedimientos estadísticos usando su experiencia histórica y otras informaciones específicas, para estimar las pérdidas en las que el Grupo ha incurrido como resultado de eventos que se han producido a la fecha de elaboración de los estados financieros consolidados pero no se han conocido y se pondrán de manifiesto, de manera individualizada, después de la fecha de presentación de los mismos. Este cálculo es un paso intermedio hasta que se identifiquen de forma específica las pérdidas a nivel individual, momento en que se separarán estos instrumentos financieros del colectivo de activos financieros sin evidencia objetivo de deterioro.
 
 La cuantificación de las pérdidas incurridas tiene en cuenta tres factores fundamentales: la exposición, la probabilidad de incumplimiento (“default”) y la severidad.
 
 • Exposición (_Exposure at default – “EAD”_) es el importe del riesgo contraído en el momento de entrada en “default” de la contraparte.
-• Probabilidad de incumplimiento (_Probability of default – “PD”_) es la probabilidad de que la contraparte incumpla sus obligaciones de pago de capital y/o intereses. Esta probabilidad refleja las condiciones actuales de la cartera, a cada fecha de elaboración de los estados financieros, y se estima considerando las principales características de la calidad crediticia de la contraparte/operación.
-En el caso concreto de los activos con un impago igual o superior a 90 días, la PD asignada es del 100%.
-• Severidad (_Loss given default – “LGD”_) es la estimación de la pérdida en caso de que se produzca incumplimiento.
+• Probabilidad de incumplimiento (_Probability of default – “PD”_) es la probabilidad de que la contraparte incumpla sus obligaciones de pago de capital y/o intereses. Esta probabilidad refleja las condiciones actuales de la cartera, a cada fecha de elaboración de los estados financieros, y se estima considerando las principales características de la calidad crediticia de la contraparte/operación. 
+En el caso concreto de los activos con un impago igual o superior a 90 días, la PD asignada es del 100%. 
+• Severidad (_Loss given default – “LGD”_) es la estimación de la pérdida en caso de que se produzca incumplimiento. 
 
 Depende principalmente de las características de la operación y de la valoración de las garantías o colaterales asociados.
-Con el fin de calcular la LGD en cada fecha de balance, se estima el valor actual de los flujos de efectivo que está previsto obtener durante la vida remanente del activo financiero, incluidos los resultados de la venta (menos los costes de venta) de los colaterales en caso de adjudicación o adquisición de los mismos.
+Con el fin de calcular la LGD en cada fecha de balance, se estima el valor actual de los flujos de efectivo que está previsto obtener durante la vida remanente del activo financiero, incluidos los resultados de la venta (menos los costes de venta) de los colaterales en caso de adjudicación o adquisición de los mismos. 
 
 En caso de incumplimiento, se adquiere contractualmente el derecho de propiedad al final del proceso de ejecución hipotecaria o cuando se compra el activo de los prestatarios en dificultades, y se reconoce en los estados financieros consolidados. Después del reconocimiento inicial, estos activos, clasificados como “Activos no corrientes y grupos enajenables de elementos que se han clasificado como mantenidos para la venta y los pasivos incluidos en dichos grupos” (ver Nota 2.2.4) o “Otros activos - Existencias” (ver Nota 2.2.6) y se valoran por el menor importe entre su valor razonable menos el coste estimado de su venta y su valor en libros.
 
-Adicionalmente, para identificar las posibles pérdidas no comunicadas individualmente (incurred but not reported, o “IBNR”) en la cartera no deteriorada, es necesario introducir un parámetro adicional denominado “LIP” (acrónimo en inglés de Loss identification period). El parámetro LIP o periodo de identificación de la pérdida, es el tiempo que transcurre entre el momento en el que se produce el evento que genera una determinada pérdida y el momento en el que se hace patente a nivel individual tal pérdida. El análisis de los LIPs se realiza sobre la base de carteras homogéneas de riesgos.
+Adicionalmente, para identificar las posibles pérdidas no comunicadas individualmente (incurred but not reported, o “IBNR”) en la cartera no deteriorada, es necesario introducir un parámetro adicional denominado “LIP” (acrónimo en inglés de Loss identification period). El parámetro LIP o periodo de identificación de la pérdida, es el tiempo que transcurre entre el momento en el que se produce el evento que genera una determinada pérdida y el momento en el que se hace patente a nivel individual tal pérdida. El análisis de los LIPs se realiza sobre la base de carteras homogéneas de riesgos. 
 
 A 31 de diciembre de 2016, 2015 y 2014, los modelos internos del Grupo arrojan un resultado de estimación de pérdidas incurridas por riesgo de crédito que no presenta diferencias materiales respecto de las provisiones determinadas siguiendo los requerimientos de Banco de España.
 
@@ -325,7 +326,7 @@ A 31 de diciembre de 2016, 2015 y 2014, los modelos internos del Grupo arrojan u
 
 La pérdida por deterioro de los valores representativos de deuda incluidos en la categoría de “Activos financieros disponibles para la venta” equivale, en su caso, a la diferencia positiva entre su coste de adquisición (neto de cualquier amortización de principal), una vez deducida cualquier pérdida por deterioro previamente reconocida en la cuenta de pérdidas y ganancias consolidada, y su valor razonable.
 
-Cuando existe una evidencia objetiva de que las diferencias negativas surgidas en la valoración de estos activos tienen su origen en un deterioro de los mismos, dejan de considerarse como un “Otro resultado global acumulado - Elementos que pueden reclasificarse en resultados - Activos financieros disponibles para la venta” y se registran en la cuenta de pérdidas y ganancias consolidada del ejercicio en que se evidencia tal hecho.
+Cuando existe una evidencia objetiva de que las diferencias negativas surgidas en la valoración de estos activos tienen su origen en un deterioro de los mismos, dejan de considerarse como un “Otro resultado global acumulado - Elementos que pueden reclasificarse en resultados - Activos financieros disponibles para la venta” y se registran en la cuenta de pérdidas y ganancias consolidada del ejercicio en que se evidencia tal hecho. 
 
 De recuperarse posteriormente la totalidad o parte de las pérdidas por deterioro, su importe se reconocería en la cuenta de pérdidas y ganancias consolidada del ejercicio en que se produce la recuperación, hasta el límite del importe previamente reconocido en resultados.
 
@@ -334,7 +335,7 @@ De recuperarse posteriormente la totalidad o parte de las pérdidas por deterior
 
 El importe del deterioro de los instrumentos de patrimonio se determina en función de su naturaleza, como se describe a continuación:
 
-_• Instrumentos de patrimonio disponibles para la venta, valorados a valor razonable:_ Cuando existe una evidencia objetiva de que las diferencias negativas surgidas en la valoración de estos activos tienen su origen en un deterioro de los mismos, dejan de registrarse en “Otro resultado global acumulado - Elementos que pueden reclasificarse en resultados - Activos financieros disponibles para la venta” y se registran en la cuenta de pérdidas y ganancias consolidada. Con carácter general, el Grupo considera que hay una evidencia objetiva de deterioro de los instrumentos de patrimonio clasificados como disponibles para la venta cuando, de manera sostenida, han existido minusvalías latentes significativas debidas a una caída de cotización de al menos el 40% o prolongada durante más de 18 meses.
+_• Instrumentos de patrimonio disponibles para la venta, valorados a valor razonable:_ Cuando existe una evidencia objetiva de que las diferencias negativas surgidas en la valoración de estos activos tienen su origen en un deterioro de los mismos, dejan de registrarse en “Otro resultado global acumulado - Elementos que pueden reclasificarse en resultados - Activos financieros disponibles para la venta” y se registran en la cuenta de pérdidas y ganancias consolidada. Con carácter general, el Grupo considera que hay una evidencia objetiva de deterioro de los instrumentos de patrimonio clasificados como disponibles para la venta cuando, de manera sostenida, han existido minusvalías latentes significativas debidas a una caída de cotización de al menos el 40% o prolongada durante más de 18 meses. 
 
 Para la aplicación de estas evidencias de deterioro, el Grupo tiene en cuenta la volatilidad que muestra cada título individualmente en su cotización, para determinar si es un porcentaje recuperable mediante su venta en el mercado, pudiendo existir otros umbrales diferentes para determinados títulos o sectores específicos.
 
@@ -385,7 +386,7 @@ Los activos no corrientes y grupos enajenables de elementos que se han clasifica
 
 Las ganancias y pérdidas generadas en la enajenación de los activos no corrientes y grupos enajenables de elementos que se han clasificado como mantenidos para la venta y pasivos incluidos en grupos enajenables de elementos que se han clasificado como mantenidos para la venta, así como las pérdidas por deterioro y, cuando proceda, su recuperación, se reconocen en el capítulo “Ganancias o pérdidas procedentes de activos no corrientes y grupos enajenables de elementos clasificados como mantenidos para la venta no admisibles como actividades interrumpidas” de las cuentas de pérdidas y ganancias consolidadas (ver Nota 50). Los restantes ingresos y gastos correspondientes a dichos activos y pasivos se clasifican en las partidas de la cuenta de pérdidas y ganancias consolidada de acuerdo con su naturaleza.
 
-Por otra parte, los ingresos y gastos de las operaciones en interrupción, cualquiera que sea su naturaleza, generados en el ejercicio, aunque se hubiesen generado antes de su clasificación como operación en interrupción, se presentan, netos del efecto impositivo, como un único importe en el capítulo “Ganancias o pérdidas después de impuestos procedentes de actividades interrumpidas” de la cuenta de pérdidas y ganancias consolidada, tanto si el negocio permanece en balance como si se ha dado de baja de él. Mientras un activo permanezca en esta categoría no será amortizado. Este capítulo incluye también los resultados obtenidos en su enajenación o disposición.
+Por otra parte, los ingresos y gastos de las operaciones en interrupción, cualquiera que sea su naturaleza, generados en el ejercicio, aunque se hubiesen generado antes de su clasificación como operación en interrupción, se presentan, netos del efecto impositivo, como un único importe en el capítulo “Ganancias o pérdidas después de impuestos procedentes de actividades interrumpidas” de la cuenta de pérdidas y ganancias consolidada, tanto si el negocio permanece en balance como si se ha dado de baja de él. Mientras un activo permanezca en esta categoría no será amortizado. Este capítulo incluye también los resultados obtenidos en su enajenación o disposición. 
 
 
 #### 2.2.5 Activos tangibles
@@ -400,7 +401,32 @@ La amortización se calcula, aplicando el método lineal, sobre el coste de adqu
 
 Las dotaciones en concepto de amortización de los activos tangibles se registran en el capítulo “Amortización” de las cuentas de pérdidas y ganancias consolidadas (ver Nota 45) y, básicamente, equivalen a los porcentajes de amortización siguientes (determinados en función de los años de la vida útil estimada, como promedio, de los diferentes elementos):
 
-TABLE GOES HERE
+<table>
+    <thead>
+        <tr>
+            <th>Tipo de activo</th>
+            <th>Porcentaje anual</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Edificios de uso propio</td>
+            <td>1% - 4%</td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>8% - 10%</td>
+        </tr>
+        <tr>
+            <td>Instalaciones</td>
+            <td>6% - 12%</td>
+        </tr>
+        <tr>
+            <td>Equipos de oficina e informática</td>
+            <td>8% - 25%</td>
+        </tr>
+    </tbody>
+</table>
 
 El criterio general del Grupo BBVA para determinar el valor recuperable de estos activos y, en concreto, de los edificios de uso propio, se basa en tasaciones independientes, de modo que éstas no tengan una antigüedad superior a 3-5 años, salvo que existan indicios de deterioro.
 
@@ -521,8 +547,8 @@ Representa el valor de las obligaciones netas comprometidas con el tomador de lo
 • Provisiones de seguros de no vida:
 - Provisiones para primas no consumidas: Las provisiones para primas no consumidas tienen por objeto la periodificación, a la fecha de cálculo, de las primas emitidas; reflejando su saldo la fracción de las primas cobradas hasta la fecha de cierre que deba imputarse al periodo comprendido entre la fecha de cierre y el término del periodo de cobertura.
 - Provisiones para riesgo en curso: La provisión para riesgos en curso complementa la provisión para primas no consumidas en la medida que su importe no sea suficiente para reflejar la valoración de todos los riesgos y gastos a cubrir por las compañías de seguro que se correspondan con el periodo de cobertura no transcurrido a la fecha de cierre del ejercicio.
-• Provisión para prestaciones:
-Recoge el importe total de las obligaciones pendientes de pago derivadas de los siniestros ocurridos con anterioridad a la fecha de cierre del ejercicio. Las compañías de seguros calculan esta provisión como la diferencia entre el coste total estimado o cierto de los siniestros pendientes de declaración, liquidación o pago y el conjunto de los importes ya pagados con origen en dichos siniestros.
+• Provisión para prestaciones: 
+Recoge el importe total de las obligaciones pendientes de pago derivadas de los siniestros ocurridos con anterioridad a la fecha de cierre del ejercicio. Las compañías de seguros calculan esta provisión como la diferencia entre el coste total estimado o cierto de los siniestros pendientes de declaración, liquidación o pago y el conjunto de los importes ya pagados con origen en dichos siniestros. 
 • Provisión para participación en beneficios y extornos:
 Esta provisión recoge el importe de los beneficios devengados a favor de los tomadores, asegurados o beneficiarios que, en su caso, procede restituir a los tomadores o asegurados en virtud del comportamiento experimentado por el riesgo asegurado, en tanto no haya sido asignado individualmente a cada uno de ellos.
 • Provisiones técnicas del reaseguro cedido:
@@ -541,7 +567,7 @@ Los activos y pasivos por impuestos diferidos incluyen las diferencias temporari
 
 El capítulo “Activos por impuestos” de los balances consolidados incluye el importe de todos los activos de naturaleza fiscal, diferenciándose entre: “Activos por impuestos corrientes” (importes a recuperar por impuestos en los próximos doce meses) y “Activos por impuestos diferidos” (que engloba los importes de los impuestos a recuperar en ejercicios futuros, incluidos los derivados de bases imponibles negativas o de créditos por deducciones o bonificaciones susceptibles de ser compensadas). El capítulo “Pasivos por impuestos” de los balances consolidados incluye el importe de todos los pasivos de naturaleza fiscal, excepto las provisiones por impuestos, y se desglosan en: “Pasivos por impuestos corrientes” (recoge el importe a pagar en los próximos doce meses por el Impuesto sobre Sociedades relativo a la ganancia fiscal del ejercicio y otros impuestos) y “Pasivos por impuestos diferidos” (que representa el importe de los impuestos sobre sociedades a pagar en ejercicios posteriores).
 
-Los pasivos por impuestos diferidos ocasionados por diferencias temporarias asociadas a inversiones en entidades dependientes, asociadas y participaciones en negocios conjuntos, se reconocen contablemente, excepto si el Grupo es capaz de controlar el momento de reversión de la diferencia temporaria y, además, es probable que ésta no se revierta en el futuro. Por su parte, los activos por impuestos diferidos solamente se reconocen en el caso de que se considere probable que las entidades consolidadas vayan a tener en el futuro suficientes ganancias fiscales contra las que poder hacerlos efectivos y no procedan del reconocimiento inicial (salvo en una combinación de negocios) de otros activos y pasivos en una operación que no afecta ni al resultado fiscal ni al resultado contable.
+Los pasivos por impuestos diferidos ocasionados por diferencias temporarias asociadas a inversiones en entidades dependientes, asociadas y participaciones en negocios conjuntos, se reconocen contablemente, excepto si el Grupo es capaz de controlar el momento de reversión de la diferencia temporaria y, además, es probable que ésta no se revierta en el futuro. Por su parte, los activos por impuestos diferidos solamente se reconocen en el caso de que se considere probable que las entidades consolidadas vayan a tener en el futuro suficientes ganancias fiscales contra las que poder hacerlos efectivos y no procedan del reconocimiento inicial (salvo en una combinación de negocios) de otros activos y pasivos en una operación que no afecta ni al resultado fiscal ni al resultado contable. 
 
 Con ocasión de cada cierre contable, las entidades consolidadas revisan los impuestos diferidos registrados (tanto activos como pasivos) con objeto de comprobar que se mantienen vigentes; efectuándose las oportunas correcciones a los mismos de acuerdo con los resultados de los análisis realizados. En aquellas circunstancias en que existe incertidumbre sobre la aplicación de las leyes fiscales a algunas circunstancias o transacciones particulares y el tratamiento fiscal definitivo depende de las decisiones que tomen las autoridades fiscales relevantes en el futuro, la entidad reconoce y valora los activos o pasivos por impuestos corrientes y diferidos, según proceda, teniendo en cuenta sus expectativas de que la autoridad fiscal acepte o no su posición fiscal. Así, en caso de que la entidad concluya que no es probable que la autoridad fiscal acepte una determinada posición fiscal incierta, la valoración de los correspondientes activos o pasivos por impuestos reflejan los importes que la entidad prevea recuperar (pagar) a las autoridades fiscales.
 
@@ -561,12 +587,12 @@ Entre otros conceptos, estas provisiones incluyen los compromisos asumidos con s
 
 Los activos contingentes son activos posibles, surgidos como consecuencia de sucesos pasados, cuya existencia está condicionada y deberá confirmarse cuando ocurran, o no, eventos que están fuera del control del Grupo. Los activos contingentes no se reconocen en el balance ni en la cuenta de pérdidas y ganancias, consolidados, pero se informarán en caso de existir, en los estados financieros consolidados siempre y cuando sea probable el aumento de recursos que incorporen beneficios económicos por esta causa.
 
-Los pasivos contingentes son obligaciones posibles del Grupo, surgidas como consecuencia de sucesos pasados, cuya existencia está condicionada a que ocurran, o no, uno o más eventos futuros independientes de la voluntad del Grupo. Incluyen también las obligaciones actuales del Grupo, cuya cancelación no es probable que origine una disminución de recursos que incorporen beneficios económicos o cuyo importe, en casos extremadamente poco habituales, no pueda ser cuantificado con la suficiente fiabilidad.
+Los pasivos contingentes son obligaciones posibles del Grupo, surgidas como consecuencia de sucesos pasados, cuya existencia está condicionada a que ocurran, o no, uno o más eventos futuros independientes de la voluntad del Grupo. Incluyen también las obligaciones actuales del Grupo, cuya cancelación no es probable que origine una disminución de recursos que incorporen beneficios económicos o cuyo importe, en casos extremadamente poco habituales, no pueda ser cuantificado con la suficiente fiabilidad. 
 
 Los pasivos contingentes no se reconocen en el balance ni en la cuenta de pérdidas y ganancias, consolidados, (salvo los registrados en una combinación de negocio) pero se desglosan en los estados financieros consolidados.
 
 
-#### 2.2.12 Pensiones y otros compromisos post-empleo
+#### 2.2.12 Pensiones y otros compromisos post-empleo 
 
 A continuación se describen los criterios contables más significativos relacionados con los compromisos contraídos con el personal, tanto por retribuciones post-empleo como por otros compromisos a largo plazo, asumidos por determinadas sociedades del Grupo BBVA, españolas y extranjeras (ver Nota 25).
 
@@ -583,9 +609,9 @@ Al establecer las hipótesis actuariales se tiene en cuenta que:
 El Grupo BBVA registra las diferencias actuariales con origen en los compromisos asumidos con el personal prejubilado, los premios de antigüedad y otros conceptos asimilados, en el capítulo “Provisiones o reversión de provisiones” de la cuenta de pérdidas y ganancias consolidada del ejercicio en que se producen tales diferencias (ver Nota 46). Las diferencias actuariales con origen en los compromisos de prestación definida por retribuciones post-empleo se reconocen, directamente, con cargo al epígrafe “Otro resultado global acumulado - Elementos que no se reclasificarán en resultados – Resto de ajustes por valoración” del patrimonio neto de los balances consolidados (ver Nota 30).
 
 
-##### Compromisos por retribuciones post-empleo
+##### Compromisos por retribuciones post-empleo 
 
-###### Pensiones
+###### Pensiones 
 
 Los compromisos por retribuciones post-empleo asumidos por el Grupo BBVA son o de aportación definida o de prestación definida.
 
@@ -644,7 +670,7 @@ Estos activos financieros se registran a su coste de adquisición y los benefici
 
 #### 2.2.16 Operaciones en moneda extranjera y diferencias de conversión
 
-La moneda funcional del Grupo BBVA y la moneda de presentación de sus estados financieros consolidados es el euro. Por tanto, todos los saldos y transacciones denominados en monedas diferentes al euro se consideran denominados en “moneda extranjera”.
+La moneda funcional del Grupo BBVA y la moneda de presentación de sus estados financieros consolidados es el euro. Por tanto, todos los saldos y transacciones denominados en monedas diferentes al euro se consideran denominados en “moneda extranjera”. 
 
 La conversión a euros de los saldos en moneda extranjera se realiza en dos fases consecutivas:
 • Conversión de la moneda extranjera a la moneda funcional (moneda del entorno económico principal en el que opera la entidad); y
@@ -677,13 +703,251 @@ El desglose de los principales saldos de los balances consolidados mantenidos en
 
 ####### Venezuela
 
-Los estados financieros locales de las sociedades del Grupo radicadas en Venezuela son expresados en la moneda bolívar fuerte venezolano y, de cara a la elaboración de los estados financieros consolidados del Grupo, se convierten a euros, tal y como se indica a continuación, dado que Venezuela es un país con fuertes restricciones cambiarias y que cuenta con distintos tipos publicados oficialmente:
+Los estados financieros locales de las sociedades del Grupo radicadas en Venezuela son expresados en la moneda bolívar fuerte venezolano y, de cara a la elaboración de los estados financieros consolidados del Grupo, se convierten a euros, tal y como se indica a continuación, dado que Venezuela es un país con fuertes restricciones cambiarias y que cuenta con distintos tipos publicados oficialmente: 
 
-• El 10 de febrero de 2015, el gobierno venezolano anunció la aparición de un nuevo mercado de moneda extranjera denominado Sistema Marginal de Divisas (SIMADI).
+• El 10 de febrero de 2015, el gobierno venezolano anunció la aparición de un nuevo mercado de moneda extranjera denominado Sistema Marginal de Divisas (SIMADI). 
 • El Grupo utilizó el tipo de cambio SIMADI a partir de marzo de 2015 para la conversión de los estados financieros de las sociedades del Grupo radicadas en Venezuela a los efectos de elaborar sus estados financieros consolidados intermedios. El tipo SIMADI empezó reflejando el tipo de cambio de transacciones reales, incrementándose rápidamente hasta aproximadamente 200 bolívares por dólar (aproximadamente 218 bolívares por euro) pero, a partir de mayo, y durante el segundo semestre de 2015 se confirmó la tendencia, el tipo SIMADI apenas fluctuó, situándose al cierre del ejercicio 2015 en 216,3 bolívares por euro, por lo que podría considerarse poco representativo de la convertibilidad de la divisa venezolana.
-• En febrero de 2016, el gobierno venezolano aprobó un nuevo convenio cambiario que incluye el establecimiento de dos nuevos mecanismos que regulan la compra y venta de divisa extranjera y la suspensión del tipo de cambio SIMADI.
-• A 31 de diciembre de 2015 y a 30 de junio de 2016, los administradores del Grupo consideran que el uso de los nuevos tipos de cambio y, anteriormente, del SIMADI para la conversión de los bolívares a euros en la elaboración de los estados financieros consolidados no refleja la imagen fiel de los estados financieros consolidados del Grupo y de la situación financiera de las entidades del Grupo en Venezuela.
+• En febrero de 2016, el gobierno venezolano aprobó un nuevo convenio cambiario que incluye el establecimiento de dos nuevos mecanismos que regulan la compra y venta de divisa extranjera y la suspensión del tipo de cambio SIMADI.   
+• A 31 de diciembre de 2015 y a 30 de junio de 2016, los administradores del Grupo consideran que el uso de los nuevos tipos de cambio y, anteriormente, del SIMADI para la conversión de los bolívares a euros en la elaboración de los estados financieros consolidados no refleja la imagen fiel de los estados financieros consolidados del Grupo y de la situación financiera de las entidades del Grupo en Venezuela. 
 • Por tanto, a 31 de diciembre de 2015 y 30 de junio de 2016 el Grupo utilizó en la conversión de los estados financieros de dichas sociedades un tipo de cambio estimado que ascendió a 469 y 1.170 bolívares por euro, respectivamente. Estos tipos de cambio han sido calculados teniendo en consideración la evolución de la inflación estimada en Venezuela a dichas fechas (a 31 de diciembre de 2015, 170% y a 30 de junio de 2016, 133,6%) por el servicio de estudios del Grupo (véase Nota 2.2.20).
+
+A continuación, se muestran los saldos aportados al balance consolidado a 31 de diciembre de 2016 y a la cuenta de pérdidas y ganancias consolidada del ejercicio 2016, por las sociedades del Grupo radicadas en Venezuela, cuyos estados financieros están expresados en la moneda bolívar fuerte venezolano, aplicando el tipo de cambio estimado en comparación con los saldos que hubiesen resultado de aplicar el último tipo de cambio publicado: 
+ 
+<table>
+    <thead>
+        <tr>
+            <th>Balance Diciembre 2016</th>
+            <th>Tipo de cambio estimado</th>
+            <th>SIMADI publicado</th>
+            <th>Variación</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Efectivo y depósitos en bancos centrales</td>
+            <td>363</td>
+            <td>971</td>
+            <td>608</td>
+        </tr>
+        <tr>
+            <td>Cartera de títulos</td>
+            <td>93</td>
+            <td>248</td>
+            <td>155</td>
+        </tr>
+        <tr>
+            <td>Prestamos y anticipos</td>
+            <td>513</td>
+            <td>1.371</td>
+            <td>858</td>
+        </tr>
+        <tr>
+            <td>Activo tangible</td>
+            <td>66</td>
+            <td>177</td>
+            <td>111</td>
+        </tr>
+        <tr>
+            <td>Otros activos</td>
+            <td>36</td>
+            <td>95</td>
+            <td>59</td>
+        </tr>
+        <tr>
+            <td>TOTAL ACTIVO</td>
+            <td>1.070</td>
+            <td>2.862</td>
+            <td>1.791</td>
+        </tr>
+        <tr>
+            <td>Depósitos de bancos centrales y entidades de crédito</td>
+            <td>2</td>
+            <td>5</td>
+            <td>3</td>
+        </tr>
+        <tr>
+            <td>Depósitos de la clientela</td>
+            <td>778</td>
+            <td>2.080</td>
+            <td>1.302</td>
+        </tr>
+        <tr>
+            <td>Provisiones</td>
+            <td>21</td>
+            <td>57</td>
+            <td>35</td>
+        </tr>
+        <tr>
+            <td>Otros pasivos</td>
+            <td>112</td>
+            <td>299</td>
+            <td>187</td>
+        </tr>
+        <tr>
+            <td>TOTAL PASIVO</td>
+            <td>913</td>
+            <td>2.441</td>
+            <td>1.528</td>
+        </tr>
+    </tbody>
+</table>
+
+<table>
+    <thead>
+        <tr>
+            <th>Cuenta de pérdidas y ganancias Diciembre 2016</th>
+            <th>Tipo de cambio estimado</th>
+            <th>SIMADI publicado</th>
+            <th>Variación</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>MARGEN DE INTERESES</td>
+            <td>103</td>
+            <td>275</td>
+            <td>172</td>
+        </tr>
+        <tr>
+            <td>Rendimiento de instrumentos de capital</td>
+            <td>0</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Resultados de entidades valoradas por el método de la participación</td>
+            <td>(3)</td>
+            <td>(7)</td>
+            <td>(4)</td>
+        </tr>
+        <tr>
+            <td>Comisiones netas</td>
+            <td>15</td>
+            <td>41</td>
+            <td>26</td>
+        </tr>
+        <tr>
+            <td>Resultados de operaciones financieras (neto) y diferencias de cambio (neto)</td>
+            <td>0</td>
+            <td>0</td>
+            <td>0</td>
+        </tr>
+        <tr>
+            <td>Otros productos y cargas de explotación</td>
+            <td>(64)</td>
+            <td>(171)</td>
+            <td>(107)</td>
+        </tr>
+        <tr>
+            <td>MARGEN BRUTO</td>
+            <td>52</td>
+            <td>139</td>
+            <td>87</td>
+        </tr>
+        <tr>
+            <td>Gastos de explotación</td>
+            <td>55</td>
+            <td>146</td>
+            <td>91</td>
+        </tr>
+        <tr>
+            <td>Gastos de administración</td>
+            <td>46</td>
+            <td>124</td>
+            <td>77</td>
+        </tr>
+        <tr>
+            <td>Gastos de personal</td>
+            <td>17</td>
+            <td>46</td>
+            <td>29</td>
+        </tr>
+        <tr>
+            <td>Otros gastos generales de administración</td>
+            <td>29</td>
+            <td>78</td>
+            <td>49</td>
+        </tr>
+        <tr>
+            <td>Amortización</td>
+            <td>8</td>
+            <td>22</td>
+            <td>14</td>
+        </tr>
+        <tr>
+            <td>MARGEN NETO</td>
+            <td>(3)</td>
+            <td>(7)</td>
+            <td>(5)</td>
+        </tr>
+        <tr>
+            <td>Pérdidas por deterioro de activos financieros (neto)</td>
+            <td>12</td>
+            <td>32</td>
+            <td>20</td>
+        </tr>
+        <tr>
+            <td>Dotaciones a provisiones (neto)</td>
+            <td>(45)</td>
+            <td>(119)</td>
+            <td>(75)</td>
+        </tr>
+        <tr>
+            <td>RESULTADO DE LA ACTIVIDAD DE EXPLOTACIÓN</td>
+            <td>30</td>
+            <td>80</td>
+            <td>50</td>
+        </tr>
+        <tr>
+            <td>Otros resultados</td>
+            <td>1</td>
+            <td>2</td>
+            <td>1</td>
+        </tr>
+        <tr>
+            <td>GANANCIAS O PÉRDIDAS ANTES DE IMPUESTOS PROCEDENTES DE LAS ACTIVIDADES CONTINUADAS</td>
+            <td>31</td>
+            <td>82</td>
+            <td>51</td>
+        </tr>
+        <tr>
+            <td>Impuesto sobre beneficios</td>
+            <td>38</td>
+            <td>100</td>
+            <td>63</td>
+        </tr>
+        <tr>
+            <td>RESULTADO DEL EJERCICIO PROCEDENTE DE OPERACIONES CONTINUADAS</td>
+            <td>(7)</td>
+            <td>(19)</td>
+            <td>(12)</td>
+        </tr>
+        <tr>
+            <td>Resultado de operaciones interrumpidas (neto)</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>RESULTADO DEL EJERCICIO</td>
+            <td>(7)</td>
+            <td>(19)</td>
+            <td>(12)</td>
+        </tr>
+        <tr>
+            <td> Atribuible a intereses minoritarios (participaciones no dominantes)</td>
+            <td>(3)</td>
+            <td>(8)</td>
+            <td>(5)</td>
+        </tr>
+        <tr>
+            <td> Atribuible a los propietarios de la dominante</td>
+            <td>(4)</td>
+            <td>(10)</td>
+            <td>(6)</td>
+        </tr>
+    </tbody>
+</table>
 
 
 #### 2.2.17 Reconocimiento de ingresos y gastos
@@ -717,7 +981,7 @@ En los arrendamientos financieros, cuando las entidades consolidadas actúan com
 
 En los arrendamientos operativos, si las entidades consolidadas actúan como arrendadoras, presentan el coste de adquisición de los bienes arrendados en el epígrafe "Activos tangibles - Inmovilizado material - Cedidos en arrendamiento operativo" de los balances consolidados (ver Nota 17). Estos activos se amortizan de acuerdo con las políticas adoptadas para los activos materiales similares de uso propio y los ingresos y gastos procedentes de los contratos de arrendamiento se reconocen en las cuentas de pérdidas y ganancias consolidadas, de forma lineal, en los epígrafes "Otros ingresos de explotación - Resto de ingresos de explotación” y " Otros gastos de explotación - Resto de gastos de explotación”, respectivamente (ver Nota 43).
 
-En el caso de ventas a su valor razonable con arrendamiento operativo posterior, los resultados generados por la venta se registran en la cuenta de pérdidas y ganancias consolidada en el momento de la misma. En el caso de arrendamiento financiero posterior, los resultados generados se periodifican a lo largo del periodo de arrendamiento.
+En el caso de ventas a su valor razonable con arrendamiento operativo posterior, los resultados generados por la venta se registran en la cuenta de pérdidas y ganancias consolidada en el momento de la misma. En el caso de arrendamiento financiero posterior, los resultados generados se periodifican a lo largo del periodo de arrendamiento. 
 
 Los activos cedidos bajo contratos de arrendamiento operativo a otras entidades del Grupo se tratan en los estados financieros consolidados como de uso propio y, por tanto, se eliminan los gastos y los ingresos por alquileres y se registran las amortizaciones correspondientes.
 
@@ -737,7 +1001,36 @@ Desde el ejercicio 2009, la economía de Venezuela se considera altamente inflac
 
 A continuación, se detalla el Índice Nacional de Precios al Consumidor y el índice de inflación utilizado a 31 de diciembre del 2016 y 2015 para la re-expresión por hiperinflación de los estados financieros de las sociedades del Grupo radicadas en Venezuela:
 
-TABLE GOES HERE
+<table>
+    <thead>
+        <tr>
+            <th>Índice de precios al consumidor </th>
+            <th>&nbsp;</th>
+            <th>2016 (*)</th>
+            <th>2015 (**)</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>INPC</td>
+            <td>&nbsp;</td>
+            <td>9.431,60</td>
+            <td>2.357,90</td>
+        </tr>
+        <tr>
+            <td>INPC promedio</td>
+            <td>&nbsp;</td>
+            <td>5.847,74</td>
+            <td>1.460,50</td>
+        </tr>
+        <tr>
+            <td>Inflación del ejercicio</td>
+            <td>&nbsp;</td>
+            <td>300%</td>
+            <td>170%</td>
+        </tr>
+    </tbody>
+</table>
 
 Las pérdidas registradas en el epígrafe “Resultado del periodo - Atribuible a los propietarios de la dominante” de la cuentas de pérdidas y ganancias consolidadas adjuntas, derivado del ajuste de la inflación por la posición monetaria neta en las entidades del Grupo BBVA radicadas en Venezuela ha sido de 0000 y 24 millones de euros a 31 de diciembre de 2016 y  2015, respectivamente.
 
@@ -748,7 +1041,7 @@ Las pérdidas registradas en el epígrafe “Resultado del periodo - Atribuible 
 
 En el inicio del ejercicio de 2016 entraron en vigor las siguientes modificaciones de las NIIF y de las interpretaciones de las mismas (en adelante, “CINIIF”), que no han tenido un impacto significativo en los presentes estados financieros consolidados del Grupo BBVA.
 
-##### NIIF 11 modificada – “Acuerdos conjuntos”
+##### NIIF 11 modificada – “Acuerdos conjuntos” 
 
 Las modificaciones realizadas a la NIIF11 introducen una guía de contabilización de las adquisiciones de participaciones en operaciones conjuntas cuya actividad constituye un negocio, según la cual éstas se deberán contabilizar aplicando los principios de la NIIF 3 – Combinaciones de negocio.
 
@@ -756,11 +1049,11 @@ Las modificaciones realizadas a la NIIF11 introducen una guía de contabilizaci�
 
 Las modificaciones realizadas a la NIC 16 y a la NIC 38 excluyen, como norma general, de entre los métodos de depreciación y amortización de activos, aquellos métodos basados en los ingresos, por la razón de que, salvo en casos muy excepcionales, estos métodos no reflejan el patrón con arreglo al cual se espera que la entidad consuma los beneficios económicos del activo.
 
-##### NIC 27 modificada – “Estados financieros consolidados y separados”
+##### NIC 27 modificada – “Estados financieros consolidados y separados” 
 
 Las modificaciones realizadas a la NIC 27 permiten que las entidades utilicen el método de la participación para contabilizar sus inversiones en subsidiarias, negocios conjuntos y asociadas, en sus estados financieros separados.
 
-##### Proyecto anual de mejoras de las NIIFs 2012-2014
+##### Proyecto anual de mejoras de las NIIFs 2012-2014 
 
 El proyecto anual de mejoras a las NIIFs 2012-2014 introduce pequeñas modificaciones y aclaraciones a la NIIF 5 – “Activos no corrientes mantenidos para la venta y operaciones discontinuadas”, NIIF 7 – “Instrumentos financiaros: Información a revelar”, NIC 19 – “Beneficios a los empleados” y NIC 34 – “Información financiera intermedia”.
 
@@ -784,7 +1077,7 @@ A la fecha de formulación de los estados financieros consolidados adjuntos se h
 
 Con fecha 24 de julio de 2014, el IASB emitió la NIIF 9 que sustituirá en el futuro a la NIC 39 e incluye requerimientos para la clasificación y valoración de los activos y pasivos financieros, el deterioro de activos financieros y la contabilidad de coberturas. La clasificación de los activos financieros dependerá del modelo de negocio de la entidad para su gestión y de las características de los flujos de caja contractuales, y resultará en que los activos financieros se valorarán a coste amortizado, a valor razonable con cambios en patrimonio neto o a valor razonable con cambios en pérdidas y ganancias. El efecto combinado de la aplicación del modelo negocio y las características de flujos contractuales puede resultar en diferencias en la población de activos financieros valorados a coste amortizado o a valor razonable en comparación con NIC 39, aunque el Grupo no espera cambios relevantes en este sentido. En relación con los pasivos financieros, las categorías de clasificación propuestas por la NIIF 9 son similares a las ya existentes en la NIC 39, de modo que no deberían existir diferencias muy relevantes salvo por el requisito de registro de las variaciones del valor razonable relacionado con el riesgo propio de crédito como un componente del patrimonio, en el caso de los pasivos financieros medidos a valor razonable.
 
-Los requisitos de deterioro aplicarán para los activos financieros valorados a coste amortizado y a valor razonable con cambios en patrimonio neto, y para los contratos de arrendamiento y ciertos compromisos de préstamos y contratos de garantía financiera. En el reconocimiento inicial, se requiere una provisión por las pérdidas esperadas resultantes de eventos de deterioro que es posible que ocurran en los próximos 12 meses (“pérdida esperada a 12 meses”). En caso de un incremento de riesgo de crédito significativo, se requiere una provisión relativa a todos los posibles eventos de deterioro que se esperan a lo largo de la vida del instrumento financiero (“pérdida esperada a lo largo de la vida de toda la operación”). La evaluación de si el riesgo de crédito se ha incrementado significativamente desde el reconocimiento inicial debe realizarse, para cada periodo de información, considerando el cambio en el riesgo de incumplimiento a lo largo de la vida remanente del instrumento financiero. La evaluación del riesgo de crédito, y la estimación de las pérdidas esperadas, deben realizarse de forma que resulten en una estimación ponderada e insesgada y deberá incorporar toda la información disponible que sea relevante para la evaluación, incluyendo información sobre eventos pasados, condiciones actuales y previsiones razonables y soportadas de eventos futuros y de condiciones económicas en la fecha de información. Como resultado, el objetivo es que el reconocimiento y la valoración del deterioro se realicen de forma más anticipatoria y prospectiva que bajo el actual modelo de pérdida incurrida de la NIC 39. En principio, se espera un incremento en el nivel total de provisiones por deterioro, ya que todos los activos financieros llevarán consigo al menos una provisión por pérdida esperada de 12 meses y la población de activos financieros a los que aplicará una provisión por pérdida esperada a lo largo de la vida de toda la operación se espera que sea mayor que la población para la cual existe evidencia objetiva de deterioro bajo NIC 39.
+Los requisitos de deterioro aplicarán para los activos financieros valorados a coste amortizado y a valor razonable con cambios en patrimonio neto, y para los contratos de arrendamiento y ciertos compromisos de préstamos y contratos de garantía financiera. En el reconocimiento inicial, se requiere una provisión por las pérdidas esperadas resultantes de eventos de deterioro que es posible que ocurran en los próximos 12 meses (“pérdida esperada a 12 meses”). En caso de un incremento de riesgo de crédito significativo, se requiere una provisión relativa a todos los posibles eventos de deterioro que se esperan a lo largo de la vida del instrumento financiero (“pérdida esperada a lo largo de la vida de toda la operación”). La evaluación de si el riesgo de crédito se ha incrementado significativamente desde el reconocimiento inicial debe realizarse, para cada periodo de información, considerando el cambio en el riesgo de incumplimiento a lo largo de la vida remanente del instrumento financiero. La evaluación del riesgo de crédito, y la estimación de las pérdidas esperadas, deben realizarse de forma que resulten en una estimación ponderada e insesgada y deberá incorporar toda la información disponible que sea relevante para la evaluación, incluyendo información sobre eventos pasados, condiciones actuales y previsiones razonables y soportadas de eventos futuros y de condiciones económicas en la fecha de información. Como resultado, el objetivo es que el reconocimiento y la valoración del deterioro se realicen de forma más anticipatoria y prospectiva que bajo el actual modelo de pérdida incurrida de la NIC 39. En principio, se espera un incremento en el nivel total de provisiones por deterioro, ya que todos los activos financieros llevarán consigo al menos una provisión por pérdida esperada de 12 meses y la población de activos financieros a los que aplicará una provisión por pérdida esperada a lo largo de la vida de toda la operación se espera que sea mayor que la población para la cual existe evidencia objetiva de deterioro bajo NIC 39. 
 
 La contabilidad general de coberturas también implicará cambios, pues el enfoque de la norma es distinto al de la actual NIC 39, al tratar de alinear la contabilidad con la gestión económica del riesgo. Asimismo, la NIIF 9 permitirá aplicar contabilidad de coberturas a una mayor variedad de riesgos e instrumentos de cobertura. La norma no trata la contabilidad de las denominadas estrategias de macrocoberturas. Con objeto de evitar algún conflicto entre la contabilidad actual de macrocoberturas y el nuevo régimen general de contabilidad de coberturas, la NIIF 9 incluye una opción de política contable para seguir aplicando contabilidad de coberturas de acuerdo a NIC 39.
 
@@ -811,19 +1104,19 @@ Las modificaciones introducen dos opciones para abordar la problemática relacio
 
 La NIIF 15 establece los principios que una entidad deberá aplicar para contabilizar los ingresos y flujos de fondos procedentes de los contratos para la venta de bienes o servicios a sus clientes.
 
-Según esta nueva norma, las entidades reconocerán los ingresos procedentes de un contrato con clientes cuando hayan satisfecho sus obligaciones de transmisión de bienes o realización de servicios a sus clientes, de acuerdo con lo contractualmente pactado, y se considera que un bien o servicio ha sido transferido cuando el cliente obtiene el control del mismo. Respecto al importe que se ha de reconocer, éste será aquel que refleje el pago al que se espera tener dere cho por los bienes o servicios transferidos.
+Según esta nueva norma, las entidades reconocerán los ingresos procedentes de un contrato con clientes cuando hayan satisfecho sus obligaciones de transmisión de bienes o realización de servicios a sus clientes, de acuerdo con lo contractualmente pactado, y se considera que un bien o servicio ha sido transferido cuando el cliente obtiene el control del mismo. Respecto al importe que se ha de reconocer, éste será aquel que refleje el pago al que se espera tener dere cho por los bienes o servicios transferidos. 
 
 Esta norma será de aplicación a los ejercicios que comiencen a partir del 1 de enero de 2018, aunque se permite su aplicación anticipada.
 
 ##### NIIF 15 - "Aclaraciones a la NIIF 15 Ingresos de contratos con clientes"
 
-Las modificaciones realizadas a la NIIF 15 aclaran cómo deben ser aplicados algunos de los principios de la nueva Norma. En concreto, aclaran:
+Las modificaciones realizadas a la NIIF 15 aclaran cómo deben ser aplicados algunos de los principios de la nueva Norma. En concreto, aclaran: 
 
 • Cómo identificar una obligación de ejecución (promesa de transferir un bien o un servicio a un cliente) en un contrato;
 • Cómo determinar si una entidad actúa como principal (proveedor de un bien o servicio) o como agente (responsable de la organización para que se transfiera el bien o servicio); y
 • Cómo determinar si el ingreso de la concesión de una licencia debe ser reconocido en un momento determinado o a lo largo del tiempo.
 
-Además, se incluyen dos modificaciones para reducir el coste y la complejidad de la aplicación por primera vez de la nueva Norma.
+Además, se incluyen dos modificaciones para reducir el coste y la complejidad de la aplicación por primera vez de la nueva Norma. 
 
 Las modificaciones serán de aplicación al mismo tiempo que la NIIF 15, es decir, a los ejercicios que comiencen a partir del 1 de enero de 2018, aunque se permite su aplicación anticipada.
 
@@ -841,7 +1134,7 @@ Las modificaciones realizadas a la NIC 12 aclaran los requisitos para el reconoc
 • La entidad evaluará la utilización de una diferencia temporaria deducible en combinación con otras diferencias temporarias deducibles. Cuando las leyes fiscales restrinjan la utilización de pérdidas fiscales, la entidad deberá valorar su utilización en relación con otras diferencias temporarias del tipo adecuado.
 • La estimación de los beneficios fiscales futuros puede contemplar beneficios derivados de la recuperación de activos por un importe superior a su valor en libros, siempre y cuando exista evidencia suficiente de que es probable que ése sea el importe por el que se vaya a recuperar el activo.
 • La estimación de los beneficios fiscales futuros excluye las deducciones fiscales procedentes de la reversión de diferencias temporarias deducibles.
-Las modificaciones serán de aplicación a los ejercicios que comiencen a partir del 1 de enero de 2017, aunque se permite su aplicación anticipada.
+Las modificaciones serán de aplicación a los ejercicios que comiencen a partir del 1 de enero de 2017, aunque se permite su aplicación anticipada. 
 
 ##### NIIF 16 – “Arrendamientos”
 
@@ -853,7 +1146,7 @@ Esta norma será de aplicación a los ejercicios que comiencen a partir del 1 de
 
 ##### NIC 7 - "Estado de Flujos de Efectivo. Iniciativa sobre Información a Revelar"
 
-Las modificaciones realizadas a la NIC 7 introducen los siguientes nuevos desgloses de información relacionada con los cambios en los pasivos procedentes de las actividades de financiación, en la medida necesaria para que los usuarios de los estados financieros puedan evaluar los cambios en dichos pasivos: cambios de los flujos de efectivo de financiación; cambios derivados de la obtención o pérdida del control de subsidiarias u otros negocios; el efecto de los cambios en los tipos de cambio; cambios en el valor razonable; y otros cambios.
+Las modificaciones realizadas a la NIC 7 introducen los siguientes nuevos desgloses de información relacionada con los cambios en los pasivos procedentes de las actividades de financiación, en la medida necesaria para que los usuarios de los estados financieros puedan evaluar los cambios en dichos pasivos: cambios de los flujos de efectivo de financiación; cambios derivados de la obtención o pérdida del control de subsidiarias u otros negocios; el efecto de los cambios en los tipos de cambio; cambios en el valor razonable; y otros cambios. 
 
 Los pasivos procedentes de las actividades de financiación son pasivos para los cuales los flujos de efectivo eran, o para los cuales los flujos de efectivo futuros serán, clasificados en el estado de flujos de efectivo como flujos de efectivo de las actividades de financiación. Además, los requisitos de desgloses también se aplican a los cambios en los activos financieros si los flujos de efectivo de los activos financieros eran, o si los flujos de efectivo futuros serán, incluidos en los flujos de efectivo de las actividades de financiación.
 
@@ -880,17 +1173,57 @@ En los Anexos I y II se facilita información relevante a 31 de diciembre de 201
 
 A continuación se muestra la aportación, al activo total del Grupo a 31 de diciembre de 2016, 2015 y 2017, de las sociedades del Grupo, agrupadas en función de su actividad:
 
-TABLE GOES HERE
+<table>
+    <thead>
+        <tr>
+            <th>Aportaciones al Activo total Grupo consolidado. Sociedades según su actividad principal</th>
+            <th>&nbsp;</th>
+            <th>2016</th>
+            <th>2015</th>
+            <th>2014</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Banca y otros servicios financieros</td>
+            <td>&nbsp;</td>
+            <td>699.592</td>
+            <td>717.981</td>
+            <td>601.794</td>
+        </tr>
+        <tr>
+            <td>Seguros y sociedades gestoras de fondos de pensiones</td>
+            <td>&nbsp;</td>
+            <td>26.831</td>
+            <td>25.741</td>
+            <td>23.370</td>
+        </tr>
+        <tr>
+            <td>Otros servicios no financieros</td>
+            <td>&nbsp;</td>
+            <td>5.433</td>
+            <td>6.133</td>
+            <td>6.778</td>
+        </tr>
+        <tr>
+            <td>Total</td>
+            <td>&nbsp;</td>
+            <td>731.856</td>
+            <td>749.855</td>
+            <td>631.942</td>
+        </tr>
+    </tbody>
+</table>
 
 Los activos totales y resultados a dichas fechas agrupados por segmentos de negocio se recogen en la Nota 6.
 La actividad del Grupo BBVA se desarrolla principalmente en España, México, América del Sur, Estados Unidos y Turquía, además mantiene una presencia activa en otros países, como se muestra a continuación:
 
 • España
-La actividad del Grupo en España se realiza, fundamentalmente, a través de Banco Bilbao Vizcaya Argentaria, S.A., sociedad matriz del Grupo BBVA (incluyendo Catalunya Banc). Adicionalmente, existen otras sociedades del Grupo en España que operan en el sector bancario, asegurador, inmobiliario, de servicios y de arrendamiento operativo.
+La actividad del Grupo en España se realiza, fundamentalmente, a través de Banco Bilbao Vizcaya Argentaria, S.A., sociedad matriz del Grupo BBVA (incluyendo Catalunya Banc). Adicionalmente, existen otras sociedades del Grupo en España que operan en el sector bancario, asegurador, inmobiliario, de servicios y de arrendamiento operativo. 
 • México
 El Grupo BBVA está presente en México, tanto en el sector bancario como en el de seguros, a través del Grupo Financiero Bancomer.
 • América del Sur
-La actividad del Grupo BBVA en América del Sur se desarrolla, principalmente, en el negocio bancario y asegurador en los siguientes países: Argentina, Chile, Colombia, Paraguay, Perú, Uruguay y Venezuela. También tiene una oficina de representación en Sao Paulo (Brasil).
+La actividad del Grupo BBVA en América del Sur se desarrolla, principalmente, en el negocio bancario y asegurador en los siguientes países: Argentina, Chile, Colombia, Paraguay, Perú, Uruguay y Venezuela. También tiene una oficina de representación en Sao Paulo (Brasil). 
 En la mayoría de las sociedades participadas radicadas en estos países, el Grupo posee un porcentaje de participación superior al 50%. En el Anexo I se indican las sociedades en las que, aunque el Grupo BBVA poseía a 31 de diciembre de 2016 un porcentaje de propiedad inferior al 50%, se consolidan por el método de integración global (ver Nota 2.1).
 • Estados Unidos
 La actividad del Grupo en Estados Unidos se desarrolla, principalmente, a través de un grupo de sociedades cuya cabecera es BBVA Compass Bancshares, Inc.; de la sucursal de BBVA en Nueva York y de una oficina de representación en Silicon Valley (California).
@@ -899,14 +1232,14 @@ La actividad del Grupo en Turquía se desarrolla principalmente a través del Gr
 • Resto de Europa
 La actividad del Grupo en el resto de Europa se desarrolla a través de entidades bancarias y financieras, principalmente, en Irlanda, Suiza, Italia, Países Bajos, Rumanía, Rusia y Portugal; sucursales del Banco en Alemania, Bélgica, Francia, Italia y Reino Unido y oficinas de representación en Rusia.
 • Asia-Pacífico
-La actividad del Grupo en esta región se desarrolla a través de sucursales del Banco (Taipéi, Seúl, Tokio, Hong Kong, Singapur y Shanghái) y de oficinas de representación (Beijing, Mumbai, Abu Dhabi, Sidney y Yakarta).
+La actividad del Grupo en esta región se desarrolla a través de sucursales del Banco (Taipéi, Seúl, Tokio, Hong Kong, Singapur y Shanghái) y de oficinas de representación (Beijing, Mumbai, Abu Dhabi, Sidney y Yakarta). 
 
 
 #### Variaciones en el Grupo en 2016
 
 ##### Fusiones
 
-El Grupo BBVA acordó en la reunión del Consejo de Administración del Banco celebrada el día 31 de marzo de 2016 iniciar el proceso para la integración de las sociedades BBVA, S.A., Catalunya Banc, S.A., Banco Depositario BBVA, S.A. y Unoe Bank, S.A., siendo la primera la sociedad absorbente. Esta operación forma parte de un proceso de reorganización societaria de sus filiales bancarias en España.
+El Grupo BBVA acordó en la reunión del Consejo de Administración del Banco celebrada el día 31 de marzo de 2016 iniciar el proceso para la integración de las sociedades BBVA, S.A., Catalunya Banc, S.A., Banco Depositario BBVA, S.A. y Unoe Bank, S.A., siendo la primera la sociedad absorbente. Esta operación forma parte de un proceso de reorganización societaria de sus filiales bancarias en España. 
 
 El día 9 de septiembre de 2016, tras obtener la autorización pertinente de las autoridades, se procedió a la inscripción en el Registro Mercantil de Bizkaia de la escritura de fusión por absorción de Catalunya Banc, S.A. por BBVA, S.A.
 En los Estados Financieros consolidados, las operaciones de fusión referidas son neutras tanto a efectos contables como de solvencia.
@@ -932,16 +1265,16 @@ La puesta a valor razonable antes mencionada supuso un impacto negativo no recur
 
 Los mencionados acuerdos con el grupo Dogus incluyen un pacto para la gestión de dicho banco y la designación por el Grupo BBVA de la mayoría de los miembros de su Consejo de Administración (7 de un total de 10). La participación del 39,9% en Garanti se consolida en el Grupo BBVA, debido a los mencionados acuerdos de gestión.
 
-La estimación realizada por el Grupo, de acuerdo con el método de adquisición, que compara entre los valores razonables asignados a los activos adquiridos y pasivos asumidos de Garanti, junto con los activos intangibles identificados, y el pago en efectivo realizado por el Grupo como contraprestación de la operación, generó una diferencia de 0000 millones de euros (al tipo de cambio de 31 de diciembre de 2016), que se encuentra registrada en el capítulo “Activos intangibles – Fondo de comercio” del balance consolidado a 31 de diciembre de 2016 (ver Nota 18.1).
+La estimación realizada por el Grupo, de acuerdo con el método de adquisición, que compara entre los valores razonables asignados a los activos adquiridos y pasivos asumidos de Garanti, junto con los activos intangibles identificados, y el pago en efectivo realizado por el Grupo como contraprestación de la operación, generó una diferencia de 0000 millones de euros (al tipo de cambio de 31 de diciembre de 2016), que se encuentra registrada en el capítulo “Activos intangibles – Fondo de comercio” del balance consolidado a 31 de diciembre de 2016 (ver Nota 18.1). 
 
 
 ###### Adquisición de Catalunya Banc
 
 El 21 de julio de 2014, la Comisión Rectora del Fondo de Reestructuración Ordenada Bancaria (“FROB”), adjudicó a la oferta de BBVA el proceso competitivo para la adquisición de Catalunya Banc, S.A. (“Catalunya Banc”).
 
-El 24 de abril de 2015, una vez obtenidas las preceptivas autorizaciones regulatorias de las autoridades competentes, se formalizó la compra de un total de 1.947.166.809 acciones de Catalunya Banc, S.A. representativas del aproximadamente 98,4% de su capital social por un precio de, aproximadamente, 1.165 millones de euros.
+El 24 de abril de 2015, una vez obtenidas las preceptivas autorizaciones regulatorias de las autoridades competentes, se formalizó la compra de un total de 1.947.166.809 acciones de Catalunya Banc, S.A. representativas del aproximadamente 98,4% de su capital social por un precio de, aproximadamente, 1.165 millones de euros. 
 
-A 31 de diciembre de 2015, de acuerdo con el método de adquisición, la comparación entre los valores razonables asignados a los activos adquiridos y pasivos asumidos de Catalunya Banc, junto con los activos intangibles identificados, y el pago en efectivo realizado por el Grupo al FROB como contraprestación de la operación, generó una diferencia de 26 millones de euros, que se encuentra registrada en el capítulo “Fondo de comercio negativo reconocido en resultados” de la cuenta de pérdidas y ganancias consolidada del ejercicio 2015. De acuerdo con la NIIF 3, se disponía de un plazo de hasta un año para poder finalizar los ajustes necesarios al cálculo de adquisición inicial (ver Nota 18.1). Transcurrido dicho plazo, no se ha producido ningún ajuste significativo que implique modificar el cálculo registrado en el ejercicio 2015.
+A 31 de diciembre de 2015, de acuerdo con el método de adquisición, la comparación entre los valores razonables asignados a los activos adquiridos y pasivos asumidos de Catalunya Banc, junto con los activos intangibles identificados, y el pago en efectivo realizado por el Grupo al FROB como contraprestación de la operación, generó una diferencia de 26 millones de euros, que se encuentra registrada en el capítulo “Fondo de comercio negativo reconocido en resultados” de la cuenta de pérdidas y ganancias consolidada del ejercicio 2015. De acuerdo con la NIIF 3, se disponía de un plazo de hasta un año para poder finalizar los ajustes necesarios al cálculo de adquisición inicial (ver Nota 18.1). Transcurrido dicho plazo, no se ha producido ningún ajuste significativo que implique modificar el cálculo registrado en el ejercicio 2015. 
 
 
 ##### Desinversiones
@@ -950,9 +1283,9 @@ A 31 de diciembre de 2015, de acuerdo con el método de adquisición, la compara
 
 El 23 de enero de 2015, el Grupo BBVA anunció la firma de un acuerdo para vender un 4,9% del capital social de China CITIC Bank Corporation Limited (CNCB) a UBS AG, London Branch (UBS) quien, a su vez, firmó determinados acuerdos, conforme a los cuales las acciones de CNCB serían transferidas a un tercero y el beneficiario económico final de la propiedad de dichas acciones será Xinhu Zhongbao Co. Ltd. (Xinhu). El 12 de marzo de 2015, una vez obtenidas las preceptivas autorizaciones regulatorias de las autoridades competentes, se formalizó la venta.
 
-El precio de venta que pagó UBS fue de 5,73 dólares de Hong Kong (HK$) por acción y el importe total fue de HK$ 13.136 millones, equivalente aproximadamente a 1.555 millones de euros (calculados al tipo de cambio: EUR/HK$= 8,45 vigente al cierre de la operación).
+El precio de venta que pagó UBS fue de 5,73 dólares de Hong Kong (HK$) por acción y el importe total fue de HK$ 13.136 millones, equivalente aproximadamente a 1.555 millones de euros (calculados al tipo de cambio: EUR/HK$= 8,45 vigente al cierre de la operación). 
 
-Adicionales al 4,9% y hasta completar un 6,34%, se realizaron distintas ventas en mercado durante el primer semestre 2015. El impacto total de dichas ventas en los estados financieros consolidados del Grupo BBVA fue una plusvalía neta de aproximadamente 705 millones de euros. La plusvalía bruta de impuestos se encuentra registrada en el epígrafe “Ganancias o pérdidas procedentes de activos no corrientes y grupos enajenables de elementos clasificados como mantenidos para la venta no admisibles como actividades interrumpidas” de la cuenta de pérdidas y ganancias consolidada del primer semestre de 2015 adjunta (ver Nota 50).
+Adicionales al 4,9% y hasta completar un 6,34%, se realizaron distintas ventas en mercado durante el primer semestre 2015. El impacto total de dichas ventas en los estados financieros consolidados del Grupo BBVA fue una plusvalía neta de aproximadamente 705 millones de euros. La plusvalía bruta de impuestos se encuentra registrada en el epígrafe “Ganancias o pérdidas procedentes de activos no corrientes y grupos enajenables de elementos clasificados como mantenidos para la venta no admisibles como actividades interrumpidas” de la cuenta de pérdidas y ganancias consolidada del primer semestre de 2015 adjunta (ver Nota 50). 
 
 A 31 de diciembre de 2016, el valor en libros de la participación mantenida en CNCB asciende a 0000 millones de euros, equivalente al 0000% de participación y se encuentra registrada en el epígrafe “Activos financieros disponibles para la venta” del balance consolidado a dicha fecha.
 
@@ -965,20 +1298,20 @@ El 27 de agosto de 2015 se completó la venta de dicha participación sin impact
 
 #### Variaciones en el Grupo en 2014
 
-Sin variaciones significativas durante el ejercicio 2014.
+Sin variaciones significativas durante el ejercicio 2014. 
 
 
 ## 4. Sistema de retribución a los accionistas
 
 #### Esquema de retribución a los accionistas
 
-Durante los ejercicios 2012, 2013, 2014, 2015 y 2016, el Grupo tiene implementado un sistema de retribución al accionista denominado “Dividendo Opción”.
+Durante los ejercicios 2012, 2013, 2014, 2015 y 2016, el Grupo tiene implementado un sistema de retribución al accionista denominado “Dividendo Opción”. 
 
 A través de este esquema de retribución, BBVA ofrece a sus accionistas la posibilidad de recibir la totalidad o parte de su remuneración en acciones ordinarias de nueva emisión, manteniendo, en todo caso, la posibilidad de que el accionista, a su elección, perciba su retribución en efectivo, vendiendo los derechos de asignación gratuita que le son asignados en cada aumento de capital, bien a BBVA (en el ejercicio del compromiso de adquisición de los derechos de asignación gratuita asumido por el Banco al precio fijo que se establezca) o bien en el mercado al precio en que coticen en cada momento.
 
-El 31 de marzo de 2016, el Consejo de Administración del Banco acordó llevar a efecto el primero de los aumentos de capital con cargo a reservas voluntarias acordados por la Junta General Ordinaria de Accionistas de 11 de marzo de 2016 para el desarrollo del sistema de retribución al accionista denominado “Dividendo Opción”. Ello supuso finalmente un aumento de capital de 55.702.125,43 euros (113.677.807 acciones de 0,49 euros de valor nominal), dado que titulares del 82,13% de los derechos de asignación gratuita optaron por recibir nuevas acciones ordinarias de BBVA. Titulares del 17,87% restante de los derechos de asignación gratuita, ejercitaron el compromiso de adquisición de dichos derechos asumido por BBVA, por lo que BBVA adquirió 1.137.500.965 derechos a un precio bruto fijo de 0,129 euros por derecho, lo que supuso un importe total de 146.737.624,49 euros, que se encuentra registrado en el epígrafe “Patrimonio neto - Fondos Propios - Dividendos a cuenta” del balance consolidado a 30 de junio de 2016.
+El 31 de marzo de 2016, el Consejo de Administración del Banco acordó llevar a efecto el primero de los aumentos de capital con cargo a reservas voluntarias acordados por la Junta General Ordinaria de Accionistas de 11 de marzo de 2016 para el desarrollo del sistema de retribución al accionista denominado “Dividendo Opción”. Ello supuso finalmente un aumento de capital de 55.702.125,43 euros (113.677.807 acciones de 0,49 euros de valor nominal), dado que titulares del 82,13% de los derechos de asignación gratuita optaron por recibir nuevas acciones ordinarias de BBVA. Titulares del 17,87% restante de los derechos de asignación gratuita, ejercitaron el compromiso de adquisición de dichos derechos asumido por BBVA, por lo que BBVA adquirió 1.137.500.965 derechos a un precio bruto fijo de 0,129 euros por derecho, lo que supuso un importe total de 146.737.624,49 euros, que se encuentra registrado en el epígrafe “Patrimonio neto - Fondos Propios - Dividendos a cuenta” del balance consolidado a 30 de junio de 2016. 
 
-El 30 de septiembre de 2015, el Consejo de Administración del Banco acordó llevar a efecto el segundo de los aumentos de capital con cargo a reservas voluntarias acordados por la Junta General de Accionistas de 13 de marzo de 2015 para la implementación del “Dividendo Opción”. Ello supuso finalmente un aumento de capital de 30.106.631,94 euros (61.442.106 acciones de 0,49 euros de valor nominal), dado que titulares del 89,65% de los derechos de asignación gratuita optaron por recibir nuevas acciones ordinarias de BBVA. Titulares del 10,35% restante de los derechos de asignación gratuita ejercitaron el compromiso de adquisición de dichos derechos asumido por BBVA, por lo que BBVA adquirió 652.564.118 derechos a un precio bruto fijo de 0,08 euros por derecho, lo que supuso un importe total de 52.205.129,44 euros, que se encuentra registrado en el epígrafe “Patrimonio neto - Fondos Propios - Dividendos a cuenta” del balance consolidado a 31 de diciembre de 2015.
+El 30 de septiembre de 2015, el Consejo de Administración del Banco acordó llevar a efecto el segundo de los aumentos de capital con cargo a reservas voluntarias acordados por la Junta General de Accionistas de 13 de marzo de 2015 para la implementación del “Dividendo Opción”. Ello supuso finalmente un aumento de capital de 30.106.631,94 euros (61.442.106 acciones de 0,49 euros de valor nominal), dado que titulares del 89,65% de los derechos de asignación gratuita optaron por recibir nuevas acciones ordinarias de BBVA. Titulares del 10,35% restante de los derechos de asignación gratuita ejercitaron el compromiso de adquisición de dichos derechos asumido por BBVA, por lo que BBVA adquirió 652.564.118 derechos a un precio bruto fijo de 0,08 euros por derecho, lo que supuso un importe total de 52.205.129,44 euros, que se encuentra registrado en el epígrafe “Patrimonio neto - Fondos Propios - Dividendos a cuenta” del balance consolidado a 31 de diciembre de 2015. 
 
 El 25 de marzo de 2015, el Consejo de Administración del Banco acordó llevar a efecto el primero de los aumentos de capital con cargo a reservas voluntarias acordados por la Junta General Ordinaria de Accionistas de 13 de marzo de 2015 para la implementación del “Dividendo Opción”. Ello supuso finalmente un aumento de capital de 39.353.896,26 euros (80.314.074 acciones de 0,49 euros de valor nominal), dado que titulares del 90,31% de los derechos de asignación gratuita optaron por recibir nuevas acciones ordinarias de BBVA. Titulares del 9,69% restante de los derechos de asignación gratuita ejercitaron el compromiso de adquisición de dichos derechos asumido por BBVA, por lo que BBVA adquirió 602.938.646 derechos a un precio bruto fijo de 0,13 euros por derecho, lo que supuso un importe total de 78.382.023,98 euros, que se encuentra registrado en el epígrafe “Patrimonio neto - Fondos Propios – Dividendos a cuenta” del balance consolidado a 31 de diciembre de 2015.
 
@@ -987,18 +1320,77 @@ El 25 de marzo de 2015, el Consejo de Administración del Banco acordó llevar a
 El Consejo de Administración de BBVA, en su reunión del 22 de junio de 2016, aprobó la distribución en efectivo de la primera cantidad a cuenta del dividendo del ejercicio 2016, por importe de 0,08 euros brutos (0,0648 euros tras las retenciones correspondientes) por cada acción de BBVA en circulación, que se ha abonado el 11 de julio de 2016.
 
 Los estados contables previsionales formulados de acuerdo con los requisitos legales exigidos, que ponen de manifiesto la existencia de liquidez suficiente para la distribución de dicho dividendo, son los siguientes:
-IMAGE GOES HERE
+
+<table>
+    <thead>
+        <tr>
+            <th>Cantidad disponible para reparto de dividendos a cuenta según estado previsional al:</th>
+            <th>"31 mayo</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td> 2016"</td>
+            <td>30 noviembre 2016</td>
+        </tr>
+        <tr>
+            <td>Beneficio de BBVA, S.A. a la fecha indicada, después de la provisión para el impuesto sobre beneficios</td>
+            <td>1.371</td>
+            <td>1.826</td>
+        </tr>
+        <tr>
+            <td>Menos- </td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Estimación de la dotación de la reserva legal</td>
+            <td>11</td>
+            <td>20</td>
+        </tr>
+        <tr>
+            <td>Adquisición por BBVA, S.A. de derechos de asignación gratuita en ampliaciones de capital realizadas en 2016</td>
+            <td>147</td>
+            <td>210</td>
+        </tr>
+        <tr>
+            <td>Remuneración de los instrumentos de Capital de Nivel 1 Adicional</td>
+            <td>114</td>
+            <td>260</td>
+        </tr>
+        <tr>
+            <td>Dividendos a cuenta de resultados 2016 ya distribuidos</td>
+            <td>-</td>
+            <td>518</td>
+        </tr>
+        <tr>
+            <td>Cantidad máxima posible distribución</td>
+            <td>1.099</td>
+            <td>818</td>
+        </tr>
+        <tr>
+            <td>Cantidad de dividendo a cuenta propuesto</td>
+            <td>518</td>
+            <td>525</td>
+        </tr>
+        <tr>
+            <td>Saldo líquido en BBVA, S.A. disponible a la fecha</td>
+            <td>2.614</td>
+            <td>3.003</td>
+        </tr>
+    </tbody>
+</table>
 
 La cantidad total a cuenta del primer dividendo del ejercicio 2016 abonada a los accionistas el 11 de julio de 2016, deducidas las acciones mantenidas en autocartera por las sociedades del Grupo, ascendió a 517 millones de euros y figura registrado en el epígrafe “Patrimonio Neto - Fondos Propios – Dividendos a cuenta”  del balance consolidado a 30 de junio de 2016.
 
 El Consejo de Administración de BBVA, en su reunión del 22 de diciembre de 2015, aprobó la distribución en efectivo de la segunda cantidad a cuenta del dividendo del ejercicio 2015, por importe de 0,08 euros brutos (0,0648 euros tras las retenciones correspondientes) por cada acción de BBVA en circulación, que fue abonada el 12 de enero de 2016.
 
-La cantidad total a cuenta del segundo dividendo del ejercicio 2015 que fue abonada a los accionistas el 12 de enero de 2016, deducidas las acciones mantenidas en autocartera por las sociedades del Grupo, ha ascendido a 506 millones de euros y figura registrada en el epígrafe “Fondos Propios – Dividendos a cuenta”, con abono al epígrafe “Pasivos financieros a coste amortizado – Otros pasivos financieros” (ver Nota 22.4) del balance consolidado a 31 de diciembre de 2015.
+La cantidad total a cuenta del segundo dividendo del ejercicio 2015 que fue abonada a los accionistas el 12 de enero de 2016, deducidas las acciones mantenidas en autocartera por las sociedades del Grupo, ha ascendido a 506 millones de euros y figura registrada en el epígrafe “Fondos Propios – Dividendos a cuenta”, con abono al epígrafe “Pasivos financieros a coste amortizado – Otros pasivos financieros” (ver Nota 22.4) del balance consolidado a 31 de diciembre de 2015. 
 
 El Consejo de Administración de BBVA, en su reunión del 1 de julio de 2015, aprobó la distribución en efectivo de la primera cantidad a cuenta del dividendo del ejercicio 2015, por importe de 0,08 euros brutos (0,064 euros tras las retenciones correspondientes) por cada acción de BBVA en circulación, que fue abonada el 16 de julio de 2015.
 
 La cantidad total a cuenta del primer dividendo del ejercicio 2015 que fue pagada a los accionistas el 16 de julio de 2015, deducidas las acciones mantenidas en autocartera por las sociedades del Grupo, ascendió a 504 millones de euros y figura registrado en el epígrafe “Patrimonio Neto - Fondos Propios – Dividendos a cuenta” del balance consolidado a 31 de diciembre de 2015.
-
+ 
 
 ## 5. Beneficio atribuido por acción
 
@@ -1008,41 +1400,466 @@ En los ejercicios 2016, 2015 y 2014, el Banco ha llevado a cabo varias ampliacio
 
 El cálculo del beneficio atribuido por acción se detalla a continuación:
 
-TABLE GOES HERE
+<table>
+    <thead>
+        <tr>
+            <th>Cálculo del beneficio atribuido básico y diluido por acción</th>
+            <th>2016</th>
+            <th>2015 (*)</th>
+            <th>2014 (*)</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Numerador del beneficio por acción (millones de euros):</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Atribuíble a los propietarios de la dominante</td>
+            <td>3.475</td>
+            <td>2.642</td>
+            <td>2.618</td>
+        </tr>
+        <tr>
+            <td>Ajuste: Remuneración de los instrumentos de Capital de Nivel 1 Adicional (1)</td>
+            <td>(260)</td>
+            <td>(212)</td>
+            <td>(126)</td>
+        </tr>
+        <tr>
+            <td> Atribuíble a los propietarios de la dominante (millones de euros) (A)</td>
+            <td>3.215</td>
+            <td>2.430</td>
+            <td>2.492</td>
+        </tr>
+        <tr>
+            <td>Del que: ganancias o pérdidas después de impuestos procedentes de actividades interrumpidas (neto de minoritarios) (B)</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Denominador del beneficio por acción (millones de acciones):</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Número medio ponderado de acciones en circulación (2)</td>
+            <td>6.468</td>
+            <td>6.290</td>
+            <td>5.908</td>
+        </tr>
+        <tr>
+            <td>Número medio ponderado de acciones en circulación x factor corrector (3)</td>
+            <td>6.468</td>
+            <td>6.517</td>
+            <td>6.278</td>
+        </tr>
+        <tr>
+            <td>Número ajustado de acciones beneficio básico por acción (C)</td>
+            <td>6.468</td>
+            <td>6.517</td>
+            <td>6.278</td>
+        </tr>
+        <tr>
+            <td>Número ajustado de acciones beneficio diluido por acción (D)</td>
+            <td>6.468</td>
+            <td>6.517</td>
+            <td>6.278</td>
+        </tr>
+        <tr>
+            <td>Beneficio atribuido por acción</td>
+            <td>0,50</td>
+            <td>0,37</td>
+            <td>0,40</td>
+        </tr>
+        <tr>
+            <td>Beneficio básico por acción en operaciones continuadas (euros por acción) A-B/C</td>
+            <td>0,50</td>
+            <td>0,37</td>
+            <td>0,40</td>
+        </tr>
+        <tr>
+            <td>Beneficio diluido por acción en operaciones continuadas (euros por acción) A-B/D</td>
+            <td>0,50</td>
+            <td>0,37</td>
+            <td>0,40</td>
+        </tr>
+        <tr>
+            <td>Beneficio básico por acción en operaciones interrumpidas (euros por acción) B/C</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Beneficio diluido por acción en operaciones interrumpidas (euros por acción) B/D</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+    </tbody>
+</table>
+
+(1) Retribución en el ejercicio de las emisiones de valores perpetuos eventualmente convertibles registrada contra patrimonio (ver Nota 22.3).
+(2) Núm. medio de acciones en circulación (en millones), excluido el núm. medio de acciones propias mantenidas en autocartera a lo largo de cada ejercicio.
+(3) Aplicación del factor corrector del efecto de las ampliaciones de capital con derecho de suscripción preferente aplicado a los periodos previos a la emisión.
+(*) Datos recalculados por el factor corrector antes mencionado.
 
 A 31 de diciembre de 2016, 2015 y 2014, no existían otros instrumentos financieros ni compromisos con empleados basados en acciones, que tengan efecto significativo sobre el cálculo del beneficio atribuido diluido por acción de los periodos presentados. Por esta razón el beneficio atribuido básico y el diluido coinciden a ambas fechas.
 
 
 ## 6. Información por segmentos de negocio
 
-La información por segmentos de negocio se presenta de acuerdo a la NIIF 8 “Segmentos de negocio”. La información por segmentos de negocio constituye una herramienta básica para el seguimiento y la gestión de las diferentes actividades del Grupo BBVA. En la elaboración de la información por segmentos de negocio se parte de las unidades de mínimo nivel, que se agregan de acuerdo con la estructura establecida por la Dirección del Grupo para configurar unidades de ámbito superior y, finalmente, los propios segmentos de negocio.
+La información por segmentos de negocio se presenta de acuerdo a la NIIF 8 “Segmentos de negocio”. La información por segmentos de negocio constituye una herramienta básica para el seguimiento y la gestión de las diferentes actividades del Grupo BBVA. En la elaboración de la información por segmentos de negocio se parte de las unidades de mínimo nivel, que se agregan de acuerdo con la estructura establecida por la Dirección del Grupo para configurar unidades de ámbito superior y, finalmente, los propios segmentos de negocio. 
 
-En el año 2016, la estructura de la información por segmentos de negocio del Grupo BBVA sigue siendo básicamente la misma que la del ejercicio 2015. Con todo, la estructura actual de los segmentos de negocio del Grupo es la siguiente:
+En el año 2016, la estructura de la información por segmentos de negocio del Grupo BBVA sigue siendo básicamente la misma que la del ejercicio 2015. Con todo, la estructura actual de los segmentos de negocio del Grupo es la siguiente: 
 
-• Actividad bancaria en España
-Incluye las unidades en España de Red Minorista; Banca de Empresas y Corporaciones (BEC); Corporate & Investment Banking (CIB); BBVA Seguros y Asset Management. También incorpora las carteras, financiación y posiciones estructurales de tipo de interés del balance euro.
-• Actividad inmobiliaria en España
-Gestiona, de manera especializada, los activos inmobiliarios (excluidos los inmuebles de uso propio) en España, entre los que se incluyen: los inmuebles adjudicados, tanto los procedentes de hipotecas residenciales como de origen promotor; así como el negocio crediticio promotor.
+• Actividad bancaria en España 
+Incluye las unidades en España de Red Minorista; Banca de Empresas y Corporaciones (BEC); Corporate & Investment Banking (CIB); BBVA Seguros y Asset Management. También incorpora las carteras, financiación y posiciones estructurales de tipo de interés del balance euro. 
+• Actividad inmobiliaria en España 
+Gestiona, de manera especializada, los activos inmobiliarios (excluidos los inmuebles de uso propio) en España, entre los que se incluyen: los inmuebles adjudicados, tanto los procedentes de hipotecas residenciales como de origen promotor; así como el negocio crediticio promotor. 
 • Estados Unidos
-Incorpora los negocios que el Grupo desarrolla en este país a través del grupo BBVA Compass y la sucursal de BBVA en Nueva York.
-• Turquía
-Incorpora los negocios que el Grupo desarrolla a través del grupo Garanti.
+Incorpora los negocios que el Grupo desarrolla en este país a través del grupo BBVA Compass y la sucursal de BBVA en Nueva York. 
+• Turquía 
+Incorpora los negocios que el Grupo desarrolla a través del grupo Garanti. 
 • México
-Aglutina todos los negocios bancarios, los inmobiliarios y los de seguros efectuados en este país.
+Aglutina todos los negocios bancarios, los inmobiliarios y los de seguros efectuados en este país. 
 • América del Sur
-Incluye fundamentalmente la actividad bancaria y de seguros que BBVA desarrolla en la región.
-• Resto de Eurasia
+Incluye fundamentalmente la actividad bancaria y de seguros que BBVA desarrolla en la región. 
+• Resto de Eurasia 
 Incorpora la actividad llevada a cabo en el resto de Europa y Asia, es decir, los negocios minoristas y mayoristas desarrollados por el Grupo en la zona.
 
-Por último, el Centro Corporativo es un agregado que contiene todos aquellos activos y pasivos no asignados a los otros segmentos de negocio por corresponder básicamente a la función de holding del Grupo. Aglutina: los costes de las unidades centrales que tienen una función corporativa; la gestión de las posiciones estructurales de tipo de cambio; determinadas emisiones de instrumentos de patrimonio realizadas para el adecuado manejo de la solvencia global del Grupo; carteras, con sus correspondientes resultados, cuya gestión no está vinculada a relaciones con la clientela, tales como las participaciones industriales; ciertos activos y pasivos por impuestos; fondos por compromisos con empleados; fondos de comercio y otros intangibles; y los resultados procedentes de ciertas operaciones corporativas. En el segundo semestre de 2015, se reclasificaron algunos gastos de explotación, relacionados con Tecnología, desde el Centro Corporativo al área de negocio de Actividad Bancaria en España. Esta reclasificación se produjo como consecuencia del traspaso, a lo largo del año 2015, de competencias de gestión, recursos y responsabilidades, en materia de Tecnología, desde el Centro Corporativo al área de negocio de Actividad Bancaria en España. Los saldos correspondientes a junio 2015 han sido reexpresados para facilitar la comparabilidad con junio 2016.
+Por último, el Centro Corporativo es un agregado que contiene todos aquellos activos y pasivos no asignados a los otros segmentos de negocio por corresponder básicamente a la función de holding del Grupo. Aglutina: los costes de las unidades centrales que tienen una función corporativa; la gestión de las posiciones estructurales de tipo de cambio; determinadas emisiones de instrumentos de patrimonio realizadas para el adecuado manejo de la solvencia global del Grupo; carteras, con sus correspondientes resultados, cuya gestión no está vinculada a relaciones con la clientela, tales como las participaciones industriales; ciertos activos y pasivos por impuestos; fondos por compromisos con empleados; fondos de comercio y otros intangibles; y los resultados procedentes de ciertas operaciones corporativas. En el segundo semestre de 2015, se reclasificaron algunos gastos de explotación, relacionados con Tecnología, desde el Centro Corporativo al área de negocio de Actividad Bancaria en España. Esta reclasificación se produjo como consecuencia del traspaso, a lo largo del año 2015, de competencias de gestión, recursos y responsabilidades, en materia de Tecnología, desde el Centro Corporativo al área de negocio de Actividad Bancaria en España. Los saldos correspondientes a junio 2015 han sido reexpresados para facilitar la comparabilidad con junio 2016. 
 
 El desglose del activo total del Grupo BBVA por segmentos de negocio a 31 de diciembre de 2016, 2015 y 2014 es:
 
-IMAGE GOES HERE
+<table>
+    <thead>
+        <tr>
+            <th>Total activos del Grupo por segmentos de negocio</th>
+            <th>2016</th>
+            <th>2015 (1)</th>
+            <th>2014</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Actividad bancaria en España</td>
+            <td>332.642</td>
+            <td>339.775</td>
+            <td>318.446</td>
+        </tr>
+        <tr>
+            <td>Actividad inmobiliaria en España</td>
+            <td>13.713</td>
+            <td>17.122</td>
+            <td>17.365</td>
+        </tr>
+        <tr>
+            <td>Estados Unidos</td>
+            <td>88.902</td>
+            <td>86.454</td>
+            <td>69.261</td>
+        </tr>
+        <tr>
+            <td>Turquía (2)</td>
+            <td>84.866</td>
+            <td>89.003</td>
+            <td>22.342</td>
+        </tr>
+        <tr>
+            <td>México</td>
+            <td>93.318</td>
+            <td>99.594</td>
+            <td>93.731</td>
+        </tr>
+        <tr>
+            <td>América del Sur</td>
+            <td>77.918</td>
+            <td>70.661</td>
+            <td>84.364</td>
+        </tr>
+        <tr>
+            <td>Resto de Eurasia</td>
+            <td>18.980</td>
+            <td>23.469</td>
+            <td>22.325</td>
+        </tr>
+        <tr>
+            <td>Subtotal activos por áreas de negocio</td>
+            <td>710.339</td>
+            <td>726.079</td>
+            <td>627.834</td>
+        </tr>
+        <tr>
+            <td>Centro Corporativo y otros ajustes (3)</td>
+            <td>21.517</td>
+            <td>23.776</td>
+            <td>4.108</td>
+        </tr>
+        <tr>
+            <td>Total activos Grupo BBVA</td>
+            <td>731.856</td>
+            <td>749.855</td>
+            <td>631.942</td>
+        </tr>
+    </tbody>
+</table>
+
+(1) Los saldos correspondientes a diciembre 2015 han sido reexpresados (ver Nota 1.3).
+(2) La información se presenta bajo criterios de gestión, conforme a los cuáles los activos y los pasivos del Grupo Garanti se muestran en el ejercicio 2014 integrados proporcionalmente en base a la participación del 25,01% mantenida en dicho grupo. Tras la materialización del acuerdo detallado en la Nota 3, el Grupo Garanti pasa a consolidarse. 
+(3) Otros ajustes incluye los ajustes realizados para tener en cuenta el hecho de que, en los estados financieros consolidados, Garanti se contabiliza utilizando el método de la participación hasta la adquisición adicional del 14,89% en lugar de utilizarlos criterios de gestión a los que se hace referencia anteriormente.
+
 
 A continuación se presenta un detalle del beneficio atribuido y de los principales márgenes de las cuentas de pérdidas y ganancias consolidadas del primer semestre de 2016 y 2015 por segmentos de negocio:
 
-IMAGE GOES HERE
+<table>
+    <thead>
+        <tr>
+            <th>2016</th>
+            <th>&nbsp;</th>
+            <th>&nbsp;</th>
+            <th>&nbsp;</th>
+            <th>&nbsp;</th>
+            <th>&nbsp;</th>
+            <th>&nbsp;</th>
+            <th>&nbsp;</th>
+            <th>&nbsp;</th>
+            <th>&nbsp;</th>
+            <th>&nbsp;</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Margen de intereses</td>
+            <td>17.059 </td>
+            <td>3.883 </td>
+            <td>60 </td>
+            <td>1.953 </td>
+            <td>3.404 </td>
+            <td>5.126 </td>
+            <td>2.930 </td>
+            <td>166 </td>
+            <td>(461)</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Margen bruto</td>
+            <td>24.653 </td>
+            <td>6.445 </td>
+            <td>(6)</td>
+            <td>2.706 </td>
+            <td>4.257 </td>
+            <td>6.766 </td>
+            <td>4.054 </td>
+            <td>491 </td>
+            <td>(60)</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Margen neto (2)</td>
+            <td>11.862 </td>
+            <td>2.846 </td>
+            <td>(130)</td>
+            <td>863 </td>
+            <td>2.519 </td>
+            <td>4.371 </td>
+            <td>2.160 </td>
+            <td>149 </td>
+            <td>(916)</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Resultado antes de impuestos</td>
+            <td>6.392 </td>
+            <td>1.278 </td>
+            <td>(743)</td>
+            <td>612 </td>
+            <td>1.906 </td>
+            <td>2.678 </td>
+            <td>1.552 </td>
+            <td>203 </td>
+            <td>(1.094)</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Beneficio atribuido</td>
+            <td>3.475 </td>
+            <td>912 </td>
+            <td>(595)</td>
+            <td>459 </td>
+            <td>599 </td>
+            <td>1.980 </td>
+            <td>771 </td>
+            <td>151 </td>
+            <td>(801)</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>2015 (1)</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Margen de intereses</td>
+            <td>16.022 </td>
+            <td>4.001 </td>
+            <td>71 </td>
+            <td>1.811 </td>
+            <td>2.194 </td>
+            <td>5.387 </td>
+            <td>3.202 </td>
+            <td>183 </td>
+            <td>(424)</td>
+            <td>(404)</td>
+        </tr>
+        <tr>
+            <td>Margen bruto</td>
+            <td>23.362 </td>
+            <td>6.804 </td>
+            <td>(28)</td>
+            <td>2.631 </td>
+            <td>2.434 </td>
+            <td>7.081 </td>
+            <td>4.477 </td>
+            <td>473 </td>
+            <td>(192)</td>
+            <td>(318)</td>
+        </tr>
+        <tr>
+            <td>Margen neto (2)</td>
+            <td>11.254 </td>
+            <td>3.358 </td>
+            <td>(154)</td>
+            <td>825 </td>
+            <td>1.273 </td>
+            <td>4.459 </td>
+            <td>2.498 </td>
+            <td>121 </td>
+            <td>(1.017)</td>
+            <td>(109)</td>
+        </tr>
+        <tr>
+            <td>Resultado antes de impuestos</td>
+            <td>4.603 </td>
+            <td>1.548 </td>
+            <td>(716)</td>
+            <td>685 </td>
+            <td>853 </td>
+            <td>2.772 </td>
+            <td>1.814 </td>
+            <td>111 </td>
+            <td>(1.187)</td>
+            <td>(1.276)</td>
+        </tr>
+        <tr>
+            <td>Beneficio atribuido</td>
+            <td>2.642 </td>
+            <td>1.085 </td>
+            <td>(496)</td>
+            <td>517 </td>
+            <td>371 </td>
+            <td>2.094 </td>
+            <td>905 </td>
+            <td>75 </td>
+            <td>(1.910)</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>2014</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Margen de intereses</td>
+            <td>14.382</td>
+            <td>3.830</td>
+            <td>(38)</td>
+            <td>1.443</td>
+            <td>735</td>
+            <td>4.910</td>
+            <td>4.699</td>
+            <td>189</td>
+            <td>(651)</td>
+            <td>(734)</td>
+        </tr>
+        <tr>
+            <td>Margen bruto</td>
+            <td>20.725</td>
+            <td>6.621</td>
+            <td>(220)</td>
+            <td>2.137</td>
+            <td>944</td>
+            <td>6.522</td>
+            <td>5.191</td>
+            <td>736</td>
+            <td>(575)</td>
+            <td>(632)</td>
+        </tr>
+        <tr>
+            <td>Margen neto (2)</td>
+            <td>10.166</td>
+            <td>3.534</td>
+            <td>(373)</td>
+            <td>640</td>
+            <td>550</td>
+            <td>4.115</td>
+            <td>2.875</td>
+            <td>393</td>
+            <td>(1.328)</td>
+            <td>(240)</td>
+        </tr>
+        <tr>
+            <td>Resultado antes de impuestos</td>
+            <td>3.980</td>
+            <td>1.220</td>
+            <td>(1.287)</td>
+            <td>561</td>
+            <td>392</td>
+            <td>2.519</td>
+            <td>1.951</td>
+            <td>320</td>
+            <td>(1.615)</td>
+            <td>(83)</td>
+        </tr>
+        <tr>
+            <td>Beneficio atribuido</td>
+            <td>2.618</td>
+            <td>858</td>
+            <td>(901)</td>
+            <td>428</td>
+            <td>310</td>
+            <td>1.915</td>
+            <td>1.001</td>
+            <td>255</td>
+            <td>(1.249)</td>
+            <td>-</td>
+        </tr>
+    </tbody>
+</table>
+
+(1) Los saldos correspondientes a diciembre 2015 han sido reexpresados (ver Nota 1.3).
+(2) Resultado del Margen Bruto menos Gastos de Administración y menos Amortizaciones.
+(2) Desde el tercer trimestre de 2015, la participación total de BBVA en Garanti (39,9%) se consolida por el método de la integración global. Para periodos anteriores, los ingresos y gastos de Garanti se integran, en la información de gestión, en la proporción correspondiente al porcentaje de participación que el Grupo mantenía entonces (25,01%). Esta columna incluye, pues, ajustes derivados de la consolidación del Grupo Garanti por el método de la participación en los estados financieros consolidados (versus integración en la proporción correspondiente al porcentaje de participación de BBVA en Garanti que figura en la información de gestión) y otros ajustes inter-áreas. (Ver Nota 2)
 
 En el Informe de Gestión consolidado adjunto se presentan con más detalle las cuentas de pérdidas y ganancias, así como las principales magnitudes del balance, por segmentos de negocio.
 
@@ -1055,11 +1872,11 @@ El Grupo BBVA cuenta con un Modelo general de control y gestión de riesgos (den
 
 Este modelo se aplica de forma integral en el Grupo y se compone de los elementos básicos que se enumeran a continuación:
 
-• Gobierno y organización.
+• Gobierno y organización. 
 • Apetito de Riesgo.
-• Decisiones y procesos.
-• Evaluación, seguimiento y reporting.
-• Infraestructura.
+• Decisiones y procesos. 
+• Evaluación, seguimiento y reporting. 
+• Infraestructura. 
 
 El Grupo impulsa el desarrollo de una cultura de riesgos que asegure la aplicación consistente del modelo de control y gestión de riesgos en el Grupo, y que garantice que la función de riesgos es entendida e interiorizada a todos los niveles de la organización.
 
@@ -1071,7 +1888,7 @@ De este modo, y como a continuación se desarrolla, son los órganos sociales lo
 
 La responsabilidad de la gestión diaria de los riesgos corresponde a los negocios, que se atienen en el desarrollo de su actividad a las políticas, normas, procedimientos, infraestructuras y controles que, partiendo del marco fijado por los órganos sociales, son definidos por la función de riesgos.
 
-Para llevar a cabo esta labor de manera adecuada, la función de riesgos en el Grupo BBVA se ha configurado como una función única, global e independiente de las áreas comerciales.
+Para llevar a cabo esta labor de manera adecuada, la función de riesgos en el Grupo BBVA se ha configurado como una función única, global e independiente de las áreas comerciales. 
 
 
 ##### Esquema corporativo de gobierno
@@ -1083,42 +1900,42 @@ Sobre la base establecida por el Consejo de Administración, la Comisión Delega
 
 Finalmente, el Consejo de Administración ha constituido una comisión especializada en materia de riesgos, la Comisión de Riesgos (“CR”). A esta comisión le corresponde el análisis y seguimiento periódico del riesgo en el ámbito de las atribuciones de los órganos sociales, y así asiste al Consejo de Administración y a la CDP en la determinación y seguimiento de la estrategia de riesgos y de las políticas corporativas, respectivamente. Asimismo realiza, como labor de especial relevancia, un control y seguimiento detallado de los riesgos que afectan al Grupo en su conjunto, que le permite vigilar la efectiva integración en la gestión de la estrategia de riesgos y la aplicación de las políticas corporativas aprobadas por los órganos sociales.
 
-El máximo responsable de la función de riesgos en la línea ejecutiva, el Director de Riesgos del Grupo (“CRO”), desempeña su labor con la independencia, autoridad, rango y los recursos necesarios para ello. Es nombrado por el Consejo de Administración del Banco, como miembro de su Alta Dirección, y tiene acceso directo a sus órganos sociales (Consejo de Administración, Comisión Delegada Permanente y Comisión de Riesgos), a quienes reporta regularmente sobre la situación de los riesgos en el Grupo.
+El máximo responsable de la función de riesgos en la línea ejecutiva, el Director de Riesgos del Grupo (“CRO”), desempeña su labor con la independencia, autoridad, rango y los recursos necesarios para ello. Es nombrado por el Consejo de Administración del Banco, como miembro de su Alta Dirección, y tiene acceso directo a sus órganos sociales (Consejo de Administración, Comisión Delegada Permanente y Comisión de Riesgos), a quienes reporta regularmente sobre la situación de los riesgos en el Grupo. 
 
 El Director de Riesgos, para el mejor cumplimiento de sus funciones, se apoya en una estructura compuesta por unidades transversales de riesgos en el área corporativa y unidades específicas de riesgos en las geografías y/o áreas de negocio que tiene el Grupo. Cada una de estas unidades tiene como responsable un Director de Riesgos del área geográfica y/o de negocio que desarrolla, dentro de su ámbito de competencia, funciones de gestión y control de riesgos y es el responsable de aplicar las políticas y normas corporativas aprobadas a nivel Grupo de manera consistente, adaptándolas, si fuera necesario, a los requerimientos locales y reportando de todo ello a los órganos sociales locales.
 
-Los Directores de Riesgos de las áreas geográficas y/o de negocio mantienen una doble dependencia con el Director de Riesgos del Grupo y con el responsable de su área geográfica y/o de negocio. Este sistema de co-dependencia persigue asegurar la independencia de la función de riesgos local de las funciones operativas, y permitir su alineamiento con las políticas corporativas y los objetivos del Grupo en materia de riesgos.
+Los Directores de Riesgos de las áreas geográficas y/o de negocio mantienen una doble dependencia con el Director de Riesgos del Grupo y con el responsable de su área geográfica y/o de negocio. Este sistema de co-dependencia persigue asegurar la independencia de la función de riesgos local de las funciones operativas, y permitir su alineamiento con las políticas corporativas y los objetivos del Grupo en materia de riesgos. 
 
 ##### Estructura organizativa y cuerpo de comités
 
-La función de Riesgos, como se ha mencionado anteriormente, está compuesta por unidades de riesgos del área corporativa, que realizan funciones transversales, y por unidades de riesgos de las áreas geográficas y/o de negocio.
+La función de Riesgos, como se ha mencionado anteriormente, está compuesta por unidades de riesgos del área corporativa, que realizan funciones transversales, y por unidades de riesgos de las áreas geográficas y/o de negocio. 
 
 • Las unidades de riesgos del área corporativa (“GRM”) desarrollan y formulan al Director de Riesgos del Grupo (CRO) la propuesta del Apetito de Riesgo del Grupo, las políticas corporativas, normas, procedimientos e infraestructuras globales dentro del marco de actuación aprobado por los órganos sociales, se aseguran de su aplicación y reportan, directamente o a través del Director de Riesgos del Grupo (CRO), a los órganos sociales del Banco. Entre sus funciones se incluyen:
-- Gestión de las distintas tipologías de riesgos a nivel Grupo de acuerdo con la estrategia definida por los órganos sociales.
+- Gestión de las distintas tipologías de riesgos a nivel Grupo de acuerdo con la estrategia definida por los órganos sociales. 
 - Planificación de riesgos alineada con los principios del Apetito de Riesgo definido por el Grupo.
 - Seguimiento y control del perfil de riesgos del Grupo en relación al Apetito de Riesgo aprobado por los órganos sociales del Banco, proporcionando información precisa y fiable con la frecuencia y el formato requerido.
-- Realización de análisis prospectivos que permitan evaluar el cumplimiento del Apetito de Riesgo en escenarios de estrés y el análisis de los mecanismos para su mitigación.
+- Realización de análisis prospectivos que permitan evaluar el cumplimiento del Apetito de Riesgo en escenarios de estrés y el análisis de los mecanismos para su mitigación. 
 - Gestión de los desarrollos tecnológicos y metodológicos necesarios para el desarrollo del Modelo en el Grupo.
 - Articular el modelo de Control Interno de Riesgos del Grupo y definir la metodología, criterios corporativos y procedimientos para identificar y priorizar el riesgo inherente a las actividades y procesos de cada unidad.
 - Validación de los modelos utilizados y de los resultados obtenidos por los mismos para verificar su adecuación a los distintos usos a los que se aplican.
-• Las unidades de riesgos de las áreas de negocio desarrollan y formulan al Director de Riesgos del área geográfica y/o de negocio la propuesta del Apetito de Riesgo que resulta de aplicación en cada área geográfica y/o de negocio, con autonomía y siempre dentro del Apetito de Riesgo del Grupo. Asimismo se aseguran de la aplicación de las políticas y normas corporativas aprobadas a nivel Grupo de manera consistente, adaptándolas, en su caso, a los requerimientos locales, y se dotan de las infraestructuras adecuadas para el control y gestión de sus riesgos, y reportan, según corresponda, a sus órganos sociales y alta dirección.
+• Las unidades de riesgos de las áreas de negocio desarrollan y formulan al Director de Riesgos del área geográfica y/o de negocio la propuesta del Apetito de Riesgo que resulta de aplicación en cada área geográfica y/o de negocio, con autonomía y siempre dentro del Apetito de Riesgo del Grupo. Asimismo se aseguran de la aplicación de las políticas y normas corporativas aprobadas a nivel Grupo de manera consistente, adaptándolas, en su caso, a los requerimientos locales, y se dotan de las infraestructuras adecuadas para el control y gestión de sus riesgos, y reportan, según corresponda, a sus órganos sociales y alta dirección. 
 
-De este modo, las unidades de riesgos locales trabajan con las unidades de riesgos del área corporativa con el objetivo de adecuarse a la estrategia de riesgos a nivel Grupo y poner en común toda la información necesaria para llevar a cabo el seguimiento de la evolución de sus riesgos.
+De este modo, las unidades de riesgos locales trabajan con las unidades de riesgos del área corporativa con el objetivo de adecuarse a la estrategia de riesgos a nivel Grupo y poner en común toda la información necesaria para llevar a cabo el seguimiento de la evolución de sus riesgos. 
 
-La función de riesgos cuenta con un proceso de toma de decisiones apoyado en una estructura de comités. El Comité global de dirección del área de riesgo (GRMC) es el máximo comité de la función de riesgos y en él se proponen, contrastan y, en su caso aprueban, entre otros, el marco normativo interno de riesgos, los procedimientos e infraestructuras necesarios para identificar, evaluar, medir y gestionar los riesgos a los que se enfrenta el Grupo en el desarrollo de sus negocios, así como la admisión de las operaciones de riesgos más relevantes. Son miembros de dicho Comité el Director de Riesgos del Grupo y los máximos responsables de las unidades de riesgos del área corporativa y de las áreas geográficas y/o de negocio más representativas.
+La función de riesgos cuenta con un proceso de toma de decisiones apoyado en una estructura de comités. El Comité global de dirección del área de riesgo (GRMC) es el máximo comité de la función de riesgos y en él se proponen, contrastan y, en su caso aprueban, entre otros, el marco normativo interno de riesgos, los procedimientos e infraestructuras necesarios para identificar, evaluar, medir y gestionar los riesgos a los que se enfrenta el Grupo en el desarrollo de sus negocios, así como la admisión de las operaciones de riesgos más relevantes. Son miembros de dicho Comité el Director de Riesgos del Grupo y los máximos responsables de las unidades de riesgos del área corporativa y de las áreas geográficas y/o de negocio más representativas. 
 
-El Global Risk Management Committee (GRMC) articula el desarrollo de sus funciones en distintos comités de apoyo, entre los que cabe destacar:
+El Global Risk Management Committee (GRMC) articula el desarrollo de sus funciones en distintos comités de apoyo, entre los que cabe destacar: 
 
-• Comité Técnico de Operaciones Global: tiene por objeto la toma de decisiones relativas a la admisión de riesgos de crédito mayorista de determinados segmentos de clientela.
-• Information, Monitoring & Reporting Committee: garantiza la existencia y el adecuado desarrollo de los aspectos relativos a la gestión de la información, seguimiento y reporting de riesgos con una visión integral y transversal.
+• Comité Técnico de Operaciones Global: tiene por objeto la toma de decisiones relativas a la admisión de riesgos de crédito mayorista de determinados segmentos de clientela. 
+• Information, Monitoring & Reporting Committee: garantiza la existencia y el adecuado desarrollo de los aspectos relativos a la gestión de la información, seguimiento y reporting de riesgos con una visión integral y transversal. 
 • Comité de Asset Allocation: instancia ejecutiva para el análisis y decisión sobre todos aquellos asuntos en materia de riesgos de crédito relacionados con los procesos destinados a la obtención de equilibrio entre riesgo y rentabilidad de acuerdo al Apetito de Riesgo del Grupo.
 • Technology & Analytics Committee: su objeto es garantizar una correcta toma de decisiones en relación al diseño, desarrollo, implantación y uso de las herramientas tecnológicas y modelos de riesgo necesarios para una adecuada gestión de los mismos en el Grupo BBVA.
 • Comité Corporativo de Riesgos Tecnológicos y de Control de la Operativa: su objeto es la aprobación de los Marcos de Gestión de Riesgos Tecnológicos y de Control de la Operativa, de acuerdo con la arquitectura del Modelo General de Riesgos, y hacer el seguimiento de métricas, perfiles de riesgo y eventos de pérdidas operacionales.
-• Comité Global de Global Market Risk Unit (CGGMRU): su objetivo es formalizar, supervisar y comunicar el seguimiento del riesgo en sala en la totalidad de las unidades de negocio de Global Markets.
-• Comité Corporativo de Admisión de Riesgo Operacional y Outsourcing: su objeto es la identificación, evaluación y análisis de los riesgos operacionales de nuevos negocios, nuevos productos y servicios y de iniciativas de outsourcing.
+• Comité Global de Global Market Risk Unit (CGGMRU): su objetivo es formalizar, supervisar y comunicar el seguimiento del riesgo en sala en la totalidad de las unidades de negocio de Global Markets. 
+• Comité Corporativo de Admisión de Riesgo Operacional y Outsourcing: su objeto es la identificación, evaluación y análisis de los riesgos operacionales de nuevos negocios, nuevos productos y servicios y de iniciativas de outsourcing. 
 • Comité de Riesgos Minoristas: su objeto es garantizar la alineación de las prácticas y procesos que rigen el ciclo de riesgos del crédito minorista con los niveles aprobados / objetivo de tolerancia al riesgo y el crecimiento del negocio y desarrollo definidos en la estrategia corporativa para el Grupo.
 
-Cada área geográfica y/o de negocio cuenta con su propio comité (o comités) de gestión de riesgos, con objetivos y contenidos similares a los del área corporativa, que desarrollan sus funciones de forma consistente y alineadas con las políticas y normas corporativas en materia de riesgos.
+Cada área geográfica y/o de negocio cuenta con su propio comité (o comités) de gestión de riesgos, con objetivos y contenidos similares a los del área corporativa, que desarrollan sus funciones de forma consistente y alineadas con las políticas y normas corporativas en materia de riesgos. 
 
 Con este esquema organizativo, la función de riesgos se asegura la integración y la aplicación en todo el Grupo de la estrategia de riesgos, marco normativo, infraestructuras y controles de riesgo homogéneos, a la vez que se beneficia del conocimiento y cercanía al cliente de cada área geográfica y/o de negocio y transmite a los diferentes estamentos del Grupo la cultura corporativa existente en esta materia.
 
@@ -1135,54 +1952,150 @@ Para el desarrollo de su función, la unidad cuenta con una estructura de equipo
 Adicionalmente, el Grupo dispone de una unidad de Validación Interna, también independiente de las unidades que desarrollan los modelos de riesgos y de las que los utilizan en la gestión. Sus funciones son, entre otras, la revisión y validación independiente, a nivel interno, de los modelos utilizados para el control y gestión de los riesgos del Grupo.
 
 
-#### 7.1.2 Apetito de Riesgo
+#### 7.1.2 Marco de Apetito de Riesgo
 
-El Apetito de Riesgo del Grupo aprobado por el Consejo de Administración determina los riesgos y el nivel de los mismos que el Grupo está dispuesto a asumir para alcanzar sus objetivos de negocio. Estos se expresan en términos de capital, estructura de financiación, rentabilidad, recurrencia de ingresos, coste de riesgo u otras métricas. La concreción del Apetito de Riesgo tiene los siguientes objetivos:
+El Marco de Apetito de Riesgo del Grupo aprobado por el Consejo de Administración determina los riesgos y el nivel de los mismos que el Grupo está dispuesto a asumir para alcanzar sus objetivos considerando la evolución orgánica del negocio. Estos se expresan en términos de solvencia, liquidez y financiación, rentabilidad, recurrencia de ingresos, coste de riesgo u otras métricas, que son revisados tanto periódicamente como en caso de modificaciones sustanciales del negocio de la entidad o de operaciones corporativas relevantes. La concreción del Marco de Apetito de Riesgo tiene los siguientes objetivos:
 
-• Explicitar la estrategia del Grupo y los niveles máximos de riesgo que el Grupo está dispuesto asumir, tanto a nivel Grupo como a nivel área geográfica y/o de negocio.
-• Establecer unas guías de actuación y un marco de gestión a medio-largo plazo que eviten actuaciones (tanto a nivel Grupo como a nivel de cada área geográfica y/o de negocio) con las que se pueda ver comprometidas la viabilidad futura del Grupo.
+• Explicitar los niveles máximos de riesgo que el Grupo está dispuesto asumir, tanto a nivel Grupo como a nivel área geográfica y/o de negocio.
+• Establecer unas guías de actuación y un marco de gestión a medio-largo plazo que eviten actuaciones (tanto a nivel Grupo como a nivel de cada área geográfica y/o de negocio) que puedan comprometer la viabilidad futura del Grupo.
 • Establecer un marco de relación con las áreas geográficas y/o de negocio, que preservando su autonomía en la toma de decisiones, asegure una consistencia en el desempeño de las mismas, evitando comportamientos dispares.
 • Establecer un lenguaje común a lo largo de toda la organización y desarrollar una cultura de riesgos orientada a su cumplimiento.
 • Alineación con los nuevos requerimientos regulatorios facilitando la comunicación con los reguladores, inversores y otros stakeholders, gracias a un marco integral y estable de gestión del riesgo.
 
-El Apetito de Riesgo se explicita a través de los siguientes elementos:
+El Marco de Apetito de Riesgo se explicita a través de los siguientes elementos:
 
-• Declaración de Apetito de Riesgo: recoge los principios generales de la estrategia de riesgos del Grupo y el perfil de riesgo objetivo.
-La política de riesgos de BBVA está dirigida a lograr el mantenimiento del perfil de riesgos explicitado en la Declaración de Apetito de Riesgo del Grupo, que se materializa en una serie de métricas que sirven de aproximación a la misma (Métricas Fundamentales y Límites).
-• Métricas Fundamentales: plasman en términos cuantitativos los principios y perfil de riesgo objetivo recogido en la declaración de Apetito de Riesgo.
-• Límites: articulan el Apetito de Riesgo al nivel de las áreas geográficas y/o de negocio, entidades legales, tipologías de riesgo, o cualquier otro que se considere apropiado, permitiendo su integración en la gestión.
+##### Declaración de Apetito de Riesgo (Statement)
 
-El área corporativa de riesgos trabaja con las diferentes áreas geográficas y/o de negocio a los efectos de definir su Apetito de Riesgo, de manera que éste se encuentre coordinado y enmarcado en el del Grupo, y asegurarse de que su perfil se ajusta con el definido.
+Recoge los principios generales de la estrategia de riesgos del Grupo y el perfil de riesgo objetivo. La declaración del Apetito de Riesgo del Grupo es:
+La política de riesgos del Grupo BBVA está destinada a lograr un perfil de riesgo moderado para la entidad, a través de: una gestión prudente y un modelo de negocio de banca universal responsable orientado a la generación de valor, la rentabilidad ajustada al riesgo y la recurrencia de resultados, diversificado por geografías, clase de activos, portfolios y clientes, con presencia en países emergentes y desarrollados, manteniendo un perfil de riesgo medio/bajo en cada país, y apoyándose en una relación a largo plazo con el cliente.
 
-El Grupo BBVA asume un determinado grado de riesgo para poder prestar los servicios financieros y productos a sus clientes y obtener niveles atractivos de retorno para el accionista. La organización debe entender, gestionar y controlar los riesgos que asume.
+##### Declaraciones y Métricas fundamentales (Core metrics)
 
-El objetivo del Grupo no es eliminar todos los riesgos a los que se enfrenta, sino asumir un nivel prudente de riesgos que permita a la organización generar rendimientos a la vez que mantener niveles aceptables de capital y de fondeo y generar beneficios de forma recurrente.
+Partiendo de la declaración de Apetito de Riesgo, se establecen declaraciones (statements) que concretan los principios generales de la gestión de riesgos en términos de solvencia, liquidez y financiación y recurrencia de ingresos y rentabilidad.
 
-El Apetito de Riesgo definido por BBVA expresa los niveles y tipos de riesgo que el Grupo está dispuesto a asumir para poder llevar a cabo su plan estratégico sin desviaciones relevantes incluso en situaciones de tensión. El Apetito de Riesgo se encuentra integrado en la gestión y determina las líneas básicas de actividad del Grupo, ya que establece el marco en el que se desarrolla el presupuesto.
+• Solvencia: sólida posición de capital, con el objetivo de mantener un nivel de capital confortable sobre los requerimientos regulatorios e internos que apoye el normal desarrollo de la actividad bancaria incluso en situaciones de estrés. Así, BBVA gestiona su posición de capital de forma proactiva, la cual es evaluada bajo diferentes escenarios de estrés de forma continua. 
+• Liquidez y financiación: sólida estructura de balance que permita la sostenibilidad del modelo de negocio. Mantenimiento de un adecuado volumen de recursos estables, una estructura de financiación mayorista diversificada, que limite el peso de la financiación a corto plazo, y asegure el acceso a los diferentes mercados de financiación, optimizando costes, y preservando un colchón de activos líquidos para superar un periodo de supervivencia de liquidez bajo escenarios de estrés.
+• Recurrencia de ingresos y rentabilidad: sólida capacidad para generación de márgenes basado en un modelo de negocio recurrente apoyado en: diversificación de activos, financiación estable y orientación a cliente; combinado con un perfil de riesgo moderado que limite las pérdidas crediticias incluso en situaciones de estrés; todo ello orientado a permitir la estabilidad de ingresos y maximización de la rentabilidad ajustada al riesgo.
+Asimismo, las métricas fundamentales plasman en términos cuantitativos los principios y perfil de riesgo objetivo recogido en la declaración de Apetito de Riesgo y están alineadas con la estrategia del Grupo. Cada una de las métricas cuenta con tres umbrales (traffic light approach) que van desde una gestión habitual de los negocios hasta mayores niveles de deterioro: Referencia de gestión, Apetito máximo y Capacidad máxima. Las métricas fundamentales del Grupo BBVA son:
+
+<table>
+    <thead>
+        <tr>
+            <th></th>
+            <th>Métrica</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Solvencia</td>
+            <td>Solvencia Económica</td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+            <td>Solvencia Regulatoria: CET1 Fully Loaded</td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Liquidez y Financiación</td>
+            <td>Loan to Stable Costumer Deposits (LTSCD)</td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+            <td>Liquidity Coverage Ratio (LCR)</td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Recurrencia de ingresos y rentabilidad</td>
+            <td>Margen neto / Activos Totales Medios</td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+            <td>Coste de riesgo</td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+            <td>Return on Equity (ROE)</td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
+
+##### Declaraciones y Métricas por tipo de riesgo (By type of risk)
+
+Partiendo de las core metrics, para cada tipología de riesgo se establecen declaraciones (statements) recogiendo los principios generales de gestión de dicho riesgo y se calibran una serie de métricas, cuya observancia permite el cumplimiento de las core metrics y de la declaración del Grupo. Las métricas by type of risk definen el posicionamiento estratégico por tipo de riesgo y cuentan con un nivel de apetito máximo.
+
+##### Estructura básica de límites (Core limits)
+
+Tiene por objetivo la gestión continua de riesgos dentro de los umbrales tolerados por las métricas core o by type of risk por lo que o bien son una declinación por geografías y carteras de las mismas métricas o bien son métricas complementarias.
+
+Adicionalmente a este Marco, existe un nivel de límites de gestión (Management limits), que se define y gestiona por el área de riesgos en desarrollo de los core limits, a fin de asegurar que la gestión anticipatoria de los riesgos por subcategorías de riesgos dentro de cada tipo o por subcarteras respeta dichos core limits y, en general, el Marco de Apetito de Riesgo establecido.
+
+El esquema del Marco de Apetito de Riesgos de BBVA se resume en el siguiente gráfico:
 
 IMAGE GOES HERE
 
+El área corporativa de riesgos trabaja con las diferentes áreas geográficas y/o de negocio a los efectos de definir su Marco de Apetito de Riesgo, de manera que éste se encuentre coordinado y enmarcado en el del Grupo, y asegurarse de que su perfil se ajusta con el definido.
 
-##### Métricas Fundamentales
+El Marco de Apetito de Riesgo definido por BBVA expresa los niveles y tipos de riesgo que el Grupo está dispuesto a asumir para poder llevar a cabo su plan estratégico sin desviaciones relevantes incluso en situaciones de tensión. El Marco de Apetito de Riesgo se encuentra integrado en la gestión y determina las líneas básicas de actividad del Grupo, ya que establece el marco en el que se desarrolla el presupuesto.
 
-Son aquellas métricas que caracterizan el comportamiento objetivo del Grupo (definido en la declaración), permitiendo expresar la cultura de riesgo a todos los niveles de una forma sistematizada y entendible. Sintetizan los objetivos del Grupo por lo que son útiles para la comunicación a los grupos de interés o _‘stakeholders’_.
-
-Las métricas fundamentales son de carácter estratégico, difundidas a nivel de todo el Grupo, entendibles y fáciles de calcular, objetivables a nivel de área de negocio / geografía y poder ser sometidas a proyecciones futuras.
-
-##### Límites
-
-Son métricas que determinan el posicionamiento estratégico del Grupo para los diferentes tipos de riesgo: crédito, ALM (Asset Liability Management), liquidez, mercados, operacional… Los siguientes aspectos las diferencian de las Métricas Fundamentales:
-
-• Son palancas no el resultado: son una herramienta de gestión que responde a un posicionamiento estratégico y que deben estar orientadas a permitir el cumplimiento de las Métricas Fundamentales incluso en escenario adverso.
-• Métricas de riesgo: nivel de especialización mayor, no tienen necesariamente que ser difundidas por todo el Grupo.
-• Independientes del ciclo: puede incluir métricas con poca correlación con el ciclo económico por lo que permite una comparabilidad aislada de la situación macro específica.
-
-Por tanto, son palancas para mantenerse dentro de los umbrales definidos en las métricas fundamentales y utilizadas para la gestión de riesgo en el día a día. Incluyen límites de tolerancia, sublímites y alertas establecidas al nivel del de área de negocio / geografía, carteras y productos. Durante 2016, las métricas de Apetito de Riesgo evolucionaron de manera coherente con el perfil establecido.
-
+Durante 2016, las métricas de Apetito de Riesgo evolucionaron de manera coherente con el perfil establecido.
 
 #### 7.1.3 Decisiones y procesos
 
-La traslación del Apetito de Riesgo a la gestión ordinaria se apoya en tres aspectos básicos:
+La traslación del Marco de Apetito de Riesgo a la gestión ordinaria se apoya en tres aspectos básicos: 
 
 • Un cuerpo normativo homogéneo.
 • Una planificación de los riesgos.
@@ -1192,7 +2105,7 @@ La traslación del Apetito de Riesgo a la gestión ordinaria se apoya en tres as
 
 Corresponde al área corporativa de GRM la propuesta de definición y el desarrollo de las políticas corporativas, normas específicas, procedimientos y esquemas de delegación en base a los cuales se deben adoptar las decisiones de riesgos dentro del Grupo.
 
-Este proceso persigue los siguientes objetivos:
+Este proceso persigue los siguientes objetivos: 
 
 • Jerarquización y estructuración: información bien estructurada mediante una jerarquía clara y simple que permita la relación de documentos dependientes entre sí.
 • Simplicidad: número adecuado y suficiente de documentos.
@@ -1201,7 +2114,7 @@ Este proceso persigue los siguientes objetivos:
 
 La aprobación de las políticas corporativas para todo tipo de riesgos corresponde a los órganos sociales del Banco, mientras que el área corporativa de riesgos aprueba el resto de la normativa.
 
-Las unidades de riesgos de las áreas geográficas y/o de negocio siguen y, en su caso, adaptan a las exigencias locales dicho cuerpo normativo, a los efectos de contar con un proceso de decisión que resulte adecuado a nivel local y alineado con las políticas del Grupo. En caso de ser necesaria dicha adaptación, el área de riesgos local deberá informar al área corporativa de GRM, quien deberá velar por la consistencia del cuerpo normativo a nivel de todo el Grupo y, por tanto deberá, en su caso, dar su conformidad previa a las modificaciones propuestas por las áreas de riesgos locales.
+Las unidades de riesgos de las áreas geográficas y/o de negocio siguen y, en su caso, adaptan a las exigencias locales dicho cuerpo normativo, a los efectos de contar con un proceso de decisión que resulte adecuado a nivel local y alineado con las políticas del Grupo. En caso de ser necesaria dicha adaptación, el área de riesgos local deberá informar al área corporativa de GRM, quien deberá velar por la consistencia del cuerpo normativo a nivel de todo el Grupo y, por tanto deberá, en su caso, dar su conformidad previa a las modificaciones propuestas por las áreas de riesgos locales. 
 
 ##### Planificación de riesgos
 
@@ -1209,9 +2122,9 @@ La planificación de riesgos permite asegurar la integración en la gestión del
 
 Dicho proceso cuenta con herramientas que permiten la asignación y seguimiento del Apetito de Riesgo definido a nivel agregado, por áreas de negocio, entidades legales, tipologías de riesgo, concentraciones y cualquier otro nivel que se considere necesario.
 
-El proceso de planificación de riesgos se encuentra presente dentro del resto del marco de planificación del Grupo de forma que se asegure la coherencia de todos estos procesos entre sí.
+El proceso de planificación de riesgos se encuentra presente dentro del resto del marco de planificación del Grupo de forma que se asegure la coherencia de todos estos procesos entre sí. 
 
-##### Gestión diaria del riesgo
+##### Gestión diaria del riesgo 
 
 Todos los riesgos deben ser gestionados de forma integrada durante su ciclo de vida, en base a un tratamiento diferenciado en función de su tipología.
 
@@ -1224,22 +2137,22 @@ El ciclo de gestión del riesgo está compuesto por 5 elementos:
 • Gestión activa de la cartera: enfocada a la identificación de oportunidades de negocio tanto en las carteras existentes como en nuevos mercados, negocios o productos.
 
 
-#### 7.1.4 Decisiones y procesos
+#### 7.1.4 Evaluación, seguimiento y reporting
 
-La evaluación, seguimiento y reporting es un elemento transversal que deberá permitir que el Modelo tenga una visión dinámica y anticipatoria que haga posible el cumplimiento de Apetito de Riesgo aprobado por los órganos sociales, incluso ante escenarios desfavorables. La realización de este proceso cubre todas las categorías de riesgos materiales y tiene los siguientes objetivos:
+La evaluación, seguimiento y reporting es un elemento transversal que deberá permitir que el Modelo tenga una visión dinámica y anticipatoria que haga posible el cumplimiento del Marco de Apetito de Riesgo aprobado por los órganos sociales, incluso ante escenarios desfavorables. La realización de este proceso tiene los siguientes objetivos:
 
-• Evaluar el cumplimiento del Apetito de Riesgo en el momento presente, mediante un seguimiento de las métricas fundamentales y los límites.
-• Evaluar el cumplimiento del Apetito de Riesgo a futuro mediante la proyección de las variables del Apetito tanto en un escenario base determinado por el presupuesto, como en un escenario de riesgo determinado por las pruebas de stress-test.
+• Evaluar el cumplimiento del Marco de Apetito de Riesgo en el momento presente, mediante un seguimiento de las métricas fundamentales, las métricas por tipo de riesgo y la estructura básica de límites. 
+• Evaluar el cumplimiento del Marco de Apetito de Riesgo a futuro mediante la proyección de las variables del Marco de Apetito tanto en un escenario base determinado por el presupuesto, como en un escenario de riesgo determinado por las pruebas de stress-test.
 • Identificar y valorar los factores de riesgo y escenarios que pudieran comprometer el cumplimiento del Apetito de Riesgo, mediante el desarrollo de un repositorio de riesgos y un análisis del impacto de los mismos.
 • Actuar para mitigar el impacto en el Grupo de los factores y escenarios de riesgo identificados, haciendo que éste se mantenga dentro del perfil de riesgos objetivo.
-• Supervisar las variables claves, que directamente no forman parte del Apetito de Riesgo, pero que condicionan su cumplimiento. Estas pueden ser tanto externas o internas.
+• Supervisar las variables claves, que directamente no forman parte del Marco de Apetito de Riesgo, pero que condicionan su cumplimiento. Estas pueden ser tanto externas o internas.
 
-Para la realización de este proceso se deberán desarrollar las siguientes fases:
+Para la realización de este proceso, que está integrado en la actividad de las unidades de riesgos, tanto corporativas como geográficas y/o de negocio, se deberán desarrollar las siguientes fases: 
 
-• Identificación de factores de riesgo, que tiene como objetivo la generación de un mapa con los factores de riesgo más relevantes que pueden comprometer el desempeño del Grupo en relación a los umbrales definidos en el Apetito de Riesgo.
-• Evaluación del impacto: consiste en evaluar qué impacto podría tener en las métricas del Apetito de Riesgo la materialización de uno o varios de los factores de riesgo identificados en la fase anterior, mediante la ocurrencia de un determinado escenario.
+• Identificación de factores de riesgo, que tiene como objetivo la generación de un mapa con los factores de riesgo más relevantes que pueden comprometer el desempeño del Grupo en relación a los umbrales definidos en el Marco de Apetito de Riesgo. 
+• Evaluación del impacto: consiste en evaluar qué impacto podría tener en las métricas del Marco de Apetito de Riesgo la materialización de uno o varios de los factores de riesgo identificados en la fase anterior, mediante la ocurrencia de un determinado escenario. 
 • Respuesta ante situaciones no deseadas y propuesta de medidas de reconducción: los rebasamientos de las referencias llevarán asociados el análisis de las medidas de reconducción ante la instancia que corresponda, que permitan una gestión dinámica de la situación, incluso con anterioridad a que esta se produzca.
-• Seguimiento: tiene como objetivo evitar de forma ex ante las pérdidas, mediante la vigilancia del perfil actual de riesgo del Grupo y de los factores de riesgo identificados.
+• Seguimiento: tiene como objetivo evitar de forma ex ante las pérdidas, mediante la vigilancia del perfil actual de riesgo del Grupo y de los factores de riesgo identificados. 
 • Reporting, tiene como objetivo dar información del perfil de riesgo asumido, ofreciendo datos precisos, completos y fiables a los órganos sociales y a la alta dirección con la frecuencia y exhaustividad acorde con la naturaleza, importancia y complejidad de los riesgos.
 
 
@@ -1258,7 +2171,8 @@ Los principios según los cuales se rige la tecnología de riesgos del Grupo son
 • Automatización de los principales procesos que componen el ciclo de gestión del riesgo.
 • Adecuación: aprovisionamiento de información de forma adecuada en el momento oportuno.
 
-A través de la función de “Risk Analytics”, el Grupo cuenta con un marco corporativo para el desarrollo de las técnicas de medición y modelos, que cubre todas tipologías de riesgo y las distintas finalidades e implica un lenguaje homogéneo para todas las actividades y geografías/ áreas de negocio. La ejecución se realiza de forma descentralizada, lo que permite aprovechar la globalidad del Grupo, con el objetivo de evolucionar continuamente los modelos de riesgos existentes y generar otros que cubran los nuevos ámbitos de los negocios que se desarrollan, con el objetivo de que se refuerce la anticipación y proactividad que caracteriza a la función de riesgos en el Grupo.
+A través de la función de “Risk Analytics”, el Grupo cuenta con un marco corporativo para el desarrollo de las técnicas de medición y modelos, que cubre todas tipologías de riesgo y las distintas finalidades e implica un lenguaje homogéneo para todas las actividades y geografías/ áreas de negocio. La ejecución se realiza de forma descentralizada, lo que permite aprovechar la globalidad del Grupo, con el objetivo de evolucionar continuamente los modelos de riesgos existentes y generar otros que cubran los nuevos ámbitos de los negocios que se desarrollan, con el objetivo de que se refuerce la anticipación y proactividad que caracteriza a la función de riesgos en el Grupo. 
+
 Igualmente las unidades de riesgos de las áreas geográficas y/o de negocio se asegurarán de que cuentan con medios suficientes desde el punto de vista de recursos, estructuras y herramientas para desarrollar una gestión de riesgo acorde con el modelo corporativo.
 
 
@@ -1286,14 +2200,14 @@ En este contexto, existen una serie de riesgos emergentes que podrían afectar a
 
 • Riesgos macroeconómicos y geopolíticos:
 
-Con la última información disponible, el crecimiento global se mantiene estabilizado ligeramente por encima del 3% interanual.
-Recientemente, la incertidumbre del panorama global se ha incrementado con la victoria de la opción de salida de la Unión Europea en el referéndum realizado en el Reino Unido.
-En general, la recuperación gradual del bloque de economías desarrolladas no está siendo suficiente para compensar la desaceleración de las emergentes. La evolución de la economía china, con vulnerabilidades derivadas de su elevado nivel de deuda, seguirá determinando las perspectivas de crecimiento global y, en particular, de las economías emergentes.
+Con la última información disponible, el crecimiento global se mantiene estabilizado ligeramente por encima del 3% interanual. 
+Recientemente, la incertidumbre del panorama global se ha incrementado con la victoria de la opción de salida de la Unión Europea en el referéndum realizado en el Reino Unido. 
+En general, la recuperación gradual del bloque de economías desarrolladas no está siendo suficiente para compensar la desaceleración de las emergentes. La evolución de la economía china, con vulnerabilidades derivadas de su elevado nivel de deuda, seguirá determinando las perspectivas de crecimiento global y, en particular, de las economías emergentes. 
 Otros sucesos completan el panorama de incertidumbres globales para 2016 y 2017, y que podrían afectar a la valoración de las participaciones del Grupo en ciertos países:
 - Las tensiones geopolíticas en algunas geografías. En relación con este tema, cabe destacar la incertidumbre sobre la situación política y económica generada tras los recientes acontecimientos sucedidos desde el pasado 15 de julio en Turquía.
 - El riesgo de un escenario de ajuste en Estados Unidos. Dicho ajuste podría producirse derivado de la decisión de la Reserva Federal de aplazar nuevamente la subida de tipos de interés y de una previsión de crecimiento menor que la anteriormente prevista.
 Estas incertidumbres han provocado un significativo aumento de la volatilidad en los mercados financieros, caídas en el precio de los activos e importantes devaluaciones en los países emergentes.
-La información sobre el entorno macroeconómico y sectorial de cada una de las geografías donde el Grupo opera se menciona en el apartado de Áreas de Negocio del Informe de Gestión consolidado adjunto.
+La información sobre el entorno macroeconómico y sectorial de cada una de las geografías donde el Grupo opera se menciona en el apartado de Áreas de Negocio del Informe de Gestión consolidado adjunto. 
 
 • Riesgos regulatorios, legales, fiscales y reputacionales:
 
@@ -1306,9 +2220,9 @@ En relación con los efectos derivados de la nulidad de las cláusulas de limita
 - El Tribunal Supremo en España, en sentencia de 9 de mayo de 2013, dictada en una acción colectiva contra BBVA y otros, que ya es firme, resolvió por unanimidad que esas cláusulas debían considerarse nulas si no cumplían con determinados requisitos de transparencia material, establecidos en ese mismo pronunciamiento judicial. Esa sentencia igualmente estableció que no procedía la devolución de las cantidades cobradas en aplicación de estas cláusulas con anterioridad al 9 de mayo de 2013.
 - El Tribunal Supremo ha confirmado su criterio también en sentencias dictadas en demandas individuales de consumidores, en las que ha reiterado que no procede la devolución de las cantidades cobradas por la aplicación de esas cláusulas con anterioridad al 9 de mayo de 2013.
 
-En una demanda individual, la Audiencia Provincial de Alicante ha planteado una cuestión prejudicial ante el Tribunal de Justicia de la Unión Europea (TJUE), para que dictamine si la limitación temporal para la devolución de cantidades fijada por el Tribunal Supremo es conforme al contenido de la Directiva 93/13/CEE. El 13 de julio se ha publicado el informe del Abogado General del TJUE en cuyas conclusiones se indica que la directiva comunitaria no se opone a que un Tribunal Supremo de un Estado Miembro limite, atendiendo a circunstancias excepcionales, los efectos restitutorios de la nulidad a la fecha en que dictó su primera sentencia en este sentido.
+En una demanda individual, la Audiencia Provincial de Alicante ha planteado una cuestión prejudicial ante el Tribunal de Justicia de la Unión Europea (TJUE), para que dictamine si la limitación temporal para la devolución de cantidades fijada por el Tribunal Supremo es conforme al contenido de la Directiva 93/13/CEE. El 13 de julio se ha publicado el informe del Abogado General del TJUE en cuyas conclusiones se indica que la directiva comunitaria no se opone a que un Tribunal Supremo de un Estado Miembro limite, atendiendo a circunstancias excepcionales, los efectos restitutorios de la nulidad a la fecha en que dictó su primera sentencia en este sentido. 
 
-En el estado actual del proceso, y en línea con el parecer del Abogado General y con la opinión jurídica de los asesores externos contratados, la probabilidad de que BBVA se vea obligado a devolver estas cantidades puede ser calificada como remota.
+En el estado actual del proceso, y en línea con el parecer del Abogado General y con la opinión jurídica de los asesores externos contratados, la probabilidad de que BBVA se vea obligado a devolver estas cantidades puede ser calificada como remota. 
 
 No obstante lo anterior, a los efectos de una mayor transparencia y habida cuenta del interés que la cuestión ha suscitado en analistas e inversores, se informa que la mejor estimación del importe máximo susceptible de ser objeto de reclamación, en caso de un criterio adverso del TJUE, se situaría en torno a los 1.200 millones de euros, si bien la experiencia en supuestos similares indica que el impacto sería probablemente menor.
 
@@ -1325,13 +2239,13 @@ Representa el riesgo más relevante para el Grupo e incluye la gestión del ries
 
 Los principios que sustentan la gestión del riesgo de crédito en BBVA son los siguientes:
 
-• Disponibilidad de información básica para el estudio de riesgo, la propuesta de riesgo y tener el soporte documental de aprobación, donde se recojan las condiciones requeridas por el organismo interno pertinente.
+• Disponibilidad de información básica para el estudio de riesgo, la propuesta de riesgo y tener el soporte documental de aprobación, donde se recojan las condiciones requeridas por el organismo interno pertinente. 
 • Suficiencia en la generación de recursos y solvencia patrimonial del cliente para asumir las amortizaciones de capital e intereses de los créditos adeudados.
 • Constitución de adecuadas y suficientes garantías que permitan una efectiva recuperación de la operación, siendo considerada esta como una segunda y excepcional vía de recobro para cuando haya fallado la primera.
-La gestión del riesgo de crédito en el Grupo cuenta con una estructura integral de todas sus funciones que permita la toma decisiones con objetividad y de forma independiente durante todo el ciclo de vida del riesgo.
+La gestión del riesgo de crédito en el Grupo cuenta con una estructura integral de todas sus funciones que permita la toma decisiones con objetividad y de forma independiente durante todo el ciclo de vida del riesgo. 
 • A nivel Grupo: se definen marcos de actuación y normas de conducta homogéneas en el tratamiento del riesgo, en concreto los circuitos, procedimientos, estructura y supervisión.
 • A nivel área de negocio: son las encargadas de adaptar los criterios del Grupo a las realidades locales de cada geografía, siendo responsables de la gestión directa del riesgo en función del circuito de decisión:
-- Riesgos minoristas: con carácter general, las decisiones se formalizan en función del dictamen de las herramientas de scoring, dentro del marco de actuación general en materia de riesgos de cada área de negocio. Los cambios de peso y variables de dichas herramientas deberán ser validadas por el área corporativa de GRM.
+- Riesgos minoristas: con carácter general, las decisiones se formalizan en función del dictamen de las herramientas de scoring, dentro del marco de actuación general en materia de riesgos de cada área de negocio. Los cambios de peso y variables de dichas herramientas deberán ser validadas por el área corporativa de GRM. 
 - Riesgos mayoristas: con carácter general, las decisiones se formalizan por cada área de negocio dentro de su marco general de actuación en materia de riesgos, que incorpora la norma de delegación y las políticas corporativas del Grupo.
 
 
@@ -1339,7 +2253,341 @@ La gestión del riesgo de crédito en el Grupo cuenta con una estructura integra
 
 De acuerdo con la NIIF 7 “Instrumentos financieros: información a revelar”, a continuación se presenta la distribución, por epígrafes del balance consolidado, de la exposición máxima (ver definición más adelante) del Grupo BBVA al riesgo de crédito a 31 de diciembre de 2016, 2015 y 2014, sin deducir las garantías reales ni las mejoras crediticias obtenidas para asegurar el cumplimiento de las obligaciones de pago, desglosada según la naturaleza de los instrumentos financieros y de sus contrapartes.
 
-IMAGE GOES HERE
+<table>
+    <thead>
+        <tr>
+            <th>Exposición máxima al riesgo de crédito</th>
+            <th>Notas</th>
+            <th>2016</th>
+            <th>2015</th>
+            <th>2014</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Activos financieros mantenidos para negociar</td>
+            <td>10 </td>
+            <td>31.995</td>
+            <td>37.424</td>
+            <td>39.028</td>
+        </tr>
+        <tr>
+            <td>Valores representativos de deuda</td>
+            <td>&nbsp;</td>
+            <td>27.166</td>
+            <td>32.825</td>
+            <td>33.883</td>
+        </tr>
+        <tr>
+            <td> Sector público</td>
+            <td>&nbsp;</td>
+            <td>24.165</td>
+            <td>29.454</td>
+            <td>28.212</td>
+        </tr>
+        <tr>
+            <td> Entidades de crédito</td>
+            <td>&nbsp;</td>
+            <td>1.652</td>
+            <td>1.765</td>
+            <td>3.048</td>
+        </tr>
+        <tr>
+            <td> Otros sectores</td>
+            <td>&nbsp;</td>
+            <td>1.349</td>
+            <td>1.606</td>
+            <td>2.623</td>
+        </tr>
+        <tr>
+            <td>Instrumentos de patrimonio</td>
+            <td>&nbsp;</td>
+            <td>4.675</td>
+            <td>4.534</td>
+            <td>5.017</td>
+        </tr>
+        <tr>
+            <td>Préstamos y anticipos a la clientela</td>
+            <td>&nbsp;</td>
+            <td>154</td>
+            <td>65</td>
+            <td>128</td>
+        </tr>
+        <tr>
+            <td>Activos financieros designados a valor razonable con cambios en resultados</td>
+            <td>11 </td>
+            <td>2.062</td>
+            <td>2.311</td>
+            <td>2.761</td>
+        </tr>
+        <tr>
+            <td>Préstamos y anticipos a entidades de crédito </td>
+            <td>&nbsp;</td>
+            <td>-</td>
+            <td>62</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Valores representativos de deuda</td>
+            <td>&nbsp;</td>
+            <td>142</td>
+            <td>173</td>
+            <td>737</td>
+        </tr>
+        <tr>
+            <td> Sector público</td>
+            <td>&nbsp;</td>
+            <td>84</td>
+            <td>132</td>
+            <td>141</td>
+        </tr>
+        <tr>
+            <td> Entidades de crédito</td>
+            <td>&nbsp;</td>
+            <td>47</td>
+            <td>29</td>
+            <td>16</td>
+        </tr>
+        <tr>
+            <td> Otros sectores</td>
+            <td>&nbsp;</td>
+            <td>11</td>
+            <td>11</td>
+            <td>580</td>
+        </tr>
+        <tr>
+            <td>Instrumentos de patrimonio</td>
+            <td>&nbsp;</td>
+            <td>1.920</td>
+            <td>2.075</td>
+            <td>2.024</td>
+        </tr>
+        <tr>
+            <td>Activos financieros disponibles para la venta </td>
+            <td>12 </td>
+            <td>79.553</td>
+            <td>113.710</td>
+            <td>95.049</td>
+        </tr>
+        <tr>
+            <td>Valores representativos de deuda</td>
+            <td>&nbsp;</td>
+            <td>74.739</td>
+            <td>108.448</td>
+            <td>87.679</td>
+        </tr>
+        <tr>
+            <td> Sector público</td>
+            <td>&nbsp;</td>
+            <td>55.047</td>
+            <td>81.579</td>
+            <td>63.764</td>
+        </tr>
+        <tr>
+            <td> Entidades de crédito</td>
+            <td>&nbsp;</td>
+            <td>5.011</td>
+            <td>8.069</td>
+            <td>7.377</td>
+        </tr>
+        <tr>
+            <td> Otros sectores</td>
+            <td>&nbsp;</td>
+            <td>14.682</td>
+            <td>18.800</td>
+            <td>16.538</td>
+        </tr>
+        <tr>
+            <td>Instrumentos de patrimonio</td>
+            <td>&nbsp;</td>
+            <td>4.814</td>
+            <td>5.262</td>
+            <td>7.370</td>
+        </tr>
+        <tr>
+            <td>Préstamos y partidas a cobrar</td>
+            <td>&nbsp;</td>
+            <td>482.011</td>
+            <td>490.580</td>
+            <td>390.362</td>
+        </tr>
+        <tr>
+            <td>Préstamos y anticipos a bancos centrales</td>
+            <td>13.1</td>
+            <td>8.894</td>
+            <td>17.830</td>
+            <td>5.429</td>
+        </tr>
+        <tr>
+            <td>Préstamos y anticipos a entidades de crédito </td>
+            <td>13.1</td>
+            <td>31.416</td>
+            <td>29.368</td>
+            <td>25.371</td>
+        </tr>
+        <tr>
+            <td>Préstamos y anticipos a la clientela</td>
+            <td>13.2</td>
+            <td>430.474</td>
+            <td>432.856</td>
+            <td>352.900</td>
+        </tr>
+        <tr>
+            <td> Sector público</td>
+            <td>&nbsp;</td>
+            <td>34.873</td>
+            <td>38.611</td>
+            <td>37.113</td>
+        </tr>
+        <tr>
+            <td> Agricultura</td>
+            <td>&nbsp;</td>
+            <td>4.312</td>
+            <td>4.315</td>
+            <td>4.348</td>
+        </tr>
+        <tr>
+            <td> Industria</td>
+            <td>&nbsp;</td>
+            <td>57.072</td>
+            <td>56.913</td>
+            <td>37.580</td>
+        </tr>
+        <tr>
+            <td> Inmobiliaria y construcción</td>
+            <td>&nbsp;</td>
+            <td>37.002</td>
+            <td>38.964</td>
+            <td>33.152</td>
+        </tr>
+        <tr>
+            <td> Comercial y financiero</td>
+            <td>&nbsp;</td>
+            <td>47.045</td>
+            <td>43.576</td>
+            <td>43.880</td>
+        </tr>
+        <tr>
+            <td> Préstamos a particulares</td>
+            <td>&nbsp;</td>
+            <td>192.281</td>
+            <td>194.288</td>
+            <td>158.586</td>
+        </tr>
+        <tr>
+            <td> Otros</td>
+            <td>&nbsp;</td>
+            <td>57.889</td>
+            <td>56.188</td>
+            <td>38.242</td>
+        </tr>
+        <tr>
+            <td>Valores representativos de deuda</td>
+            <td>13.3</td>
+            <td>11.226</td>
+            <td>10.526</td>
+            <td>6.663</td>
+        </tr>
+        <tr>
+            <td> Sector público</td>
+            <td>&nbsp;</td>
+            <td>4.709</td>
+            <td>3.275</td>
+            <td>5.608</td>
+        </tr>
+        <tr>
+            <td> Entidades de crédito</td>
+            <td>&nbsp;</td>
+            <td>37</td>
+            <td>125</td>
+            <td>81</td>
+        </tr>
+        <tr>
+            <td> Otros sectores</td>
+            <td>&nbsp;</td>
+            <td>6.481</td>
+            <td>7.126</td>
+            <td>975</td>
+        </tr>
+        <tr>
+            <td>Inversiones mantenidas hasta el vencimiento </td>
+            <td>14 </td>
+            <td>17.710</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td> Sector público</td>
+            <td>&nbsp;</td>
+            <td>16.049</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td> Entidades de crédito</td>
+            <td>&nbsp;</td>
+            <td>1.515</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td> Otros sectores</td>
+            <td>&nbsp;</td>
+            <td>146</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Derivados y contabilidad de coberturas </td>
+            <td>&nbsp;</td>
+            <td>54.122</td>
+            <td>49.350</td>
+            <td>47.248</td>
+        </tr>
+        <tr>
+            <td>Total riesgo por activos financieros</td>
+            <td>&nbsp;</td>
+            <td>667.454</td>
+            <td>693.375</td>
+            <td>574.448</td>
+        </tr>
+        <tr>
+            <td>Compromisos de préstamo concedidos</td>
+            <td>&nbsp;</td>
+            <td>107.254</td>
+            <td>123.620</td>
+            <td>96.714</td>
+        </tr>
+        <tr>
+            <td>Garantías financieras concedidas</td>
+            <td>&nbsp;</td>
+            <td>18.267</td>
+            <td>19.176</td>
+            <td>14.398</td>
+        </tr>
+        <tr>
+            <td>Otros compromisos y otras garantías concedidas</td>
+            <td>&nbsp;</td>
+            <td>42.592</td>
+            <td>42.813</td>
+            <td>28.881</td>
+        </tr>
+        <tr>
+            <td>Total Compromisos y Garantías Concedidas</td>
+            <td>33 </td>
+            <td>168.113</td>
+            <td>185.609</td>
+            <td>139.993</td>
+        </tr>
+        <tr>
+            <td>Total exposición máxima al riesgo de crédito</td>
+            <td>&nbsp;</td>
+            <td>835.567</td>
+            <td>878.984</td>
+            <td>714.441</td>
+        </tr>
+    </tbody>
+</table>
 
 A efectos del cuadro anterior, la exposición máxima al riesgo de crédito se determina en función de los activos financieros como se explica a continuación:
 
@@ -1349,11 +2597,303 @@ A efectos del cuadro anterior, la exposición máxima al riesgo de crédito se d
 - El primer factor, el valor de mercado, refleja la diferencia entre los compromisos originales y el valor de mercado en la fecha de presentación ("mark-to-market"). Como se indica en la Nota 2.2.1, los derivados se contabilizan a cada fecha de cierre por su valor razonable de acuerdo con la NIC 39.
 - El segundo factor, el riesgo potencial (“add-on”), es una estimación del incremento máximo esperado de la exposición al riesgo a través de un derivado valorado a valor de mercado (con un nivel de confianza estadística) como resultado de cambios futuros en los precios de valoración en el plazo residual hasta el vencimiento final de la operación.
 
-El riesgo potencial (“add-on”) relaciona la exposición al riesgo con el nivel de exposición en el momento del incumplimiento de un cliente. El nivel de exposición dependerá de la calidad crediticia del cliente y del tipo de transacción con dicho cliente. Teniendo en cuenta que por defecto es un hecho incierto que podría darse en cualquier momento durante la vigencia de un contrato, el Grupo considera no sólo el riesgo de crédito del contrato en la fecha informada, sino también los posibles cambios en la exposición durante la vida del contrato. Esto es especialmente importante para los contratos de derivados, cuya valoración cambia sustancialmente a través del tiempo, dependiendo de la fluctuación de los precios de mercado.
+El riesgo potencial (“add-on”) relaciona la exposición al riesgo con el nivel de exposición en el momento del incumplimiento de un cliente. El nivel de exposición dependerá de la calidad crediticia del cliente y del tipo de transacción con dicho cliente. Teniendo en cuenta que por defecto es un hecho incierto que podría darse en cualquier momento durante la vigencia de un contrato, el Grupo considera no sólo el riesgo de crédito del contrato en la fecha informada, sino también los posibles cambios en la exposición durante la vida del contrato. Esto es especialmente importante para los contratos de derivados, cuya valoración cambia sustancialmente a través del tiempo, dependiendo de la fluctuación de los precios de mercado. 
 
 El detalle por contraparte y por producto de los préstamos y anticipos, neto de pérdidas por deterioro, clasificados en las distintas categorías de activos a 31 de diciembre de 2016 y 2015 se muestra a continuación:
 
-IMAGE GOES HERE
+<table>
+    <thead>
+        <tr>
+            <th>Diciembre 2016</th>
+            <th>Bancos centrales</th>
+            <th>Administraciones públicas</th>
+            <th>Entidades de crédito</th>
+            <th>Otras sociedades financieras</th>
+            <th>Sociedades no financieras</th>
+            <th>Hogares</th>
+            <th>Total</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>A la vista y con breve plazo de preaviso (cuenta corriente)</td>
+            <td>-</td>
+            <td>373</td>
+            <td>-</td>
+            <td>246</td>
+            <td>8.125</td>
+            <td>2.507</td>
+            <td>11.251</td>
+        </tr>
+        <tr>
+            <td>Deuda por tarjetas de crédito</td>
+            <td>-</td>
+            <td>1</td>
+            <td>-</td>
+            <td>1</td>
+            <td>1.875</td>
+            <td>14.719</td>
+            <td>16.596</td>
+        </tr>
+        <tr>
+            <td>Cartera comercial</td>
+            <td>&nbsp;</td>
+            <td>2.091</td>
+            <td>-</td>
+            <td>998</td>
+            <td>20.246</td>
+            <td>418</td>
+            <td>23.753</td>
+        </tr>
+        <tr>
+            <td>Arrendamientos financieros</td>
+            <td>-</td>
+            <td>261</td>
+            <td>-</td>
+            <td>57</td>
+            <td>8.647</td>
+            <td>477</td>
+            <td>9.442</td>
+        </tr>
+        <tr>
+            <td>Adquisición temporal de activos</td>
+            <td>81</td>
+            <td>544</td>
+            <td>15.597</td>
+            <td>6.746</td>
+            <td>-</td>
+            <td>-</td>
+            <td>22.968</td>
+        </tr>
+        <tr>
+            <td>Otros préstamos a plazo</td>
+            <td>8.814</td>
+            <td>29.140</td>
+            <td>7.694</td>
+            <td>6.878</td>
+            <td>136.105</td>
+            <td>167.892</td>
+            <td>356.524</td>
+        </tr>
+        <tr>
+            <td>Anticipos distintos de préstamos</td>
+            <td>-</td>
+            <td>2.410</td>
+            <td>8.083</td>
+            <td>2.082</td>
+            <td>1.194</td>
+            <td>620</td>
+            <td>14.389</td>
+        </tr>
+        <tr>
+            <td>PRÉSTAMOS Y ANTICIPOS</td>
+            <td>8.894</td>
+            <td>34.820</td>
+            <td>31.373</td>
+            <td>17.009</td>
+            <td>176.192</td>
+            <td>186.633</td>
+            <td>454.921</td>
+        </tr>
+        <tr>
+            <td>De los cuales: préstamos hipotecarios (préstamos garantizados por bienes inmuebles)</td>
+            <td>&nbsp;</td>
+            <td>4.722</td>
+            <td>112</td>
+            <td>690</td>
+            <td>44.406</td>
+            <td>132.398</td>
+            <td>182.328</td>
+        </tr>
+        <tr>
+            <td>De los cuales: otros préstamos con garantías reales</td>
+            <td>&nbsp;</td>
+            <td>3.700</td>
+            <td>15.191</td>
+            <td>8.164</td>
+            <td>21.863</td>
+            <td>6.061</td>
+            <td>54.979</td>
+        </tr>
+        <tr>
+            <td>De los cuales: crédito al consumo</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>44.504</td>
+            <td>44.504</td>
+        </tr>
+        <tr>
+            <td>De los cuales: préstamos para compra de vivienda</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>127.606</td>
+            <td>127.606</td>
+        </tr>
+        <tr>
+            <td>De los cuales: préstamos para financiación de proyectos</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>19.269</td>
+            <td>&nbsp;</td>
+            <td>19.269</td>
+        </tr>
+    </tbody>
+</table>
+
+<table>
+    <thead>
+        <tr>
+            <th>Diciembre 2015</th>
+            <th>Bancos centrales</th>
+            <th>Administraciones públicas</th>
+            <th>Entidades de crédito</th>
+            <th>Otras sociedades financieras</th>
+            <th>Sociedades no financieras</th>
+            <th>Hogares</th>
+            <th>Total</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>A la vista y con breve plazo de preaviso (cuenta corriente)</td>
+            <td>-</td>
+            <td>783</td>
+            <td>-</td>
+            <td>38</td>
+            <td>8.356</td>
+            <td>2.050</td>
+            <td>11.228</td>
+        </tr>
+        <tr>
+            <td>Deuda por tarjetas de crédito</td>
+            <td>-</td>
+            <td>1</td>
+            <td>-</td>
+            <td>2</td>
+            <td>1.892</td>
+            <td>15.057</td>
+            <td>16.952</td>
+        </tr>
+        <tr>
+            <td>Cartera comercial</td>
+            <td>&nbsp;</td>
+            <td>3.055</td>
+            <td>-</td>
+            <td>800</td>
+            <td>19.605</td>
+            <td>411</td>
+            <td>23.871</td>
+        </tr>
+        <tr>
+            <td>Arrendamientos financieros</td>
+            <td>-</td>
+            <td>301</td>
+            <td>-</td>
+            <td>420</td>
+            <td>7.534</td>
+            <td>1.103</td>
+            <td>9.357</td>
+        </tr>
+        <tr>
+            <td>Adquisición temporal de activos</td>
+            <td>149</td>
+            <td>326</td>
+            <td>11.676</td>
+            <td>4.717</td>
+            <td>9</td>
+            <td>-</td>
+            <td>16.877</td>
+        </tr>
+        <tr>
+            <td>Otros préstamos a plazo</td>
+            <td>10.017</td>
+            <td>31.971</td>
+            <td>8.990</td>
+            <td>5.968</td>
+            <td>134.952</td>
+            <td>168.729</td>
+            <td>360.626</td>
+        </tr>
+        <tr>
+            <td>Anticipos distintos de préstamos</td>
+            <td>7.664</td>
+            <td>2.108</td>
+            <td>8.713</td>
+            <td>2.261</td>
+            <td>919</td>
+            <td>863</td>
+            <td>22.528</td>
+        </tr>
+        <tr>
+            <td>PRÉSTAMOS Y ANTICIPOS</td>
+            <td>17.830</td>
+            <td>38.544</td>
+            <td>29.379</td>
+            <td>14.206</td>
+            <td>173.267</td>
+            <td>188.213</td>
+            <td>461.438</td>
+        </tr>
+        <tr>
+            <td>De los cuales: préstamos hipotecarios (préstamos garantizados por bienes inmuebles)</td>
+            <td>&nbsp;</td>
+            <td>4.483</td>
+            <td>264</td>
+            <td>656</td>
+            <td>43.961</td>
+            <td>135.102</td>
+            <td>184.466</td>
+        </tr>
+        <tr>
+            <td>De los cuales: otros préstamos con garantías reales</td>
+            <td>&nbsp;</td>
+            <td>3.868</td>
+            <td>12.434</td>
+            <td>6.085</td>
+            <td>22.928</td>
+            <td>6.131</td>
+            <td>51.446</td>
+        </tr>
+        <tr>
+            <td>De los cuales: crédito al consumo</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>40.906</td>
+            <td>40.906</td>
+        </tr>
+        <tr>
+            <td>De los cuales: préstamos para compra de vivienda</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>126.591</td>
+            <td>126.591</td>
+        </tr>
+        <tr>
+            <td>De los cuales: préstamos para financiación de proyectos</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>21.141</td>
+            <td>&nbsp;</td>
+            <td>21.141</td>
+        </tr>
+    </tbody>
+</table>
 
 #### 7.3.2 Mitigación del riesgo de crédito, garantías reales y otras mejoras crediticias
 
@@ -1370,7 +2910,7 @@ Los métodos utilizados para valorar las garantías coinciden con las mejores pr
 A continuación se describen los principales tipos de garantías recibidas por cada categoría de instrumentos financieros:
 
 • Activos financieros mantenidos para negociar: Las garantías o mejoras crediticias que se obtengan directamente del emisor o contrapartida están implícitas en las cláusulas del instrumento.
-• Derivados y derivados-contabilidad de coberturas: En los derivados, el riesgo de crédito se minimiza mediante acuerdos contractuales de compensación por los que derivados activos y pasivos con la misma contrapartida son liquidados por su saldo neto. Además, pueden existir garantías de otro tipo, dependiendo de la solvencia de la contraparte y de la naturaleza de la operación.
+• Derivados y derivados-contabilidad de coberturas: En los derivados, el riesgo de crédito se minimiza mediante acuerdos contractuales de compensación por los que derivados activos y pasivos con la misma contrapartida son liquidados por su saldo neto. Además, pueden existir garantías de otro tipo, dependiendo de la solvencia de la contraparte y de la naturaleza de la operación. 
 • Activos financieros designados a valor razonable con cambios en resultados y activos financieros disponibles para la venta: Las garantías o mejoras crediticias obtenidas directamente del emisor o contrapartida, son inherentes a la estructura del instrumento.
 • Préstamos y partidas a cobrar:
 - Préstamos y anticipos a entidades de crédito: Habitualmente, solo cuentan con la garantía personal de la contraparte.
@@ -1379,7 +2919,7 @@ A continuación se describen los principales tipos de garantías recibidas por c
 
 El desglose de los créditos concedidos por el Grupo que tienen asociadas garantías reales, excluyendo aquellos saldos que se consideraban deteriorados a 31 de diciembre de 2016, 2015 y 2014 se muestran en la Nota 13.2.
 
-• Garantías financieras, otros riesgos contingentes y disponibles para terceros: Cuentan con la garantía personal de la contraparte.
+• Garantías financieras, otros riesgos contingentes y disponibles para terceros: Cuentan con la garantía personal de la contraparte. 
 
 
 #### 7.3.3 Calidad crediticia de los activos financieros no vencidos ni deteriorados
@@ -1410,33 +2950,1431 @@ Una vez estimada la probabilidad de incumplimiento de las operaciones o clientes
 
 A continuación, se presenta la escala reducida utilizada para clasificar los riesgos vivos del Grupo BBVA a 31 de diciembre de 2016 :
 
-IMAGE GOES HERE
+<table>
+    <thead>
+        <tr>
+            <th>AAA</th>
+            <th>AAA</th>
+            <th>1</th>
+            <th>-</th>
+            <th>2</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>AA+</td>
+            <td>AA+</td>
+            <td>2</td>
+            <td>2</td>
+            <td>3</td>
+        </tr>
+        <tr>
+            <td>AA</td>
+            <td>AA</td>
+            <td>3</td>
+            <td>3</td>
+            <td>4</td>
+        </tr>
+        <tr>
+            <td>AA-</td>
+            <td>AA-</td>
+            <td>4</td>
+            <td>4</td>
+            <td>5</td>
+        </tr>
+        <tr>
+            <td>A+</td>
+            <td>A+</td>
+            <td>5</td>
+            <td>5</td>
+            <td>6</td>
+        </tr>
+        <tr>
+            <td>A</td>
+            <td>A</td>
+            <td>8</td>
+            <td>6</td>
+            <td>9</td>
+        </tr>
+        <tr>
+            <td>A-</td>
+            <td>A-</td>
+            <td>10</td>
+            <td>9</td>
+            <td>11</td>
+        </tr>
+        <tr>
+            <td>BBB+</td>
+            <td>BBB+</td>
+            <td>14</td>
+            <td>11</td>
+            <td>17</td>
+        </tr>
+        <tr>
+            <td>BBB</td>
+            <td>BBB</td>
+            <td>20</td>
+            <td>17</td>
+            <td>24</td>
+        </tr>
+        <tr>
+            <td>BBB-</td>
+            <td>BBB-</td>
+            <td>31</td>
+            <td>24</td>
+            <td>39</td>
+        </tr>
+        <tr>
+            <td>BB+</td>
+            <td>BB+</td>
+            <td>51</td>
+            <td>39</td>
+            <td>67</td>
+        </tr>
+        <tr>
+            <td>BB</td>
+            <td>BB</td>
+            <td>88</td>
+            <td>67</td>
+            <td>116</td>
+        </tr>
+        <tr>
+            <td>BB-</td>
+            <td>BB-</td>
+            <td>150</td>
+            <td>116</td>
+            <td>194</td>
+        </tr>
+        <tr>
+            <td>B+</td>
+            <td>B+</td>
+            <td>255</td>
+            <td>194</td>
+            <td>335</td>
+        </tr>
+        <tr>
+            <td>B</td>
+            <td>B</td>
+            <td>441</td>
+            <td>335</td>
+            <td>581</td>
+        </tr>
+        <tr>
+            <td>B-</td>
+            <td>B-</td>
+            <td>785</td>
+            <td>581</td>
+            <td>1.061</td>
+        </tr>
+        <tr>
+            <td>CCC+</td>
+            <td>CCC+</td>
+            <td>1.191</td>
+            <td>1.061</td>
+            <td>1.336</td>
+        </tr>
+        <tr>
+            <td>CCC</td>
+            <td>CCC</td>
+            <td>1.500</td>
+            <td>1.336</td>
+            <td>1.684</td>
+        </tr>
+        <tr>
+            <td>CCC-</td>
+            <td>CCC-</td>
+            <td>1.890</td>
+            <td>1.684</td>
+            <td>2.121</td>
+        </tr>
+        <tr>
+            <td>CC+</td>
+            <td>CC+</td>
+            <td>2.381</td>
+            <td>2.121</td>
+            <td>2.673</td>
+        </tr>
+        <tr>
+            <td>CC</td>
+            <td>CC</td>
+            <td>3.000</td>
+            <td>2.673</td>
+            <td>3.367</td>
+        </tr>
+        <tr>
+            <td>CC-</td>
+            <td>CC-</td>
+            <td>3.780</td>
+            <td>3.367</td>
+            <td>4.243</td>
+        </tr>
+    </tbody>
+</table>
 
 La determinación de estos distintos niveles y sus límites de probabilidad de incumplimiento (PD) se realizó tomando como referencia las escalas de rating y tasas de incumplimiento de las agencias externas Standard & Poor’s y Moody’s. De esta manera se establecen los niveles de probabilidad de incumplimiento de la Escala Maestra del Grupo BBVA. Dicha escala es común para todo el Grupo, sin embargo, las calibraciones (mapeo de puntuaciones a tramos de PD/niveles de la Escala Maestra) se realizan a nivel de herramienta para cada uno de los países en los que el Grupo dispone de herramientas.
 
-Seguidamente se presenta la distribución, por ratings internos, de la exposición (incluidos los derivados) con empresas, entidades financieras e instituciones (excluyendo riesgo soberano) relativa a BBVA S.A., Bancomer, Compass y filiales en España a 31 de diciembre de 2016, y 2015:
+Seguidamente se presenta la distribución, por ratings internos, de la exposición (incluidos los derivados) con empresas, entidades financieras e instituciones (excluyendo riesgo soberano) relativa a BBVA S.A., Bancomer, Compass y filiales en España a 31 de diciembre de 2016, y 2015: 
 
-IMAGE GOES HERE
+<table>
+    <thead>
+        <tr>
+            <th>AAA/AA+/AA/AA-</th>
+            <th>&nbsp;</th>
+            <th>35.430</th>
+            <th>11,84%</th>
+            <th>27.913</th>
+            <th>9,17%</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>A+/A/A-</td>
+            <td>&nbsp;</td>
+            <td>58.702</td>
+            <td>19,62%</td>
+            <td>62.798</td>
+            <td>20,64%</td>
+        </tr>
+        <tr>
+            <td>BBB+</td>
+            <td>&nbsp;</td>
+            <td>43.962</td>
+            <td>14,69%</td>
+            <td>43.432</td>
+            <td>14,27%</td>
+        </tr>
+        <tr>
+            <td>BBB</td>
+            <td>&nbsp;</td>
+            <td>27.388</td>
+            <td>9,15%</td>
+            <td>28.612</td>
+            <td>9,40%</td>
+        </tr>
+        <tr>
+            <td>BBB-</td>
+            <td>&nbsp;</td>
+            <td>41.713</td>
+            <td>13,94%</td>
+            <td>40.821</td>
+            <td>13,41%</td>
+        </tr>
+        <tr>
+            <td>BB+</td>
+            <td>&nbsp;</td>
+            <td>32.694</td>
+            <td>10,92%</td>
+            <td>28.355</td>
+            <td>9,32%</td>
+        </tr>
+        <tr>
+            <td>BB</td>
+            <td>&nbsp;</td>
+            <td>19.653</td>
+            <td>6,57%</td>
+            <td>23.008</td>
+            <td>7,56%</td>
+        </tr>
+        <tr>
+            <td>BB-</td>
+            <td>&nbsp;</td>
+            <td>13.664</td>
+            <td>4,57%</td>
+            <td>12.548</td>
+            <td>4,12%</td>
+        </tr>
+        <tr>
+            <td>B+</td>
+            <td>&nbsp;</td>
+            <td>10.366</td>
+            <td>3,46%</td>
+            <td>8.597</td>
+            <td>2,83%</td>
+        </tr>
+        <tr>
+            <td>B</td>
+            <td>&nbsp;</td>
+            <td>4.857</td>
+            <td>1,62%</td>
+            <td>5.731</td>
+            <td>1,88%</td>
+        </tr>
+        <tr>
+            <td>B-</td>
+            <td>&nbsp;</td>
+            <td>3.687</td>
+            <td>1,23%</td>
+            <td>3.998</td>
+            <td>1,31%</td>
+        </tr>
+        <tr>
+            <td>CCC/CC</td>
+            <td>&nbsp;</td>
+            <td>7.149</td>
+            <td>2,39%</td>
+            <td>18.488</td>
+            <td>6,08%</td>
+        </tr>
+        <tr>
+            <td>Total</td>
+            <td>&nbsp;</td>
+            <td>299.264</td>
+            <td>100,00%</td>
+            <td>304.300</td>
+            <td>100,00%</td>
+        </tr>
+    </tbody>
+</table>
 
 #### 7.3.4 Riesgos vencidos no deteriorados y riesgos dudosos o deteriorados
 
 Las siguientes tablas muestran un detalle por contraparte y por producto de los importes vencidos de los riesgos que no se consideraban deteriorados a 31 de diciembre de 2016 y 2015 clasificados en función de la antigüedad del primer vencimiento impagado; así como el desglose de los valores representativos de deuda y los préstamos y anticipos deteriorados, determinados individual y colectivamente, y las correcciones de valor diferenciando si el mismo se ha determinado en base a un análisis individualizado o colectivo (ver Nota 2.2.1):
 
-IMAGE GOES HERE
+<table>
+    <thead>
+        <tr>
+            <th>Valores representativos de deuda</th>
+            <th>-</th>
+            <th>-</th>
+            <th>-</th>
+            <th>&nbsp;</th>
+            <th>&nbsp;</th>
+            <th>&nbsp;</th>
+            <th>272</th>
+            <th>128</th>
+            <th>(120)</th>
+            <th>(24)</th>
+            <th>(46)</th>
+            <th>(1)</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Préstamos y anticipos</td>
+            <td>3.384</td>
+            <td>696</td>
+            <td>735</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>22.925</td>
+            <td>12.133</td>
+            <td>(3.084)</td>
+            <td>(7.708)</td>
+            <td>(5.224)</td>
+            <td>(29.346)</td>
+        </tr>
+        <tr>
+            <td>Bancos centrales</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Administraciones públicas</td>
+            <td>66</td>
+            <td>-</td>
+            <td>2</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>295</td>
+            <td>256</td>
+            <td>(19)</td>
+            <td>(20)</td>
+            <td>(13)</td>
+            <td>(13)</td>
+        </tr>
+        <tr>
+            <td>Entidades de crédito</td>
+            <td>3</td>
+            <td>-</td>
+            <td>82</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>10</td>
+            <td>3</td>
+            <td>-</td>
+            <td>(7)</td>
+            <td>(36)</td>
+            <td>(5)</td>
+        </tr>
+        <tr>
+            <td>Otras sociedades financieras</td>
+            <td>4</td>
+            <td>7</td>
+            <td>21</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>34</td>
+            <td>8</td>
+            <td>(6)</td>
+            <td>(20)</td>
+            <td>(57)</td>
+            <td>(6)</td>
+        </tr>
+        <tr>
+            <td>Sociedades no financieras</td>
+            <td>968</td>
+            <td>209</td>
+            <td>204</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>13.786</td>
+            <td>6.383</td>
+            <td>(2.602)</td>
+            <td>(4.801)</td>
+            <td>(2.789)</td>
+            <td>(18.020)</td>
+        </tr>
+        <tr>
+            <td>Hogares</td>
+            <td>2.343</td>
+            <td>479</td>
+            <td>426</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>8.801</td>
+            <td>5.483</td>
+            <td>(458)</td>
+            <td>(2.860)</td>
+            <td>(2.329)</td>
+            <td>(11.303)</td>
+        </tr>
+        <tr>
+            <td>TOTAL</td>
+            <td>3.384</td>
+            <td>696</td>
+            <td>735</td>
+            <td>0</td>
+            <td>0</td>
+            <td>0</td>
+            <td>23.197</td>
+            <td>12.261</td>
+            <td>(3.204)</td>
+            <td>(7.733)</td>
+            <td>(5.270)</td>
+            <td>(29.347)</td>
+        </tr>
+        <tr>
+            <td>Préstamos y anticipos por productos, por garantías reales y por subordinación</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>A la vista y con breve plazo de preaviso (cuenta corriente)</td>
+            <td>79</td>
+            <td>15</td>
+            <td>29</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>562</td>
+            <td>249</td>
+            <td>(70)</td>
+            <td>(243)</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Deuda por tarjetas de crédito</td>
+            <td>377</td>
+            <td>88</td>
+            <td>124</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>643</td>
+            <td>114</td>
+            <td>(11)</td>
+            <td>(518)</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Cartera comercial</td>
+            <td>51</td>
+            <td>15</td>
+            <td>13</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>424</td>
+            <td>87</td>
+            <td>(67)</td>
+            <td>(271)</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Arrendamientos financieros</td>
+            <td>188</td>
+            <td>107</td>
+            <td>59</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>516</td>
+            <td>252</td>
+            <td>(18)</td>
+            <td>(246)</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Préstamos de recompra inversa</td>
+            <td>-</td>
+            <td>-</td>
+            <td>82</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>1</td>
+            <td>-</td>
+            <td>-</td>
+            <td>(1)</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Otros préstamos a plazo</td>
+            <td>2.685</td>
+            <td>469</td>
+            <td>407</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>20.765</td>
+            <td>11.429</td>
+            <td>(2.909)</td>
+            <td>(6.427)</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Anticipos distintos de préstamos</td>
+            <td>5</td>
+            <td>-</td>
+            <td>21</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>14</td>
+            <td>2</td>
+            <td>(10)</td>
+            <td>(2)</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>De los cuales: préstamos hipotecarios (préstamos garantizados por bienes inmuebles)</td>
+            <td>1.202</td>
+            <td>265</td>
+            <td>254</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>16.526</td>
+            <td>9.008</td>
+            <td>(1.256)</td>
+            <td>(4.594)</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>De los cuales: otros préstamos con garantías reales</td>
+            <td>593</td>
+            <td>124</td>
+            <td>47</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>1.129</td>
+            <td>656</td>
+            <td>(93)</td>
+            <td>(181)</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>De los cuales: crédito al consumo</td>
+            <td>1.186</td>
+            <td>227</td>
+            <td>269</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>1.622</td>
+            <td>455</td>
+            <td>(145)</td>
+            <td>(1.023)</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>De los cuales: préstamos para compra de vivienda</td>
+            <td>883</td>
+            <td>194</td>
+            <td>105</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>6.094</td>
+            <td>4.546</td>
+            <td>(140)</td>
+            <td>(1.408)</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>De los cuales: préstamos para financiación de proyectos</td>
+            <td>138</td>
+            <td>-</td>
+            <td>0</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>253</td>
+            <td>105</td>
+            <td>(76)</td>
+            <td>(71)</td>
+            <td>&nbsp;</td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
+
+(*) En el Anexo XII se muestra el desglose de los préstamos y anticipos deteriorados por áreas geográficas.
+
+<table>
+    <thead>
+        <tr>
+            <th>Valores representativos de deuda</th>
+            <th>-</th>
+            <th>-</th>
+            <th>-</th>
+            <th>&nbsp;</th>
+            <th>&nbsp;</th>
+            <th>&nbsp;</th>
+            <th>81</th>
+            <th>46</th>
+            <th>(21)</th>
+            <th>(14)</th>
+            <th>(113)</th>
+            <th>-</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Préstamos y anticipos</td>
+            <td>3.445</td>
+            <td>825</td>
+            <td>404</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>25.358</td>
+            <td>12.527</td>
+            <td>(3.830)</td>
+            <td>(9.001)</td>
+            <td>(5.911)</td>
+            <td>(26.143)</td>
+        </tr>
+        <tr>
+            <td>Bancos centrales</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Administraciones públicas</td>
+            <td>154</td>
+            <td>278</td>
+            <td>2</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>194</td>
+            <td>157</td>
+            <td>(14)</td>
+            <td>(23)</td>
+            <td>(30)</td>
+            <td>(19)</td>
+        </tr>
+        <tr>
+            <td>Entidades de crédito</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>25</td>
+            <td>9</td>
+            <td>(11)</td>
+            <td>(6)</td>
+            <td>(34)</td>
+            <td>(5)</td>
+        </tr>
+        <tr>
+            <td>Otras sociedades financieras</td>
+            <td>7</td>
+            <td>1</td>
+            <td>14</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>67</td>
+            <td>29</td>
+            <td>(11)</td>
+            <td>(27)</td>
+            <td>(124)</td>
+            <td>(5)</td>
+        </tr>
+        <tr>
+            <td>Sociedades no financieras</td>
+            <td>838</td>
+            <td>148</td>
+            <td>48</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>16.254</td>
+            <td>7.029</td>
+            <td>(3.153)</td>
+            <td>(6.071)</td>
+            <td>(3.096)</td>
+            <td>(15.372)</td>
+        </tr>
+        <tr>
+            <td>Hogares</td>
+            <td>2.446</td>
+            <td>399</td>
+            <td>340</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>8.817</td>
+            <td>5.303</td>
+            <td>(641)</td>
+            <td>(2.873)</td>
+            <td>(2.626)</td>
+            <td>(10.743)</td>
+        </tr>
+        <tr>
+            <td>TOTAL</td>
+            <td>3.445</td>
+            <td>825</td>
+            <td>404</td>
+            <td>0</td>
+            <td>0</td>
+            <td>0</td>
+            <td>25.439</td>
+            <td>12.573</td>
+            <td>(3.851)</td>
+            <td>(9.015)</td>
+            <td>(6.024)</td>
+            <td>(26.143)</td>
+        </tr>
+        <tr>
+            <td>Préstamos y anticipos por productos, por garantías reales y por subordinación</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>A la vista y con breve plazo de preaviso (cuenta corriente)</td>
+            <td>134</td>
+            <td>13</td>
+            <td>7</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>634</td>
+            <td>204</td>
+            <td>(106)</td>
+            <td>(324)</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Deuda por tarjetas de crédito</td>
+            <td>389</td>
+            <td>74</td>
+            <td>126</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>689</td>
+            <td>161</td>
+            <td>(24)</td>
+            <td>(503)</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Cartera comercial</td>
+            <td>98</td>
+            <td>26</td>
+            <td>22</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>628</td>
+            <td>179</td>
+            <td>(119)</td>
+            <td>(330)</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Arrendamientos financieros</td>
+            <td>136</td>
+            <td>29</td>
+            <td>21</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>529</td>
+            <td>222</td>
+            <td>(31)</td>
+            <td>(276)</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Préstamos de recompra inversa</td>
+            <td>1</td>
+            <td>-</td>
+            <td>-</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>1</td>
+            <td>1</td>
+            <td>-</td>
+            <td>(1)</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Otros préstamos a plazo</td>
+            <td>2.685</td>
+            <td>682</td>
+            <td>227</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>22.764</td>
+            <td>11.747</td>
+            <td>(3.540)</td>
+            <td>(7.477)</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Anticipos distintos de préstamos</td>
+            <td>2</td>
+            <td>-</td>
+            <td>-</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>113</td>
+            <td>13</td>
+            <td>(10)</td>
+            <td>(89)</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>De los cuales: préstamos hipotecarios (préstamos garantizados por bienes inmuebles)</td>
+            <td>1.342</td>
+            <td>266</td>
+            <td>106</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>16.526</td>
+            <td>9.767</td>
+            <td>(1.705)</td>
+            <td>(5.172)</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>De los cuales: otros préstamos con garantías reales</td>
+            <td>589</td>
+            <td>102</td>
+            <td>27</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>1.129</td>
+            <td>809</td>
+            <td>(182)</td>
+            <td>(157)</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>De los cuales: crédito al consumo</td>
+            <td>957</td>
+            <td>164</td>
+            <td>220</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>1.543</td>
+            <td>404</td>
+            <td>(129)</td>
+            <td>(1.010)</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>De los cuales: préstamos para compra de vivienda</td>
+            <td>616</td>
+            <td>174</td>
+            <td>110</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>5.918</td>
+            <td>4.303</td>
+            <td>(293)</td>
+            <td>(1.322)</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>De los cuales: préstamos para financiación de proyectos</td>
+            <td>3</td>
+            <td>-</td>
+            <td>1</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>276</td>
+            <td>66</td>
+            <td>(32)</td>
+            <td>(178)</td>
+            <td>&nbsp;</td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
+
+(*) En el Anexo XII se muestra el desglose de los préstamos y anticipos deteriorados por áreas geográficas.
 
 A continuación se presenta el desglose de los préstamos y anticipos, dentro del epígrafe “Préstamos y partidas a cobrar”, deteriorados y el deterioro de valor acumulado por sectores a 31 de diciembre de 2016 y 2015:
 
-IMAGE GOES HERE
+<table>
+    <thead>
+        <tr>
+            <th>Diciembre 2016</th>
+            <th>Dudosos o deteriorados</th>
+            <th>Deterioro de valor acumulado o cambios acumulados en el valor razonable debidos al riesgo de crédito</th>
+            <th>Préstamos deteriorados como % de los préstamos por categoría</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Administraciones públicas</td>
+            <td>295</td>
+            <td>(52)</td>
+            <td>0,8%</td>
+        </tr>
+        <tr>
+            <td>Entidades de crédito</td>
+            <td>10</td>
+            <td>(42)</td>
+            <td>0,0%</td>
+        </tr>
+        <tr>
+            <td>Otras sociedades financieras</td>
+            <td>34</td>
+            <td>(82)</td>
+            <td>0,2%</td>
+        </tr>
+        <tr>
+            <td>Sociedades no financieras</td>
+            <td>13.786</td>
+            <td>(10.192)</td>
+            <td>7,4%</td>
+        </tr>
+        <tr>
+            <td>Agricultura, ganadería, silvicultura y pesca</td>
+            <td>221</td>
+            <td>(188)</td>
+            <td>5,1%</td>
+        </tr>
+        <tr>
+            <td>Industrias extractivas</td>
+            <td>126</td>
+            <td>(83)</td>
+            <td>3,3%</td>
+        </tr>
+        <tr>
+            <td>Industria manufacturera</td>
+            <td>1.569</td>
+            <td>(1.201)</td>
+            <td>4,5%</td>
+        </tr>
+        <tr>
+            <td>Suministro de energía eléctrica, gas, vapor y aire acondicionado</td>
+            <td>569</td>
+            <td>(402)</td>
+            <td>3,2%</td>
+        </tr>
+        <tr>
+            <td>Suministro de agua</td>
+            <td>29</td>
+            <td>(10)</td>
+            <td>3,5%</td>
+        </tr>
+        <tr>
+            <td>Construcción</td>
+            <td>5.358</td>
+            <td>(3.162)</td>
+            <td>26,3%</td>
+        </tr>
+        <tr>
+            <td>Comercio al por mayor y al por menor</td>
+            <td>1.857</td>
+            <td>(1.418)</td>
+            <td>6,2%</td>
+        </tr>
+        <tr>
+            <td>Transporte y almacenamiento</td>
+            <td>442</td>
+            <td>(501)</td>
+            <td>4,5%</td>
+        </tr>
+        <tr>
+            <td>Hostelería</td>
+            <td>499</td>
+            <td>(273)</td>
+            <td>5,9%</td>
+        </tr>
+        <tr>
+            <td>Información y comunicaciones</td>
+            <td>112</td>
+            <td>(110)</td>
+            <td>2,2%</td>
+        </tr>
+        <tr>
+            <td>Actividades inmobiliarias</td>
+            <td>1.441</td>
+            <td>(1.074)</td>
+            <td>8,7%</td>
+        </tr>
+        <tr>
+            <td>Actividades profesionales, científicas y técnicas</td>
+            <td>442</td>
+            <td>(380)</td>
+            <td>6,0%</td>
+        </tr>
+        <tr>
+            <td>Actividades administrativas y servicios auxiliares</td>
+            <td>182</td>
+            <td>(107)</td>
+            <td>7,3%</td>
+        </tr>
+        <tr>
+            <td>Administración pública y defensa; seguridad social obligatoria</td>
+            <td>18</td>
+            <td>(25)</td>
+            <td>3,0%</td>
+        </tr>
+        <tr>
+            <td>Educación</td>
+            <td>58</td>
+            <td>(31)</td>
+            <td>5,4%</td>
+        </tr>
+        <tr>
+            <td>Actividades sanitarias y de servicios sociales</td>
+            <td>89</td>
+            <td>(88)</td>
+            <td>1,8%</td>
+        </tr>
+        <tr>
+            <td>Actividades artísticas, recreativas y de entretenimiento</td>
+            <td>84</td>
+            <td>(51)</td>
+            <td>5,1%</td>
+        </tr>
+        <tr>
+            <td>Otros servicios</td>
+            <td>691</td>
+            <td>(1.088)</td>
+            <td>4,2%</td>
+        </tr>
+        <tr>
+            <td>Hogares</td>
+            <td>8.801</td>
+            <td>(5.648)</td>
+            <td>4,6%</td>
+        </tr>
+        <tr>
+            <td>PRÉSTAMOS Y ANTICIPOS</td>
+            <td>22.925</td>
+            <td>(16.016)</td>
+            <td>5,0%</td>
+        </tr>
+    </tbody>
+</table>
+
+<table>
+    <thead>
+        <tr>
+            <th>Diciembre 2015</th>
+            <th>Dudosos o deteriorados</th>
+            <th>Deterioro de valor acumulado o cambios acumulados en el valor razonable debidos al riesgo de crédito</th>
+            <th>Préstamos deteriorados como % de los préstamos por categoría</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Administraciones públicas</td>
+            <td>194</td>
+            <td>(67)</td>
+            <td>0,5%</td>
+        </tr>
+        <tr>
+            <td>Entidades de crédito</td>
+            <td>25</td>
+            <td>(51)</td>
+            <td>0,1%</td>
+        </tr>
+        <tr>
+            <td>Otras sociedades financieras</td>
+            <td>67</td>
+            <td>(162)</td>
+            <td>0,5%</td>
+        </tr>
+        <tr>
+            <td>Sociedades no financieras</td>
+            <td>16.254</td>
+            <td>(12.321)</td>
+            <td>8,8%</td>
+        </tr>
+        <tr>
+            <td>Agricultura, ganadería, silvicultura y pesca</td>
+            <td>231</td>
+            <td>(180)</td>
+            <td>5,4%</td>
+        </tr>
+        <tr>
+            <td>Industrias extractivas</td>
+            <td>192</td>
+            <td>(114)</td>
+            <td>4,7%</td>
+        </tr>
+        <tr>
+            <td>Industria manufacturera</td>
+            <td>1.947</td>
+            <td>(1.729)</td>
+            <td>5,8%</td>
+        </tr>
+        <tr>
+            <td>Suministro de energía eléctrica, gas, vapor y aire acondicionado</td>
+            <td>250</td>
+            <td>(395)</td>
+            <td>1,4%</td>
+        </tr>
+        <tr>
+            <td>Suministro de agua</td>
+            <td>44</td>
+            <td>(23)</td>
+            <td>5,2%</td>
+        </tr>
+        <tr>
+            <td>Construcción</td>
+            <td>6.585</td>
+            <td>(4.469)</td>
+            <td>30,1%</td>
+        </tr>
+        <tr>
+            <td>Comercio al por mayor y al por menor</td>
+            <td>1.829</td>
+            <td>(1.386)</td>
+            <td>6,3%</td>
+        </tr>
+        <tr>
+            <td>Transporte y almacenamiento</td>
+            <td>616</td>
+            <td>(607)</td>
+            <td>6,4%</td>
+        </tr>
+        <tr>
+            <td>Hostelería</td>
+            <td>567</td>
+            <td>(347)</td>
+            <td>7,0%</td>
+        </tr>
+        <tr>
+            <td>Información y comunicaciones</td>
+            <td>110</td>
+            <td>(100)</td>
+            <td>2,3%</td>
+        </tr>
+        <tr>
+            <td>Actividades inmobiliarias</td>
+            <td>1.547</td>
+            <td>(1.194)</td>
+            <td>9,1%</td>
+        </tr>
+        <tr>
+            <td>Actividades profesionales, científicas y técnicas</td>
+            <td>944</td>
+            <td>(454)</td>
+            <td>12,8%</td>
+        </tr>
+        <tr>
+            <td>Actividades administrativas y servicios auxiliares</td>
+            <td>224</td>
+            <td>(148)</td>
+            <td>6,9%</td>
+        </tr>
+        <tr>
+            <td>Administración pública y defensa; seguridad social obligatoria</td>
+            <td>18</td>
+            <td>(25)</td>
+            <td>2,8%</td>
+        </tr>
+        <tr>
+            <td>Educación</td>
+            <td>26</td>
+            <td>(19)</td>
+            <td>2,6%</td>
+        </tr>
+        <tr>
+            <td>Actividades sanitarias y de servicios sociales</td>
+            <td>82</td>
+            <td>(91)</td>
+            <td>1,8%</td>
+        </tr>
+        <tr>
+            <td>Actividades artísticas, recreativas y de entretenimiento</td>
+            <td>100</td>
+            <td>(63)</td>
+            <td>6,6%</td>
+        </tr>
+        <tr>
+            <td>Otros servicios</td>
+            <td>942</td>
+            <td>(977)</td>
+            <td>6,1%</td>
+        </tr>
+        <tr>
+            <td>Hogares</td>
+            <td>8.817</td>
+            <td>(6.140)</td>
+            <td>4,5%</td>
+        </tr>
+        <tr>
+            <td>PRÉSTAMOS Y ANTICIPOS</td>
+            <td>25.358</td>
+            <td>(18.742)</td>
+            <td>5,5%</td>
+        </tr>
+    </tbody>
+</table>
 
 A 31 de diciembre de 2016, 2015 y 2014, los rendimientos financieros devengados acumulados con origen en los activos deteriorados, que, como ya se ha comentado en la Nota 2.2.1, no figuran registrados en las cuentas de pérdidas y ganancias consolidadas adjuntas por existir dudas en cuanto a su cobro, eran de 0000, 3.429 y 3.091 millones de euros, respectivamente.
 
 El movimiento durante 2016, 2015 y 2014 de los activos financieros y garantías concedidas deteriorados, se resume a continuación:
 
-IMAGE GOES HERE
+<table>
+    <thead>
+        <tr>
+            <th>"Movimientos de riesgos dudosos o deteriorados</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Activos financieros y garantías concedidas"</td>
+            <td>2016</td>
+            <td>2015</td>
+            <td>2014</td>
+        </tr>
+        <tr>
+            <td>Saldo inicial</td>
+            <td>26.103</td>
+            <td>23.234</td>
+            <td>25.978</td>
+        </tr>
+        <tr>
+            <td>Entradas (*)</td>
+            <td>11.133</td>
+            <td>14.872</td>
+            <td>8.874</td>
+        </tr>
+        <tr>
+            <td>Disminuciones (**)</td>
+            <td>(7.633)</td>
+            <td>(6.720)</td>
+            <td>(7.172)</td>
+        </tr>
+        <tr>
+            <td>Entrada neta</td>
+            <td>3.500</td>
+            <td>8.152</td>
+            <td>1.702</td>
+        </tr>
+        <tr>
+            <td>Traspasos a fallidos</td>
+            <td>(5.592)</td>
+            <td>(4.989)</td>
+            <td>(4.720)</td>
+        </tr>
+        <tr>
+            <td>Diferencias de cambio y otros</td>
+            <td>(134)</td>
+            <td>(295)</td>
+            <td>274</td>
+        </tr>
+        <tr>
+            <td>Saldo final</td>
+            <td>23.877</td>
+            <td>26.103</td>
+            <td>23.234</td>
+        </tr>
+    </tbody>
+</table>
+
+ (*) Incluye en 2015 el saldo por la incorporación de Catalunya Banc en abril de 2015 que ascendía a 3.969 millones de euros y Garanti en julio de 2015 que ascendía a 1.845 millones de euros.
+ (**) Refleja el importe total de los préstamos deteriorados dados de baja en balance durante todo el periodo como resultado de las recuperaciones hipotecarias y de los activos inmobiliarios recibidos como dación en pago, así como recuperaciones dinerarias, (ver Nota 20 y Nota 21 para obtener información adicional).
 
 El movimiento registrado durante 2016, 2015 y 2014 en los activos financieros dados de baja de los balances consolidados adjuntos por considerarse remota su recuperación (en adelante “fallidos”), se muestra a continuación:
 
-IMAGE GOES HERE
+<table>
+    <thead>
+        <tr>
+            <th>Movimientos de activos financieros deteriorados dados de baja de balance (Fallidos)</th>
+            <th>2016</th>
+            <th>2015</th>
+            <th>2014</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Saldo inicial</td>
+            <td>26.143</td>
+            <td>23.583</td>
+            <td>20.752</td>
+        </tr>
+        <tr>
+            <td>Entidades incorporadas al Grupo en el ejercicio</td>
+            <td>-</td>
+            <td>1.362</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Altas:</td>
+            <td>5.699</td>
+            <td>6.172</td>
+            <td>4.878</td>
+        </tr>
+        <tr>
+            <td>Bajas por:</td>
+            <td>(2.384)</td>
+            <td>(4.830)</td>
+            <td>(2.204)</td>
+        </tr>
+        <tr>
+            <td> Refinanciación o reestructuración</td>
+            <td>(32)</td>
+            <td>(28)</td>
+            <td>(3)</td>
+        </tr>
+        <tr>
+            <td> Cobro en efectivo (Nota 47)</td>
+            <td>(541)</td>
+            <td>(490)</td>
+            <td>(443)</td>
+        </tr>
+        <tr>
+            <td> Adjudicación de activos</td>
+            <td>(210)</td>
+            <td>(159)</td>
+            <td>(116)</td>
+        </tr>
+        <tr>
+            <td> Ventas</td>
+            <td>(45)</td>
+            <td>(54)</td>
+            <td>(66)</td>
+        </tr>
+        <tr>
+            <td> Condonación</td>
+            <td>(864)</td>
+            <td>(3.119)</td>
+            <td>(1.231)</td>
+        </tr>
+        <tr>
+            <td> Prescripción y otras causas</td>
+            <td>(692)</td>
+            <td>(980)</td>
+            <td>(345)</td>
+        </tr>
+        <tr>
+            <td>Diferencias de cambio y otros movimientos</td>
+            <td>(111)</td>
+            <td>(144)</td>
+            <td>156</td>
+        </tr>
+        <tr>
+            <td>Saldo final</td>
+            <td>29.347</td>
+            <td>26.143</td>
+            <td>23.583</td>
+        </tr>
+    </tbody>
+</table>
 
 Tal y como se indica en la Nota 2.2.1, a pesar de estar dados de baja de balance consolidado, el Grupo BBVA mantiene gestiones para conseguir el cobro de estos activos fallidos, hasta tanto no se hayan extinguido definitivamente los derechos a percibirlo; sea por prescripción, condonación u otras causas.
 
@@ -1445,9 +4383,767 @@ Tal y como se indica en la Nota 2.2.1, a pesar de estar dados de baja de balance
 
 A continuación se presentan los movimientos producidos durante 2016 y 2015 en las provisiones registradas en los balances consolidados adjuntos para cubrir el deterioro del valor o reversión del deterioro del valor estimado en los préstamos y anticipos y valores representativos de deuda, en función de los distintos epígrafes del balance consolidado en los que están clasificados:
 
-IMAGE GOES HERE
+<table>
+    <thead>
+        <tr>
+            <th>Diciembre 2016</th>
+            <th>Saldo de apertura</th>
+            <th>Aumentos debidos a dotaciones para pérdidas por préstamos estimadas durante el período</th>
+            <th>Disminuciones debidas a importes para pérdidas crediticias estimadas durante el período revertidos</th>
+            <th>Disminuciones debidas a los importes utilizados con cargo a correcciones de valor</th>
+            <th>Transferencias entre correcciones de valor</th>
+            <th>Otros ajustes</th>
+            <th>Saldo de cierre</th>
+            <th>Recuperaciones registradas directamente en el estado de resultados</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Instrumentos de patrimonio</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Correcciones de valor específicas para activos financieros valorados individualmente</td>
+            <td>(3.851)</td>
+            <td>(765)</td>
+            <td>351</td>
+            <td>283</td>
+            <td>749</td>
+            <td>30</td>
+            <td>(3.204)</td>
+            <td>2</td>
+        </tr>
+        <tr>
+            <td>Valores representativos de deuda</td>
+            <td>(21)</td>
+            <td>(164)</td>
+            <td>3</td>
+            <td>64</td>
+            <td>-</td>
+            <td>(1)</td>
+            <td>(120)</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Bancos centrales</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Administraciones públicas</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Entidades de crédito</td>
+            <td>(20)</td>
+            <td>-</td>
+            <td>-</td>
+            <td>5</td>
+            <td>-</td>
+            <td>-</td>
+            <td>(15)</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Otras sociedades financieras</td>
+            <td>(2)</td>
+            <td>(26)</td>
+            <td>-</td>
+            <td>26</td>
+            <td>-</td>
+            <td>-</td>
+            <td>(2)</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Sociedades no financieras</td>
+            <td>-</td>
+            <td>(138)</td>
+            <td>3</td>
+            <td>33</td>
+            <td>-</td>
+            <td>(1)</td>
+            <td>(103)</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Préstamos y anticipos</td>
+            <td>(3.830)</td>
+            <td>(601)</td>
+            <td>348</td>
+            <td>220</td>
+            <td>749</td>
+            <td>31</td>
+            <td>(3.084)</td>
+            <td>2</td>
+        </tr>
+        <tr>
+            <td>Bancos centrales</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Administraciones públicas</td>
+            <td>(14)</td>
+            <td>-</td>
+            <td>2</td>
+            <td>-</td>
+            <td>(6)</td>
+            <td>-</td>
+            <td>(19)</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Entidades de crédito</td>
+            <td>(11)</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>10</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Otras sociedades financieras</td>
+            <td>(11)</td>
+            <td>(3)</td>
+            <td>1</td>
+            <td>-</td>
+            <td>6</td>
+            <td>3</td>
+            <td>(6)</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Sociedades no financieras</td>
+            <td>(3.153)</td>
+            <td>(494)</td>
+            <td>310</td>
+            <td>206</td>
+            <td>525</td>
+            <td>4</td>
+            <td>(2.602)</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Hogares</td>
+            <td>(641)</td>
+            <td>(104)</td>
+            <td>35</td>
+            <td>13</td>
+            <td>214</td>
+            <td>24</td>
+            <td>(458)</td>
+            <td>2</td>
+        </tr>
+        <tr>
+            <td>Correcciones de valor específicas para activos financieros valorados colectivamente</td>
+            <td>(9.015)</td>
+            <td>(6.146)</td>
+            <td>2.357</td>
+            <td>5.390</td>
+            <td>(872)</td>
+            <td>553</td>
+            <td>(7.733)</td>
+            <td>538</td>
+        </tr>
+        <tr>
+            <td>Valores representativos de deuda</td>
+            <td>(14)</td>
+            <td>(2)</td>
+            <td>3</td>
+            <td>-</td>
+            <td>(10)</td>
+            <td>(1)</td>
+            <td>(24)</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Bancos centrales</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Administraciones públicas</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Entidades de crédito</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Otras sociedades financieras</td>
+            <td>(14)</td>
+            <td>(2)</td>
+            <td>3</td>
+            <td>-</td>
+            <td>(10)</td>
+            <td>(1)</td>
+            <td>(24)</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Sociedades no financieras</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Préstamos y anticipos</td>
+            <td>(9.001)</td>
+            <td>(6.144)</td>
+            <td>2.354</td>
+            <td>5.390</td>
+            <td>(862)</td>
+            <td>554</td>
+            <td>(7.708)</td>
+            <td>538</td>
+        </tr>
+        <tr>
+            <td>Bancos centrales</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Administraciones públicas</td>
+            <td>(23)</td>
+            <td>(2)</td>
+            <td>18</td>
+            <td>6</td>
+            <td>(21)</td>
+            <td>2</td>
+            <td>(20)</td>
+            <td>1</td>
+        </tr>
+        <tr>
+            <td>Entidades de crédito</td>
+            <td>(6)</td>
+            <td>(2)</td>
+            <td>3</td>
+            <td>-</td>
+            <td>-</td>
+            <td>(3)</td>
+            <td>(7)</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Otras sociedades financieras</td>
+            <td>(27)</td>
+            <td>(31)</td>
+            <td>8</td>
+            <td>22</td>
+            <td>5</td>
+            <td>4</td>
+            <td>(20)</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Sociedades no financieras</td>
+            <td>(6.071)</td>
+            <td>(3.211)</td>
+            <td>1.848</td>
+            <td>3.051</td>
+            <td>(804)</td>
+            <td>386</td>
+            <td>(4.801)</td>
+            <td>335</td>
+        </tr>
+        <tr>
+            <td>Hogares</td>
+            <td>(2.873)</td>
+            <td>(2.898)</td>
+            <td>476</td>
+            <td>2.312</td>
+            <td>(42)</td>
+            <td>165</td>
+            <td>(2.860)</td>
+            <td>203</td>
+        </tr>
+        <tr>
+            <td>Correcciones de valor colectivas para pérdidas por activos financieros incurridas pero no comunicadas</td>
+            <td>(6.024)</td>
+            <td>(1.558)</td>
+            <td>1.463</td>
+            <td>88</td>
+            <td>775</td>
+            <td>(15)</td>
+            <td>(5.270)</td>
+            <td>1</td>
+        </tr>
+        <tr>
+            <td>Valores representativos de deuda</td>
+            <td>(113)</td>
+            <td>(11)</td>
+            <td>15</td>
+            <td>1</td>
+            <td>64</td>
+            <td>-</td>
+            <td>(46)</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Préstamos y anticipos</td>
+            <td>(5.911)</td>
+            <td>(1.546)</td>
+            <td>1.449</td>
+            <td>87</td>
+            <td>711</td>
+            <td>(15)</td>
+            <td>(5.224)</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Total</td>
+            <td>(18.890)</td>
+            <td>(8.470)</td>
+            <td>4.172</td>
+            <td>5.762</td>
+            <td>652</td>
+            <td>568</td>
+            <td>(16.206)</td>
+            <td>541</td>
+        </tr>
+    </tbody>
+</table>
 
-IMAGE GOES HERE
+<table>
+    <thead>
+        <tr>
+            <th>Diciembre 2015</th>
+            <th>Saldo de apertura</th>
+            <th>Aumentos debidos a dotaciones para pérdidas por préstamos estimadas durante el período</th>
+            <th>Disminuciones debidas a importes para pérdidas crediticias estimadas durante el período revertidos</th>
+            <th>Disminuciones debidas a los importes utilizados con cargo a correcciones de valor</th>
+            <th>Transferencias entre correcciones de valor</th>
+            <th>Otros ajustes</th>
+            <th>Saldo de cierre</th>
+            <th>Recuperaciones registradas directamente en el estado de resultados</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Instrumentos de patrimonio</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Correcciones de valor específicas para activos financieros valorados individualmente</td>
+            <td>(2.563)</td>
+            <td>(1.375)</td>
+            <td>27</td>
+            <td>384</td>
+            <td>154</td>
+            <td>(479)</td>
+            <td>(3.851)</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Valores representativos de deuda</td>
+            <td>(21)</td>
+            <td>(4)</td>
+            <td>4</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>(21)</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Bancos centrales</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Administraciones públicas</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Entidades de crédito</td>
+            <td>(17)</td>
+            <td>(2)</td>
+            <td>1</td>
+            <td>-</td>
+            <td>(1)</td>
+            <td>-</td>
+            <td>(20)</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Otras sociedades financieras</td>
+            <td>(4)</td>
+            <td>(2)</td>
+            <td>4</td>
+            <td>-</td>
+            <td>1</td>
+            <td>-</td>
+            <td>(2)</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Sociedades no financieras</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Préstamos y anticipos</td>
+            <td>(2.542)</td>
+            <td>(1.371)</td>
+            <td>23</td>
+            <td>384</td>
+            <td>154</td>
+            <td>(478)</td>
+            <td>(3.830)</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Bancos centrales</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Administraciones públicas</td>
+            <td>(9)</td>
+            <td>(4)</td>
+            <td>13</td>
+            <td>-</td>
+            <td>1</td>
+            <td>(15)</td>
+            <td>(14)</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Entidades de crédito</td>
+            <td>(13)</td>
+            <td>(0)</td>
+            <td>3</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>(11)</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Otras sociedades financieras</td>
+            <td>-</td>
+            <td>(240)</td>
+            <td>1</td>
+            <td>-</td>
+            <td>233</td>
+            <td>(5)</td>
+            <td>(11)</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Sociedades no financieras</td>
+            <td>(2.175)</td>
+            <td>(872)</td>
+            <td>(1)</td>
+            <td>159</td>
+            <td>(242)</td>
+            <td>(22)</td>
+            <td>(3.153)</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Hogares</td>
+            <td>(345)</td>
+            <td>(254)</td>
+            <td>8</td>
+            <td>225</td>
+            <td>162</td>
+            <td>(436)</td>
+            <td>(641)</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Correcciones de valor específicas para activos financieros valorados colectivamente</td>
+            <td>(7.956)</td>
+            <td>(4.797)</td>
+            <td>1.408</td>
+            <td>4.778</td>
+            <td>234</td>
+            <td>(2.681)</td>
+            <td>(9.015)</td>
+            <td>490</td>
+        </tr>
+        <tr>
+            <td>Valores representativos de deuda</td>
+            <td>(12)</td>
+            <td>(2)</td>
+            <td>3</td>
+            <td>-</td>
+            <td>-</td>
+            <td>(3)</td>
+            <td>(14)</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Bancos centrales</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Administraciones públicas</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Entidades de crédito</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Otras sociedades financieras</td>
+            <td>(12)</td>
+            <td>(2)</td>
+            <td>3</td>
+            <td>-</td>
+            <td>-</td>
+            <td>(3)</td>
+            <td>(14)</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Sociedades no financieras</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Préstamos y anticipos</td>
+            <td>(7.944)</td>
+            <td>(4.795)</td>
+            <td>1.404</td>
+            <td>4.778</td>
+            <td>234</td>
+            <td>(2.678)</td>
+            <td>(9.001)</td>
+            <td>490</td>
+        </tr>
+        <tr>
+            <td>Bancos centrales</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Administraciones públicas</td>
+            <td>(16)</td>
+            <td>(11)</td>
+            <td>5</td>
+            <td>3</td>
+            <td>(13)</td>
+            <td>9</td>
+            <td>(23)</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Entidades de crédito</td>
+            <td>(5)</td>
+            <td>(11)</td>
+            <td>2</td>
+            <td>-</td>
+            <td>9</td>
+            <td>(2)</td>
+            <td>(6)</td>
+            <td>1</td>
+        </tr>
+        <tr>
+            <td>Otras sociedades financieras</td>
+            <td>(21)</td>
+            <td>(36)</td>
+            <td>1</td>
+            <td>23</td>
+            <td>(3)</td>
+            <td>8</td>
+            <td>(27)</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Sociedades no financieras</td>
+            <td>(5.434)</td>
+            <td>(2.357)</td>
+            <td>1.170</td>
+            <td>2.421</td>
+            <td>(56)</td>
+            <td>(1.815)</td>
+            <td>(6.071)</td>
+            <td>301</td>
+        </tr>
+        <tr>
+            <td>Hogares</td>
+            <td>(2.469)</td>
+            <td>(2.381)</td>
+            <td>227</td>
+            <td>2.331</td>
+            <td>297</td>
+            <td>(877)</td>
+            <td>(2.873)</td>
+            <td>187</td>
+        </tr>
+        <tr>
+            <td>Correcciones de valor colectivas para pérdidas por activos financieros incurridas pero no comunicadas</td>
+            <td>(3.829)</td>
+            <td>(578)</td>
+            <td>576</td>
+            <td>110</td>
+            <td>(486)</td>
+            <td>(1.817)</td>
+            <td>(6.024)</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Valores representativos de deuda</td>
+            <td>(42)</td>
+            <td>(9)</td>
+            <td>6</td>
+            <td>-</td>
+            <td>(67)</td>
+            <td>(1)</td>
+            <td>(113)</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Préstamos y anticipos</td>
+            <td>(3.787)</td>
+            <td>(569)</td>
+            <td>570</td>
+            <td>110</td>
+            <td>(420)</td>
+            <td>(1.816)</td>
+            <td>(5.911)</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Total</td>
+            <td>(14.348)</td>
+            <td>(6.750)</td>
+            <td>2.011</td>
+            <td>5.272</td>
+            <td>(98)</td>
+            <td>(4.977)</td>
+            <td>(18.890)</td>
+            <td>490</td>
+        </tr>
+    </tbody>
+</table>
 
 
 #### 7.3.6 Operaciones de refinanciación y reestructuración
@@ -1456,15 +5152,15 @@ IMAGE GOES HERE
 
 La formalización de una operación refinanciada/reestructurada (ver definición en el Glosario) se realiza en relación con aquel cliente que haya solicitado la operación para atender su deuda actual y que presente, o se prevé que pueda presentar en el futuro, dificultades financieras en el pago de la misma.
 
-El objetivo fundamental de la formalización de una operación refinanciada/reestructurada es proporcionar al cliente viabilidad financiera duradera en el tiempo, adecuando el pago de sus deudas contraídas con el Grupo a la nueva situación de generación de recursos del cliente. La utilización de la refinanciación o reestructuración con otros objetivos, como pueda ser el retrasar el reconocimiento de las pérdidas, es contraria a las políticas del Grupo BBVA.
+El objetivo fundamental de la formalización de una operación refinanciada/reestructurada es proporcionar al cliente viabilidad financiera duradera en el tiempo, adecuando el pago de sus deudas contraídas con el Grupo a la nueva situación de generación de recursos del cliente. La utilización de la refinanciación o reestructuración con otros objetivos, como pueda ser el retrasar el reconocimiento de las pérdidas, es contraria a las políticas del Grupo BBVA. 
 
 Las políticas de refinanciación/reestructuración del Grupo BBVA se basan en los siguientes principios generales:
 
-• Las refinanciaciones y reestructuraciones se autorizan en base a la evaluación de la capacidad de pago de los clientes para atender la nueva cuota. Para ello, se identifica primero el origen de las dificultades de pago y se realiza un análisis de la viabilidad del cliente, incluyendo el análisis actualizado de su situación económica y financiera y de su capacidad de pago y generación de recursos. En el caso de que el cliente sea una empresa, se analiza también la evolución del sector del que forma parte.
-• Con el objetivo de incrementar la solvencia de la operación, se procura, en lo posible, la obtención de nuevas garantías y/o garantes con solvencia demostrada. Dentro de este proceso, es esencial el análisis de la eficacia de las garantías aportadas, tanto las nuevas como las originales.
-• El análisis se realiza desde la perspectiva global del cliente o grupo, y no únicamente desde la perspectiva de una operación concreta.
-• En las operaciones de refinanciación y reestructuración no se aumenta, con carácter general, el importe de la deuda del cliente, con la única excepción de los gastos inherentes a la propia operación.
-• La capacidad de realizar refinanciaciones y reestructuraciones no está delegada en la red de oficinas, sino que son decididas en el ámbito de las unidades de riesgos.
+• Las refinanciaciones y reestructuraciones se autorizan en base a la evaluación de la capacidad de pago de los clientes para atender la nueva cuota. Para ello, se identifica primero el origen de las dificultades de pago y se realiza un análisis de la viabilidad del cliente, incluyendo el análisis actualizado de su situación económica y financiera y de su capacidad de pago y generación de recursos. En el caso de que el cliente sea una empresa, se analiza también la evolución del sector del que forma parte. 
+• Con el objetivo de incrementar la solvencia de la operación, se procura, en lo posible, la obtención de nuevas garantías y/o garantes con solvencia demostrada. Dentro de este proceso, es esencial el análisis de la eficacia de las garantías aportadas, tanto las nuevas como las originales. 
+• El análisis se realiza desde la perspectiva global del cliente o grupo, y no únicamente desde la perspectiva de una operación concreta. 
+• En las operaciones de refinanciación y reestructuración no se aumenta, con carácter general, el importe de la deuda del cliente, con la única excepción de los gastos inherentes a la propia operación. 
+• La capacidad de realizar refinanciaciones y reestructuraciones no está delegada en la red de oficinas, sino que son decididas en el ámbito de las unidades de riesgos. 
 • Periódicamente se revisan las decisiones adoptadas, con el fin de comprobar el adecuado cumplimiento de las políticas de refinanciación y reestructuración.
 
 Estos principios generales se adaptan, en cada caso, en función de las condiciones y circunstancias de cada geografía en las que el Grupo opera y de la distinta tipología de clientes.
@@ -1477,7 +5173,7 @@ En el caso de clientes mayoristas, fundamentalmente, empresas y corporaciones, l
 • La evolución prevista de ingresos, márgenes y generación de flujos de caja para un periodo lo suficientemente largo (en el entorno de los cinco años), que permita a la empresas implantar las medidas de ajustes de costes (reestructuración industrial) y un desarrollo del plan de negocio que contribuyan a reducir el nivel de apalancamiento a niveles sostenibles (capacidad de acceso a los mercados financieros).
 • La existencia, en su caso, de un plan de desinversiones en activos y/o segmentos de negocio que permitan generar caja para ayudar al proceso de desapalancamiento.
 • La capacidad de los accionistas de aportar capital y/o garantías que puedan dar soporte al plan de viabilidad.
-De acuerdo con la política del Grupo, el hecho de la formalización de una operación refinanciada/reestructurada no implica su reclasificación de las categorías de “Dudoso” o “Subestándar” a riesgos vivos, sino que dicha reclasificación debe basarse en los análisis, antes comentados, de viabilidad y de eficacia de las nuevas garantías aportadas.
+De acuerdo con la política del Grupo, el hecho de la formalización de una operación refinanciada/reestructurada no implica su reclasificación de las categorías de “Dudoso” o “Subestándar” a riesgos vivos, sino que dicha reclasificación debe basarse en los análisis, antes comentados, de viabilidad y de eficacia de las nuevas garantías aportadas. 
 El Grupo mantiene la política de incluir los riesgos refinanciados/reestructurados como:
 • “Riesgos dudosos”, ya que, aunque el cliente esté al corriente de pago, se califican como dudosos por razones distintas de su morosidad cuando existan dudas relevantes de que puedan incumplirse los términos de la refinanciación.
 • “Riesgos subestándar”, porque exista alguna duda de un posible incumplimiento en la operación refinanciada.
@@ -1504,16 +5200,85 @@ El riesgo de mercado se genera por los movimientos en las variables de mercado q
 • Riesgo de renta variable: surge como consecuencia del movimiento en los precios de las acciones. Dicho riesgo se genera en las posiciones en contado de acciones así como en cualquier producto derivado cuyo subyacente sea una acción o un índice de renta variable. Como un sub-riesgo del de renta variable surge el riesgo de dividendo, como input de cualquier opción sobre renta variable, su variabilidad puede afectar a la valoración de las posiciones y, por lo tanto, es un factor generador de riesgo en los libros.
 • Riesgo de tipo de cambio: se produce por el movimiento en los tipos de cambio de las diferentes divisas en las que se tiene posición. Al igual que el de renta variable, este riesgo se genera en las posiciones de contado de divisa, así como en cualquier producto derivado cuyo subyacente sea un tipo de cambio. Adicionalmente, el efecto quanto (operaciones donde el subyacente y el nominal de la operación estén denominados en divisas diferentes) conlleva que en determinadas operaciones donde el subyacente no sea una divisa se genere un riesgo de tipo de cambio que es preciso medir y monitorizar
 • Riesgo de spread de crédito: El spread de crédito es un indicador de mercado de la calidad crediticia de un emisor. El riesgo de spread se produce por las variaciones en los niveles de spread tanto de emisores corporativos como gubernamentales y afecta tanto a las posiciones en bonos como en derivados de crédito.
-• Riesgo de volatilidad: se produce como consecuencia de las variaciones en los niveles de volatilidad implícita a la que cotizan los diferentes instrumentos de mercado en los que se negocien derivados. Este riesgo, a diferencia del resto, es un componente exclusivo de la operativa en derivados y se define como un riesgo de primer orden al cambio en la volatilidad que se genera en todos los posibles subyacentes en los que existan productos con opcionalidad que precisen de un input de volatilidad para su valoración.
+• Riesgo de volatilidad: se produce como consecuencia de las variaciones en los niveles de volatilidad implícita a la que cotizan los diferentes instrumentos de mercado en los que se negocien derivados. Este riesgo, a diferencia del resto, es un componente exclusivo de la operativa en derivados y se define como un riesgo de primer orden al cambio en la volatilidad que se genera en todos los posibles subyacentes en los que existan productos con opcionalidad que precisen de un input de volatilidad para su valoración. 
 
-Las métricas desarrolladas para el control y seguimiento del riesgo de mercado en el Grupo BBVA están alineadas con las mejores prácticas del mercado e implementadas de manera consistente en todas las unidades locales de riesgo de mercado.
+Las métricas desarrolladas para el control y seguimiento del riesgo de mercado en el Grupo BBVA están alineadas con las mejores prácticas del mercado e implementadas de manera consistente en todas las unidades locales de riesgo de mercado. 
 Los procedimientos de medición se establecen en términos de cómo impactaría una posible evolución negativa de las condiciones de los mercados, tanto bajo circunstancias ordinarias como en situaciones de tensión, a la cartera de trading de las unidades de Global Markets del Grupo.
 
 La métrica estándar de medición del Riesgo de Mercado es el Valor en Riesgo (“VaR”), que indica las pérdidas máximas que se pueden producir en las carteras a un nivel de confianza dado (99%) y a un horizonte temporal (un día). Este valor estadístico, de uso generalizado en el mercado, tiene la ventaja de resumir en una única métrica los riesgos inherentes a la actividad de trading teniendo en cuenta las relaciones existentes entre todos ellos, proporcionando la predicción de pérdidas que podría experimentar la cartera de trading como resultado de las variaciones de los precios de los mercados de renta variable, tipos de interés, tipos de cambio y commodities. El análisis de riesgo de mercado incluye la consideración de los siguientes riesgos: spread de crédito, bases entre distintos instrumentos, volatilidad o riesgo de correlación.
 
 La mayor parte de las partidas del balance consolidado del Grupo consolidado que están sujetas a riesgo de mercado son posiciones cuya principal métrica para medir su riesgo de mercado es el VaR. La siguiente tabla muestra los epígrafes contables del balance consolidado a 31 de diciembre de 2016 en las geografías que cuentan con Modelo Interno (BBVA S.A. y BBVA Bancomer) donde existe riesgo de mercado en la actividad de trading sujeto a esta medición:
 
-IMAGE GOES HERE
+<table>
+    <thead>
+        <tr>
+            <th>Activos sujetos a riesgo de mercado</th>
+            <th>&nbsp;</th>
+            <th>&nbsp;</th>
+            <th>&nbsp;</th>
+            <th>&nbsp;</th>
+            <th>&nbsp;</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td> Cartera de negociación</td>
+            <td>&nbsp;</td>
+            <td>64.623</td>
+            <td>1.480</td>
+            <td>64.370</td>
+            <td>4.712</td>
+        </tr>
+        <tr>
+            <td> Activos financieros disponibles para la venta</td>
+            <td>&nbsp;</td>
+            <td>7.119</td>
+            <td>28.771</td>
+            <td>8.234</td>
+            <td>50.088</td>
+        </tr>
+        <tr>
+            <td> 'De los que: Instrumentos de capital</td>
+            <td>&nbsp;</td>
+            <td>-</td>
+            <td>3.559</td>
+            <td>-</td>
+            <td>4.067</td>
+        </tr>
+        <tr>
+            <td> Derivados de cobertura</td>
+            <td>&nbsp;</td>
+            <td>1.041</td>
+            <td>1.415</td>
+            <td>528</td>
+            <td>1.888</td>
+        </tr>
+        <tr>
+            <td>Pasivos sujetos a riesgo de mercado</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td> Cartera de negociación</td>
+            <td>&nbsp;</td>
+            <td>47.491</td>
+            <td>2.223</td>
+            <td>42.550</td>
+            <td>6.277</td>
+        </tr>
+        <tr>
+            <td> Derivados de cobertura</td>
+            <td>&nbsp;</td>
+            <td>1.305</td>
+            <td>689</td>
+            <td>1.128</td>
+            <td>806</td>
+        </tr>
+    </tbody>
+</table>
 
 Aunque la tabla anterior muestra el detalle de las posiciones financieras sujetas a riesgo de mercado, es preciso resaltar que la información es a título informativo y no refleja cómo se gestiona el riesgo en la actividad de trading, dónde no se clasifica entre activos y pasivos.
 
@@ -1526,7 +5291,7 @@ El modelo utilizado estima el VaR de acuerdo con la metodología de “simulaci�
 Las cifras de VaR se estiman siguiendo 2 metodologías:
 
 • VaR sin alisado, que equipondera la información diaria de los últimos 2 años transcurridos. Actualmente ésta es la metodología oficial de medición de riesgos de mercado de cara al seguimiento y control de límites de riesgo.
-• VaR con alisado, que da mayor peso a la información más reciente de los mercados. Es una medición complementaria a la anterior.
+• VaR con alisado, que da mayor peso a la información más reciente de los mercados. Es una medición complementaria a la anterior. 
 
 En el caso de las geografías de América del Sur (excepto BBVA Chile) se emplea metodología paramétrica para la medición del riesgo en términos de VaR.
 
@@ -1548,7 +5313,176 @@ Por tipología de riesgo de mercado asumido por la cartera de trading del Grupo,
 
 A 31 de diciembre de 2016, 2015 y 2014 el saldo de VaR fue de 0000, 24 y 25 millones de euros, respectivamente. Estas cifras se desglosan de la siguiente manera:
 
-IMAGE GOES HERE
+<table>
+    <thead>
+        <tr>
+            <th>VaR por factores de riesgo</th>
+            <th>Riesgo de interés y spread</th>
+            <th>Riesgo de cambio</th>
+            <th>Riesgo renta variable</th>
+            <th>Riesgo volatilidad/ correlación</th>
+            <th>Efecto diversificación (*)</th>
+            <th>Total</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Diciembre 2016</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>VaR medio del periodo</td>
+            <td>28</td>
+            <td>10</td>
+            <td>4</td>
+            <td>11</td>
+            <td>(23)</td>
+            <td>29</td>
+        </tr>
+        <tr>
+            <td>VaR máximo del periodo</td>
+            <td>30</td>
+            <td>16</td>
+            <td>4</td>
+            <td>11</td>
+            <td>(23)</td>
+            <td>38</td>
+        </tr>
+        <tr>
+            <td>VaR mínimo del periodo</td>
+            <td>21</td>
+            <td>10</td>
+            <td>1</td>
+            <td>11</td>
+            <td>(20)</td>
+            <td>23</td>
+        </tr>
+        <tr>
+            <td>VaR al final del periodo</td>
+            <td>29</td>
+            <td>7</td>
+            <td>2</td>
+            <td>12</td>
+            <td>(24)</td>
+            <td>26</td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Diciembre 2015</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>VaR medio del periodo</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>24</td>
+        </tr>
+        <tr>
+            <td>VaR máximo del periodo</td>
+            <td>32</td>
+            <td>5</td>
+            <td>3</td>
+            <td>9</td>
+            <td>(18)</td>
+            <td>30</td>
+        </tr>
+        <tr>
+            <td>VaR mínimo del periodo</td>
+            <td>20</td>
+            <td>6</td>
+            <td>3</td>
+            <td>9</td>
+            <td>(17)</td>
+            <td>21</td>
+        </tr>
+        <tr>
+            <td>VaR al final del periodo</td>
+            <td>21</td>
+            <td>9</td>
+            <td>3</td>
+            <td>11</td>
+            <td>(20)</td>
+            <td>24</td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Diciembre 2014</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>VaR medio del periodo</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>23</td>
+        </tr>
+        <tr>
+            <td>VaR máximo del periodo</td>
+            <td>31</td>
+            <td>6</td>
+            <td>4</td>
+            <td>10</td>
+            <td>(22)</td>
+            <td>28</td>
+        </tr>
+        <tr>
+            <td>VaR mínimo del periodo</td>
+            <td>24</td>
+            <td>4</td>
+            <td>3</td>
+            <td>11</td>
+            <td>(23)</td>
+            <td>20</td>
+        </tr>
+        <tr>
+            <td>VaR al final del periodo</td>
+            <td>30</td>
+            <td>5</td>
+            <td>2</td>
+            <td>7</td>
+            <td>(20)</td>
+            <td>25</td>
+        </tr>
+    </tbody>
+</table>
+
+(*) El efecto diversificación es la diferencia entre la suma de los factores de riesgos medidos individualmente y la cifra de VaR total que recoge la correlación implícita existente entre todas las variables y escenarios usados en la medición.
 
 ##### Validación del modelo
 
@@ -1569,7 +5503,7 @@ En las carteras de trading del Grupo BBVA se realizan diferentes ejercicios de s
 ##### Escenarios históricos
 
 El escenario de stress histórico de referencia en el Grupo BBVA es el de Lehman Brothers, cuya abrupta quiebra en septiembre de 2008 derivó en un impacto significativo en el comportamiento de los mercados financieros a nivel global. Podríamos destacar como los efectos más relevantes de este escenario histórico los siguientes:
-• Shock de crédito: reflejado principalmente en el aumento de los spreads de crédito, y downgrades en calificaciones crediticias.
+• Shock de crédito: reflejado principalmente en el aumento de los spreads de crédito, y downgrades en calificaciones crediticias. 
 • Aumento en la volatilidad de gran parte de los mercados financieros (dando lugar a mucha variación en los precios de los diferentes activos (divisas, equity, deuda).
 • Shock de liquidez en los sistemas financieros, cuyo reflejo fue un fuerte movimiento de las curvas interbancarias, especialmente en los tramos más cortos de las curvas del euro y del dólar.
 
@@ -1581,12 +5515,38 @@ Las principales características de esta metodología son las siguientes: a) las
 
 A continuación se muestra el impacto esperado del stress test en la cuenta de resultados bajo una simulación multivariante de los factores de riesgo que componen el portfolio (impacto esperado calculado con un nivel de confianza del 95% a 20 días) a 31 de diciembre de 2016.
 
-IMAGE GOES HERE
+<table>
+    <thead>
+        <tr>
+            <th></th>
+            <th>Europa</th>
+            <th>México</th>
+            <th>Perú</th>
+            <th>Venezuela</th>
+            <th>Argentina</th>
+            <th>Colombia</th>
+            <th>Chile</th>
+            <th>Turquía</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Impacto Esperado</td>
+            <td>(92)</td>
+            <td>(42)</td>
+            <td>(5)</td>
+            <td>-</td>
+            <td>(4)</td>
+            <td>(1)</td>
+            <td>(7)</td>
+            <td>(24)</td>
+        </tr>
+    </tbody>
+</table>
 
 #### 7.4.2 Riesgos estructurales
 
 El Comité de Activos y Pasivos (COAP), es el órgano clave en la gestión de riesgos estructurales en lo relativo a liquidez/funding, tipo de interés y divisa. Con periodicidad mensual y con representación de las áreas de Finanzas, Riesgos y Áreas de negocio, es el comité en el que se monitorizan los riesgos anteriormente citados y donde se presentan para su aprobación las propuestas de gestión. Estas propuestas de gestión son realizadas por el área de Finanzas con una visión prospectiva, teniendo en cuenta el marco de apetito al riesgo y tratando de garantizar la recurrencia de resultados y preservar la solvencia de la entidad. Todas las unidades de gestión de balance cuentan con un COAP local, al que asisten de manera permanente miembros del centro corporativo, y existe un COAP corporativo donde se monitorizan y se presentan las estrategias de gestión en las filiales del Grupo.
-
 
 ##### Riesgo estructural de tipo de interés
 
@@ -1604,7 +5564,64 @@ Los impactos en las métricas se evalúan tanto desde una óptica de valor econ�
 
 A continuación se presentan los niveles medios de riesgo de interés, en términos de sensibilidad, de las principales geografías del Grupo durante 2016:
 
-IMAGE GOES HERE
+<table>
+    <thead>
+        <tr>
+            <th>Europa (***)</th>
+            <th>&nbsp;</th>
+            <th>14,12%</th>
+            <th>(7,09%)</th>
+            <th>4,90%</th>
+            <th>(3,62%)</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>México</td>
+            <td>&nbsp;</td>
+            <td>2,13%</td>
+            <td>(2,02%)</td>
+            <td>(2,42%)</td>
+            <td>2,55%</td>
+        </tr>
+        <tr>
+            <td>Estados Unidos</td>
+            <td>&nbsp;</td>
+            <td>8,91%</td>
+            <td>(8,30%)</td>
+            <td>0,41%</td>
+            <td>(7,57%)</td>
+        </tr>
+        <tr>
+            <td>Turquía</td>
+            <td>&nbsp;</td>
+            <td>(6,64%)</td>
+            <td>4,64%</td>
+            <td>(2,78%)</td>
+            <td>3,84%</td>
+        </tr>
+        <tr>
+            <td>América del Sur</td>
+            <td>&nbsp;</td>
+            <td>2,40%</td>
+            <td>(2,41%)</td>
+            <td>(2,82%)</td>
+            <td>3,04%</td>
+        </tr>
+        <tr>
+            <td>GRUPO BBVA</td>
+            <td>&nbsp;</td>
+            <td>4,15%</td>
+            <td>(2,89%)</td>
+            <td>2,69%</td>
+            <td>(2,47%)</td>
+        </tr>
+    </tbody>
+</table>
+
+(*) Porcentaje respecto al margen de intereses "1 año" proyectado de cada unidad.
+(**) Porcentaje respecto al Core Capital de cada unidad.
+(***) En Europa se considera movimiento de tipos a la baja hasta niveles más negativos que los actuales.
 
 En el primer semestre de 2016 en Europa se ha mantenido la política monetaria expansiva, lo que ha presionado los tipos de interés a la baja, hacia niveles más negativos en la parte corta de la curva. En USA la Fed ha mantenido constante el tipo de interés de referencia en este periodo, mientras en México ha continuado el ciclo de subidas iniciado a final de 2015, al igual que en las principales economías de América del Sur.
 
@@ -1620,13 +5637,9 @@ La Unidad corporativa de Gestión de Balance, a través del COAP, diseña y ejec
 Las métricas de seguimiento del riesgo comprendidas en el esquema de límites están integradas en la gestión y complementadas con indicadores adicionales de evaluación. En el ámbito corporativo, se basan en métricas probabilísticas, que miden la desviación máxima en capital, ratio CET1 (“Common Equity Tier 1”), y en beneficio atribuido del Grupo. Las métricas probabilísticas permiten estimar el impacto conjunto de la exposición a diferentes divisas teniendo en cuenta la variabilidad dispar en las cotizaciones de las divisas y sus correlaciones.
 
 Periódicamente se revisa la bondad de estas métricas de estimación del riesgo mediante ejercicios de backtesting. El control del riesgo estructural de tipo de cambio se completa con el análisis de escenarios y de estrés con el fin de identificar, con carácter anticipatorio, posibles amenazas al cumplimiento futuro de los niveles de apetito de riesgo fijados, de tal manera que se posibilite la adopción, en su caso, de las acciones preventivas pertinentes. Los escenarios se basan tanto en situaciones históricas como simuladas por el modelo de riesgos, así como en los escenarios de riesgo proporcionados por BBVA Research.
+En cuanto al mercado, en 2016 destaca la fortaleza del dólar estadounidense, impulsado por tipos de interés más elevados y el buen comportamiento de las divisas del eje andino, mientras, por el contrario, el peso mexicano y la lira turca se han depreciado frente al dólar, afectadas por la mayor incertidumbre y las dudas sobre las expectativas de crecimiento en dichas economías.
 
-En cuanto al mercado, en el primer semestre de 2016 destaca la debilidad del dólar estadounidense y del peso mexicano y, por el contrario, el buen comportamiento de las divisas del eje andino y la lira turca, favorecidas por la recuperación de los precios de las materias primas, en especial el petróleo, y la menor incertidumbre sobre el crecimiento en dichas economías tras el retraso de las subidas de tipos de la Reserva Federal y las mejores perspectivas en China.
-A continuación se presentan los impactos en la cuenta de resultados y en patrimonio consolidado, en términos de sensibilidad, de las principales divisas con las que opera el Grupo durante 2016:
-
-IMAGE GOES HERE
-
-El nivel de exposición al riesgo estructural de tipo de cambio en el Grupo ha disminuido desde el cierre de 2015 debido en buena medida a la intensificación de las coberturas, centradas en el peso mexicano y la lira turca. El nivel de mitigación del riesgo en el ratio de capital por el valor en libros de las participaciones del Grupo BBVA en divisa se mantiene en torno al 70% y la cobertura de los resultados del primer semestre de 2016 en divisa ha alcanzado el 47%. La sensibilidad del ratio CET1 a la apreciación de 1% en el tipo del cambio del euro respecto a cada divisa es la siguiente: dólar estadounidense: +1,2 pbs; peso mexicano -0,2 pbs; lira turca -0,1 pbs; resto de divisas: -0,2 pbs.
+El nivel de exposición al riesgo estructural de tipo de cambio en el Grupo ha disminuido desde el cierre de 2015 debido en buena medida a la intensificación de las coberturas, centradas en el peso mexicano y la lira turca, con el fin de mantener en niveles bajos la sensibilidad del ratio de capital y de los resultados del Grupo a variaciones de los tipos de cambio de las divisas emergentes. El nivel de mitigación del riesgo en el ratio de capital por el valor en libros de las participaciones del Grupo BBVA en estas divisas se mantiene en torno al 70% y, a cierre de año, la sensibilidad del ratio CET1 a la apreciación de 1% en el tipo del cambio del euro respecto a cada divisa es la siguiente: dólar estadounidense: +1,2 pbs; peso mexicano -0,2 pbs; lira turca -0,2 pbs; resto de divisas: -0,3 pbs. Por otro lado, la cobertura de los resultados del año 2016 en divisas emergentes ha alcanzado el 47%, centrada en peso mexicano y lira turca.
 
 ##### Riesgo estructural de renta variable
 
@@ -1638,11 +5651,11 @@ Asimismo, los sistemas de gestión del riesgo con que cuenta el Grupo permiten a
 
 Periódicamente se realizan contrastes de backtesting del modelo de medición de riesgos utilizado.
 
-En el mercado el comportamiento de las bolsas europeas en el primer semestre del año 2016 ha sido negativo, en especial en la última parte del período, a causa de la adversa reacción de los mercados financieros al Brexit, ante la incertidumbre política que genera el proceso y su potencial impacto en el crecimiento de la eurozona. Este efecto ha supuesto un deterioro del valor de las inversiones de renta variable del Grupo a cierre de junio, aunque posteriormente se ha recuperado en buena medida ya que la mayoría de los índices bursátiles ha alcanzado nuevamente los niveles pre-Brexit en julio.
+En el mercado el comportamiento de las bolsas europeas en el primer semestre del año 2016 ha sido negativo, en especial en la última parte del período, a causa de la adversa reacción de los mercados financieros al Brexit, ante la incertidumbre política que genera el proceso y su potencial impacto en el crecimiento de la eurozona. Este efecto ha supuesto un deterioro del valor de las inversiones de renta variable del Grupo a cierre de junio, aunque posteriormente se ha recuperado en buena medida ya que la mayoría de los índices bursátiles ha alcanzado nuevamente los niveles pre-Brexit en julio. 
 
 El riesgo estructural de renta variable, medido en términos de capital económico, se ha reducido significativamente en el período a consecuencia del menor valor de las exposiciones y los dividendos cobrados, así como la reducción de posicionamiento en algunos sectores.
 
-Para profundizar en el análisis del perfil de riesgos, periódicamente se llevan a cabo pruebas de tensión y análisis de sensibilidad ante distintos escenarios simulados, tomando como base tanto situaciones de crisis pasadas como las previsiones realizadas por BBVA Research. Con ello se comprueba que los riesgos están acotados y que no se ponen en peligro los niveles de tolerancia fijados en el Grupo.
+Para profundizar en el análisis del perfil de riesgos, periódicamente se llevan a cabo pruebas de tensión y análisis de sensibilidad ante distintos escenarios simulados, tomando como base tanto situaciones de crisis pasadas como las previsiones realizadas por BBVA Research. Con ello se comprueba que los riesgos están acotados y que no se ponen en peligro los niveles de tolerancia fijados en el Grupo. 
 
 La sensibilidad agregada del patrimonio neto consolidado del Grupo BBVA ante un descenso del 1% en el precio de las acciones ascendía a 30 de junio de 2016 a -39 millones de euros. En la estimación de esta cifra se ha considerado la exposición en acciones valoradas a precio de mercado, o en su defecto, a valor razonable (excepto las posiciones en las carteras de las Áreas de Tesorería) y las posiciones netas en opciones sobre los mismos subyacentes en términos de delta equivalente.
 
@@ -1656,11 +5669,145 @@ En el actual contexto de mercado, los derivados se contratan bajo diferentes con
 
 Asimismo, el Grupo posee un alto volumen de adquisiciones y cesiones temporales de activos transaccionado a través de cámaras de compensación que articulan mecanismos de reducción de riesgo de contrapartida, así como a través de la firma de diversos contratos marco en la operativa bilateral, siendo el más utilizado el contrato GMRA (Global Master Repurchase Agreement), que publica el International Capital Market Association (“ICMA”), al que suelen incorporarse las cláusulas relativas al intercambio de colateral dentro del propio cuerpo del contrato marco.
 
-A continuación se presenta a 31 de diciembre de 2016 y 2015 un resumen del efecto de la compensación (via netting y colateral) para la operativa de derivados financieros y operaciones de financiación de valores:
+A continuación se presenta a 31 de diciembre de 2016 y 2015 un resumen del efecto de la compensación (via netting y colateral) para la operativa de derivados financieros y operaciones de financiación de valores: 
 
-IMAGE GOES HERE
+<table>
+    <thead>
+        <tr>
+            <th>Derivados de negociación y de cobertura</th>
+            <th>10, 15</th>
+            <th>59.374</th>
+            <th>13.587</th>
+            <th>45.788</th>
+            <th>32.146</th>
+            <th>6.571</th>
+            <th>7.070</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Adquisición temporal de activos y similares</td>
+            <td>35 </td>
+            <td>25.833</td>
+            <td>2.912</td>
+            <td>22.921</td>
+            <td>23.080</td>
+            <td>174</td>
+            <td>(333)</td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Derivados de negociación y de cobertura</td>
+            <td>10, 15</td>
+            <td>59.545</td>
+            <td>14.080</td>
+            <td>45.465</td>
+            <td>32.146</td>
+            <td>7.272</td>
+            <td>6.047</td>
+        </tr>
+        <tr>
+            <td>Cesión temporal de activos y similares</td>
+            <td>35</td>
+            <td>49.474</td>
+            <td>2.912</td>
+            <td>46.562</td>
+            <td>47.915</td>
+            <td>176</td>
+            <td>(1.529)</td>
+        </tr>
+        <tr>
+            <td>Total Pasivo</td>
+            <td>&nbsp;</td>
+            <td>109.019</td>
+            <td>16.991</td>
+            <td>92.027</td>
+            <td>80.061</td>
+            <td>7.448</td>
+            <td>4.518</td>
+        </tr>
+    </tbody>
+</table>
+
+<table>
+    <thead>
+        <tr>
+            <th>Derivados de negociación y de cobertura</th>
+            <th>10, 15</th>
+            <th>52.244</th>
+            <th>7.805</th>
+            <th>44.439</th>
+            <th>30.350</th>
+            <th>5.493</th>
+            <th>8.597</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Adquisición temporal de activos y similares</td>
+            <td>35 </td>
+            <td>21.531</td>
+            <td>4.596</td>
+            <td>16.935</td>
+            <td>17.313</td>
+            <td>24</td>
+            <td>(402)</td>
+        </tr>
+        <tr>
+            <td>Total Activo</td>
+            <td>&nbsp;</td>
+            <td>73.775</td>
+            <td>12.401</td>
+            <td>61.374</td>
+            <td>47.663</td>
+            <td>5.517</td>
+            <td>8.195</td>
+        </tr>
+        <tr>
+            <td>Derivados de negociación y de cobertura</td>
+            <td>10, 15</td>
+            <td>53.298</td>
+            <td>8.423</td>
+            <td>44.876</td>
+            <td>30.350</td>
+            <td>9.830</td>
+            <td>4.696</td>
+        </tr>
+        <tr>
+            <td>Cesión temporal de activos y similares</td>
+            <td>35</td>
+            <td>72.998</td>
+            <td>4.596</td>
+            <td>68.402</td>
+            <td>68.783</td>
+            <td>114</td>
+            <td>(495)</td>
+        </tr>
+        <tr>
+            <td>Total Pasivo</td>
+            <td>&nbsp;</td>
+            <td>126.296</td>
+            <td>13.019</td>
+            <td>113.278</td>
+            <td>99.133</td>
+            <td>9.944</td>
+            <td>4.201</td>
+        </tr>
+    </tbody>
+</table>
 
 ### 7.5 Riesgo de liquidez
+
+#### 7.5.1 Gestión de liquidez
 
 La gestión de la financiación y de la liquidez en el Grupo BBVA está fundamentada en el principio de la autonomía financiera de las entidades que lo integran, enfoque que contribuye a prevenir y limitar el riesgo de liquidez al reducir la vulnerabilidad del Grupo en periodos de riesgo elevado. En virtud de esta gestión descentralizada se evitan eventuales contagios por crisis que podrían afectar sólo a una o varias de las entidades del Grupo BBVA, que con actuación independiente deben cubrir sus necesidades de liquidez en los mercados donde operan. En este sentido se conforman Unidades de Gestión de Liquidez (UGL) en los ámbitos geográficos donde operan las principales filiales extranjeras, y adicionalmente para la matriz BBVA S.A. en el entorno del euro donde se incorporan, entre otras, BBVA Portugal y Catalunya Banc.
 
@@ -1670,7 +5817,42 @@ El comportamiento objetivo del Grupo, en términos de riesgo de liquidez y finan
 
 Con la finalidad de establecer los niveles objetivo (máximos) de LtSCD en cada UGL y proporcionar una referencia de estructura de financiación óptima en términos de apetito de riesgo, la unidad corporativa de Riesgos Estructurales de GRM identifica y evalúa las variables económicas y financieras que condicionan las estructuras de financiación en las diferentes geografías. El comportamiento de los indicadores refleja que se mantiene robustez en la estructura de financiación durante 2016, en el sentido de que todas las UGLs mantienen niveles de autofinanciación con recursos estables de clientes por encima de lo exigido.
 
-IMAGE GOES HERE
+<table>
+    <thead>
+        <tr>
+            <th>Grupo (media ponderada)</th>
+            <th>113%</th>
+            <th>116%</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Eurozona</td>
+            <td>113%</td>
+            <td>116%</td>
+        </tr>
+        <tr>
+            <td>Bancomer</td>
+            <td>113%</td>
+            <td>110%</td>
+        </tr>
+        <tr>
+            <td>Compass</td>
+            <td>108%</td>
+            <td>112%</td>
+        </tr>
+        <tr>
+            <td>Garanti</td>
+            <td>124%</td>
+            <td>128%</td>
+        </tr>
+        <tr>
+            <td>Resto UGLs</td>
+            <td>107%</td>
+            <td>111%</td>
+        </tr>
+    </tbody>
+</table>
 
 El segundo eje en la gestión del riesgo de liquidez y financiación es el de lograr una correcta diversificación de la estructura de financiación, evitando una elevada dependencia de la financiación a corto plazo mediante el establecimiento de un nivel máximo de captación de financiación a corto plazo, que comprende tanto financiación mayorista como los recursos menos estables de clientes no minoristas.
 
@@ -1678,26 +5860,628 @@ Como tercer eje principal se promueve la resistencia a corto plazo del perfil de
 
 Cada entidad mantiene un fondo de liquidez a nivel individual, tanto Banco Bilbao Vizcaya Argentaria S.A. como sus filiales, incluyendo BBVA Compass, BBVA Bancomer, Garanti Bank y las filiales latinoamericanas. La siguiente tabla muestra la liquidez disponible por instrumentos a 31 de diciembre de 2016 y 2015 de las unidades más significativas:
 
-IMAGE GOES HERE
+<table>
+    <thead>
+        <tr>
+            <th>Diciembre 2016</th>
+            <th>BBVA Eurozona (1)</th>
+            <th>BBVA Bancomer </th>
+            <th>BBVA Compass </th>
+            <th>Garanti Bank</th>
+            <th>Otros</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Efectivo, saldos en efectivo en bancos centrales y otros depósitos a la vista </td>
+            <td>16.038</td>
+            <td>8.221</td>
+            <td>1.495</td>
+            <td>4.758</td>
+            <td>6.504</td>
+        </tr>
+        <tr>
+            <td>Activos para las operaciones de crédito con los bancos centrales</td>
+            <td>50.706</td>
+            <td>4.175</td>
+            <td>26.865</td>
+            <td>4.935</td>
+            <td>4.060</td>
+        </tr>
+        <tr>
+            <td> Emisiones de gobiernos centrales</td>
+            <td>30.702</td>
+            <td>1.964</td>
+            <td>1.084</td>
+            <td>4.935</td>
+            <td>3.985</td>
+        </tr>
+        <tr>
+            <td>De los que: títulos del gobierno español</td>
+            <td>23.353</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td> Otras emisiones</td>
+            <td>20.005</td>
+            <td>2.212</td>
+            <td>8.991</td>
+            <td>-</td>
+            <td>75</td>
+        </tr>
+        <tr>
+            <td> Préstamos</td>
+            <td>-</td>
+            <td>-</td>
+            <td>16.790</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Otros activos líquidos no elegibles</td>
+            <td>6.884</td>
+            <td>938</td>
+            <td>662</td>
+            <td>1.478</td>
+            <td>883</td>
+        </tr>
+        <tr>
+            <td>SALDO DISPONIBLE ACUMULADO</td>
+            <td>73.629</td>
+            <td>13.335</td>
+            <td>29.022</td>
+            <td>11.171</td>
+            <td>11.447</td>
+        </tr>
+        <tr>
+            <td>SALDO MEDIO</td>
+            <td>68.322</td>
+            <td>13.104</td>
+            <td>27.610</td>
+            <td>12.871</td>
+            <td>11.523</td>
+        </tr>
+    </tbody>
+</table>
 
-IMAGE GOES HERE
+(1) Incluye Banco Bilbao Vizcaya Argentaria, S.A. y Banco Bilbao Vizcaya Argentaria (Portugal), S.A.
+
+<table>
+    <thead>
+        <tr>
+            <th>Diciembre 2015</th>
+            <th>BBVA Eurozona (1)</th>
+            <th>BBVA Bancomer </th>
+            <th>BBVA Compass </th>
+            <th>Garanti Bank</th>
+            <th>Otros</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Efectivo, saldos en efectivo en bancos centrales y otros depósitos a la vista </td>
+            <td>10.939</td>
+            <td>6.936</td>
+            <td>3.214</td>
+            <td>6.585</td>
+            <td>7.122</td>
+        </tr>
+        <tr>
+            <td>Activos para las operaciones de crédito con los bancos centrales</td>
+            <td>51.811</td>
+            <td>5.534</td>
+            <td>22.782</td>
+            <td>4.302</td>
+            <td>4.559</td>
+        </tr>
+        <tr>
+            <td>Emisiones de gobiernos centrales</td>
+            <td>31.314</td>
+            <td>2.303</td>
+            <td>8.086</td>
+            <td>4.186</td>
+            <td>3.654</td>
+        </tr>
+        <tr>
+            <td>De los que: títulos del gobierno español</td>
+            <td>25.317</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td> Otras emisiones</td>
+            <td>20.497</td>
+            <td>3.231</td>
+            <td>479</td>
+            <td>116</td>
+            <td>905</td>
+        </tr>
+        <tr>
+            <td> Préstamos</td>
+            <td>-</td>
+            <td>-</td>
+            <td>14.217</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Otros activos líquidos no elegibles</td>
+            <td>5.760</td>
+            <td>757</td>
+            <td>20</td>
+            <td>1.680</td>
+            <td>229</td>
+        </tr>
+        <tr>
+            <td>SALDO DISPONIBLE ACUMULADO</td>
+            <td>68.510</td>
+            <td>13.227</td>
+            <td>26.016</td>
+            <td>12.567</td>
+            <td>11.910</td>
+        </tr>
+        <tr>
+            <td>SALDO MEDIO</td>
+            <td>67.266</td>
+            <td>12.222</td>
+            <td>24.282</td>
+            <td>12.418</td>
+            <td>10.863</td>
+        </tr>
+    </tbody>
+</table>
+
+(1) Incluye Banco Bilbao Vizcaya Argentaria, S.A., Catalunya Banc, S.A. y Banco Bilbao Vizcaya Argentaria (Portugal), S.A
 
 Las métricas anteriores se completan con toda una serie de indicadores sobre los que se establecen umbrales que tienen como objetivo evitar la concentración en la financiación mayorista por producto, contrapartida, mercados y plazo, así como promover la diversificación por área geográfica. Adicionalmente, se establecen umbrales de referencia sobre una serie de indicadores adelantados que permiten anticipar situaciones de tensión en los mercados y adoptar, en su caso, acciones preventivas.
-Adicionalmente, los análisis de estrés son un elemento fundamental del esquema de seguimiento del riesgo de liquidez y financiación, ya que permiten anticipar desviaciones con respecto a los objetivos de liquidez y límites establecidos en el apetito, y establecer rangos de tolerancia en diferentes ejes de gestión. Asimismo, desempeñan un papel primordial en el diseño del Plan de Contingencia de Liquidez y en la definición de medidas de actuación concretas para reconducir el perfil de riesgo.
 
-Para cada uno de los escenarios se contrasta si el Banco dispone de stock suficiente de activos líquidos que garanticen la capacidad de hacer frente a los compromisos/salidas de liquidez en los distintos períodos analizados. En el desarrollo del análisis se consideran cuatro escenarios: uno central y tres de crisis (crisis sistémica; crisis interna sobrevenida, con sensible disminución del rating y/o que afecte a la capacidad de emitir en mercados mayoristas y a la percepción del riesgo de negocio por parte de los intermediarios bancarios y los clientes de la Entidad; y escenario mixto, como una combinación de los dos anteriores). Cada escenario considera los siguientes factores: la liquidez existente en el mercado, el comportamiento de los clientes y las fuentes de financiación, el impacto de las bajadas de rating, los valores de mercado de activos líquidos y colaterales y la interacción entre los requerimientos de liquidez y la evolución de la calidad crediticia del Banco.
+Adicionalmente, los análisis de estrés son un elemento fundamental del esquema de seguimiento del riesgo de liquidez y financiación, ya que permiten anticipar desviaciones con respecto a los objetivos de liquidez y límites establecidos en el apetito, y establecer rangos de tolerancia en diferentes ejes de gestión. Asimismo, desempeñan un papel primordial en el diseño del Plan de Contingencia de Liquidez y en la definición de medidas de actuación concretas para reconducir el perfil de riesgo. 
 
-De los ejercicios de estrés llevados a cabo periódicamente se desprende que BBVA mantiene un colchón de activos líquidos (buffer de estrés) suficiente para hacer frente a las salidas de liquidez estimadas en un escenario resultante de la combinación de una crisis sistémica y una crisis interna sobrevenida, durante un periodo por encima de 3 meses para todas las UGLs, incluyendo en el escenario una sensible disminución del rating del Banco de hasta tres escalones (“notches”).
-Adicionalmente al comportamiento de los principales indicadores para todas las UGL’s del Grupo, BBVA ha establecido dentro del plan de adaptación de la gestión de los riesgos a los ratios regulatorios, un nivel de exigencia de cumplimiento del ratio LCR tanto para el conjunto del Grupo como para cada una de las UGLs individualmente. Los niveles internos exigidos están orientados a cumplir con suficiente antelación y eficiencia la implementación del requerimiento regulatorio de 2018, en un nivel por encima del 100%.
+Para cada uno de los escenarios se contrasta si el Banco dispone de stock suficiente de activos líquidos que garanticen la capacidad de hacer frente a los compromisos/salidas de liquidez en los distintos períodos analizados. En el desarrollo del análisis se consideran cuatro escenarios: uno central y tres de crisis (crisis sistémica; crisis interna sobrevenida, con sensible disminución del rating y/o que afecte a la capacidad de emitir en mercados mayoristas y a la percepción del riesgo de negocio por parte de los intermediarios bancarios y los clientes de la Entidad; y escenario mixto, como una combinación de los dos anteriores). Cada escenario considera los siguientes factores: la liquidez existente en el mercado, el comportamiento de los clientes y las fuentes de financiación, el impacto de las bajadas de rating, los valores de mercado de activos líquidos y colaterales y la interacción entre los requerimientos de liquidez y la evolución de la calidad crediticia del Banco. 
+
+De los ejercicios de estrés llevados a cabo periódicamente se desprende que BBVA mantiene un colchón de activos líquidos (buffer de estrés) suficiente para hacer frente a las salidas de liquidez estimadas en un escenario resultante de la combinación de una crisis sistémica y una crisis interna sobrevenida, durante un periodo por encima de 3 meses para todas las UGLs, incluyendo en el escenario una sensible disminución del rating del Banco de hasta tres escalones (“notches”). 
+Adicionalmente al comportamiento de los principales indicadores para todas las UGL’s del Grupo, BBVA ha establecido dentro del plan de adaptación de la gestión de los riesgos a los ratios regulatorios, un nivel de exigencia de cumplimiento del ratio LCR tanto para el conjunto del Grupo como para cada una de las UGLs individualmente. Los niveles internos exigidos están orientados a cumplir con suficiente antelación y eficiencia la implementación del requerimiento regulatorio de 2018, en un nivel por encima del 100%. 
 
 A lo largo del primer semestre de 2016 el nivel de LCR para el Grupo BBVA se estima que se ha mantenido por encima del 100%. A nivel europeo el ratio LCR entró en vigor el 1 de octubre de 2015, con un nivel de exigencia inicial del 60%, y un faseado hasta el 100% en 2018, quedando desarrollos normativos pendientes por parte de las autoridades europeas en cuanto a la información a remitir al supervisor y publicación.
 
 Basado en la información prudencial supervisora, a continuación se presenta una matriz por plazos contractuales de vencimiento residual a 31 de diciembre de 2016 y 2015:
 
-IMAGE GOES HERE
-IMAGE GOES HERE
-IMAGE GOES HERE
-IMAGE GOES HERE
+<table>
+    <thead>
+        <tr>
+            <th>Diciembre 2016</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Entradas - Vencimientos residuales contractuales"</td>
+            <td>A la Vista</td>
+            <td>Hasta un mes</td>
+            <td>Más de un mes y hasta tres meses</td>
+            <td>Más de tres meses y hasta seis meses</td>
+            <td>Más de seis meses y hasta nueve meses</td>
+            <td>Más de nueve meses hasta un año</td>
+            <td>Más de un año y hasta dos años</td>
+            <td>Más de dos años y hasta tres años</td>
+            <td>Más de tres años y hasta cinco años</td>
+            <td>Más de cinco años</td>
+            <td>Total</td>
+        </tr>
+        <tr>
+            <td>Efectivo, saldos en efectivo en bancos centrales y otros depósitos a la vista </td>
+            <td>23.191</td>
+            <td>13.825</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>37.016</td>
+        </tr>
+        <tr>
+            <td>Préstamos y anticipos a entidades de crédito </td>
+            <td>991</td>
+            <td>4.068</td>
+            <td>254</td>
+            <td>155</td>
+            <td>48</td>
+            <td>72</td>
+            <td>117</td>
+            <td>87</td>
+            <td>122</td>
+            <td>4.087</td>
+            <td>10.002</td>
+        </tr>
+        <tr>
+            <td>Préstamos a otras instituciones financieras</td>
+            <td>1</td>
+            <td>1.192</td>
+            <td>967</td>
+            <td>675</td>
+            <td>714</td>
+            <td>532</td>
+            <td>1.330</td>
+            <td>918</td>
+            <td>942</td>
+            <td>336</td>
+            <td>7.608</td>
+        </tr>
+        <tr>
+            <td>Adquisiciones temporales de valores y préstamos de valores (tomador)</td>
+            <td>-</td>
+            <td>20.232</td>
+            <td>544</td>
+            <td>523</td>
+            <td>-</td>
+            <td>428</td>
+            <td>500</td>
+            <td>286</td>
+            <td>124</td>
+            <td>189</td>
+            <td>22.826</td>
+        </tr>
+        <tr>
+            <td>Préstamos</td>
+            <td>591</td>
+            <td>20.272</td>
+            <td>25.990</td>
+            <td>22.318</td>
+            <td>16.212</td>
+            <td>15.613</td>
+            <td>44.956</td>
+            <td>35.093</td>
+            <td>55.561</td>
+            <td>133.589</td>
+            <td>370.195</td>
+        </tr>
+        <tr>
+            <td>Liquidación de cartera de valores</td>
+            <td>-</td>
+            <td>708</td>
+            <td>3.566</td>
+            <td>3.688</td>
+            <td>2.301</td>
+            <td>4.312</td>
+            <td>19.320</td>
+            <td>10.010</td>
+            <td>16.662</td>
+            <td>51.472</td>
+            <td>112.039</td>
+        </tr>
+    </tbody>
+</table>
+
+<table>
+    <thead>
+        <tr>
+            <th>Diciembre 2016 </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Salidas - Vencimientos residuales contractuales"</td>
+            <td>A la Vista</td>
+            <td>Hasta un mes</td>
+            <td>Más de un mes y hasta tres meses</td>
+            <td>Más de tres meses y hasta seis meses</td>
+            <td>Más de seis meses y hasta nueve meses</td>
+            <td>Más de nueve meses hasta un año</td>
+            <td>Más de un año y hasta dos años</td>
+            <td>Más de dos años y hasta tres años</td>
+            <td>Más de tres años y hasta cinco años</td>
+            <td>Más de cinco años</td>
+            <td>Total</td>
+        </tr>
+        <tr>
+            <td>Emisiones y Certificados de Deposito</td>
+            <td>419</td>
+            <td>7.380</td>
+            <td>2.943</td>
+            <td>5.547</td>
+            <td>3.463</td>
+            <td>5.967</td>
+            <td>7.825</td>
+            <td>5.963</td>
+            <td>14.016</td>
+            <td>31.875</td>
+            <td>85.397</td>
+        </tr>
+        <tr>
+            <td>Depósitos de entidades de crédito</td>
+            <td>6.762</td>
+            <td>5.365</td>
+            <td>1.181</td>
+            <td>2.104</td>
+            <td>800</td>
+            <td>2.176</td>
+            <td>746</td>
+            <td>1.156</td>
+            <td>859</td>
+            <td>3.714</td>
+            <td>24.862</td>
+        </tr>
+        <tr>
+            <td>Depósitos de otras instituciones financieras</td>
+            <td>15.375</td>
+            <td>6.542</td>
+            <td>8.624</td>
+            <td>3.382</td>
+            <td>2.566</td>
+            <td>1.897</td>
+            <td>1.340</td>
+            <td>686</td>
+            <td>875</td>
+            <td>2.825</td>
+            <td>44.114</td>
+        </tr>
+        <tr>
+            <td>Financiaciones del resto de la clientela</td>
+            <td>206.140</td>
+            <td>49.053</td>
+            <td>25.522</td>
+            <td>15.736</td>
+            <td>11.863</td>
+            <td>11.343</td>
+            <td>8.619</td>
+            <td>5.060</td>
+            <td>781</td>
+            <td>936</td>
+            <td>335.052</td>
+        </tr>
+        <tr>
+            <td>Financiaciones con colateral de valores</td>
+            <td>-</td>
+            <td>38.153</td>
+            <td>3.561</td>
+            <td>1.403</td>
+            <td>1.004</td>
+            <td>912</td>
+            <td>1.281</td>
+            <td>640</td>
+            <td>23.959</td>
+            <td>1.712</td>
+            <td>72.626</td>
+        </tr>
+        <tr>
+            <td>Derivados (neto)</td>
+            <td>-</td>
+            <td>(2.123)</td>
+            <td>(95)</td>
+            <td>(190)</td>
+            <td>(111)</td>
+            <td>(326)</td>
+            <td>(132)</td>
+            <td>(82)</td>
+            <td>(105)</td>
+            <td>(47)</td>
+            <td>(3.210)</td>
+        </tr>
+    </tbody>
+</table>
+
+<table>
+    <thead>
+        <tr>
+            <th>Diciembre 2015</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Entradas - Vencimientos residuales contractuales"</td>
+            <td>A la Vista</td>
+            <td>Hasta un mes</td>
+            <td>Más de un mes y hasta tres meses</td>
+            <td>Más de tres meses y hasta seis meses</td>
+            <td>Más de seis meses y hasta nueve meses</td>
+            <td>Más de nueve meses hasta un año</td>
+            <td>Más de un año y hasta dos años</td>
+            <td>Más de dos años y hasta tres años</td>
+            <td>Más de tres años y hasta cinco años</td>
+            <td>Más de cinco años</td>
+            <td>Total</td>
+        </tr>
+        <tr>
+            <td>Efectivo, saldos en efectivo en bancos centrales y otros depósitos a la vista </td>
+            <td>34.796</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>34.796</td>
+        </tr>
+        <tr>
+            <td>Préstamos y anticipos a entidades de crédito </td>
+            <td>1.077</td>
+            <td>4.594</td>
+            <td>766</td>
+            <td>260</td>
+            <td>70</td>
+            <td>42</td>
+            <td>520</td>
+            <td>6</td>
+            <td>950</td>
+            <td>3.988</td>
+            <td>12.273</td>
+        </tr>
+        <tr>
+            <td>Préstamos a otras instituciones financieras</td>
+            <td>7</td>
+            <td>1.246</td>
+            <td>401</td>
+            <td>628</td>
+            <td>595</td>
+            <td>526</td>
+            <td>448</td>
+            <td>495</td>
+            <td>977</td>
+            <td>275</td>
+            <td>5.600</td>
+        </tr>
+        <tr>
+            <td>Adquisiciones temporales de valores y préstamos de valores (tomador)</td>
+            <td>-</td>
+            <td>12.348</td>
+            <td>853</td>
+            <td>546</td>
+            <td>201</td>
+            <td>2.323</td>
+            <td>10</td>
+            <td>84</td>
+            <td>125</td>
+            <td>370</td>
+            <td>16.859</td>
+        </tr>
+        <tr>
+            <td>Préstamos</td>
+            <td>1.364</td>
+            <td>21.639</td>
+            <td>25.624</td>
+            <td>23.777</td>
+            <td>16.750</td>
+            <td>18.477</td>
+            <td>40.512</td>
+            <td>33.835</td>
+            <td>54.790</td>
+            <td>140.602</td>
+            <td>377.371</td>
+        </tr>
+        <tr>
+            <td>Liquidación de cartera de valores</td>
+            <td>484</td>
+            <td>2.001</td>
+            <td>4.014</td>
+            <td>7.073</td>
+            <td>7.835</td>
+            <td>4.129</td>
+            <td>11.944</td>
+            <td>14.722</td>
+            <td>20.366</td>
+            <td>59.755</td>
+            <td>132.324</td>
+        </tr>
+    </tbody>
+</table>
+
+<table>
+    <thead>
+        <tr>
+            <th>Diciembre 2015</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Salidas - Vencimientos residuales contractuales"</td>
+            <td>A la Vista</td>
+            <td>Hasta un mes</td>
+            <td>Más de un mes y hasta tres meses</td>
+            <td>Más de tres meses y hasta seis meses</td>
+            <td>Más de seis meses y hasta nueve meses</td>
+            <td>Más de nueve meses hasta un año</td>
+            <td>Más de un año y hasta dos años</td>
+            <td>Más de dos años y hasta tres años</td>
+            <td>Más de tres años y hasta cinco años</td>
+            <td>Más de cinco años</td>
+            <td>Total</td>
+        </tr>
+        <tr>
+            <td>Emisiones y Certificados de Deposito</td>
+            <td>7</td>
+            <td>5.106</td>
+            <td>9.093</td>
+            <td>5.751</td>
+            <td>2.222</td>
+            <td>5.160</td>
+            <td>15.856</td>
+            <td>7.845</td>
+            <td>11.072</td>
+            <td>33.840</td>
+            <td>95.953</td>
+        </tr>
+        <tr>
+            <td>Depósitos de entidades de crédito</td>
+            <td>4.932</td>
+            <td>6.271</td>
+            <td>2.064</td>
+            <td>2.783</td>
+            <td>995</td>
+            <td>1.952</td>
+            <td>2.314</td>
+            <td>1.110</td>
+            <td>1.283</td>
+            <td>4.270</td>
+            <td>27.975</td>
+        </tr>
+        <tr>
+            <td>Depósitos de otras instituciones financieras</td>
+            <td>13.380</td>
+            <td>8.907</td>
+            <td>6.494</td>
+            <td>2.939</td>
+            <td>2.442</td>
+            <td>2.217</td>
+            <td>205</td>
+            <td>12</td>
+            <td>7</td>
+            <td>274</td>
+            <td>36.877</td>
+        </tr>
+        <tr>
+            <td>Financiaciones del resto de la clientela</td>
+            <td>193.079</td>
+            <td>29.003</td>
+            <td>22.846</td>
+            <td>15.983</td>
+            <td>13.517</td>
+            <td>13.751</td>
+            <td>14.076</td>
+            <td>4.615</td>
+            <td>1.447</td>
+            <td>1.190</td>
+            <td>309.508</td>
+        </tr>
+        <tr>
+            <td>Financiaciones con colateral de valores</td>
+            <td>-</td>
+            <td>50.042</td>
+            <td>11.166</td>
+            <td>1.197</td>
+            <td>495</td>
+            <td>966</td>
+            <td>2.253</td>
+            <td>15.045</td>
+            <td>1.815</td>
+            <td>1.103</td>
+            <td>84.081</td>
+        </tr>
+        <tr>
+            <td>Derivados (neto)</td>
+            <td>1</td>
+            <td>(2.621)</td>
+            <td>(208)</td>
+            <td>(21)</td>
+            <td>(253)</td>
+            <td>(74)</td>
+            <td>120</td>
+            <td>(220)</td>
+            <td>14</td>
+            <td>(95)</td>
+            <td>(3.357)</td>
+        </tr>
+    </tbody>
+</table>
 
 Se observa el carácter minorista de la estructura de financiación, en la que la cartera de préstamos se encuentra en su mayor parte fondeada por depósitos de la clientela. El tramo a la vista de las salidas, contiene principalmente las cuentas corrientes de la clientela minorista cuyo comportamiento muestra una elevada estabilidad y que, según metodología interna, se consideran con una permanencia mínima superior a los tres años.
 
@@ -1707,24 +6491,281 @@ La posición de liquidez de todas las filiales fuera de Europa ha seguido siendo
 
 En este contexto, BBVA ha mantenido sus objetivos de, por una parte, fortalecer la estructura de financiación de las diferentes franquicias del Grupo sobre la base del crecimiento de su autofinanciación procedente de los recursos estables de clientes y de, por otra, garantizar un colchón suficiente de activos líquidos plenamente disponibles, la diversificación de las diferentes fuentes de financiación y la optimización en la generación de colateral para hacer frente a situaciones de tensión de los mercados.
 
+#### 7.5.2 Activos comprometidos en operaciones de financiación
 
-### 7.6 Activos comprometidos en operaciones de financiación
+Los activos que a 31 de diciembre de 2016 y 2015 se encuentran comprometidos (aportados como colateral o garantía con respecto a ciertos pasivos), y aquellos que se encuentran libres de cargas, se muestran a continuación:
 
-Los activos que a 31 de diciembre de 2016 se encuentran comprometidos (aportados como colateral o garantía con respecto a ciertos pasivos), y aquellos que se encuentran libres de cargas, se muestran a continuación:
+<table>
+    <thead>
+        <tr>
+            <th>Instrumentos de patrimonio</th>
+            <th>2.214</th>
+            <th>2.214</th>
+            <th>9.022</th>
+            <th>9.022</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Valores representativos de deuda</td>
+            <td>40.114</td>
+            <td>39.972</td>
+            <td>90.679</td>
+            <td>90.679</td>
+        </tr>
+        <tr>
+            <td>Préstamos y otros activos</td>
+            <td>94.718</td>
+            <td>-</td>
+            <td>495.109</td>
+            <td>-</td>
+        </tr>
+    </tbody>
+</table>
 
-IMAGE GOES HERE
+<table>
+    <thead>
+        <tr>
+            <th>Instrumentos de patrimonio</th>
+            <th>2.680</th>
+            <th>2.680</th>
+            <th>9.046</th>
+            <th>9.046</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Valores representativos de deuda</td>
+            <td>56.155</td>
+            <td>56.230</td>
+            <td>95.669</td>
+            <td>95.669</td>
+        </tr>
+        <tr>
+            <td>Préstamos y otros activos</td>
+            <td>100.139</td>
+            <td>-</td>
+            <td>486.165</td>
+            <td>-</td>
+        </tr>
+    </tbody>
+</table>
 
 El valor comprometido de “Préstamos y otros activos” corresponden principalmente a préstamos vinculados a la emisión de cédulas hipotecarias, cédulas territoriales o bonos titulizados a largo plazo (ver Nota 22.3) así como a los que sirven de garantía para acceder a determinadas operaciones de financiación con bancos centrales. En cuanto a los valores representativos de deuda e instrumentos de capital, responden a los subyacentes que son entregados en operaciones de cesión temporal de activos con diferentes tipos de contrapartidas, principalmente cámaras de compensación o entidades de crédito y, en menor medida, bancos centrales. También se incluyen como activos comprometidos todo tipo de colateral entregado para garantizar la operativa de derivados.
 
-A 31 de diciembre de 2016, los colaterales recibidos principalmente por la operativa de adquisición temporal de activos o préstamos de valores, y aquellos que podrían comprometerse en su mayoría, con el propósito de obtener financiación se muestran a continuación:
+A 31 de diciembre de 2016 y 2015, los colaterales recibidos principalmente por la operativa de adquisición temporal de activos o préstamos de valores, y aquellos que podrían comprometerse en su mayoría, con el propósito de obtener financiación se muestran a continuación:
 
-IMAGE GOES HERE
+<table>
+    <thead>
+        <tr>
+            <th>Diciembre 2016 </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Garantías recibidas"</td>
+            <td>Valor razonable de garantías recibidas comprometidas o autocartera emitida</td>
+            <td>Valor razonable de garantías recibidas o autocartera emitida disponible para comprometer</td>
+            <td>Valor razonable de garantías recibidas o autocartera emitida no disponible para comprometer</td>
+        </tr>
+        <tr>
+            <td>Garantías recibidas</td>
+            <td>19.921</td>
+            <td>10.039</td>
+            <td>173</td>
+        </tr>
+        <tr>
+            <td>Instrumentos de patrimonio</td>
+            <td>58</td>
+            <td>59</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Valores representativos de deuda</td>
+            <td>19.863</td>
+            <td>8.230</td>
+            <td>28</td>
+        </tr>
+        <tr>
+            <td>Préstamos y otros activos</td>
+            <td>-</td>
+            <td>1.750</td>
+            <td>144</td>
+        </tr>
+        <tr>
+            <td>Autocartera emitida, excepto cédulas hipotecarias territoriales o bonos titulizados</td>
+            <td>5</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+    </tbody>
+</table>
+
+<table>
+    <thead>
+        <tr>
+            <th>Diciembre 2015 </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Garantías recibidas"</td>
+            <td>Valor razonable de garantías recibidas comprometidas o autocartera emitida</td>
+            <td>Valor razonable de garantías recibidas o autocartera emitida disponible para comprometer</td>
+            <td>Valor razonable de garantías recibidas o autocartera emitida no disponible para comprometer</td>
+        </tr>
+        <tr>
+            <td>Garantías recibidas</td>
+            <td>21.532</td>
+            <td>9.415</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Instrumentos de capital</td>
+            <td>-</td>
+            <td>768</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Valores representativos de deuda</td>
+            <td>21.532</td>
+            <td>6.872</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Préstamos y otros activos</td>
+            <td>-</td>
+            <td>1.774</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Autocartera emitida, excepto cédulas hipotecarias territoriales o bonos titulizados</td>
+            <td>6</td>
+            <td>162</td>
+            <td>-</td>
+        </tr>
+    </tbody>
+</table>
 
 Las garantías recibidas en forma de adquisición temporal de activos o préstamo de valores se comprometen mediante su utilización en operaciones de cesión temporal de activos, al igual que se hace con los valores representativos de deuda.
 
-A 31 de diciembre de 2016, el conjunto de los pasivos financieros emitidos asociados a los diferentes activos comprometidos en operaciones financieras, así como la valoración contable de estos últimos, se muestran a continuación:
+A 31 de diciembre de 2016 y 2015, el conjunto de los pasivos financieros emitidos asociados a los diferentes activos comprometidos en operaciones financieras, así como la valoración contable de estos últimos, se muestran a continuación:
 
-IMAGE GOES HERE
+<table>
+    <thead>
+        <tr>
+            <th>Diciembre 2016 </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Activos comprometidos / garantías recibidas y pasivos asociados"</td>
+            <td>Pasivos cubiertos, pasivos contingentes o títulos cedidos</td>
+            <td>Activos, garantías recibidas y autocartera emitida, excepto cédulas hipotecarias y bonos titulizados comprometidos</td>
+        </tr>
+        <tr>
+            <td>Valor en libros de dichos pasivos fuentes de pignoración</td>
+            <td>134.387</td>
+            <td>153.632</td>
+        </tr>
+        <tr>
+            <td>Derivados</td>
+            <td>9.304</td>
+            <td>9.794</td>
+        </tr>
+        <tr>
+            <td>Depositos</td>
+            <td>96.137</td>
+            <td>108.268</td>
+        </tr>
+        <tr>
+            <td>Emisiones</td>
+            <td>28.946</td>
+            <td>35.569</td>
+        </tr>
+        <tr>
+            <td>Otras fuentes de pignoración</td>
+            <td>-</td>
+            <td>2.594</td>
+        </tr>
+    </tbody>
+</table>
+
+<table>
+    <thead>
+        <tr>
+            <th>Diciembre 2015 </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Activos comprometidos / garantías recibidas y pasivos asociados"</td>
+            <td>Pasivos cubiertos, pasivos contingentes o títulos cedidos</td>
+            <td>Activos, garantías recibidas y autocartera emitida, excepto cédulas hipotecarias y bonos titulizados comprometidos</td>
+        </tr>
+        <tr>
+            <td>Valor en libros de dichos pasivos fuentes de pignoración</td>
+            <td>155.999</td>
+            <td>180.735</td>
+        </tr>
+        <tr>
+            <td>Derivados</td>
+            <td>10.683</td>
+            <td>11.962</td>
+        </tr>
+        <tr>
+            <td>Depositos</td>
+            <td>106.884</td>
+            <td>118.951</td>
+        </tr>
+        <tr>
+            <td>Emisiones</td>
+            <td>35.257</td>
+            <td>43.206</td>
+        </tr>
+        <tr>
+            <td>Otras fuentes de pignoración</td>
+            <td>3.175</td>
+            <td>6.616</td>
+        </tr>
+    </tbody>
+</table>
+
+### 7.6  Riesgo Operacional
+
+El riesgo operacional (“RO”) es aquél que puede provocar pérdidas debido a errores humanos, procesos internos inadecuados o defectuosos, fallos en los sistemas y como consecuencia de acontecimientos externos. Esta definición incluye el riesgo legal y excluye el riesgo estratégico y/o de negocio y el riesgo reputacional. 
+El riesgo operacional es inherente a todas las actividades, productos, sistemas y procesos, y sus orígenes son muy variados (procesos, fraudes internos y externos, tecnológicos, recursos humanos, prácticas comerciales, desastres, proveedores). La gestión del riesgo operacional está integrada en la estructura de gestión global de riesgos del Grupo BBVA.
+
+#### Marco de gestión del riesgo operacional
+
+La gestión del riesgo operacional en el Grupo se construye a partir de las palancas de valor que genera el modelo avanzado o AMA, y que son las siguientes:
+
+• La gestión activa del riesgo operacional y su integración en la toma de decisiones del día a día supone:
+- El conocimiento de las pérdidas reales asociadas a este riesgo.
+- La identificación, priorización y gestión de riesgos potenciales y reales.
+- La existencia de indicadores que permiten analizar la evolución del riesgo operacional en el tiempo, definir señales de alerta y verificar la efectividad de los controles asociados a los riesgos.
+
+Todo lo anterior contribuye a un modelo anticipatorio que permite la toma de decisiones de control y de negocio, así como priorizar los esfuerzos de mitigación en los riesgos relevantes para reducir la exposición del Grupo a eventos extremos.
+
+• Mejora el entorno de control y refuerza la cultura corporativa.
+• Genera un impacto reputacional positivo.
+• Modelo basado en tres líneas de defensa, alineado con las mejores prácticas internacionales.
+
+#### Principios de Gestión del Riesgo Operacional
+
+La gestión del riesgo operacional en el Grupo BBVA debe:
+
+• Alinearse con la declaración del Marco de Apetito de Riesgo formulada por el Consejo de Administración de BBVA.
+• Prever los riesgos operacionales potenciales a los que quedaría expuesto el Grupo como resultado de la aparición o modificación de nuevos productos, actividades, procesos o sistemas y decisiones de outsourcing y establecer procedimientos que permitan su evaluación y mitigación de forma razonable con anterioridad a su implantación.
+• Establecer las metodologías y procedimientos que permitan reevaluar periódicamente los riesgos operacionales relevantes a los que el Grupo está expuesto para adoptar las medidas de mitigación convenientes en cada caso, una vez considerado el riesgo identificado y el coste de la mitigación (análisis coste/beneficio) y preservando en todo momento la solvencia del Grupo.
+• Identificar las causas de las pérdidas operacionales que sufra el Grupo y establecer las medidas que permitan su reducción. Para ello deberán existir procedimientos que permitan la captura y el análisis de los eventos operacionales que ocasionan las citadas pérdidas.
+• Analizar los eventos que hayan producido pérdidas por riesgo operacional en otras entidades del sector financiero e impulsar, en su caso, la implantación de las medidas necesarias para evitar su ocurrencia en el Grupo.
+• Identificar, analizar y cuantificar eventos de baja probabilidad de ocurrencia y alto impacto, que por su naturaleza excepcional, es muy posible que no estén recogidos en la base de datos de pérdidas o si lo están, sea con impactos poco representativos con objeto de evaluar su mitigación.
+• Contar con un gobierno efectivo, en la que las funciones y responsabilidades de las Áreas y Órganos que intervienen en la gestión del RO estén claramente definidas.
+
+Estos principios reflejan la visión que el Grupo BBVA tiene del riesgo operacional basándose en que los eventos que se producen como consecuencia del mismo tienen una causa última que siempre debe identificarse, que mediante su control reduce significativamente el impacto de los eventos. 
+Con independencia de la adopción de todas las medidas y controles posibles para evitar o disminuir tanto la frecuencia como la severidad de los eventos de RO, BBVA asegura en todo momento el capital suficiente para hacer frente a las pérdidas esperadas o inesperadas que puedan suceder. 
+
 
 ### 7.7 Riesgo Operacional
 
@@ -1761,14 +6802,14 @@ La gestión del riesgo operacional en el Grupo BBVA debe:
 
 Estos principios reflejan la visión que el Grupo BBVA tiene del riesgo operacional basándose en que los eventos que se producen como consecuencia del mismo tienen una causa última que siempre debe identificarse, que mediante su control reduce significativamente el impacto de los eventos.
 
-Con independencia de la adopción de todas las medidas y controles posibles para evitar o disminuir tanto la frecuencia como la severidad de los eventos de RO, BBVA asegura en todo momento el capital suficiente para hacer frente a las pérdidas esperadas o inesperadas que puedan suceder.
+Con independencia de la adopción de todas las medidas y controles posibles para evitar o disminuir tanto la frecuencia como la severidad de los eventos de RO, BBVA asegura en todo momento el capital suficiente para hacer frente a las pérdidas esperadas o inesperadas que puedan suceder. 
 
 
 ### 7.8 Concentración de riesgos
 
-##### Políticas sobre concentración de riesgos
+##### Políticas sobre concentración de riesgos 
 
-En lo que respecta a la mitigación de la concentración del riesgo de crédito por ámbito geográfico, individual y sectorial, el Grupo BBVA mantiene actualizados los índices máximos autorizados de concentración, tanto individual como sectorial, en función de las diferentes variables observables relacionadas con el riesgo de crédito.
+En lo que respecta a la mitigación de la concentración del riesgo de crédito por ámbito geográfico, individual y sectorial, el Grupo BBVA mantiene actualizados los índices máximos autorizados de concentración, tanto individual como sectorial, en función de las diferentes variables observables relacionadas con el riesgo de crédito. 
 Por otra parte, la presencia o cuota financiera del Grupo en un cliente concreto está condicionada por su calidad crediticia, la naturaleza de los riesgos que se mantienen con él y la presencia del Grupo en el mercado, de acuerdo con las siguientes pautas:
 • Se intenta compatibilizar al máximo posible las necesidades de financiación del cliente (comerciales/financieras, corto plazo/largo plazo, etc.) con los intereses del Grupo.
 • Se tienen en consideración los límites legales que puedan existir sobre concentración de riesgos (relación entre los riesgos mantenidos con un cliente y los fondos propios de la entidad que los asume), la situación de los mercados, la coyuntura macroeconómica, etc.
@@ -1829,13 +6870,13 @@ En los casos de refinanciaciones, las herramientas para la obtención de mejoras
 
 ###### Políticas aplicadas en la gestión de los activos inmobiliarios en España
 
-La política aplicada en la gestión de estos activos depende del tipo de activo inmobiliario, como se detalla a continuación:
+La política aplicada en la gestión de estos activos depende del tipo de activo inmobiliario, como se detalla a continuación: 
 
 • En el caso de viviendas terminadas, el objetivo último es la venta de estas viviendas a particulares, diluyendo así el riesgo y comenzando un nuevo ciclo de negocio. En este contexto, la estrategia ha sido la de facilitar la subrogación (la tasa de mora de este canal de negocio es notablemente inferior a la de cualquier otro canal de vivienda de particulares) así como la de apoyar directamente la venta de los clientes, utilizando el propio canal BBVA (BBVA Servicios y las propias oficinas) incentivándose la venta, así como recogiendo mandatos de venta a favor del BBVA. En casos singulares se ha trabajado incluso aceptando quitas parciales, con objeto de facilitar la venta.
 • En el caso de obras en curso, la estrategia ha sido facilitar y promover la terminación de la obra con objeto de pasar la inversión a viviendas terminadas. Se ha revisado toda la cartera promotor en obra (Plan Obra en Curso), clasificándola en distintos estadios con objeto de utilizar distintas herramientas para apoyar la estrategia. La utilización de “confirming-promotor” como forma de control de pagos, la utilización de la figura del “project monitoring”, apoyándose en la propia Unidad Inmobiliaria y en definitiva la gestión de proveedores directos de la obra como complemento a la propia gestión del cliente promotor.
 • Respecto a los suelos, donde la gran mayoría del riesgo es suelo urbano, la gestión se simplifica. La gestión urbanística y el control de liquidez para acometer los gastos de urbanización también son objeto de especial seguimiento.
 
-Para información cuantitativa sobre la concentración de riesgos en el sector promotor e inmobiliario en España véase el Anexo XII.
+Para información cuantitativa sobre la concentración de riesgos en el sector promotor e inmobiliario en España véase el Anexo XII. 
 
 
 ## 8. Valor razonable
@@ -1859,7 +6900,142 @@ Adicionalmente, para activos o pasivos en los que se detecten elementos de incer
 
 A continuación se presenta el valor razonable de los instrumentos financieros del Grupo de los balances consolidados adjuntos y su correspondiente valor en libros:
 
-IMAGE GOES HERE
+<table>
+    <thead>
+        <tr>
+            <th>ACTIVOS-</th>
+            <th>&nbsp;</th>
+            <th>&nbsp;</th>
+            <th>&nbsp;</th>
+            <th>&nbsp;</th>
+            <th>&nbsp;</th>
+            <th>&nbsp;</th>
+            <th>&nbsp;</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Efectivo, saldos en efectivo en bancos centrales y otros depósitos a la vista</td>
+            <td>9</td>
+            <td>40.039</td>
+            <td>40.039</td>
+            <td>29.282</td>
+            <td>29.282</td>
+            <td>27.719</td>
+            <td>27.719</td>
+        </tr>
+        <tr>
+            <td>Activos financieros mantenidos para negociar</td>
+            <td>10</td>
+            <td>74.950</td>
+            <td>74.950</td>
+            <td>78.326</td>
+            <td>78.326</td>
+            <td>83.258</td>
+            <td>83.258</td>
+        </tr>
+        <tr>
+            <td>Activos financieros designados a valor razonable con cambios en resultados</td>
+            <td>11</td>
+            <td>2.062</td>
+            <td>2.062</td>
+            <td>2.311</td>
+            <td>2.311</td>
+            <td>2.761</td>
+            <td>2.761</td>
+        </tr>
+        <tr>
+            <td>Activos financieros disponibles para la venta</td>
+            <td>12</td>
+            <td>79.221</td>
+            <td>79.221</td>
+            <td>113.426</td>
+            <td>113.426</td>
+            <td>94.875</td>
+            <td>94.875</td>
+        </tr>
+        <tr>
+            <td>Préstamos y partidas a cobrar</td>
+            <td>13</td>
+            <td>465.977</td>
+            <td>468.844</td>
+            <td>471.828</td>
+            <td>480.539</td>
+            <td>376.086</td>
+            <td>377.108</td>
+        </tr>
+        <tr>
+            <td>Inversiones mantenidas hasta el vencimiento</td>
+            <td>14</td>
+            <td>17.696</td>
+            <td>17.619</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Derivados - Contabilidad de coberturas</td>
+            <td>15</td>
+            <td>2.833</td>
+            <td>2.833</td>
+            <td>3.538</td>
+            <td>3.538</td>
+            <td>2.551</td>
+            <td>2.551</td>
+        </tr>
+        <tr>
+            <td>PASIVOS-</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Pasivos financieros mantenidos para negociar</td>
+            <td>10</td>
+            <td>54.675</td>
+            <td>54.675</td>
+            <td>55.202</td>
+            <td>55.202</td>
+            <td>56.798</td>
+            <td>56.798</td>
+        </tr>
+        <tr>
+            <td>Pasivos financieros desginados a valor razonable con cambios en resultados</td>
+            <td>11</td>
+            <td>2.338</td>
+            <td>2.338</td>
+            <td>2.649</td>
+            <td>2.649</td>
+            <td>2.724</td>
+            <td>2.724</td>
+        </tr>
+        <tr>
+            <td>Pasivos financieros a coste amortizado </td>
+            <td>22</td>
+            <td>589.210</td>
+            <td>594.190</td>
+            <td>606.113</td>
+            <td>613.247</td>
+            <td>491.899</td>
+            <td>486.904</td>
+        </tr>
+        <tr>
+            <td>Derivados - Contabilidad de cobertura </td>
+            <td>15</td>
+            <td>2.347</td>
+            <td>2.347</td>
+            <td>2.726</td>
+            <td>2.726</td>
+            <td>2.331</td>
+            <td>2.331</td>
+        </tr>
+    </tbody>
+</table>
 
 No todos los activos y pasivos financieros están contabilizados a valor razonable, por lo que a continuación se desglosará la información referida a los instrumentos financieros contabilizados a valor razonable y posteriormente la referida a los contabilizados a coste de los que también se proporciona su valor razonable, aunque no se utilice para su registro en balance.
 
@@ -1868,7 +7044,272 @@ No todos los activos y pasivos financieros están contabilizados a valor razonab
 
 La siguiente tabla presenta los principales instrumentos financieros registrados a valor razonable en los balances consolidados adjuntos, desglosados según el método de valoración utilizado en la estimación de su valor razonable:
 
-IMAGE GOES HERE
+<table>
+    <thead>
+        <tr>
+            <th>ACTIVOS-</th>
+            <th>&nbsp;</th>
+            <th>&nbsp;</th>
+            <th>&nbsp;</th>
+            <th>&nbsp;</th>
+            <th>&nbsp;</th>
+            <th>&nbsp;</th>
+            <th>&nbsp;</th>
+            <th>&nbsp;</th>
+            <th>&nbsp;</th>
+            <th>&nbsp;</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Activos financieros mantenidos para negociar</td>
+            <td>10</td>
+            <td>32.544</td>
+            <td>42.221</td>
+            <td>184</td>
+            <td>37.922</td>
+            <td>40.240</td>
+            <td>164</td>
+            <td>39.603</td>
+            <td>43.459</td>
+            <td>195</td>
+        </tr>
+        <tr>
+            <td>Préstamos y anticipos a la clientela</td>
+            <td>&nbsp;</td>
+            <td>-</td>
+            <td>154</td>
+            <td>-</td>
+            <td>-</td>
+            <td>65</td>
+            <td>-</td>
+            <td>-</td>
+            <td>128</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Valores representativos de deuda </td>
+            <td>&nbsp;</td>
+            <td>26.720</td>
+            <td>418</td>
+            <td>28</td>
+            <td>32.381</td>
+            <td>409</td>
+            <td>34</td>
+            <td>33.150</td>
+            <td>691</td>
+            <td>43</td>
+        </tr>
+        <tr>
+            <td>Instrumentos de patrimonio</td>
+            <td>&nbsp;</td>
+            <td>4.570</td>
+            <td>9</td>
+            <td>96</td>
+            <td>4.336</td>
+            <td>106</td>
+            <td>93</td>
+            <td>4.923</td>
+            <td>17</td>
+            <td>77</td>
+        </tr>
+        <tr>
+            <td>Derivados</td>
+            <td>&nbsp;</td>
+            <td>1.254</td>
+            <td>41.640</td>
+            <td>60</td>
+            <td>1.205</td>
+            <td>39.661</td>
+            <td>36</td>
+            <td>1.530</td>
+            <td>42.623</td>
+            <td>76</td>
+        </tr>
+        <tr>
+            <td>Activos financieros designados a valor razonable con cambios en resultados</td>
+            <td>11</td>
+            <td>2.062</td>
+            <td>-</td>
+            <td>-</td>
+            <td>2.246</td>
+            <td>2</td>
+            <td>62</td>
+            <td>2.690</td>
+            <td>71</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Préstamos y anticipos de entidades de crédito</td>
+            <td>&nbsp;</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>62</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Valores representativos de deuda</td>
+            <td>&nbsp;</td>
+            <td>142</td>
+            <td>-</td>
+            <td>-</td>
+            <td>173</td>
+            <td>-</td>
+            <td>-</td>
+            <td>666</td>
+            <td>71</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Instrumentos de patrimonio</td>
+            <td>&nbsp;</td>
+            <td>1.920</td>
+            <td>-</td>
+            <td>-</td>
+            <td>2.074</td>
+            <td>2</td>
+            <td>-</td>
+            <td>2.024</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Activos financieros disponibles para la venta </td>
+            <td>12</td>
+            <td>62.125</td>
+            <td>15.894</td>
+            <td>637</td>
+            <td>97.113</td>
+            <td>15.477</td>
+            <td>236</td>
+            <td>76.693</td>
+            <td>17.236</td>
+            <td>406</td>
+        </tr>
+        <tr>
+            <td>Valores representativos de deuda</td>
+            <td>&nbsp;</td>
+            <td>58.372</td>
+            <td>15.779</td>
+            <td>429</td>
+            <td>92.963</td>
+            <td>15.260</td>
+            <td>86</td>
+            <td>70.225</td>
+            <td>16.987</td>
+            <td>396</td>
+        </tr>
+        <tr>
+            <td>Instrumentos de patrimonio</td>
+            <td>&nbsp;</td>
+            <td>3.753</td>
+            <td>115</td>
+            <td>208</td>
+            <td>4.150</td>
+            <td>217</td>
+            <td>150</td>
+            <td>6.468</td>
+            <td>249</td>
+            <td>10</td>
+        </tr>
+        <tr>
+            <td>Derivados - Contabilidad de coberturas</td>
+            <td>15</td>
+            <td>41</td>
+            <td>2.792</td>
+            <td>-</td>
+            <td>59</td>
+            <td>3.478</td>
+            <td>-</td>
+            <td>59</td>
+            <td>2.491</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>PASIVOS-</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Pasivos financieros mantenidos para negociar</td>
+            <td>10</td>
+            <td>12.502</td>
+            <td>42.120</td>
+            <td>53</td>
+            <td>14.074</td>
+            <td>41.079</td>
+            <td>50</td>
+            <td>13.627</td>
+            <td>43.135</td>
+            <td>36</td>
+        </tr>
+        <tr>
+            <td>Derivados</td>
+            <td>&nbsp;</td>
+            <td>952</td>
+            <td>42.120</td>
+            <td>47</td>
+            <td>1.037</td>
+            <td>41.079</td>
+            <td>34</td>
+            <td>1.880</td>
+            <td>43.135</td>
+            <td>36</td>
+        </tr>
+        <tr>
+            <td>Posiciones cortas </td>
+            <td>&nbsp;</td>
+            <td>11.550</td>
+            <td>-</td>
+            <td>6</td>
+            <td>13.038</td>
+            <td>-</td>
+            <td>16</td>
+            <td>11.747</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Pasivos financieros desginados a valor razonable con cambios en resultados</td>
+            <td>11</td>
+            <td>-</td>
+            <td>2.338</td>
+            <td>-</td>
+            <td>-</td>
+            <td>2.649</td>
+            <td>-</td>
+            <td>-</td>
+            <td>2.724</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Derivados - Contabilidad de coberturas</td>
+            <td>15</td>
+            <td>94</td>
+            <td>2.189</td>
+            <td>64</td>
+            <td>-</td>
+            <td>2.594</td>
+            <td>132</td>
+            <td>-</td>
+            <td>2.270</td>
+            <td>62</td>
+        </tr>
+    </tbody>
+</table>
 
 El epígrafe "Activos financieros disponibles para la venta" de los balances consolidados adjuntos a 31 de diciembre 2016, 2015 y 2014 adicionalmente incluía 0000, 600 y 540 millones de euros, respectivamente, contabilizados a coste, como se indica en el apartado "Instrumentos financieros a coste” de esta Nota.
 
@@ -1876,12 +7317,606 @@ En 2016 y 2015, los instrumentos financieros registrados a valor razonable corre
 
 A continuación se presentan los principales métodos de valoración, hipótesis e inputs utilizados en la estimación del valor razonable de los instrumentos financieros contabilizados a valor razonable clasificados en los Niveles 2 y 3, según el tipo de instrumento financiero de que se trate, y los correspondientes saldos a 31 de diciembre 2016:
 
-IMAGE GOES HERE
-IMAGE GOES HERE
+<table>
+    <thead>
+        <tr>
+            <th>Préstamos y anticipos</th>
+            <th>&nbsp;</th>
+            <th>&nbsp;</th>
+            <th>"Método del valor presente</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>(Descuento de flujos de caja futuros)</td>
+        </tr>
+        <tr>
+            <td>"</td>
+            <td>"- Tasas de prepago</td>
+        </tr>
+        <tr>
+            <td>- Riesgo de crédito del emisor</td>
+        </tr>
+        <tr>
+            <td>- Tipos de interes de mercado"</td>
+        </tr>
+        <tr>
+            <td>Activos financieros mantenidos para negociar</td>
+            <td>154</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Valores representativos de deuda</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>"Método del valor presente</td>
+        </tr>
+        <tr>
+            <td>(Descuento de flujos de caja futuros)"</td>
+            <td>"- Tasas de prepago</td>
+        </tr>
+        <tr>
+            <td>- Riesgo de crédito del emisor</td>
+        </tr>
+        <tr>
+            <td>- Tipos de interes de mercado"</td>
+        </tr>
+        <tr>
+            <td>Activos financieros mantenidos para negociar</td>
+            <td>418</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Activos financieros designados a varlor razonable con cambios en resultados</td>
+            <td>-</td>
+            <td>&nbsp;</td>
+            <td>Precio activo en mercados no activos</td>
+            <td>"- Cotizaciones brokers/dealers</td>
+        </tr>
+        <tr>
+            <td>- Precios contribuidores externos</td>
+        </tr>
+        <tr>
+            <td>- Niveles benchmarks mercado"</td>
+        </tr>
+        <tr>
+            <td>Activos financieros disponibles para la venta</td>
+            <td>15.779</td>
+            <td>&nbsp;</td>
+            <td>"Precios activos similares</td>
+        </tr>
+        <tr>
+            <td>(Precios observados en mercado de activos similares)"</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Instrumentos de patrimonio</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>"Precios activos similares</td>
+        </tr>
+        <tr>
+            <td>(Precios observados en mercado de activos similares)"</td>
+            <td>"- Cotizaciones brokers</td>
+        </tr>
+        <tr>
+            <td>- Operaciones mercado</td>
+        </tr>
+        <tr>
+            <td>- Valores liquidativos publicados </td>
+        </tr>
+        <tr>
+            <td> gestoras"</td>
+        </tr>
+        <tr>
+            <td>Activos financieros mantenidos para negociar</td>
+            <td>9</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Activos financieros designados a varlor razonable con cambios en resultados</td>
+            <td>-</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Activos financieros disponibles para la venta</td>
+            <td>115</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Otros pasivos financieros</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>"Método del valor presente</td>
+        </tr>
+        <tr>
+            <td>(Descuento de flujos de caja futuros)</td>
+        </tr>
+        <tr>
+            <td>"</td>
+            <td>"- Tasas de prepago</td>
+        </tr>
+        <tr>
+            <td>- Riesgo de crédito del emisor</td>
+        </tr>
+        <tr>
+            <td>- Tipos de interes de mercado"</td>
+        </tr>
+        <tr>
+            <td>" Pasivos financieros designados a valor razonable</td>
+        </tr>
+        <tr>
+            <td> con cambios en resultados"</td>
+            <td>2.338</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Derivados</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>"• Commodities: Descuento de flujos y Ajuste de </td>
+        </tr>
+        <tr>
+            <td> momentos</td>
+        </tr>
+        <tr>
+            <td>• Credito: Intensidad de default y Cópula Gaussiana</td>
+        </tr>
+        <tr>
+            <td>• Tipo de cambio: Descuento de flujos, Black, Volatilidad</td>
+        </tr>
+        <tr>
+            <td> local y Ajuste de momentos</td>
+        </tr>
+        <tr>
+            <td>• Renta Fija: Descuento de flujos</td>
+        </tr>
+        <tr>
+            <td>• Renta Variable: Volatilidad local, Black, Ajuste de </td>
+        </tr>
+        <tr>
+            <td> momentos y Descuento de flujos</td>
+        </tr>
+        <tr>
+            <td>• Tipos de interés:</td>
+        </tr>
+        <tr>
+            <td> - Interest rate swaps, Call money Swaps y FRA: </td>
+        </tr>
+        <tr>
+            <td> Descuento de flujos</td>
+        </tr>
+        <tr>
+            <td> - Caps/Floors: Black, Hull-White y SABR</td>
+        </tr>
+        <tr>
+            <td> - Opciones sobre bonos: Black</td>
+        </tr>
+        <tr>
+            <td> - Swaptions: Black, Hull-White y LGM</td>
+        </tr>
+        <tr>
+            <td> - Opciones de tipos de interés: Black, Hull-White y SABR</td>
+        </tr>
+        <tr>
+            <td> - Constant Maturity Swaps: SABR"</td>
+            <td>"- Tipos de cambio</td>
+        </tr>
+        <tr>
+            <td>- Precios futuros cotizados en mercado o </td>
+        </tr>
+        <tr>
+            <td> en servicios de consenso</td>
+        </tr>
+        <tr>
+            <td>- Tipos de interés mercado</td>
+        </tr>
+        <tr>
+            <td>- Precios activos Subyacentes: acciones; </td>
+        </tr>
+        <tr>
+            <td> fondos; commodities</td>
+        </tr>
+        <tr>
+            <td>- Volatilidades observadas en mercado o </td>
+        </tr>
+        <tr>
+            <td> en servicios de consenso</td>
+        </tr>
+        <tr>
+            <td>- Niveles de spread de crédito de emisores</td>
+        </tr>
+        <tr>
+            <td>- Dividendos cotizados o de consenso</td>
+        </tr>
+        <tr>
+            <td>- Correlaciones cotizadas en mercado o </td>
+        </tr>
+        <tr>
+            <td> tomadas de servicios de consenso"</td>
+        </tr>
+        <tr>
+            <td>Derivados</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Activos financieros mantenidos para negociar</td>
+            <td>41.640</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Pasivos financieros mantenidos para negociar</td>
+            <td>42.120</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Derivados - contabilidad de coberturas</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Activo</td>
+            <td>2.792</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Pasivo</td>
+            <td>2.189</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
+
+<table>
+    <thead>
+        <tr>
+            <th>Valores representativos de deuda</th>
+            <th>&nbsp;</th>
+            <th>"Método del valor presente</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>(Descuento de flujos de caja futuros)</td>
+        </tr>
+        <tr>
+            <td>"</td>
+            <td>"- Diferencial de crédito</td>
+        </tr>
+        <tr>
+            <td>- Tasa de recuperación</td>
+        </tr>
+        <tr>
+            <td>- Tipos de interés</td>
+        </tr>
+        <tr>
+            <td>- Niveles benchmark mercado</td>
+        </tr>
+        <tr>
+            <td>- Correlación de impago"</td>
+        </tr>
+        <tr>
+            <td>Activos financieros mantenidos para negociar</td>
+            <td>28</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Activos financieros disponibles para la venta</td>
+            <td>429</td>
+            <td>"Precios comparables</td>
+        </tr>
+        <tr>
+            <td>(Precios de instrumentos similares)"</td>
+            <td>"- Precios de instrumentos similares o</td>
+        </tr>
+        <tr>
+            <td> benchmarks de mercado"</td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Instrumentos de patrimonio</td>
+            <td>&nbsp;</td>
+            <td>Net Asset Value</td>
+            <td>- NAV del administrador de fondos</td>
+        </tr>
+        <tr>
+            <td>Activos financieros mantenidos para negociar</td>
+            <td>96</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Activos financieros disponibles para la venta</td>
+            <td>208</td>
+            <td>"Precios comparables</td>
+        </tr>
+        <tr>
+            <td>(Precios de instrumentos similares)"</td>
+            <td>"- Precios de instrumentos similares o</td>
+        </tr>
+        <tr>
+            <td> benchmarks de mercado"</td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Posiciones Cortas</td>
+            <td>&nbsp;</td>
+            <td>"Método del valor presente</td>
+        </tr>
+        <tr>
+            <td>(Descuento de flujos de caja futuros)</td>
+        </tr>
+        <tr>
+            <td>"</td>
+            <td>"- Diferencial de crédito</td>
+        </tr>
+        <tr>
+            <td>- Tasa de recuperación</td>
+        </tr>
+        <tr>
+            <td>- Tipos de interés</td>
+        </tr>
+        <tr>
+            <td>- Niveles benchmark mercado</td>
+        </tr>
+        <tr>
+            <td>- Correlación de impago"</td>
+        </tr>
+        <tr>
+            <td>Pasivos financieros mantenidos para negociar</td>
+            <td>6</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Derivados</td>
+            <td>&nbsp;</td>
+            <td>Opciones de crédito: Cópula Gaussiana</td>
+            <td>"- Correlación de impago</td>
+        </tr>
+        <tr>
+            <td>- Spreads de crédito</td>
+        </tr>
+        <tr>
+            <td>- Tasas de recuperación</td>
+        </tr>
+        <tr>
+            <td>- Curvas de tipo de interés"</td>
+        </tr>
+        <tr>
+            <td>Derivados</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Activos financieros mantenidos para negociar</td>
+            <td>60</td>
+            <td>Opciones renta variable OTC: Heston</td>
+            <td>"- Volatility of volatility</td>
+        </tr>
+        <tr>
+            <td>- Curvas tipos de interés</td>
+        </tr>
+        <tr>
+            <td>- Dividendos</td>
+        </tr>
+        <tr>
+            <td>- Correlaciones activos"</td>
+        </tr>
+        <tr>
+            <td>Pasivos financieros mantenidos para negociar</td>
+            <td>47</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Derivados - contabilidad de coberturas</td>
+            <td>&nbsp;</td>
+            <td>Opciones de tipo de interés: Libor Market Model</td>
+            <td>"- Beta</td>
+        </tr>
+        <tr>
+            <td>- Correlación tipo/credito</td>
+        </tr>
+        <tr>
+            <td>- Volatilidad de impago"</td>
+        </tr>
+        <tr>
+            <td>Pasivo</td>
+            <td>64</td>
+            <td>&nbsp;</td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
 
 A continuación se presenta la información cuantitativa de los inputs no observables utilizados en el cálculo de las valoraciones de Nivel 3:
 
-IMAGE GOES HERE
+<table>
+    <thead>
+        <tr>
+            <th>Instrumento Financiero</th>
+            <th>Método de valoración</th>
+            <th>Inputs no observables significativos</th>
+            <th>Min</th>
+            <th>Max</th>
+            <th>Media</th>
+            <th>Unidades</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Valores representativos de deuda</td>
+            <td>Valor actual neto</td>
+            <td>Diferencial de crédito</td>
+            <td>61,23</td>
+            <td>396,76</td>
+            <td>225,58</td>
+            <td>p.b.</td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>Tasa de recuperación</td>
+            <td>40,00%</td>
+            <td>61,46%</td>
+            <td>40,30%</td>
+            <td>%</td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+            <td>Precios comparables</td>
+            <td>&nbsp;</td>
+            <td>0,47%</td>
+            <td>93,40%</td>
+            <td>41,73%</td>
+            <td>%</td>
+        </tr>
+        <tr>
+            <td>Intrumentos de patrimonio</td>
+            <td>Valor actual neto</td>
+            <td>&nbsp;</td>
+            <td>Rango demasiado amplio para ser relevante</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+            <td>Precios comparables</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Opciones de crédito</td>
+            <td>Cópula gaussiana</td>
+            <td>Correlación de impago</td>
+            <td>0,48</td>
+            <td>0,73</td>
+            <td>0,67</td>
+            <td>%</td>
+        </tr>
+        <tr>
+            <td>Opciones de bonos corporativos</td>
+            <td>Black 76</td>
+            <td>Volatilidad del Precio</td>
+            <td>5,16</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>vegas</td>
+        </tr>
+        <tr>
+            <td>Opciones RV OTC</td>
+            <td>Heston</td>
+            <td>Volatility of volatility</td>
+            <td>79,58</td>
+            <td>79,58</td>
+            <td>79,58</td>
+            <td>Vegas</td>
+        </tr>
+        <tr>
+            <td>Opciones de tipo de interés</td>
+            <td>Libor Market Model</td>
+            <td>Beta</td>
+            <td>0,25</td>
+            <td>18,00</td>
+            <td>9,00</td>
+            <td>%</td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>Correlación tipo/crédito</td>
+            <td>(100,00)</td>
+            <td>100,00</td>
+            <td>&nbsp;</td>
+            <td>%</td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>Volatilidad de impago</td>
+            <td>0,00</td>
+            <td>0,00</td>
+            <td>0,00</td>
+            <td>Vegas</td>
+        </tr>
+    </tbody>
+</table>
 
 Las principales técnicas utilizadas para la valoración de los principales instrumentos clasificados en Nivel 3, y sus principales inputs no observables, se describen a continuación:
 
@@ -1892,12 +7927,12 @@ Las principales técnicas utilizadas para la valoración de los principales inst
 • Precios comparables (precios activos similares): se utilizan precios de instrumentos comparables, índices de referencia o benchmark de mercado para calcular su rendimiento desde el precio de entrada o su valoración actual realizando ajustes posteriores para tomar en cuenta diferencias que puede haber entre el activo valorado y el que se toma como referencia. También se puede simplemente asumir que el precio de un instrumento equivale al del otro.
 • Net asset value: representa el valor total de los activos y pasivos de un fondo y es publicado por la entidad gestora del mismo.
 • Cópula gaussiana: en los instrumentos de crédito dependientes de varias referencias, la función de densidad conjunta a integrar para valorarlos se construye mediante una cópula gaussiana que relaciona las densidades marginales mediante una distribución normal, que suele extraerse de la matriz de correlaciones de los eventos de default que se aproxima por la de los CDS de los emisores.
-• Black 76: variante del modelo Black Scholes cuya principal aplicación es la valoración de Opciones de Bonos, Caps/ floors y Swaptions de los modelos directamente el comportamiento del Forward y no el propio Spot.
+• Black 76: variante del modelo Black Scholes cuya principal aplicación es la valoración de Opciones de Bonos, Caps/ floors y Swaptions de los modelos directamente el comportamiento del Forward y no el propio Spot. 
 • Heston: el modelo, que normalmente se aplica opciones de renta variable, presume un comportamiento estocástico de la volatilidad. Según éste, la volatilidad sigue un proceso que revierte a un nivel de largo plazo y está correlacionado con el que sigue el subyacente. Frente a los modelos de volatilidad local, en los que la volatilidad evoluciona determinísticamente, el modelo de Heston es más flexible, permitiendo que sea similar al observado en el corto plazo hoy.
 • Libor market model: este modelo presume que la dinámica de la curva de tipos de interés se puede modelar en base al proceso conjunto de los forwards que la componen. La matriz de correlaciones se parametriza bajo la hipótesis de que la correlación entre dos forwards cualesquiera decrece a una tasa instantánea constante, beta, en la medida en que disten sus respectivos vencimientos. El input “Volatilidad de impago” es la parte volátil del factor dinámico del modelo. El marco multifactorial del modelo lo hace ideal para la valoración de instrumentos sensibles a la pendiente o curvatura.
 
 
-##### Ajustes a la valoración por riesgo de incumplimiento
+##### Ajustes a la valoración por riesgo de incumplimiento 
 
 Los ajustes por valoración de crédito (Credit Valuation Adjustment, en adelante “CVA”) y los ajustes por valoración de débito (Debit Valuation Adjustment, en adelante “DVA”) se incorporan en las valoraciones de derivados, tanto de activo como de pasivo, para reflejar el impacto en el valor razonable del riesgo de crédito de la contraparte y el propio, respectivamente.
 
@@ -1913,11 +7948,99 @@ Los importes registrados en el balance consolidado a 31 de diciembre 2016 corres
 
 El movimiento de los saldos de los activos y pasivos financieros clasificados en el Nivel 3 que figuran en los balances consolidados adjuntos, se muestra a continuación:
 
-IMAGE GOES HERE
+<table>
+    <thead>
+        <tr>
+            <th>Saldo inicial</th>
+            <th>&nbsp;</th>
+            <th>463</th>
+            <th>182</th>
+            <th>601</th>
+            <th>98</th>
+            <th>881</th>
+            <th>52</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Incorporaciones al Grupo</td>
+            <td>&nbsp;</td>
+            <td>-</td>
+            <td>-</td>
+            <td>148</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Cambios en el valor razonable registrados en pérdidas y ganancias (*)</td>
+            <td>&nbsp;</td>
+            <td>33</td>
+            <td>(86)</td>
+            <td>124</td>
+            <td>(100)</td>
+            <td>39</td>
+            <td>46</td>
+        </tr>
+        <tr>
+            <td>Cambios en el valor razonable no registrados en resultados</td>
+            <td>&nbsp;</td>
+            <td>(81)</td>
+            <td>(3)</td>
+            <td>27</td>
+            <td>(123)</td>
+            <td>(43)</td>
+            <td>1</td>
+        </tr>
+        <tr>
+            <td>Compras, ventas y liquidaciones (**)</td>
+            <td>&nbsp;</td>
+            <td>438</td>
+            <td>(25)</td>
+            <td>(510)</td>
+            <td>89</td>
+            <td>(153)</td>
+            <td>(6)</td>
+        </tr>
+        <tr>
+            <td>Entradas/(salidas) netas en Nivel 3</td>
+            <td>&nbsp;</td>
+            <td>16</td>
+            <td>-</td>
+            <td>145</td>
+            <td>-</td>
+            <td>5</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Diferencias de cambio y otros</td>
+            <td>&nbsp;</td>
+            <td>(47)</td>
+            <td>49</td>
+            <td>(71)</td>
+            <td>219</td>
+            <td>(130)</td>
+            <td>5</td>
+        </tr>
+        <tr>
+            <td>Saldo final</td>
+            <td>&nbsp;</td>
+            <td>822</td>
+            <td>116</td>
+            <td>463</td>
+            <td>182</td>
+            <td>601</td>
+            <td>98</td>
+        </tr>
+    </tbody>
+</table>
+
+(*) Corresponde a títulos que se mantienen en el balance consolidado a 31 diciembre 2016, 2015 y 2014. Los ajustes por valoración se registran en la cuenta de pérdidas y ganancias consolidadas en el epígrafe de “ganancias o pérdidas por activos y pasivos financieros designados a valor razonable con cambios en resultados, netas”.
+(**) De los que en 2016, el movimiento de activo se compone de 849 millones de euros de compras, 340 millones de ventas y 71 millones de euros de liquidaciones. Los movimientos del pasivo se componen de 47 millones de euros de compras, 70 millones de euros de ventas y 3 millones de liquidaciones.
 
 En el ejercicio 2016, el resultado por ventas de instrumentos financieros clasificados en Nivel 3, registrado en la cuenta de pérdidas y ganancias de dicho ejercicio no fue significativo.
 
-##### Traspasos entre niveles
+##### Traspasos entre niveles 
 
 El área de Valoración Global de Mercados, en colaboración con el Área de Tecnología y Metodologías, ha establecido los criterios para la adecuada clasificación de los activos financieros mantenidos para negociar y activos disponibles para la venta de acuerdo con la jerarquía de valor razonable definida por las normas internacionales de contabilidad.
 
@@ -1925,7 +8048,82 @@ Mensualmente, los nuevos activos incorporados a la cartera son clasificados, sig
 
 Los instrumentos financieros que fueron traspasados entre los distintos niveles de valoración durante el ejercicio 2016, presentan los siguientes saldos en el balance consolidado adjunto a 31 de diciembre 2016:
 
-IMAGE GOES HERE
+<table>
+    <thead>
+        <tr>
+            <th>Activo</th>
+            <th>&nbsp;</th>
+            <th>&nbsp;</th>
+            <th>&nbsp;</th>
+            <th>&nbsp;</th>
+            <th>&nbsp;</th>
+            <th>&nbsp;</th>
+            <th>&nbsp;</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Activos financieros mantenidos para negociar</td>
+            <td>&nbsp;</td>
+            <td>2</td>
+            <td>1</td>
+            <td>192</td>
+            <td>5</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Activos financieros disponibles para la venta</td>
+            <td>&nbsp;</td>
+            <td>56</td>
+            <td>-</td>
+            <td>259</td>
+            <td>10</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Total</td>
+            <td>&nbsp;</td>
+            <td>58</td>
+            <td>1</td>
+            <td>451</td>
+            <td>15</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Pasivo</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Pasivos financieros mantenidos para negociar</td>
+            <td>&nbsp;</td>
+            <td>5</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Total</td>
+            <td>&nbsp;</td>
+            <td>5</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+    </tbody>
+</table>
 
 El importe de los instrumentos financieros que fueron traspasados entre los distintos niveles de valoración durante el ejercicio 2016 es poco significativo con respecto al total de las carteras, correspondiendo básicamente a las revisiones antes mencionadas de la clasificación entre niveles porque dichos activos habían visto modificada alguna de sus características. En concreto:
 
@@ -1934,10 +8132,94 @@ El importe de los instrumentos financieros que fueron traspasados entre los dist
 • Los traspasos desde el Nivel 3 al Nivel 2 se producen íntegramente en instrumentos de patrimonio, en los que se logra localizar datos observables en el mercado para su valoración.
 
 ##### Análisis de sensibilidad
+
 El análisis de sensibilidad se realiza sobre los activos con inputs no observables importantes, es decir, para aquellos incluidos en el Nivel 3, para tener un rango razonable de las posibles valoraciones alternativas. Este análisis se lleva a cabo, con periodicidad mensual, en base a los criterios definidos por el Área Global de Valoración teniendo en cuenta la naturaleza de los métodos empleados para realizar la valoración y la fiabilidad y disponibilidad de los inputs y proxies utilizados. Esto se realiza con el objeto de establecer, con un grado de certeza adecuado, el riesgo valorativo en el que se incurre en dichos activos sin aplicar criterios de diversificación entre los mismos.
 
 A 31 de diciembre 2016, el efecto en los resultados y en el patrimonio neto, consolidados, resultante de cambiar las principales asunciones utilizadas en la valoración de los instrumentos financieros del Nivel 3 por otras hipótesis razonablemente posibles, tomando el valor más alto (hipótesis más favorables) o más bajo (hipótesis menos favorables) del rango que se estima probable, sería:
 
+<table>
+    <thead>
+        <tr>
+            <th>ACTIVOS-</th>
+            <th>&nbsp;</th>
+            <th>&nbsp;</th>
+            <th>&nbsp;</th>
+            <th>&nbsp;</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Activos financieros mantenidos para negociar</td>
+            <td>17</td>
+            <td>(30)</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Valores representativos de deuda</td>
+            <td>4</td>
+            <td>(8)</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Intrumentos de capital</td>
+            <td>5</td>
+            <td>(14)</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Derivados de negociación</td>
+            <td>8</td>
+            <td>(8)</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Activos financieros disponibles para la venta</td>
+            <td>-</td>
+            <td>-</td>
+            <td>4</td>
+            <td>(3)</td>
+        </tr>
+        <tr>
+            <td>Valores representativos de deuda</td>
+            <td>-</td>
+            <td>-</td>
+            <td>4</td>
+            <td>(3)</td>
+        </tr>
+        <tr>
+            <td>Intrumentos de capital</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>PASIVOS-</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Pasivos financieros mantenidos para negociar</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Total</td>
+            <td>17</td>
+            <td>(30)</td>
+            <td>4</td>
+            <td>(3)</td>
+        </tr>
+    </tbody>
+</table>
 
 #### 8.1.2 Valor razonable de los instrumentos financieros contabilizados a coste, según criterios de valoración
 
@@ -1948,11 +8230,231 @@ A continuación se presentan los métodos de valoración utilizados para el cál
 
 La siguiente tabla presenta el valor razonable de los principales instrumentos financieros registrados a coste amortizado en los balances consolidados adjuntos, desglosados según el método de valoración utilizado en su estimación:
 
-IMAGE GOES HERE
+<table>
+    <thead>
+        <tr>
+            <th>ACTIVOS-</th>
+            <th>&nbsp;</th>
+            <th>&nbsp;</th>
+            <th>&nbsp;</th>
+            <th>&nbsp;</th>
+            <th>&nbsp;</th>
+            <th>&nbsp;</th>
+            <th>&nbsp;</th>
+            <th>&nbsp;</th>
+            <th>&nbsp;</th>
+            <th>&nbsp;</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Efectivo, saldos en efectivo en bancos centrales y otros depósitos a la vista</td>
+            <td>9</td>
+            <td>39.373</td>
+            <td>-</td>
+            <td>666</td>
+            <td>28.961</td>
+            <td>-</td>
+            <td>322</td>
+            <td>27.719</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Préstamos y partidas a cobrar</td>
+            <td>13</td>
+            <td>-</td>
+            <td>10.991</td>
+            <td>457.853</td>
+            <td>-</td>
+            <td>7.681</td>
+            <td>472.858</td>
+            <td>-</td>
+            <td>3.046</td>
+            <td>374.063</td>
+        </tr>
+        <tr>
+            <td>Inversiones mantenidas hasta el vencimiento</td>
+            <td>14</td>
+            <td>17.567</td>
+            <td>11</td>
+            <td>41</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>PASIVOS-</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Pasivos financieros a coste amortizado</td>
+            <td>22</td>
+            <td>-</td>
+            <td>-</td>
+            <td>594.190</td>
+            <td>-</td>
+            <td>-</td>
+            <td>613.247</td>
+            <td>-</td>
+            <td>-</td>
+            <td>486.904</td>
+        </tr>
+    </tbody>
+</table>
 
-A continuación se presentan los principales métodos de valoración, hipótesis e inputs utilizados en la estimación del valor razonable de los instrumentos financieros contabilizados a coste clasificados en Nivel 2 y Nivel 3, según el tipo de instrumento financiero de que se trate, y los correspondientes saldos a 31 de diciembre 2016:
+A continuación se presentan los principales métodos de valoración, hipótesis e inputs utilizados en la estimación del valor razonable de los instrumentos financieros contabilizados a coste clasificados en Nivel 2 y Nivel 3, según el tipo de instrumento financiero de que se trate, y los correspondientes saldos a 31 de diciembre 2016: 
 
-IMAGE GOES HERE
+<table>
+    <thead>
+        <tr>
+            <th>Nivel 2</th>
+            <th>&nbsp;</th>
+            <th>&nbsp;</th>
+            <th>&nbsp;</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Préstamos y partidas a cobrar</td>
+            <td>&nbsp;</td>
+            <td>"Método del valor presente</td>
+        </tr>
+        <tr>
+            <td>(Descuento de flujos de caja futuros)</td>
+        </tr>
+        <tr>
+            <td>"</td>
+            <td>"- Diferencial de crédito</td>
+        </tr>
+        <tr>
+            <td>- Tipos de interés"</td>
+        </tr>
+        <tr>
+            <td>Valores representativos de deuda</td>
+            <td>10.991</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Nivel 3</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Préstamos y partidas a cobrar</td>
+            <td>&nbsp;</td>
+            <td>"Método del valor presente</td>
+        </tr>
+        <tr>
+            <td>(Descuento de flujos de caja futuros)</td>
+        </tr>
+        <tr>
+            <td>"</td>
+            <td>"- Diferencial de crédito</td>
+        </tr>
+        <tr>
+            <td>- Tasa de recuperación</td>
+        </tr>
+        <tr>
+            <td>- Tipos de interés</td>
+        </tr>
+        <tr>
+            <td>"</td>
+        </tr>
+        <tr>
+            <td>Bancos centrales</td>
+            <td>11.038</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Préstamos y anticipos a entidades de crédito </td>
+            <td>31.855</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Préstamos y anticipos a la clientela</td>
+            <td>414.742</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Valores representativos de deuda</td>
+            <td>218</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Pasivos financieros a coste amortizado</td>
+            <td>&nbsp;</td>
+            <td>"Método del valor presente</td>
+        </tr>
+        <tr>
+            <td>(Descuento de flujos de caja futuros)"</td>
+            <td>"- Diferencial de crédito</td>
+        </tr>
+        <tr>
+            <td>- Tasa de recuperación</td>
+        </tr>
+        <tr>
+            <td>- Tipos de interés</td>
+        </tr>
+        <tr>
+            <td>"</td>
+        </tr>
+        <tr>
+            <td>Depósitos de bancos centrales</td>
+            <td>34.736</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Depósitos de entidades de crédito</td>
+            <td>63.626</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Depósitos de la clientela</td>
+            <td>404.400</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Valores representativos de deuda emitidos</td>
+            <td>61.395</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Otros pasivos financieros</td>
+            <td>30.033</td>
+            <td>&nbsp;</td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
 
 ##### Instrumentos financieros a coste
 
@@ -1960,7 +8462,36 @@ A 31 de diciembre 2016, 2015 y 2014 existían instrumentos de patrimonio y parti
 
 A continuación se presenta el detalle de las ventas realizadas de los instrumentos financieros registrados a coste en el ejercicio 2016, 2015 y 2014:
 
-IMAGE GOES HERE
+<table>
+    <thead>
+        <tr>
+            <th>Ventas de instrumentos a coste</th>
+            <th>2016</th>
+            <th>2015</th>
+            <th>2014</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Importe de venta (A)</td>
+            <td>201</td>
+            <td>33</td>
+            <td>71</td>
+        </tr>
+        <tr>
+            <td>Importe en libros en el momento de la venta (B)</td>
+            <td>58</td>
+            <td>22</td>
+            <td>21</td>
+        </tr>
+        <tr>
+            <td>Ganancias /pérdidas (A-B)</td>
+            <td>142</td>
+            <td>11</td>
+            <td>50</td>
+        </tr>
+    </tbody>
+</table>
 
 #### 8.2 Activos registrados a valor razonable de forma no recurrente
 
@@ -2006,7 +8537,142 @@ Los inmuebles se han valorado de forma individual considerando una hipotética v
 
 A continuación presentamos por jerarquía de mediciones de valor razonable, la cartera de activos no corrientes y grupos enajenables de elementos que se han clasificado como mantenidos para la venta y existencias por tipología de activo a 31 de diciembre 2016 y 2015:
 
-IMAGE GOES HERE
+<table>
+    <thead>
+        <tr>
+            <th>Activos no corrientes y grupos enajenables de elementos mantenidos para la venta</th>
+            <th>21</th>
+            <th>&nbsp;</th>
+            <th>&nbsp;</th>
+            <th>&nbsp;</th>
+            <th>&nbsp;</th>
+            <th>&nbsp;</th>
+            <th>&nbsp;</th>
+            <th>&nbsp;</th>
+            <th>&nbsp;</th>
+            <th>&nbsp;</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Viviendas</td>
+            <td>&nbsp;</td>
+            <td>2.059</td>
+            <td>301</td>
+            <td>2.360</td>
+            <td>2.192</td>
+            <td>98</td>
+            <td>2.291</td>
+            <td>2.045</td>
+            <td>9</td>
+            <td>2.054</td>
+        </tr>
+        <tr>
+            <td>Oficinas, locales, naves y resto</td>
+            <td>&nbsp;</td>
+            <td>326</td>
+            <td>105</td>
+            <td>431</td>
+            <td>353</td>
+            <td>53</td>
+            <td>406</td>
+            <td>399</td>
+            <td>8</td>
+            <td>407</td>
+        </tr>
+        <tr>
+            <td>Suelos</td>
+            <td>&nbsp;</td>
+            <td>-</td>
+            <td>150</td>
+            <td>150</td>
+            <td>12</td>
+            <td>236</td>
+            <td>248</td>
+            <td>-</td>
+            <td>237</td>
+            <td>237</td>
+        </tr>
+        <tr>
+            <td>TOTAL</td>
+            <td>&nbsp;</td>
+            <td>2.385</td>
+            <td>556</td>
+            <td>2.941</td>
+            <td>2.557</td>
+            <td>388</td>
+            <td>2.945</td>
+            <td>2.444</td>
+            <td>255</td>
+            <td>2.699</td>
+        </tr>
+        <tr>
+            <td>Existencias</td>
+            <td>20</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Viviendas</td>
+            <td>&nbsp;</td>
+            <td>903</td>
+            <td>-</td>
+            <td>903</td>
+            <td>1.452</td>
+            <td>-</td>
+            <td>1.452</td>
+            <td>1.424</td>
+            <td>-</td>
+            <td>1.424</td>
+        </tr>
+        <tr>
+            <td>Oficinas, locales, naves y resto</td>
+            <td>&nbsp;</td>
+            <td>620</td>
+            <td>-</td>
+            <td>620</td>
+            <td>647</td>
+            <td>-</td>
+            <td>647</td>
+            <td>628</td>
+            <td>-</td>
+            <td>628</td>
+        </tr>
+        <tr>
+            <td>Suelos</td>
+            <td>&nbsp;</td>
+            <td>-</td>
+            <td>1.591</td>
+            <td>1.591</td>
+            <td>-</td>
+            <td>2.056</td>
+            <td>2.056</td>
+            <td>-</td>
+            <td>2.169</td>
+            <td>2.169</td>
+        </tr>
+        <tr>
+            <td>TOTAL</td>
+            <td>&nbsp;</td>
+            <td>1.523</td>
+            <td>1.591</td>
+            <td>3.114</td>
+            <td>2.099</td>
+            <td>2.056</td>
+            <td>4.155</td>
+            <td>2.052</td>
+            <td>2.169</td>
+            <td>4.221</td>
+        </tr>
+    </tbody>
+</table>
 
 Dado que el importe en Nivel 3 de activos no corrientes y grupos enajenables de elementos que se han clasificado como mantenidos para la venta (0000 millones de euros) no es significativo respecto al total de activos consolidados y que los inputs utilizados en dicha valoración son muy diversos en función de la tipología y la ubicación geográfica, no se detallan los inputs utilizados.
 
@@ -2015,8 +8681,89 @@ Dado que el importe en Nivel 3 de activos no corrientes y grupos enajenables de 
 
 La composición del saldo de los capítulos “Efectivo, saldos en efectivo en bancos centrales y otros depósitos a la vista” y “Pasivos financieros a coste amortizado – Depósitos de bancos centrales” de los balances consolidados adjuntos es la siguiente:
 
-IMAGE GOES HERE
+<table>
+    <thead>
+        <tr>
+            <th>Efectivo, saldos en efectivo en bancos centrales y otros depósitos a la vista</th>
+            <th>2016</th>
+            <th>2015</th>
+            <th>2014</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Efectivo</td>
+            <td>7.413</td>
+            <td>7.192</td>
+            <td>6.247</td>
+        </tr>
+        <tr>
+            <td>Saldos en efectivo en bancos centrales</td>
+            <td>28.671</td>
+            <td>18.445</td>
+            <td>19.755</td>
+        </tr>
+        <tr>
+            <td>Otros Depósitos a la Vista</td>
+            <td>3.955</td>
+            <td>3.646</td>
+            <td>1.717</td>
+        </tr>
+        <tr>
+            <td>Total</td>
+            <td>40.039</td>
+            <td>29.282</td>
+            <td>27.719</td>
+        </tr>
+    </tbody>
+</table>
 
+<table>
+    <thead>
+        <tr>
+            <th>"Pasivos financieros a coste amortizado</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Depósitos de bancos centrales"</td>
+            <td>Notas</td>
+            <td>2016</td>
+            <td>2015</td>
+            <td>2014</td>
+        </tr>
+        <tr>
+            <td>Dépositos de Bancos centrales (*)</td>
+            <td>&nbsp;</td>
+            <td>30.022</td>
+            <td>20.956</td>
+            <td>19.405</td>
+        </tr>
+        <tr>
+            <td>Cesion temporal de activos</td>
+            <td>35</td>
+            <td>4.649</td>
+            <td>19.065</td>
+            <td>8.774</td>
+        </tr>
+        <tr>
+            <td>Intereses devengados </td>
+            <td>&nbsp;</td>
+            <td>69</td>
+            <td>66</td>
+            <td>14</td>
+        </tr>
+        <tr>
+            <td>Total</td>
+            <td>22</td>
+            <td>34.740</td>
+            <td>40.087</td>
+            <td>28.193</td>
+        </tr>
+    </tbody>
+</table>
+
+(*) El incremento en esta partida, se debe a la participación en los distintos programas TLTRO (ver Nota 7.5)
 
 ## 10. Activos y pasivos financieros mantenidos para negociar
 
@@ -2024,39 +8771,827 @@ IMAGE GOES HERE
 
 La composición del saldo de estos capítulos de los balances consolidados adjuntos es:
 
-IMAGE GOES HERE
+<table>
+    <thead>
+        <tr>
+            <th>Activos y pasivos financieros mantenidos para negociar</th>
+            <th>2016</th>
+            <th>2015</th>
+            <th>2014</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>ACTIVOS-</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Derivados</td>
+            <td>42.955</td>
+            <td>40.902</td>
+            <td>44.229</td>
+        </tr>
+        <tr>
+            <td>Valores representativos de deuda</td>
+            <td>27.166</td>
+            <td>32.825</td>
+            <td>33.883</td>
+        </tr>
+        <tr>
+            <td>Préstamos y anticipos a la clientela</td>
+            <td>154</td>
+            <td>65</td>
+            <td>128</td>
+        </tr>
+        <tr>
+            <td>Instrumentos de patrimonio</td>
+            <td>4.675</td>
+            <td>4.534</td>
+            <td>5.017</td>
+        </tr>
+        <tr>
+            <td>Total Activos</td>
+            <td>74.950</td>
+            <td>78.326</td>
+            <td>83.258</td>
+        </tr>
+        <tr>
+            <td>PASIVOS-</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Derivados</td>
+            <td>43.118</td>
+            <td>42.149</td>
+            <td>45.052</td>
+        </tr>
+        <tr>
+            <td>Posiciones cortas de valores </td>
+            <td>11.556</td>
+            <td>13.053</td>
+            <td>11.747</td>
+        </tr>
+        <tr>
+            <td>Total Pasivos</td>
+            <td>54.675</td>
+            <td>55.202</td>
+            <td>56.798</td>
+        </tr>
+    </tbody>
+</table>
 
 
 ### 10.2 Valores representativos de deuda
 
 El desglose del saldo, por tipo de emisor, de este epígrafe de los balances consolidados adjuntos es:
 
-IMAGE GOES HERE
-
+<table>
+    <thead>
+        <tr>
+            <th>"Activos financieros mantenidos para negociar</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Valores representativos de deuda por emisor"</td>
+            <td>2016</td>
+            <td>2015</td>
+            <td>2014</td>
+        </tr>
+        <tr>
+            <td>Emitidos por bancos centrales</td>
+            <td>544</td>
+            <td>214</td>
+            <td>193</td>
+        </tr>
+        <tr>
+            <td>Deuda pública española</td>
+            <td>4.840</td>
+            <td>7.419</td>
+            <td>6.332</td>
+        </tr>
+        <tr>
+            <td>Deuda pública extranjera</td>
+            <td>18.781</td>
+            <td>21.821</td>
+            <td>21.688</td>
+        </tr>
+        <tr>
+            <td>Emitidos por entidades financieras españolas</td>
+            <td>218</td>
+            <td>328</td>
+            <td>879</td>
+        </tr>
+        <tr>
+            <td>Emitidos por entidades financieras extranjeras</td>
+            <td>1.434</td>
+            <td>1.438</td>
+            <td>2.169</td>
+        </tr>
+        <tr>
+            <td>Otros valores representativos de deuda</td>
+            <td>1.349</td>
+            <td>1.606</td>
+            <td>2.623</td>
+        </tr>
+        <tr>
+            <td>Total</td>
+            <td>27.166</td>
+            <td>32.825</td>
+            <td>33.883</td>
+        </tr>
+    </tbody>
+</table>
 
 ### 10.3 Instrumentos de patrimonio
 
 La composición del saldo de este epígrafe de los balances consolidados adjuntos es:
 
-IMAGE GOES HERE
+<table>
+    <thead>
+        <tr>
+            <th>Activos financieros mantenidos para negociar</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Instrumentos de patrimonio por emisor"</td>
+            <td>2016</td>
+            <td>2015</td>
+            <td>2014</td>
+        </tr>
+        <tr>
+            <td>Acciones de sociedades españolas</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td> Entidades de crédito</td>
+            <td>781</td>
+            <td>804</td>
+            <td>865</td>
+        </tr>
+        <tr>
+            <td> Otros sectores</td>
+            <td>956</td>
+            <td>1.234</td>
+            <td>1.677</td>
+        </tr>
+        <tr>
+            <td>Subtotal </td>
+            <td>1.737</td>
+            <td>2.038</td>
+            <td>2.541</td>
+        </tr>
+        <tr>
+            <td>Acciones de sociedades extranjeras</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td> Entidades de crédito</td>
+            <td>220</td>
+            <td>255</td>
+            <td>107</td>
+        </tr>
+        <tr>
+            <td> Otros sectores</td>
+            <td>2.718</td>
+            <td>2.241</td>
+            <td>2.368</td>
+        </tr>
+        <tr>
+            <td>Subtotal </td>
+            <td>2.938</td>
+            <td>2.497</td>
+            <td>2.476</td>
+        </tr>
+        <tr>
+            <td>Total</td>
+            <td>4.675</td>
+            <td>4.534</td>
+            <td>5.017</td>
+        </tr>
+    </tbody>
+</table>
 
 
 ### 10.4 Derivados
 
-La cartera de derivados surge de la necesidad del Grupo de gestionar los riesgos en que incurre en el curso normal de su actividad así como la comercialización de productos a los clientes. A 31 de diciembre 2016, 2015 y 2014 los derivados estaban, en su mayor parte, contratados en mercados no organizados, tenían sus contrapartidas en entidades de crédito no residentes en España y estaban relacionados con riesgos de cambio, de tipo de interés y de acciones.
+La cartera de derivados surge de la necesidad del Grupo de gestionar los riesgos en que incurre en el curso normal de su actividad así como la comercialización de productos a los clientes. A 31 de diciembre 2016, 2015 y 2014 los derivados estaban, en su mayor parte, contratados en mercados no organizados, tenían sus contrapartidas en entidades de crédito no residentes en España y estaban relacionados con riesgos de cambio, de tipo de interés y de acciones. 
 
 A continuación se presenta un desglose, por tipo de riesgo y tipo de producto o mercado, del valor razonable así como los nocionales relacionados de los derivados financieros de negociación registrados en los balances consolidados adjuntos, distinguiendo entre los contratados en mercados organizados y no organizados:
 
-IMAGE GOES HERE
+<table>
+    <thead>
+        <tr>
+            <th>Derivados por tipo de riesgo y por tipo de producto o mercado - Diciembre 2016</th>
+            <th>Activos</th>
+            <th>Pasivos</th>
+            <th>Importe nocional - Total</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Tipo de interés</td>
+            <td>25.770</td>
+            <td>25.322</td>
+            <td>1.556.150</td>
+        </tr>
+        <tr>
+            <td>Opciones OTC</td>
+            <td>3.331</td>
+            <td>3.428</td>
+            <td>217.958</td>
+        </tr>
+        <tr>
+            <td>Otros OTC</td>
+            <td>22.339</td>
+            <td>21.792</td>
+            <td>1.296.183</td>
+        </tr>
+        <tr>
+            <td>Opciones en mercados organizados</td>
+            <td>1</td>
+            <td>-</td>
+            <td>1.311</td>
+        </tr>
+        <tr>
+            <td>Otros en mercados organizados</td>
+            <td>100</td>
+            <td>102</td>
+            <td>40.698</td>
+        </tr>
+        <tr>
+            <td>Instrumentos de patrimonio</td>
+            <td>2.032</td>
+            <td>2.252</td>
+            <td>90.655</td>
+        </tr>
+        <tr>
+            <td>Opciones OTC</td>
+            <td>718</td>
+            <td>1.224</td>
+            <td>44.837</td>
+        </tr>
+        <tr>
+            <td>Otros OTC</td>
+            <td>109</td>
+            <td>91</td>
+            <td>5.312</td>
+        </tr>
+        <tr>
+            <td>Opciones en mercados organizados</td>
+            <td>1.205</td>
+            <td>937</td>
+            <td>36.795</td>
+        </tr>
+        <tr>
+            <td>Otros en mercados organizados</td>
+            <td>-</td>
+            <td>-</td>
+            <td>3.712</td>
+        </tr>
+        <tr>
+            <td>Divisas y oro</td>
+            <td>14.872</td>
+            <td>15.179</td>
+            <td>425.506</td>
+        </tr>
+        <tr>
+            <td>Opciones OTC</td>
+            <td>417</td>
+            <td>539</td>
+            <td>27.583</td>
+        </tr>
+        <tr>
+            <td>Otros OTC</td>
+            <td>14.436</td>
+            <td>14.624</td>
+            <td>392.240</td>
+        </tr>
+        <tr>
+            <td>Opciones en mercados organizados</td>
+            <td>3</td>
+            <td>-</td>
+            <td>175</td>
+        </tr>
+        <tr>
+            <td>Otros en mercados organizados</td>
+            <td>16</td>
+            <td>16</td>
+            <td>5.508</td>
+        </tr>
+        <tr>
+            <td>Crédito</td>
+            <td>261</td>
+            <td>338</td>
+            <td>19.399</td>
+        </tr>
+        <tr>
+            <td>Permutas de cobertura por impago</td>
+            <td>246</td>
+            <td>230</td>
+            <td>15.788</td>
+        </tr>
+        <tr>
+            <td>Opciones sobre el diferencial de crédito</td>
+            <td>-</td>
+            <td>-</td>
+            <td>150</td>
+        </tr>
+        <tr>
+            <td>Permutas de rendimiento total</td>
+            <td>2</td>
+            <td>108</td>
+            <td>1.895</td>
+        </tr>
+        <tr>
+            <td>Otros</td>
+            <td>14</td>
+            <td>-</td>
+            <td>1.565</td>
+        </tr>
+        <tr>
+            <td>Materias primas</td>
+            <td>6</td>
+            <td>6</td>
+            <td>169</td>
+        </tr>
+        <tr>
+            <td>Otros</td>
+            <td>13</td>
+            <td>22</td>
+            <td>1.065</td>
+        </tr>
+        <tr>
+            <td>DERIVADOS</td>
+            <td>42.955</td>
+            <td>43.118</td>
+            <td>2.092.945</td>
+        </tr>
+        <tr>
+            <td>de los cuales: OTC - entidades de crédito</td>
+            <td>26.438</td>
+            <td>28.005</td>
+            <td>806.096</td>
+        </tr>
+        <tr>
+            <td>de los cuales: OTC - otras sociedades financieras</td>
+            <td>8.786</td>
+            <td>9.362</td>
+            <td>1.023.174</td>
+        </tr>
+        <tr>
+            <td>de los cuales: OTC - resto</td>
+            <td>6.404</td>
+            <td>4.694</td>
+            <td>175.473</td>
+        </tr>
+    </tbody>
+</table>
+
+<table>
+    <thead>
+        <tr>
+            <th>Derivados por tipo de riesgo y por tipo de producto o mercado - Diciembre 2015</th>
+            <th>Activos</th>
+            <th>Pasivos</th>
+            <th>Importe nocional - Total</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Tipo de interés</td>
+            <td>22.425</td>
+            <td>23.152</td>
+            <td>1.289.986</td>
+        </tr>
+        <tr>
+            <td>Opciones OTC</td>
+            <td>3.291</td>
+            <td>3.367</td>
+            <td>208.175</td>
+        </tr>
+        <tr>
+            <td>Otros OTC</td>
+            <td>19.134</td>
+            <td>19.785</td>
+            <td>1.069.909</td>
+        </tr>
+        <tr>
+            <td>Opciones en mercados organizados</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Otros en mercados organizados</td>
+            <td>-</td>
+            <td>-</td>
+            <td>11.902</td>
+        </tr>
+        <tr>
+            <td>Instrumentos de patrimonio</td>
+            <td>3.223</td>
+            <td>3.142</td>
+            <td>108.108</td>
+        </tr>
+        <tr>
+            <td>Opciones OTC</td>
+            <td>1.673</td>
+            <td>2.119</td>
+            <td>65.951</td>
+        </tr>
+        <tr>
+            <td>Otros OTC</td>
+            <td>112</td>
+            <td>106</td>
+            <td>4.535</td>
+        </tr>
+        <tr>
+            <td>Opciones en mercados organizados</td>
+            <td>1.437</td>
+            <td>918</td>
+            <td>34.475</td>
+        </tr>
+        <tr>
+            <td>Otros en mercados organizados</td>
+            <td>1</td>
+            <td>-</td>
+            <td>3.147</td>
+        </tr>
+        <tr>
+            <td>Divisas y oro</td>
+            <td>14.706</td>
+            <td>15.367</td>
+            <td>439.546</td>
+        </tr>
+        <tr>
+            <td>Opciones OTC</td>
+            <td>387</td>
+            <td>458</td>
+            <td>41.706</td>
+        </tr>
+        <tr>
+            <td>Otros OTC</td>
+            <td>14.305</td>
+            <td>14.894</td>
+            <td>395.327</td>
+        </tr>
+        <tr>
+            <td>Opciones en mercados organizados</td>
+            <td>1</td>
+            <td>-</td>
+            <td>109</td>
+        </tr>
+        <tr>
+            <td>Otros en mercados organizados</td>
+            <td>13</td>
+            <td>16</td>
+            <td>2.404</td>
+        </tr>
+        <tr>
+            <td>Crédito</td>
+            <td>500</td>
+            <td>441</td>
+            <td>33.939</td>
+        </tr>
+        <tr>
+            <td>Permutas de cobertura por impago</td>
+            <td>436</td>
+            <td>412</td>
+            <td>30.283</td>
+        </tr>
+        <tr>
+            <td>Opciones sobre el diferencial de crédito</td>
+            <td>-</td>
+            <td>-</td>
+            <td>300</td>
+        </tr>
+        <tr>
+            <td>Permutas de rendimiento total</td>
+            <td>-</td>
+            <td>28</td>
+            <td>1.831</td>
+        </tr>
+        <tr>
+            <td>Otros</td>
+            <td>64</td>
+            <td>-</td>
+            <td>1.526</td>
+        </tr>
+        <tr>
+            <td>Materias primas</td>
+            <td>31</td>
+            <td>37</td>
+            <td>118</td>
+        </tr>
+        <tr>
+            <td>Otros</td>
+            <td>16</td>
+            <td>10</td>
+            <td>675</td>
+        </tr>
+        <tr>
+            <td>DERIVADOS</td>
+            <td>40.902</td>
+            <td>42.149</td>
+            <td>1.872.373</td>
+        </tr>
+        <tr>
+            <td>de los cuales: OTC - entidades de crédito</td>
+            <td>23.385</td>
+            <td>28.343</td>
+            <td>974.604</td>
+        </tr>
+        <tr>
+            <td>de los cuales: OTC - otras sociedades financieras</td>
+            <td>9.938</td>
+            <td>8.690</td>
+            <td>688.880</td>
+        </tr>
+        <tr>
+            <td>de los cuales: OTC - resto</td>
+            <td>6.122</td>
+            <td>4.177</td>
+            <td>156.828</td>
+        </tr>
+    </tbody>
+</table>
+
+<table>
+    <thead>
+        <tr>
+            <th>Derivados por tipo de riesgo y por tipo de producto o mercado - Diciembre 2014</th>
+            <th>Activos</th>
+            <th>Pasivos</th>
+            <th>Importe nocional - Total</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Tipo de interés</td>
+            <td>29.504</td>
+            <td>28.770</td>
+            <td>1.160.445</td>
+        </tr>
+        <tr>
+            <td>Opciones OTC</td>
+            <td>3.919</td>
+            <td>4.301</td>
+            <td>214.621</td>
+        </tr>
+        <tr>
+            <td>Otros OTC</td>
+            <td>25.578</td>
+            <td>24.283</td>
+            <td>936.281</td>
+        </tr>
+        <tr>
+            <td>Instrumentos de patrimonio</td>
+            <td>1</td>
+            <td>25</td>
+            <td>1.470</td>
+        </tr>
+        <tr>
+            <td>Derivados</td>
+            <td>6</td>
+            <td>162</td>
+            <td>8.073</td>
+        </tr>
+        <tr>
+            <td>Instrumentos de patrimonio</td>
+            <td>2.752</td>
+            <td>3.980</td>
+            <td>108.327</td>
+        </tr>
+        <tr>
+            <td>Opciones OTC</td>
+            <td>1.229</td>
+            <td>1.874</td>
+            <td>64.552</td>
+        </tr>
+        <tr>
+            <td>Otros OTC</td>
+            <td>169</td>
+            <td>1.068</td>
+            <td>3.382</td>
+        </tr>
+        <tr>
+            <td>Opciones en mercados organizados</td>
+            <td>1.353</td>
+            <td>1.038</td>
+            <td>38.185</td>
+        </tr>
+        <tr>
+            <td>Otros en mercados organizados</td>
+            <td>1</td>
+            <td>-</td>
+            <td>2.209</td>
+        </tr>
+        <tr>
+            <td>Divisas y oro</td>
+            <td>11.409</td>
+            <td>11.773</td>
+            <td>360.573</td>
+        </tr>
+        <tr>
+            <td>Opciones OTC</td>
+            <td>243</td>
+            <td>372</td>
+            <td>33.119</td>
+        </tr>
+        <tr>
+            <td>Otros OTC</td>
+            <td>10.862</td>
+            <td>11.098</td>
+            <td>323.275</td>
+        </tr>
+        <tr>
+            <td>Opciones en mercados organizados</td>
+            <td>1</td>
+            <td>-</td>
+            <td>10</td>
+        </tr>
+        <tr>
+            <td>Otros en mercados organizados</td>
+            <td>303</td>
+            <td>304</td>
+            <td>4.170</td>
+        </tr>
+        <tr>
+            <td>Crédito</td>
+            <td>548</td>
+            <td>504</td>
+            <td>45.066</td>
+        </tr>
+        <tr>
+            <td>Permutas de cobertura por impago</td>
+            <td>545</td>
+            <td>335</td>
+            <td>43.406</td>
+        </tr>
+        <tr>
+            <td>Opciones sobre el diferencial de crédito</td>
+            <td>3</td>
+            <td>1</td>
+            <td>1.650</td>
+        </tr>
+        <tr>
+            <td>Permutas de rendimiento total</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Otros</td>
+            <td>-</td>
+            <td>167</td>
+            <td>10</td>
+        </tr>
+        <tr>
+            <td>Materias primas</td>
+            <td>14</td>
+            <td>24</td>
+            <td>378</td>
+        </tr>
+        <tr>
+            <td>Otros</td>
+            <td>1</td>
+            <td>1</td>
+            <td>247</td>
+        </tr>
+        <tr>
+            <td>DERIVADOS</td>
+            <td>44.229</td>
+            <td>45.052</td>
+            <td>1.675.036</td>
+        </tr>
+        <tr>
+            <td>de los cuales: OTC - entidades de crédito</td>
+            <td>29.041</td>
+            <td>32.807</td>
+            <td>931.198</td>
+        </tr>
+        <tr>
+            <td>de los cuales: OTC - otras sociedades financieras</td>
+            <td>6.557</td>
+            <td>7.455</td>
+            <td>556.090</td>
+        </tr>
+        <tr>
+            <td>de los cuales: OTC - resto</td>
+            <td>6.966</td>
+            <td>3.261</td>
+            <td>133.631</td>
+        </tr>
+    </tbody>
+</table>
 
 
 ## 11. Activos y pasivos financieros designados a valor razonable con cambios en resultados
 
 La composición del saldo de estos capítulos de los balances consolidados adjuntos es:
 
-IMAGE GOES HERE
+<table>
+    <thead>
+        <tr>
+            <th>Activos y pasivos financieros designados a varlor razonable con cambios en resultados</th>
+            <th>2016</th>
+            <th>2015</th>
+            <th>2014</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>ACTIVOS</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Instrumentos de patrimonio</td>
+            <td>1.920</td>
+            <td>2.075</td>
+            <td>2.024</td>
+        </tr>
+        <tr>
+            <td>Seguros de vida en los que el tomador asume el riesgo</td>
+            <td>1.749</td>
+            <td>1.960</td>
+            <td>1.930</td>
+        </tr>
+        <tr>
+            <td>Otros valores</td>
+            <td>171</td>
+            <td>115</td>
+            <td>94</td>
+        </tr>
+        <tr>
+            <td>Valores representativos de deuda</td>
+            <td>142</td>
+            <td>173</td>
+            <td>737</td>
+        </tr>
+        <tr>
+            <td>Seguros de vida en los que el tomador asume el riesgo</td>
+            <td>128</td>
+            <td>164</td>
+            <td>157</td>
+        </tr>
+        <tr>
+            <td>Otros valores</td>
+            <td>14</td>
+            <td>9</td>
+            <td>580</td>
+        </tr>
+        <tr>
+            <td>Préstamos y anticipos de entidades de crédito</td>
+            <td>-</td>
+            <td>62</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Total Activos</td>
+            <td>2.062</td>
+            <td>2.311</td>
+            <td>2.761</td>
+        </tr>
+        <tr>
+            <td>PASIVOS</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Otros pasivos financieros</td>
+            <td>2.338</td>
+            <td>2.649</td>
+            <td>2.724</td>
+        </tr>
+        <tr>
+            <td>Seguros de vida en los que el tomador asume el riesgo</td>
+            <td>2.338</td>
+            <td>2.649</td>
+            <td>2.724</td>
+        </tr>
+        <tr>
+            <td>Total Pasivos</td>
+            <td>2.338</td>
+            <td>2.649</td>
+            <td>2.724</td>
+        </tr>
+    </tbody>
+</table>
 
-A 31 de diciembre 2016, 2015 y 2014 el saldo más representativo dentro de estos capítulos corresponde a los activos y pasivos vinculados a los productos de seguros en los que el tomador asume el riesgo (“Unit-Link”). Este tipo de producto se comercializa únicamente en España, a través de BBVA Seguros S.A., de Seguros y Reaseguros y en México a través de Seguros Bancomer S.A, de C.V.
+A 31 de diciembre 2016, 2015 y 2014 el saldo más representativo dentro de estos capítulos corresponde a los activos y pasivos vinculados a los productos de seguros en los que el tomador asume el riesgo (“Unit-Link”). Este tipo de producto se comercializa únicamente en España, a través de BBVA Seguros S.A., de Seguros y Reaseguros y en México a través de Seguros Bancomer S.A, de C.V. 
 
 Dado que los pasivos vinculados a los productos de seguros en los que el tomador asume el riesgo se valoran como el activo asociado a dichos seguros, no existe ningún componente de riesgo de crédito asumido por el Grupo en relación a estos pasivos.
 
@@ -2067,39 +9602,1572 @@ Dado que los pasivos vinculados a los productos de seguros en los que el tomador
 
 La composición del saldo de este capítulo de los balances consolidados adjuntos, por tipos de instrumentos financieros, es la siguiente:
 
-IMAGE GOES HERE
+<table>
+    <thead>
+        <tr>
+            <th>Activos financieros disponibles para la venta</th>
+            <th>2016</th>
+            <th>2015</th>
+            <th>2014</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Valores representativos de deuda</td>
+            <td>74.739</td>
+            <td>108.448</td>
+            <td>87.679</td>
+        </tr>
+        <tr>
+            <td> Pérdidas por deterioro</td>
+            <td>(159)</td>
+            <td>(139)</td>
+            <td>(70)</td>
+        </tr>
+        <tr>
+            <td>Subtotal</td>
+            <td>74.580</td>
+            <td>108.310</td>
+            <td>87.608</td>
+        </tr>
+        <tr>
+            <td>Instrumentos de patrimonio</td>
+            <td>4.814</td>
+            <td>5.262</td>
+            <td>7.370</td>
+        </tr>
+        <tr>
+            <td> Pérdidas por deterioro</td>
+            <td>(174)</td>
+            <td>(146)</td>
+            <td>(103)</td>
+        </tr>
+        <tr>
+            <td>Subtotal</td>
+            <td>4.641</td>
+            <td>5.116</td>
+            <td>7.267</td>
+        </tr>
+        <tr>
+            <td>Total </td>
+            <td>79.221</td>
+            <td>113.426</td>
+            <td>94.875</td>
+        </tr>
+    </tbody>
+</table>
 
-El importe del capítulo ”Activos financieros disponibles para la venta-Valores representativos de deuda” disminuye en el ejercicio 2016, principalmente por la reclasificación de ciertos valores representativos de deuda al capítulo “Inversiones mantenidas hasta el vencimiento”, correspondientes, en su gran mayoría, a títulos de Deuda Pública (véase nota 14).
+El importe del capítulo ”Activos financieros disponibles para la venta-Valores representativos de deuda” disminuye en el ejercicio 2016, principalmente por la reclasificación de ciertos valores representativos de deuda al capítulo “Inversiones mantenidas hasta el vencimiento”, correspondientes, en su gran mayoría, a títulos de Deuda Pública (véase nota 14). 
 
 
 ### 12.2 Valores representativos de deuda
 
 El desglose del saldo del epígrafe “Valores representativos de deuda” de los balances consolidados adjuntos, por tipos de instrumentos financieros, es:
 
-IMAGE GOES HERE
-IMAGE GOES HERE
-IMAGE GOES HERE
+<table>
+    <thead>
+        <tr>
+            <th>"Activos financieros disponibles para la venta </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Valores representativos de deuda</td>
+        </tr>
+        <tr>
+            <td>Diciembre 2016 "</td>
+            <td>Coste amortizado (*)</td>
+            <td>Plusvalías no realizadas</td>
+            <td>Minusvalías no realizadas </td>
+            <td>"Valor</td>
+        </tr>
+        <tr>
+            <td>razonable"</td>
+        </tr>
+        <tr>
+            <td>Valores españoles</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Deuda del estado español y otras administraciones públicas españolas</td>
+            <td>22.427</td>
+            <td>711</td>
+            <td>(18)</td>
+            <td>23.119</td>
+        </tr>
+        <tr>
+            <td>Otros valores representativos de deuda</td>
+            <td>2.305</td>
+            <td>117</td>
+            <td>(1)</td>
+            <td>2.421</td>
+        </tr>
+        <tr>
+            <td>Emitidos por bancos centrales</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Emitidos por entidades de crédito</td>
+            <td>986</td>
+            <td>82</td>
+            <td>-</td>
+            <td>1.067</td>
+        </tr>
+        <tr>
+            <td>Emitidos por otras entidades</td>
+            <td>1.319</td>
+            <td>36</td>
+            <td>(1)</td>
+            <td>1.354</td>
+        </tr>
+        <tr>
+            <td>Subtotal </td>
+            <td>24.731</td>
+            <td>828</td>
+            <td>(19)</td>
+            <td>25.540</td>
+        </tr>
+        <tr>
+            <td>Valores extranjeros</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>México</td>
+            <td>11.525</td>
+            <td>19</td>
+            <td>(343)</td>
+            <td>11.200</td>
+        </tr>
+        <tr>
+            <td>Deuda del estado mexicano y otras administraciones publicas mexicanas</td>
+            <td>9.728</td>
+            <td>11</td>
+            <td>(301)</td>
+            <td>9.438</td>
+        </tr>
+        <tr>
+            <td>Otros valores representativos de deuda</td>
+            <td>1.797</td>
+            <td>8</td>
+            <td>(42)</td>
+            <td>1.763</td>
+        </tr>
+        <tr>
+            <td>Emitidos por bancos centrales</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Emitidos por entidades de crédito</td>
+            <td>86</td>
+            <td>2</td>
+            <td>(1)</td>
+            <td>87</td>
+        </tr>
+        <tr>
+            <td>Emitidos por otras entidades</td>
+            <td>1.710</td>
+            <td>6</td>
+            <td>(41)</td>
+            <td>1.675</td>
+        </tr>
+        <tr>
+            <td>Estados Unidos </td>
+            <td>14.256</td>
+            <td>48</td>
+            <td>(261)</td>
+            <td>14.043</td>
+        </tr>
+        <tr>
+            <td>Deuda del estado </td>
+            <td>8.460</td>
+            <td>9</td>
+            <td>(131)</td>
+            <td>8.337</td>
+        </tr>
+        <tr>
+            <td>Deuda del tesoro USA y otras agencias gubernamentales</td>
+            <td>1.702</td>
+            <td>1</td>
+            <td>(19)</td>
+            <td>1.683</td>
+        </tr>
+        <tr>
+            <td>Subdivisiones estatales y políticas</td>
+            <td>6.758</td>
+            <td>8</td>
+            <td>(112)</td>
+            <td>6.654</td>
+        </tr>
+        <tr>
+            <td>Otros valores representativos de deuda</td>
+            <td>5.797</td>
+            <td>39</td>
+            <td>(130)</td>
+            <td>5.706</td>
+        </tr>
+        <tr>
+            <td>Emitidos por bancos centrales</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Emitidos por entidades de crédito</td>
+            <td>95</td>
+            <td>2</td>
+            <td>-</td>
+            <td>97</td>
+        </tr>
+        <tr>
+            <td>Emitidos por otras entidades</td>
+            <td>5.702</td>
+            <td>37</td>
+            <td>(130)</td>
+            <td>5.609</td>
+        </tr>
+        <tr>
+            <td>Turquía</td>
+            <td>5.550</td>
+            <td>73</td>
+            <td>(180)</td>
+            <td>5.443</td>
+        </tr>
+        <tr>
+            <td>Deuda del estado turco y otras administraciones publicas turcas</td>
+            <td>5.055</td>
+            <td>70</td>
+            <td>(164)</td>
+            <td>4.961</td>
+        </tr>
+        <tr>
+            <td>Otros valores representativos de deuda</td>
+            <td>495</td>
+            <td>2</td>
+            <td>(16)</td>
+            <td>482</td>
+        </tr>
+        <tr>
+            <td>Emitidos por bancos centrales</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Emitidos por entidades de crédito</td>
+            <td>448</td>
+            <td>2</td>
+            <td>(15)</td>
+            <td>436</td>
+        </tr>
+        <tr>
+            <td>Emitidos por otras entidades</td>
+            <td>47</td>
+            <td>-</td>
+            <td>(1)</td>
+            <td>46</td>
+        </tr>
+        <tr>
+            <td>Otros países</td>
+            <td>17.923</td>
+            <td>634</td>
+            <td>(203)</td>
+            <td>18.354</td>
+        </tr>
+        <tr>
+            <td>Deuda de otros estados y otras administraciones públicas</td>
+            <td>7.882</td>
+            <td>373</td>
+            <td>(98)</td>
+            <td>8.156</td>
+        </tr>
+        <tr>
+            <td>Otros valores representativos de deuda</td>
+            <td>10.041</td>
+            <td>261</td>
+            <td>(105)</td>
+            <td>10.197</td>
+        </tr>
+        <tr>
+            <td>Emitidos por bancos centrales</td>
+            <td>1.657</td>
+            <td>4</td>
+            <td>(2)</td>
+            <td>1.659</td>
+        </tr>
+        <tr>
+            <td>Emitidos por entidades de crédito</td>
+            <td>3.269</td>
+            <td>96</td>
+            <td>(54)</td>
+            <td>3.311</td>
+        </tr>
+        <tr>
+            <td>Emitidos por otras entidades</td>
+            <td>5.115</td>
+            <td>161</td>
+            <td>(49)</td>
+            <td>5.227</td>
+        </tr>
+        <tr>
+            <td>Subtotal </td>
+            <td>49.253</td>
+            <td>773</td>
+            <td>(987)</td>
+            <td>49.040</td>
+        </tr>
+        <tr>
+            <td>Total</td>
+            <td>73.985</td>
+            <td>1.601</td>
+            <td>(1.006)</td>
+            <td>74.580</td>
+        </tr>
+    </tbody>
+</table>
+
+(*) El coste amortizado incluye determinadas plusvalías/minusvalías de cartera vinculadas a contratos de seguros en los que el tomador, en caso de rescate, asume el riesgo.
+
+<table>
+    <thead>
+        <tr>
+            <th>"Activos financieros disponibles para la venta </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Valores representativos de deuda</td>
+        </tr>
+        <tr>
+            <td>Diciembre 2015 "</td>
+            <td>Coste amortizado (*)</td>
+            <td>Plusvalías no realizadas</td>
+            <td>Minusvalías no realizadas </td>
+            <td>"Valor</td>
+        </tr>
+        <tr>
+            <td>razonable"</td>
+        </tr>
+        <tr>
+            <td>Valores españoles</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Deuda del estado español y otras administraciones públicas españolas</td>
+            <td>38.763</td>
+            <td>2.078</td>
+            <td>(41)</td>
+            <td>40.799</td>
+        </tr>
+        <tr>
+            <td>Otros valores representativos de deuda</td>
+            <td>4.737</td>
+            <td>144</td>
+            <td>(11)</td>
+            <td>4.869</td>
+        </tr>
+        <tr>
+            <td>Emitidos por bancos centrales</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Emitidos por entidades de crédito</td>
+            <td>2.702</td>
+            <td>94</td>
+            <td>-</td>
+            <td>2.795</td>
+        </tr>
+        <tr>
+            <td>Emitidos por otras entidades</td>
+            <td>2.035</td>
+            <td>50</td>
+            <td>(11)</td>
+            <td>2.074</td>
+        </tr>
+        <tr>
+            <td>Subtotal </td>
+            <td>43.500</td>
+            <td>2.221</td>
+            <td>(53)</td>
+            <td>45.668</td>
+        </tr>
+        <tr>
+            <td>Valores extranjeros</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>México</td>
+            <td>12.627</td>
+            <td>73</td>
+            <td>(235)</td>
+            <td>12.465</td>
+        </tr>
+        <tr>
+            <td>Deuda del estado mexicano y otras administraciones publicas mexicanas</td>
+            <td>10.284</td>
+            <td>70</td>
+            <td>(160)</td>
+            <td>10.193</td>
+        </tr>
+        <tr>
+            <td>Otros valores representativos de deuda</td>
+            <td>2.343</td>
+            <td>4</td>
+            <td>(75)</td>
+            <td>2.272</td>
+        </tr>
+        <tr>
+            <td>Emitidos por bancos centrales</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Emitidos por entidades de crédito</td>
+            <td>260</td>
+            <td>1</td>
+            <td>(7)</td>
+            <td>254</td>
+        </tr>
+        <tr>
+            <td>Emitidos por otras entidades</td>
+            <td>2.084</td>
+            <td>3</td>
+            <td>(68)</td>
+            <td>2.019</td>
+        </tr>
+        <tr>
+            <td>Estados Unidos </td>
+            <td>13.890</td>
+            <td>63</td>
+            <td>(236)</td>
+            <td>13.717</td>
+        </tr>
+        <tr>
+            <td>Deuda del estado </td>
+            <td>6.817</td>
+            <td>13</td>
+            <td>(41)</td>
+            <td>6.789</td>
+        </tr>
+        <tr>
+            <td>Deuda del tesoro USA y otras agencias gubernamentales</td>
+            <td>2.188</td>
+            <td>4</td>
+            <td>(15)</td>
+            <td>2.177</td>
+        </tr>
+        <tr>
+            <td>Subdivisiones estatales y políticas</td>
+            <td>4.629</td>
+            <td>9</td>
+            <td>(26)</td>
+            <td>4.612</td>
+        </tr>
+        <tr>
+            <td>Otros valores representativos de deuda</td>
+            <td>7.073</td>
+            <td>50</td>
+            <td>(195)</td>
+            <td>6.927</td>
+        </tr>
+        <tr>
+            <td>Emitidos por bancos centrales</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Emitidos por entidades de crédito</td>
+            <td>71</td>
+            <td>5</td>
+            <td>(1)</td>
+            <td>75</td>
+        </tr>
+        <tr>
+            <td>Emitidos por otras entidades</td>
+            <td>7.002</td>
+            <td>45</td>
+            <td>(194)</td>
+            <td>6.852</td>
+        </tr>
+        <tr>
+            <td>Turquía</td>
+            <td>13.414</td>
+            <td>116</td>
+            <td>(265)</td>
+            <td>13.265</td>
+        </tr>
+        <tr>
+            <td>Deuda del estado turco y otras administraciones publicas turcas</td>
+            <td>11.801</td>
+            <td>111</td>
+            <td>(231)</td>
+            <td>11.682</td>
+        </tr>
+        <tr>
+            <td>Otros valores representativos de deuda</td>
+            <td>1.613</td>
+            <td>4</td>
+            <td>(34)</td>
+            <td>1.584</td>
+        </tr>
+        <tr>
+            <td>Emitidos por bancos centrales</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Emitidos por entidades de crédito</td>
+            <td>1.452</td>
+            <td>3</td>
+            <td>(30)</td>
+            <td>1.425</td>
+        </tr>
+        <tr>
+            <td>Emitidos por otras entidades</td>
+            <td>162</td>
+            <td>1</td>
+            <td>(4)</td>
+            <td>159</td>
+        </tr>
+        <tr>
+            <td>Otros países</td>
+            <td>22.803</td>
+            <td>881</td>
+            <td>(490)</td>
+            <td>23.194</td>
+        </tr>
+        <tr>
+            <td>Deuda de otros estados y otras administraciones públicas</td>
+            <td>9.778</td>
+            <td>653</td>
+            <td>(76)</td>
+            <td>10.356</td>
+        </tr>
+        <tr>
+            <td>Otros valores representativos de deuda</td>
+            <td>13.025</td>
+            <td>227</td>
+            <td>(414)</td>
+            <td>12.838</td>
+        </tr>
+        <tr>
+            <td>Emitidos por bancos centrales</td>
+            <td>2.277</td>
+            <td>-</td>
+            <td>(4)</td>
+            <td>2.273</td>
+        </tr>
+        <tr>
+            <td>Emitidos por entidades de crédito</td>
+            <td>3.468</td>
+            <td>108</td>
+            <td>(88)</td>
+            <td>3.488</td>
+        </tr>
+        <tr>
+            <td>Emitidos por otras entidades</td>
+            <td>7.280</td>
+            <td>119</td>
+            <td>(322)</td>
+            <td>7.077</td>
+        </tr>
+        <tr>
+            <td>Subtotal </td>
+            <td>62.734</td>
+            <td>1.132</td>
+            <td>(1.226)</td>
+            <td>62.641</td>
+        </tr>
+        <tr>
+            <td>Total</td>
+            <td>106.234</td>
+            <td>3.354</td>
+            <td>(1.278)</td>
+            <td>108.310</td>
+        </tr>
+    </tbody>
+</table>
+
+(*) El coste amortizado incluye determinadas plusvalías/minusvalías de cartera vinculadas a contratos de seguros en los que el tomador, en caso de rescate, asume el riesgo.
+
+<table>
+    <thead>
+        <tr>
+            <th>"Activos financieros disponibles para la venta </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Valores representativos de deuda</td>
+        </tr>
+        <tr>
+            <td>Diciembre 2014 "</td>
+            <td>Coste Amortizado (*)</td>
+            <td>Plusvalías no realizadas </td>
+            <td>Minusvalías no realizadas </td>
+            <td>"Valor </td>
+        </tr>
+        <tr>
+            <td>en libros"</td>
+        </tr>
+        <tr>
+            <td>Valores españoles</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Deuda del estado español y otras administraciones públicas españolas</td>
+            <td>34.445</td>
+            <td>2.290</td>
+            <td>(55)</td>
+            <td>36.680</td>
+        </tr>
+        <tr>
+            <td>Otros valores representativos de deuda</td>
+            <td>5.892</td>
+            <td>252</td>
+            <td>(22)</td>
+            <td>6.122</td>
+        </tr>
+        <tr>
+            <td>Emitidos por bancos centrales</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Emitidos por entidades de crédito</td>
+            <td>3.567</td>
+            <td>162</td>
+            <td>(13)</td>
+            <td>3.716</td>
+        </tr>
+        <tr>
+            <td>Emitidos por otras entidades</td>
+            <td>2.325</td>
+            <td>90</td>
+            <td>(9)</td>
+            <td>2.406</td>
+        </tr>
+        <tr>
+            <td>Subtotal </td>
+            <td>40.337</td>
+            <td>2.542</td>
+            <td>(77)</td>
+            <td>42.802</td>
+        </tr>
+        <tr>
+            <td>Valores extranjeros</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>México</td>
+            <td>12.662</td>
+            <td>493</td>
+            <td>(96)</td>
+            <td>13.060</td>
+        </tr>
+        <tr>
+            <td>Deuda del estado mexicano y otras administraciones publicas mexicanas</td>
+            <td>10.629</td>
+            <td>459</td>
+            <td>(76)</td>
+            <td>11.012</td>
+        </tr>
+        <tr>
+            <td>Otros valores representativos de deuda</td>
+            <td>2.034</td>
+            <td>34</td>
+            <td>(20)</td>
+            <td>2.048</td>
+        </tr>
+        <tr>
+            <td>Emitidos por bancos centrales</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Emitidos por entidades de crédito</td>
+            <td>141</td>
+            <td>3</td>
+            <td>(3)</td>
+            <td>142</td>
+        </tr>
+        <tr>
+            <td>Emitidos por otras entidades</td>
+            <td>1.892</td>
+            <td>31</td>
+            <td>(17)</td>
+            <td>1.906</td>
+        </tr>
+        <tr>
+            <td>Estados Unidos </td>
+            <td>10.289</td>
+            <td>102</td>
+            <td>(83)</td>
+            <td>10.307</td>
+        </tr>
+        <tr>
+            <td>Deuda del estado </td>
+            <td>4.211</td>
+            <td>28</td>
+            <td>(8)</td>
+            <td>4.231</td>
+        </tr>
+        <tr>
+            <td>Deuda del tesoro USA y otras agencias gubernamentales</td>
+            <td>1.539</td>
+            <td>6</td>
+            <td>(3)</td>
+            <td>1.542</td>
+        </tr>
+        <tr>
+            <td>Subdivisiones estatales y políticas</td>
+            <td>2.672</td>
+            <td>22</td>
+            <td>(5)</td>
+            <td>2.689</td>
+        </tr>
+        <tr>
+            <td>Otros valores representativos de deuda</td>
+            <td>6.078</td>
+            <td>73</td>
+            <td>(76)</td>
+            <td>6.076</td>
+        </tr>
+        <tr>
+            <td>Emitidos por bancos centrales</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Emitidos por entidades de crédito</td>
+            <td>24</td>
+            <td>-</td>
+            <td>-</td>
+            <td>24</td>
+        </tr>
+        <tr>
+            <td>Emitidos por otras entidades</td>
+            <td>6.054</td>
+            <td>73</td>
+            <td>(76)</td>
+            <td>6.052</td>
+        </tr>
+        <tr>
+            <td>Otros países</td>
+            <td>20.705</td>
+            <td>1.044</td>
+            <td>(310)</td>
+            <td>21.439</td>
+        </tr>
+        <tr>
+            <td>Deuda de otros estados y otras administraciones públicas</td>
+            <td>10.355</td>
+            <td>715</td>
+            <td>(104)</td>
+            <td>10.966</td>
+        </tr>
+        <tr>
+            <td>Otros valores representativos de deuda</td>
+            <td>10.350</td>
+            <td>329</td>
+            <td>(206)</td>
+            <td>10.473</td>
+        </tr>
+        <tr>
+            <td>Emitidos por bancos centrales</td>
+            <td>1.540</td>
+            <td>10</td>
+            <td>(9)</td>
+            <td>1.540</td>
+        </tr>
+        <tr>
+            <td>Emitidos por entidades de crédito</td>
+            <td>3.352</td>
+            <td>175</td>
+            <td>(55)</td>
+            <td>3.471</td>
+        </tr>
+        <tr>
+            <td>Emitidos por otras entidades</td>
+            <td>5.459</td>
+            <td>143</td>
+            <td>(141)</td>
+            <td>5.461</td>
+        </tr>
+        <tr>
+            <td>Subtotal </td>
+            <td>43.657</td>
+            <td>1.639</td>
+            <td>(490)</td>
+            <td>44.806</td>
+        </tr>
+        <tr>
+            <td>Total</td>
+            <td>83.994</td>
+            <td>4.181</td>
+            <td>(566)</td>
+            <td>87.608</td>
+        </tr>
+    </tbody>
+</table>
+
+(*) El coste amortizado incluye determinadas plusvalías/minusvalías de cartera vinculadas a contratos de seguros en los que el tomador, en caso de rescate, asume el riesgo.
 
 A 31 de diciembre 2016, 2015 y 2014 la distribución, atendiendo a la calidad crediticia (ratings) de los emisores de los valores representativos de deuda clasificados como disponibles para la venta, era la siguiente:
 
-IMAGE GOES HERE
+<table>
+    <thead>
+        <tr>
+            <th>AAA</th>
+            <th>4.922</th>
+            <th>6,6%</th>
+            <th>1.842</th>
+            <th>1,7%</th>
+            <th>1.459</th>
+            <th>1,7%</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>AA+</td>
+            <td>11.172</td>
+            <td>15,0%</td>
+            <td>10.372</td>
+            <td>9,6%</td>
+            <td>7.620</td>
+            <td>8,7%</td>
+        </tr>
+        <tr>
+            <td>AA</td>
+            <td>594</td>
+            <td>0,8%</td>
+            <td>990</td>
+            <td>0,9%</td>
+            <td>329</td>
+            <td>0,4%</td>
+        </tr>
+        <tr>
+            <td>AA-</td>
+            <td>575</td>
+            <td>0,8%</td>
+            <td>938</td>
+            <td>0,9%</td>
+            <td>1.059</td>
+            <td>1,2%</td>
+        </tr>
+        <tr>
+            <td>A+</td>
+            <td>1.230</td>
+            <td>1,6%</td>
+            <td>1.686</td>
+            <td>1,6%</td>
+            <td>597</td>
+            <td>0,7%</td>
+        </tr>
+        <tr>
+            <td>A</td>
+            <td>7.442</td>
+            <td>10,0%</td>
+            <td>994</td>
+            <td>0,9%</td>
+            <td>2.223</td>
+            <td>2,5%</td>
+        </tr>
+        <tr>
+            <td>A-</td>
+            <td>1.719</td>
+            <td>2,3%</td>
+            <td>4.826</td>
+            <td>4,5%</td>
+            <td>13.606</td>
+            <td>15,5%</td>
+        </tr>
+        <tr>
+            <td>BBB+</td>
+            <td>29.569</td>
+            <td>39,6%</td>
+            <td>51.885</td>
+            <td>47,9%</td>
+            <td>9.980</td>
+            <td>11,4%</td>
+        </tr>
+        <tr>
+            <td>BBB</td>
+            <td>3.233</td>
+            <td>4,3%</td>
+            <td>23.728</td>
+            <td>21,9%</td>
+            <td>41.283</td>
+            <td>47,1%</td>
+        </tr>
+        <tr>
+            <td>BBB-</td>
+            <td>6.809</td>
+            <td>9,1%</td>
+            <td>5.621</td>
+            <td>5,2%</td>
+            <td>2.568</td>
+            <td>2,9%</td>
+        </tr>
+        <tr>
+            <td>Con rating igual o inferior a BB+ </td>
+            <td>2.055</td>
+            <td>2,8%</td>
+            <td>2.639</td>
+            <td>2,4%</td>
+            <td>3.942</td>
+            <td>4,5%</td>
+        </tr>
+        <tr>
+            <td>Sin rating</td>
+            <td>5.261</td>
+            <td>7,1%</td>
+            <td>2.789</td>
+            <td>2,6%</td>
+            <td>2.942</td>
+            <td>3,4%</td>
+        </tr>
+        <tr>
+            <td>Total</td>
+            <td>74.580</td>
+            <td>100%</td>
+            <td>108.310</td>
+            <td>100,0%</td>
+            <td>87.608</td>
+            <td>100,0%</td>
+        </tr>
+    </tbody>
+</table>
 
 ### 12.3 Instrumentos de patrimonio
 
 El desglose del saldo del epígrafe “Instrumentos de patrimonio” de los balances consolidados a 31 de diciembre 2016, 2015 y 2014 es:
 
-IMAGE GOES HERE
-IMAGE GOES HERE
-IMAGE GOES HERE
+<table>
+    <thead>
+        <tr>
+            <th>"Activos financieros disponibles para la venta</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Instrumentos de patrimonio </td>
+        </tr>
+        <tr>
+            <td>Diciembre 2016"</td>
+            <td>Coste amortizado</td>
+            <td>Plusvalías no realizadas </td>
+            <td>Minusvalías no realizadas </td>
+            <td>"Valor </td>
+        </tr>
+        <tr>
+            <td>razonable"</td>
+        </tr>
+        <tr>
+            <td>Instrumentos de patrimonio cotizados</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Acciones de sociedades españolas cotizadas</td>
+            <td>3.690</td>
+            <td>17</td>
+            <td>(944)</td>
+            <td>2.763</td>
+        </tr>
+        <tr>
+            <td> Entidades de crédito</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td> Otras entidades</td>
+            <td>3.690</td>
+            <td>17</td>
+            <td>(944)</td>
+            <td>2.763</td>
+        </tr>
+        <tr>
+            <td>Acciones de sociedades en el extranjero cotizadas</td>
+            <td>793</td>
+            <td>289</td>
+            <td>(15)</td>
+            <td>1.066</td>
+        </tr>
+        <tr>
+            <td> Estados Unidos</td>
+            <td>16</td>
+            <td>22</td>
+            <td>-</td>
+            <td>38</td>
+        </tr>
+        <tr>
+            <td>México</td>
+            <td>8</td>
+            <td>33</td>
+            <td>-</td>
+            <td>41</td>
+        </tr>
+        <tr>
+            <td>Turquía</td>
+            <td>5</td>
+            <td>1</td>
+            <td>-</td>
+            <td>6</td>
+        </tr>
+        <tr>
+            <td> Otros países</td>
+            <td>763</td>
+            <td>234</td>
+            <td>(15)</td>
+            <td>981</td>
+        </tr>
+        <tr>
+            <td>Subtotal </td>
+            <td>4.483</td>
+            <td>306</td>
+            <td>(960)</td>
+            <td>3.829</td>
+        </tr>
+        <tr>
+            <td>Instrumentos de patrimonio no cotizados</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Acciones de sociedades españolas no cotizadas</td>
+            <td>57</td>
+            <td>2</td>
+            <td>(1)</td>
+            <td>59</td>
+        </tr>
+        <tr>
+            <td> Entidades de crédito</td>
+            <td>4</td>
+            <td>-</td>
+            <td>-</td>
+            <td>4</td>
+        </tr>
+        <tr>
+            <td> Otras entidades</td>
+            <td>53</td>
+            <td>2</td>
+            <td>(1)</td>
+            <td>55</td>
+        </tr>
+        <tr>
+            <td>Acciones de sociedades en el extranjero no cotizadas</td>
+            <td>708</td>
+            <td>46</td>
+            <td>(2)</td>
+            <td>752</td>
+        </tr>
+        <tr>
+            <td> Estados Unidos</td>
+            <td>537</td>
+            <td>13</td>
+            <td>-</td>
+            <td>550</td>
+        </tr>
+        <tr>
+            <td>México</td>
+            <td>1</td>
+            <td>-</td>
+            <td>-</td>
+            <td>1</td>
+        </tr>
+        <tr>
+            <td>Turquía</td>
+            <td>18</td>
+            <td>7</td>
+            <td>(2)</td>
+            <td>24</td>
+        </tr>
+        <tr>
+            <td> Otros países</td>
+            <td>152</td>
+            <td>26</td>
+            <td>-</td>
+            <td>178</td>
+        </tr>
+        <tr>
+            <td>Subtotal </td>
+            <td>766</td>
+            <td>48</td>
+            <td>(3)</td>
+            <td>811</td>
+        </tr>
+        <tr>
+            <td>Total</td>
+            <td>5.248</td>
+            <td>355</td>
+            <td>(962)</td>
+            <td>4.641</td>
+        </tr>
+    </tbody>
+</table>
 
+<table>
+    <thead>
+        <tr>
+            <th>Activos financieros disponibles para la venta</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Instrumentos de patrimonio </td>
+        </tr>
+        <tr>
+            <td>Diciembre 2015"</td>
+            <td>Coste amortizado</td>
+            <td>Plusvalías no realizadas </td>
+            <td>Minusvalías no realizadas </td>
+            <td>"Valor </td>
+        </tr>
+        <tr>
+            <td>razonable"</td>
+        </tr>
+        <tr>
+            <td>Instrumentos de patrimonio cotizados</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Acciones de sociedades españolas cotizadas</td>
+            <td>3.402</td>
+            <td>17</td>
+            <td>(558)</td>
+            <td>2.862</td>
+        </tr>
+        <tr>
+            <td> Entidades de crédito</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td> Otras entidades</td>
+            <td>3.402</td>
+            <td>17</td>
+            <td>(558)</td>
+            <td>2.862</td>
+        </tr>
+        <tr>
+            <td>Acciones de sociedades en el extranjero cotizadas</td>
+            <td>1.027</td>
+            <td>392</td>
+            <td>(44)</td>
+            <td>1.375</td>
+        </tr>
+        <tr>
+            <td> Estados Unidos</td>
+            <td>41</td>
+            <td>21</td>
+            <td>-</td>
+            <td>62</td>
+        </tr>
+        <tr>
+            <td>México</td>
+            <td>9</td>
+            <td>42</td>
+            <td>(10)</td>
+            <td>40</td>
+        </tr>
+        <tr>
+            <td>Turquía</td>
+            <td>6</td>
+            <td>4</td>
+            <td>(5)</td>
+            <td>6</td>
+        </tr>
+        <tr>
+            <td> Otros países</td>
+            <td>972</td>
+            <td>325</td>
+            <td>(29)</td>
+            <td>1.267</td>
+        </tr>
+        <tr>
+            <td>Subtotal </td>
+            <td>4.430</td>
+            <td>409</td>
+            <td>(602)</td>
+            <td>4.236</td>
+        </tr>
+        <tr>
+            <td>Instrumentos de patrimonio no cotizados</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Acciones de sociedades españolas no cotizadas</td>
+            <td>74</td>
+            <td>5</td>
+            <td>(1)</td>
+            <td>78</td>
+        </tr>
+        <tr>
+            <td> Entidades de crédito</td>
+            <td>4</td>
+            <td>1</td>
+            <td>-</td>
+            <td>6</td>
+        </tr>
+        <tr>
+            <td> Otras entidades</td>
+            <td>69</td>
+            <td>3</td>
+            <td>(1)</td>
+            <td>72</td>
+        </tr>
+        <tr>
+            <td>Acciones de sociedades en el extranjero no cotizadas</td>
+            <td>701</td>
+            <td>108</td>
+            <td>(7)</td>
+            <td>802</td>
+        </tr>
+        <tr>
+            <td> Estados Unidos</td>
+            <td>549</td>
+            <td>5</td>
+            <td>-</td>
+            <td>554</td>
+        </tr>
+        <tr>
+            <td>México</td>
+            <td>1</td>
+            <td>-</td>
+            <td>-</td>
+            <td>1</td>
+        </tr>
+        <tr>
+            <td>Turquía</td>
+            <td>21</td>
+            <td>13</td>
+            <td>(6)</td>
+            <td>27</td>
+        </tr>
+        <tr>
+            <td> Otros países</td>
+            <td>130</td>
+            <td>91</td>
+            <td>(1)</td>
+            <td>220</td>
+        </tr>
+        <tr>
+            <td>Subtotal </td>
+            <td>775</td>
+            <td>113</td>
+            <td>(8)</td>
+            <td>880</td>
+        </tr>
+        <tr>
+            <td>Total</td>
+            <td>5.204</td>
+            <td>522</td>
+            <td>(610)</td>
+            <td>5.116</td>
+        </tr>
+    </tbody>
+</table>
+
+<table>
+    <thead>
+        <tr>
+            <th>"Activos financieros disponibles para la venta</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Instrumentos de patrimonio </td>
+        </tr>
+        <tr>
+            <td>Diciembre 2014"</td>
+            <td>Coste amortizado</td>
+            <td>Plusvalías no realizadas </td>
+            <td>Minusvalías no realizadas</td>
+            <td>"Valor </td>
+        </tr>
+        <tr>
+            <td>razonable"</td>
+        </tr>
+        <tr>
+            <td>Instrumentos de patrimonio cotizados</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Acciones de sociedades españolas cotizadas</td>
+            <td>3.129</td>
+            <td>92</td>
+            <td>(71)</td>
+            <td>3.150</td>
+        </tr>
+        <tr>
+            <td> Entidades de crédito</td>
+            <td>2</td>
+            <td>1</td>
+            <td>-</td>
+            <td>3</td>
+        </tr>
+        <tr>
+            <td> Otras entidades</td>
+            <td>3.126</td>
+            <td>92</td>
+            <td>(71)</td>
+            <td>3.147</td>
+        </tr>
+        <tr>
+            <td>Acciones de sociedades en el extranjero cotizadas</td>
+            <td>2.227</td>
+            <td>1.235</td>
+            <td>(34)</td>
+            <td>3.428</td>
+        </tr>
+        <tr>
+            <td> Estados Unidos</td>
+            <td>54</td>
+            <td>2</td>
+            <td>-</td>
+            <td>56</td>
+        </tr>
+        <tr>
+            <td>México</td>
+            <td>54</td>
+            <td>-</td>
+            <td>(5)</td>
+            <td>49</td>
+        </tr>
+        <tr>
+            <td>Turquía</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td> Otros países</td>
+            <td>2.118</td>
+            <td>1.233</td>
+            <td>(28)</td>
+            <td>3.323</td>
+        </tr>
+        <tr>
+            <td>Subtotal </td>
+            <td>5.356</td>
+            <td>1.327</td>
+            <td>(105)</td>
+            <td>6.578</td>
+        </tr>
+        <tr>
+            <td>Instrumentos de patrimonio no cotizados</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Acciones de sociedades españolas no cotizadas</td>
+            <td>48</td>
+            <td>1</td>
+            <td>-</td>
+            <td>49</td>
+        </tr>
+        <tr>
+            <td> Entidades de crédito</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td> Otras entidades</td>
+            <td>48</td>
+            <td>1</td>
+            <td>-</td>
+            <td>49</td>
+        </tr>
+        <tr>
+            <td>Acciones de sociedades en el extranjero no cotizadas</td>
+            <td>616</td>
+            <td>28</td>
+            <td>(3)</td>
+            <td>641</td>
+        </tr>
+        <tr>
+            <td> Estados Unidos</td>
+            <td>486</td>
+            <td>16</td>
+            <td>-</td>
+            <td>502</td>
+        </tr>
+        <tr>
+            <td>México</td>
+            <td>1</td>
+            <td>-</td>
+            <td>-</td>
+            <td>1</td>
+        </tr>
+        <tr>
+            <td>Turquía</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td> Otros países</td>
+            <td>129</td>
+            <td>12</td>
+            <td>(3)</td>
+            <td>138</td>
+        </tr>
+        <tr>
+            <td>Subtotal </td>
+            <td>664</td>
+            <td>29</td>
+            <td>(3)</td>
+            <td>690</td>
+        </tr>
+        <tr>
+            <td>Total</td>
+            <td>6.020</td>
+            <td>1.356</td>
+            <td>(108)</td>
+            <td>7.267</td>
+        </tr>
+    </tbody>
+</table>
 
 ### 12.4 Plusvalías/minusvalías
 
 El movimiento de las plusvalías/minusvalías (netas de impuestos) registradas en el epígrafe “Otro resultado global acumulado - Elementos que pueden reclasificarse en resultados - Activos financieros disponibles para la venta” de los balances consolidados adjuntos fue el siguiente:
 
-IMAGE GOES HERE
+<table>
+    <thead>
+        <tr>
+            <th>"Otro resultado global acumulado - Elementos que pueden reclasificarse en resultados - </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Activos financieros disponibles para la venta"</td>
+            <td>2016</td>
+            <td>2015</td>
+            <td>2014</td>
+        </tr>
+        <tr>
+            <td>Saldo inicial</td>
+            <td>1.674</td>
+            <td>3.816</td>
+            <td>851</td>
+        </tr>
+        <tr>
+            <td>Ganancias y pérdidas por valoración</td>
+            <td>400</td>
+            <td>(1.222)</td>
+            <td>5.777</td>
+        </tr>
+        <tr>
+            <td>Impuestos sobre beneficios y otros</td>
+            <td>(62)</td>
+            <td>924</td>
+            <td>(1.414)</td>
+        </tr>
+        <tr>
+            <td>Importes transferidos a resultados</td>
+            <td>(1.181)</td>
+            <td>(1.844)</td>
+            <td>(1.398)</td>
+        </tr>
+        <tr>
+            <td>Otras reclasificaciones</td>
+            <td>116</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Saldo final</td>
+            <td>947</td>
+            <td>1.674</td>
+            <td>3.816</td>
+        </tr>
+        <tr>
+            <td>De los que:</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td> Valores representativos de deuda</td>
+            <td>1.629</td>
+            <td>1.769</td>
+            <td>2.965</td>
+        </tr>
+        <tr>
+            <td> Instrumentos de patrimonio</td>
+            <td>(682)</td>
+            <td>(95)</td>
+            <td>851</td>
+        </tr>
+    </tbody>
+</table>
 
-En el ejercicio 2016, se ha registrado deterioro para ciertos Valores representativos de deuda de Brasil y Colombia en el epígrafe de resultados “'Deterioro del valor o reversión del deterioro del valor de activos financieros no valorados a valor razonable con cambios en resultados – Activos financieros disponibles para la venta” por importe de 0000 millones de euros (Nota 47). En los ejercicios 2016, 2015 y 2014 las minusvalías registradas no fueron significativas (0000, 0000 y 0000  millones de euros respectivamente).
+En el ejercicio 2016, se ha registrado deterioro para ciertos Valores representativos de deuda de Brasil y Colombia en el epígrafe de resultados “'Deterioro del valor o reversión del deterioro del valor de activos financieros no valorados a valor razonable con cambios en resultados – Activos financieros disponibles para la venta” por importe de 0000 millones de euros (Nota 47). En los ejercicios 2016, 2015 y 2014 las minusvalías registradas no fueron significativas (0000, 0000 y 0000  millones de euros respectivamente). 
 
 Para el resto de valores, el 0000% de las minusvalías latentes registradas en el epígrafe “Otro resultado global acumulado - Elementos que pueden reclasificarse en resultados - Activos financieros disponibles para la venta” con origen en los valores representativos de deuda, que presentaban minusvalías en el ejercicio precedente, estaban generadas en más de doce meses. Sin embargo, no se ha considerado la existencia de deterioro ya que, después de haberse analizado las minusvalías no realizadas, se puede concluir que las mismas eran temporales debido a las siguientes razones: se han cumplido las fechas de pago de intereses de todos los valores de renta fija; y no hay evidencias de que el emisor no continúe cumpliendo con sus obligaciones de pago ni de que los futuros pagos, tanto de principal como intereses, no sean suficientes para recuperar el coste de los valores de renta fija.
 
@@ -2112,74 +11180,873 @@ A 31 de diciembre 2016, el Grupo ha analizado las minusvalías latentes registra
 
 La composición del saldo de este capítulo de los balances consolidados adjuntos, atendiendo a la contrapartida del instrumento financiero en el que tiene su origen, es:
 
-IMAGE GOES HERE
+<table>
+    <thead>
+        <tr>
+            <th>Préstamos y partidas a cobrar</th>
+            <th>Notas</th>
+            <th>2016</th>
+            <th>2015</th>
+            <th>2014</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Valores representativos de deuda</td>
+            <td>13.3</td>
+            <td>11.209</td>
+            <td>10.516</td>
+            <td>6.659</td>
+        </tr>
+        <tr>
+            <td>Préstamos y anticipos en bancos centrales</td>
+            <td>13.1</td>
+            <td>8.894</td>
+            <td>17.830</td>
+            <td>5.429</td>
+        </tr>
+        <tr>
+            <td>Préstamos y anticipos en entidades de crédito</td>
+            <td>13.1</td>
+            <td>31.373</td>
+            <td>29.317</td>
+            <td>25.342</td>
+        </tr>
+        <tr>
+            <td>Préstamos y anticipos a la clientela</td>
+            <td>13.2</td>
+            <td>414.500</td>
+            <td>414.165</td>
+            <td>338.657</td>
+        </tr>
+        <tr>
+            <td>Total</td>
+            <td>&nbsp;</td>
+            <td>465.977</td>
+            <td>471.828</td>
+            <td>376.086</td>
+        </tr>
+    </tbody>
+</table>
 
 
 ### 13.1 Préstamos y anticipos en bancos centrales y en entidades de crédito
 
 La composición del saldo de este epígrafe de los balances consolidados adjuntos, atendiendo a la naturaleza del instrumento financiero en el que tiene su origen, es la siguiente:
 
-IMAGE GOES HERE
+<table>
+    <thead>
+        <tr>
+            <th>Préstamos y anticipos en Bancos Centrales y Entidades de Crédito</th>
+            <th>Notas</th>
+            <th>2016</th>
+            <th>2015</th>
+            <th>2014</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Préstamos y anticipos en bancos centrales</td>
+            <td>&nbsp;</td>
+            <td>8.872</td>
+            <td>17.821</td>
+            <td>5.428</td>
+        </tr>
+        <tr>
+            <td>Préstamos y anticipos en entidades de crédito</td>
+            <td>&nbsp;</td>
+            <td>31.364</td>
+            <td>29.301</td>
+            <td>25.257</td>
+        </tr>
+        <tr>
+            <td> Cuentas a plazo</td>
+            <td>&nbsp;</td>
+            <td>5.063</td>
+            <td>6.732</td>
+            <td>3.679</td>
+        </tr>
+        <tr>
+            <td> Resto de cuentas</td>
+            <td>&nbsp;</td>
+            <td>10.739</td>
+            <td>10.820</td>
+            <td>11.138</td>
+        </tr>
+        <tr>
+            <td> Adquisición temporal de activos</td>
+            <td>35</td>
+            <td>15.561</td>
+            <td>11.749</td>
+            <td>10.440</td>
+        </tr>
+        <tr>
+            <td>Total bruto</td>
+            <td>7.3.1</td>
+            <td>40.235</td>
+            <td>47.122</td>
+            <td>30.686</td>
+        </tr>
+        <tr>
+            <td>Ajustes por valoracion</td>
+            <td>&nbsp;</td>
+            <td>32</td>
+            <td>24</td>
+            <td>85</td>
+        </tr>
+        <tr>
+            <td> Pérdidas por deterioro</td>
+            <td>7.3.4</td>
+            <td>(43)</td>
+            <td>(51)</td>
+            <td>(29)</td>
+        </tr>
+        <tr>
+            <td> Intereses y comisiones devengados</td>
+            <td>&nbsp;</td>
+            <td>75</td>
+            <td>75</td>
+            <td>114</td>
+        </tr>
+        <tr>
+            <td> Derivados de cobertura y otros</td>
+            <td>&nbsp;</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Total neto</td>
+            <td>&nbsp;</td>
+            <td>40.267</td>
+            <td>47.147</td>
+            <td>30.771</td>
+        </tr>
+    </tbody>
+</table>
 
 
 ### 13.2 Préstamos y anticipos a la clientela
 
 La composición del saldo de este epígrafe de los balances consolidados adjuntos, atendiendo a la naturaleza del instrumento financiero en el que tiene su origen, es la siguiente:
 
-IMAGE GOES HERE
+<table>
+    <thead>
+        <tr>
+            <th>Préstamos y anticipos a la clientela</th>
+            <th>Notas</th>
+            <th>2016</th>
+            <th>2015</th>
+            <th>2014</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Préstamos con garantía hipotecaria</td>
+            <td>&nbsp;</td>
+            <td>142.269</td>
+            <td>144.203</td>
+            <td>124.097</td>
+        </tr>
+        <tr>
+            <td>Garantía hipotecaria activos explotación</td>
+            <td>&nbsp;</td>
+            <td>9.376</td>
+            <td>6.813</td>
+            <td>4.062</td>
+        </tr>
+        <tr>
+            <td>Garantías reales hipotecarias vivienda</td>
+            <td>&nbsp;</td>
+            <td>122.758</td>
+            <td>120.164</td>
+            <td>109.031</td>
+        </tr>
+        <tr>
+            <td>Resto de hipotecas</td>
+            <td>&nbsp;</td>
+            <td>10.135</td>
+            <td>17.226</td>
+            <td>11.005</td>
+        </tr>
+        <tr>
+            <td>Préstamos con otras garantías reales</td>
+            <td>&nbsp;</td>
+            <td>59.898</td>
+            <td>57.041</td>
+            <td>28.419</td>
+        </tr>
+        <tr>
+            <td>Deudores con garantías dinerarias</td>
+            <td>&nbsp;</td>
+            <td>1.253</td>
+            <td>479</td>
+            <td>468</td>
+        </tr>
+        <tr>
+            <td>Garantía real (pignoración valores)</td>
+            <td>&nbsp;</td>
+            <td>709</td>
+            <td>734</td>
+            <td>518</td>
+        </tr>
+        <tr>
+            <td>Deudores resto de garantías reales (*)</td>
+            <td>&nbsp;</td>
+            <td>57.936</td>
+            <td>55.828</td>
+            <td>27.433</td>
+        </tr>
+        <tr>
+            <td>Préstamos con garantía personal</td>
+            <td>&nbsp;</td>
+            <td>134.275</td>
+            <td>137.322</td>
+            <td>119.002</td>
+        </tr>
+        <tr>
+            <td>Cuentas de crédito</td>
+            <td>&nbsp;</td>
+            <td>12.268</td>
+            <td>13.758</td>
+            <td>12.851</td>
+        </tr>
+        <tr>
+            <td>Cartera comercial</td>
+            <td>&nbsp;</td>
+            <td>14.877</td>
+            <td>13.434</td>
+            <td>10.015</td>
+        </tr>
+        <tr>
+            <td>Descubiertos, excedidos y otros</td>
+            <td>&nbsp;</td>
+            <td>8.858</td>
+            <td>9.226</td>
+            <td>7.021</td>
+        </tr>
+        <tr>
+            <td>Tarjetas de crédito</td>
+            <td>&nbsp;</td>
+            <td>15.238</td>
+            <td>15.360</td>
+            <td>11.756</td>
+        </tr>
+        <tr>
+            <td>Arrendamientos financieros</td>
+            <td>&nbsp;</td>
+            <td>9.144</td>
+            <td>9.032</td>
+            <td>7.095</td>
+        </tr>
+        <tr>
+            <td>Adquisición temporal de activos</td>
+            <td>35</td>
+            <td>7.279</td>
+            <td>5.036</td>
+            <td>6.990</td>
+        </tr>
+        <tr>
+            <td>Efectos financieros</td>
+            <td>&nbsp;</td>
+            <td>1.020</td>
+            <td>1.063</td>
+            <td>873</td>
+        </tr>
+        <tr>
+            <td>Activos dudosos o deteriorados</td>
+            <td>7.3.4</td>
+            <td>22.915</td>
+            <td>25.333</td>
+            <td>22.703</td>
+        </tr>
+        <tr>
+            <td>Total bruto</td>
+            <td>7.3.1</td>
+            <td>428.041</td>
+            <td>430.808</td>
+            <td>350.822</td>
+        </tr>
+        <tr>
+            <td>Ajustes por valoracion</td>
+            <td>&nbsp;</td>
+            <td>(13.541)</td>
+            <td>(16.643)</td>
+            <td>(12.166)</td>
+        </tr>
+        <tr>
+            <td> Pérdidas por deterioro</td>
+            <td>7.3.4</td>
+            <td>(15.974)</td>
+            <td>(18.691)</td>
+            <td>(14.244)</td>
+        </tr>
+        <tr>
+            <td> Derivados - Contabilidad de coberturas</td>
+            <td>&nbsp;</td>
+            <td>1.222</td>
+            <td>1.199</td>
+            <td>1.215</td>
+        </tr>
+        <tr>
+            <td> Resto de ajustes por valoracion</td>
+            <td>&nbsp;</td>
+            <td>1.211</td>
+            <td>849</td>
+            <td>863</td>
+        </tr>
+        <tr>
+            <td>Total neto</td>
+            <td>&nbsp;</td>
+            <td>414.500</td>
+            <td>414.165</td>
+            <td>338.657</td>
+        </tr>
+    </tbody>
+</table>
 
 A 31 de diciembre 2016, el 0000% de las operaciones de “Préstamos y anticipos a la clientela” con vencimiento superior a un año estaban formalizadas a tipo de interés fijo y el 0000% a tipo de interés variable.
 
 El epígrafe “Préstamos y partidas a cobrar - Préstamos y anticipos a la clientela” incluye los contratos de arrendamiento financiero que distintas entidades del Grupo formalizan con sus clientes para financiarles la adquisición de bienes, tanto mobiliarios como inmobiliarios. La distribución de los contratos de arrendamiento financiero a 31 de diciembre 2016, 2015 y 2014 era la siguiente:
 
-IMAGE GOES HERE
+<table>
+    <thead>
+        <tr>
+            <th>Distribución de contratos de arrendamiento financiero</th>
+            <th>2016</th>
+            <th>2015</th>
+            <th>2014</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Bienes muebles</td>
+            <td>6.265</td>
+            <td>6.181</td>
+            <td>4.413</td>
+        </tr>
+        <tr>
+            <td>Bienes inmuebles</td>
+            <td>2.878</td>
+            <td>2.851</td>
+            <td>2.682</td>
+        </tr>
+        <tr>
+            <td>Tipo de interés fijo </td>
+            <td>80%</td>
+            <td>74%</td>
+            <td>73%</td>
+        </tr>
+        <tr>
+            <td>Tipo de interés variable</td>
+            <td>20%</td>
+            <td>26%</td>
+            <td>27%</td>
+        </tr>
+    </tbody>
+</table>
 
 El epígrafe “Préstamos y partidas a cobrar - Préstamos y anticipos a la clientela” de los balances consolidados adjuntos también incluye ciertos préstamos con garantía hipotecaria que, tal y como se menciona en la Anexo IX y de acuerdo con la Ley del Mercado Hipotecario, están vinculados a la emisión de cédulas hipotecarias a largo plazo. Adicionalmente, este epígrafe también incluye ciertos préstamos que han sido titulizados. Los saldos registrados en los balances consolidados adjuntos correspondientes a los préstamos titulizados son:
 
-IMAGE GOES HERE
+<table>
+    <thead>
+        <tr>
+            <th>Préstamos titulizados</th>
+            <th>2016</th>
+            <th>2015</th>
+            <th>2014</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Activos hipotecarios titulizados</td>
+            <td>29.512</td>
+            <td>28.955</td>
+            <td>25.099</td>
+        </tr>
+        <tr>
+            <td>Otros activos titulizados</td>
+            <td>3.731</td>
+            <td>3.666</td>
+            <td>2.225</td>
+        </tr>
+        <tr>
+            <td>Préstamos a empresas</td>
+            <td>762</td>
+            <td>751</td>
+            <td>735</td>
+        </tr>
+        <tr>
+            <td>Leasing</td>
+            <td>100</td>
+            <td>154</td>
+            <td>219</td>
+        </tr>
+        <tr>
+            <td>Préstamos al consumo</td>
+            <td>2.269</td>
+            <td>2.067</td>
+            <td>1.213</td>
+        </tr>
+        <tr>
+            <td>Resto</td>
+            <td>601</td>
+            <td>694</td>
+            <td>58</td>
+        </tr>
+        <tr>
+            <td>Total activos titulizados</td>
+            <td>33.243</td>
+            <td>32.621</td>
+            <td>27.324</td>
+        </tr>
+        <tr>
+            <td>De los que:</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Pasivos asociados a los activos mantenidos en balance (*)</td>
+            <td>6.525</td>
+            <td>7.619</td>
+            <td>5.215</td>
+        </tr>
+    </tbody>
+</table>
+
+(*) Están registrados en el epígrafe "Pasivos financieros a coste amortizado - Valores representativos de deuda emitidos" de los balances consolidados adjuntos (ver Nota 22.3). 
 
 ### 13.3 Valores representativos de deuda
 
 La composición del saldo de este epígrafe de los balances consolidados adjuntos, atendiendo a la contrapartida del instrumento financiero en el que tiene su origen, es la siguiente:
 
-IMAGE GOES HERE
+<table>
+    <thead>
+        <tr>
+            <th>Valores representativos de deuda</th>
+            <th>Notas</th>
+            <th>2016</th>
+            <th>2015</th>
+            <th>2014</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Sector público</td>
+            <td>&nbsp;</td>
+            <td>4.709</td>
+            <td>3.275</td>
+            <td>5.608</td>
+        </tr>
+        <tr>
+            <td>Entidades de crédito</td>
+            <td>&nbsp;</td>
+            <td>37</td>
+            <td>125</td>
+            <td>81</td>
+        </tr>
+        <tr>
+            <td>Otros sectores</td>
+            <td>&nbsp;</td>
+            <td>6.481</td>
+            <td>7.126</td>
+            <td>975</td>
+        </tr>
+        <tr>
+            <td>Total bruto</td>
+            <td>7.3.1</td>
+            <td>11.226</td>
+            <td>10.526</td>
+            <td>6.663</td>
+        </tr>
+        <tr>
+            <td>Pérdidas por deterioro</td>
+            <td>&nbsp;</td>
+            <td>(17)</td>
+            <td>(10)</td>
+            <td>(4)</td>
+        </tr>
+        <tr>
+            <td>Total</td>
+            <td>&nbsp;</td>
+            <td>11.209</td>
+            <td>10.516</td>
+            <td>6.659</td>
+        </tr>
+    </tbody>
+</table>
 
-En el ejercicio 2016, se ha procedido a reclasificar ciertos valores representativos de deuda desde el epígrafe “Activos financieros disponibles para la venta” al epígrafe “Préstamos y partidas a cobrar- Valores representativos de deuda”.
+En el ejercicio 2016, se ha procedido a reclasificar ciertos valores representativos de deuda desde el epígrafe “Activos financieros disponibles para la venta” al epígrafe “Préstamos y partidas a cobrar- Valores representativos de deuda”. 
 
 A continuación se muestra información sobre los valores razonables y los valores en libros de estos activos financieros reclasificados:
 
-IMAGE GOES HERE
+<table>
+    <thead>
+        <tr>
+            <th>BBVA S.A.</th>
+            <th>&nbsp;</th>
+            <th>862</th>
+            <th>862</th>
+            <th>844</th>
+            <th>863</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Total</td>
+            <td>&nbsp;</td>
+            <td>862</td>
+            <td>862</td>
+            <td>844</td>
+            <td>863</td>
+        </tr>
+    </tbody>
+</table>
 
 La siguiente tabla muestra el importe registrado en la cuenta de pérdidas y ganancias consolidada del ejercicio 2016 derivado de la valoración a coste amortizado de los activos financieros reclasificados, así como el impacto que se hubiera registrado en la cuenta de pérdidas y ganancias consolidada y en el epígrafe de “Patrimonio neto – Otro resultado global acumulado”, a 31 de diciembre 2016, de no haber realizado la reclasificación.
 
+<table>
+    <thead>
+        <tr>
+            <th>BBVA S.A.</th>
+            <th>&nbsp;</th>
+            <th>22</th>
+            <th>&nbsp;</th>
+            <th>22</th>
+            <th>(5)</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Total</td>
+            <td>&nbsp;</td>
+            <td>22</td>
+            <td>&nbsp;</td>
+            <td>22</td>
+            <td>(5)</td>
+        </tr>
+    </tbody>
+</table>
 
-## 14. Inversiones mantenidas hasta el vencimiento
+## 14. Inversiones mantenidas hasta el vencimiento 
 
 La composición del saldo de este capítulo de los balances consolidados adjuntos, atendiendo a la contrapartida del instrumento financiero en el que tiene su origen, es la siguiente:
 
-IMAGE GOES HERE
+<table>
+    <thead>
+        <tr>
+            <th>"Inversiones mantenidas hasta el vencimiento (*)</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Valores representativos de deuda "</td>
+            <td>2016</td>
+        </tr>
+        <tr>
+            <td>Valores españoles</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Deuda del estado español y otras administraciones públicas españolas</td>
+            <td>8.063</td>
+        </tr>
+        <tr>
+            <td>Otros valores representativos de deuda</td>
+            <td>562</td>
+        </tr>
+        <tr>
+            <td>Emitidos por bancos centrales</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Emitidos por entidades de crédito</td>
+            <td>494</td>
+        </tr>
+        <tr>
+            <td>Emitidos por otras entidades</td>
+            <td>68</td>
+        </tr>
+        <tr>
+            <td>Subtotal </td>
+            <td>8.625</td>
+        </tr>
+        <tr>
+            <td>Valores extranjeros</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>México</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Estados Unidos </td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Turquía</td>
+            <td>6.184</td>
+        </tr>
+        <tr>
+            <td>Deuda del estado turco y otras administraciones publicas turcas</td>
+            <td>5.263</td>
+        </tr>
+        <tr>
+            <td>Otros valores representativos de deuda</td>
+            <td>921</td>
+        </tr>
+        <tr>
+            <td>Emitidos por bancos centrales</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Emitidos por entidades de crédito</td>
+            <td>876</td>
+        </tr>
+        <tr>
+            <td>Emitidos por otras entidades</td>
+            <td>45</td>
+        </tr>
+        <tr>
+            <td>Otros países</td>
+            <td>2.887</td>
+        </tr>
+        <tr>
+            <td>Deuda de otros estados y otras administraciones públicas</td>
+            <td>2.719</td>
+        </tr>
+        <tr>
+            <td>Otros valores representativos de deuda</td>
+            <td>168</td>
+        </tr>
+        <tr>
+            <td>Emitidos por bancos centrales</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Emitidos por entidades de crédito</td>
+            <td>146</td>
+        </tr>
+        <tr>
+            <td>Emitidos por otras entidades</td>
+            <td>22</td>
+        </tr>
+        <tr>
+            <td>Subtotal </td>
+            <td>9.071</td>
+        </tr>
+        <tr>
+            <td>Total</td>
+            <td>17.696</td>
+        </tr>
+    </tbody>
+</table>
 
 En el ejercicio 2016, se ha procedido a reclasificar ciertos valores representativos de deuda desde el epígrafe “Activos financieros disponibles para la venta” al epígrafe “Inversiones mantenidas hasta el vencimiento”. Esta reclasificación se ha llevado a cabo una vez pasados los dos años de penalización establecidos en la norma NIC-39 (penalización que supuso no poder mantener cartera a vencimiento debido a las ventas significativas que se produjeron en el ejercicio 2013) y dado que la intención del Grupo, con respecto a la forma de gestionar dichos títulos, es mantenerlos hasta su vencimiento.
 
 A 31 de diciembre 2016, la distribución, atendiendo a la calidad crediticia (ratings) de los emisores de los valores representativos de deuda clasificados como inversión a vencimiento, ha sido la siguiente:
 
-IMAGE GOES HERE
+<table>
+    <thead>
+        <tr>
+            <th>AAA</th>
+            <th>&nbsp;</th>
+            <th>-</th>
+            <th>-</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>AA+</td>
+            <td>&nbsp;</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>AA</td>
+            <td>&nbsp;</td>
+            <td>43</td>
+            <td>0,2%</td>
+        </tr>
+        <tr>
+            <td>AA-</td>
+            <td>&nbsp;</td>
+            <td>134</td>
+            <td>0,8%</td>
+        </tr>
+        <tr>
+            <td>A+</td>
+            <td>&nbsp;</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>A</td>
+            <td>&nbsp;</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>A-</td>
+            <td>&nbsp;</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>BBB+</td>
+            <td>&nbsp;</td>
+            <td>10.472</td>
+            <td>59,2%</td>
+        </tr>
+        <tr>
+            <td>BBB</td>
+            <td>&nbsp;</td>
+            <td>591</td>
+            <td>3,3%</td>
+        </tr>
+        <tr>
+            <td>BBB-</td>
+            <td>&nbsp;</td>
+            <td>5.187</td>
+            <td>29,3%</td>
+        </tr>
+        <tr>
+            <td>Con rating igual o inferior a BB+</td>
+            <td>&nbsp;</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Sin clasificar </td>
+            <td>&nbsp;</td>
+            <td>1.270</td>
+            <td>7,2%</td>
+        </tr>
+        <tr>
+            <td>Total</td>
+            <td>&nbsp;</td>
+            <td>17.696</td>
+            <td>100%</td>
+        </tr>
+    </tbody>
+</table>
 
 A continuación se muestra información sobre los valores razonables y los valores en libros de estos activos financieros reclasificados:
 
-IMAGE GOES HERE
+<table>
+    <thead>
+        <tr>
+            <th>BBVA S.A.</th>
+            <th>11.162</th>
+            <th>11.162</th>
+            <th>9.589</th>
+            <th>9.635</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>TURKIYE GARANTI BANKASI A.S</td>
+            <td>6.488</td>
+            <td>6.488</td>
+            <td>6.230</td>
+            <td>6.083</td>
+        </tr>
+        <tr>
+            <td>Total</td>
+            <td>17.650</td>
+            <td>17.650</td>
+            <td>15.819</td>
+            <td>15.718</td>
+        </tr>
+    </tbody>
+</table>
 
-El valor razonable de estos activos en la fecha de reclasificación se ha convertido en el nuevo coste amortizado. Las plusvalías latentes reconocidas hasta la fecha de reclasificación en el epígrafe “Otro resultado global acumulado - Elementos que pueden reclasificarse en resultados – Activos financieros disponibles para la venta” se amortizarán contra resultados a lo largo de la vida restante de las inversiones mantenidas hasta el vencimiento, utilizando el método del tipo de interés efectivo. La diferencia entre el nuevo coste amortizado y el importe a vencimiento se amortizará de manera simétrica a lo largo de la vida restante del activo financiero utilizando el método del tipo de interés efectivo, de forma similar a la amortización de una prima o descuento.
+El valor razonable de estos activos en la fecha de reclasificación se ha convertido en el nuevo coste amortizado. Las plusvalías latentes reconocidas hasta la fecha de reclasificación en el epígrafe “Otro resultado global acumulado - Elementos que pueden reclasificarse en resultados – Activos financieros disponibles para la venta” se amortizarán contra resultados a lo largo de la vida restante de las inversiones mantenidas hasta el vencimiento, utilizando el método del tipo de interés efectivo. La diferencia entre el nuevo coste amortizado y el importe a vencimiento se amortizará de manera simétrica a lo largo de la vida restante del activo financiero utilizando el método del tipo de interés efectivo, de forma similar a la amortización de una prima o descuento. 
 
 La siguiente tabla muestra el importe registrado en la cuenta de pérdidas y ganancias consolidada del ejercicio 2016 derivado de la valoración a coste amortizado de los activos financieros reclasificados, así como el impacto que se hubiera registrado en la cuenta de pérdidas y ganancias consolidada y en el epígrafe de “Patrimonio neto – Otro resultado global acumulado”, a 31 de diciembre 2016, de no haber realizado la reclasificación.
 
-IMAGE GOES HERE
+<table>
+    <thead>
+        <tr>
+            <th>BBVA S.A.</th>
+            <th>&nbsp;</th>
+            <th>230</th>
+            <th>230</th>
+            <th>(86)</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>TURKIYE GARANTI BANKASI A.S</td>
+            <td>&nbsp;</td>
+            <td>326</td>
+            <td>326</td>
+            <td>(225)</td>
+        </tr>
+        <tr>
+            <td>Total</td>
+            <td>&nbsp;</td>
+            <td>557</td>
+            <td>557</td>
+            <td>(311)</td>
+        </tr>
+    </tbody>
+</table>
+
 
 ## 15. Derivados – Contabilidad de coberturas y Cambios del valor razonable de los elementos cubiertos de una cartera con cobertura del riesgo de tipo de interés
 
 Los saldos de estos capítulos de los balances consolidados adjuntos son:
 
-IMAGE GOES HERE
+<table>
+    <thead>
+        <tr>
+            <th>Derivados - Contabilidad de coberturas y Cambios del valor razonable de los elementos cubiertos de una cartera con cobertura del riesgo de tipo de interés</th>
+            <th>2016</th>
+            <th>2015</th>
+            <th>2014</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>ACTIVOS-</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Derivados- contabilidad de coberturas</td>
+            <td>2.833</td>
+            <td>3.538</td>
+            <td>2.551</td>
+        </tr>
+        <tr>
+            <td>Cambios del valor razonable de los elementos cubiertos de una cartera con cobertura del riesgo del tipo de interés</td>
+            <td>17</td>
+            <td>45</td>
+            <td>121</td>
+        </tr>
+        <tr>
+            <td>PASIVOS-</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Derivados- contabilidad de coberturas</td>
+            <td>2.347</td>
+            <td>2.726</td>
+            <td>2.331</td>
+        </tr>
+        <tr>
+            <td>Cambios del valor razonable de los elementos cubiertos de una cartera con cobertura del riesgo del tipo de interés</td>
+            <td>-</td>
+            <td>358</td>
+            <td>-</td>
+        </tr>
+    </tbody>
+</table>
 
 A 31 de diciembre 2016 , 2015 y 2014 las principales posiciones cubiertas por el Grupo y los derivados asignados para cubrir dichas posiciones eran:
 
@@ -2195,15 +12062,943 @@ En la Nota 7 se analiza la naturaleza de los principales riesgos del Grupo cubie
 
 A continuación se presenta un desglose, por productos y tipo de mercado, del valor razonable así como los nocionales de los derivados financieros de cobertura registrados en los balances consolidados adjuntos:
 
-IMAGE GOES HERE
-IMAGE GOES HERE
-IMAGE GOES HERE
+<table>
+    <thead>
+        <tr>
+            <th>"Derivados - Contabilidad de coberturas-</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Desglose por tipos de riesgo y tipos de cobertura</td>
+        </tr>
+        <tr>
+            <td>Diciembre 2016"</td>
+            <td>Activo</td>
+            <td>Pasivo</td>
+            <td>Importe nocional - Total coberturas</td>
+        </tr>
+        <tr>
+            <td>Tipo de interés</td>
+            <td>1.154</td>
+            <td>974</td>
+            <td>68.293</td>
+        </tr>
+        <tr>
+            <td>Opciones OTC</td>
+            <td>125</td>
+            <td>118</td>
+            <td>1.495</td>
+        </tr>
+        <tr>
+            <td>Otros OTC</td>
+            <td>1.029</td>
+            <td>856</td>
+            <td>66.798</td>
+        </tr>
+        <tr>
+            <td>Opciones en mercados organizados</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Otros en mercados organizados</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Instrumentos de patrimonio</td>
+            <td>-</td>
+            <td>50</td>
+            <td>731</td>
+        </tr>
+        <tr>
+            <td>Opciones OTC</td>
+            <td>-</td>
+            <td>50</td>
+            <td>731</td>
+        </tr>
+        <tr>
+            <td>Otros OTC</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Opciones en mercados organizados</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Otros en mercados organizados</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Divisas y oro</td>
+            <td>817</td>
+            <td>553</td>
+            <td>2.883</td>
+        </tr>
+        <tr>
+            <td>Opciones OTC</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Otros OTC</td>
+            <td>817</td>
+            <td>553</td>
+            <td>2.883</td>
+        </tr>
+        <tr>
+            <td>Opciones en mercados organizados</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Otros en mercados organizados</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Crédito</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Opciones OTC</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Otros OTC</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Opciones en mercados organizados</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Otros en mercados organizados</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Materias primas</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Otros</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>COBERTURAS DE VALOR RAZONABLE</td>
+            <td>1.970</td>
+            <td>1.577</td>
+            <td>71.908</td>
+        </tr>
+        <tr>
+            <td>Tipo de interés</td>
+            <td>194</td>
+            <td>358</td>
+            <td>26.798</td>
+        </tr>
+        <tr>
+            <td>Opciones OTC</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Otros OTC</td>
+            <td>186</td>
+            <td>358</td>
+            <td>26.504</td>
+        </tr>
+        <tr>
+            <td>Opciones en mercados organizados</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Otros en mercados organizados</td>
+            <td>8</td>
+            <td>-</td>
+            <td>294</td>
+        </tr>
+        <tr>
+            <td>Instrumentos de patrimonio</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Opciones OTC</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Divisas y oro</td>
+            <td>248</td>
+            <td>118</td>
+            <td>7.089</td>
+        </tr>
+        <tr>
+            <td>Opciones OTC</td>
+            <td>89</td>
+            <td>70</td>
+            <td>4.331</td>
+        </tr>
+        <tr>
+            <td>Otros OTC</td>
+            <td>160</td>
+            <td>48</td>
+            <td>2.758</td>
+        </tr>
+        <tr>
+            <td>Opciones en mercados organizados</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Otros en mercados organizados</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Crédito</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Materias primas</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Otros</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>COBERTURAS DE FLUJOS DE EFECTIVO</td>
+            <td>442</td>
+            <td>476</td>
+            <td>33.887</td>
+        </tr>
+        <tr>
+            <td>COBERTURA DE LAS INVERSIONES NETAS EN NEGOCIOS EN EL EXTRANJERO</td>
+            <td>362</td>
+            <td>79</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>COBERTURAS DEL VALOR RAZONABLE DEL RIESGO DEL TIPO DE INTERÉS DE LA CARTERA</td>
+            <td>55</td>
+            <td>214</td>
+            <td>13.133</td>
+        </tr>
+        <tr>
+            <td>COBERTURAS DE FLUJOS DE EFECTIVO DEL RIESGO DE TIPO DE INTERÉS DE LA CARTERA</td>
+            <td>4</td>
+            <td>-</td>
+            <td>284</td>
+        </tr>
+        <tr>
+            <td>DERIVADOS - CONTABILIDAD DE COBERTURAS</td>
+            <td>2.833</td>
+            <td>2.347</td>
+            <td>119.212</td>
+        </tr>
+        <tr>
+            <td>De los cuales: OTC - entidades de crédito</td>
+            <td>2.381</td>
+            <td>2.103</td>
+            <td>42.343</td>
+        </tr>
+        <tr>
+            <td>De los cuales: OTC - otras entidades financieras</td>
+            <td>435</td>
+            <td>165</td>
+            <td>67.773</td>
+        </tr>
+        <tr>
+            <td>De los cuales: OTC - resto</td>
+            <td>9</td>
+            <td>79</td>
+            <td>8.803</td>
+        </tr>
+    </tbody>
+</table>
 
-A continuación se presentan los flujos de caja previstos en los próximos años para las coberturas de los flujos de efectivo registrados en el balance consolidado adjunto a 31 de diciembre 2016:
+<table>
+    <thead>
+        <tr>
+            <th>"Derivados - Contabilidad de coberturas-</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Desglose por tipos de riesgo y tipos de cobertura</td>
+        </tr>
+        <tr>
+            <td>Diciembre 2015"</td>
+            <td>Activo</td>
+            <td>Pasivo</td>
+            <td>Importe nocional - Total coberturas</td>
+        </tr>
+        <tr>
+            <td>Tipo de interés</td>
+            <td>1.660</td>
+            <td>875</td>
+            <td>55.767</td>
+        </tr>
+        <tr>
+            <td>Opciones OTC</td>
+            <td>187</td>
+            <td>128</td>
+            <td>1.390</td>
+        </tr>
+        <tr>
+            <td>Otros OTC</td>
+            <td>1.473</td>
+            <td>747</td>
+            <td>54.377</td>
+        </tr>
+        <tr>
+            <td>Opciones en mercados organizados</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Otros en mercados organizados</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Instrumentos de patrimonio</td>
+            <td>12</td>
+            <td>74</td>
+            <td>2.500</td>
+        </tr>
+        <tr>
+            <td>Opciones OTC</td>
+            <td>-</td>
+            <td>72</td>
+            <td>791</td>
+        </tr>
+        <tr>
+            <td>Otros OTC</td>
+            <td>12</td>
+            <td>2</td>
+            <td>1.709</td>
+        </tr>
+        <tr>
+            <td>Opciones en mercados organizados</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Otros en mercados organizados</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Divisas y oro</td>
+            <td>675</td>
+            <td>389</td>
+            <td>3.335</td>
+        </tr>
+        <tr>
+            <td>Opciones OTC</td>
+            <td>-</td>
+            <td>-</td>
+            <td>1</td>
+        </tr>
+        <tr>
+            <td>Otros OTC</td>
+            <td>675</td>
+            <td>388</td>
+            <td>3.334</td>
+        </tr>
+        <tr>
+            <td>Opciones en mercados organizados</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Otros en mercados organizados</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Crédito</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Opciones OTC</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Otros OTC</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Opciones en mercados organizados</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Otros en mercados organizados</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Materias primas</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Otros</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>COBERTURAS DE VALOR RAZONABLE</td>
+            <td>2.347</td>
+            <td>1.337</td>
+            <td>61.602</td>
+        </tr>
+        <tr>
+            <td>Tipo de interés</td>
+            <td>204</td>
+            <td>319</td>
+            <td>13.593</td>
+        </tr>
+        <tr>
+            <td>Opciones OTC</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Otros OTC</td>
+            <td>204</td>
+            <td>318</td>
+            <td>13.329</td>
+        </tr>
+        <tr>
+            <td>Opciones en mercados organizados</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Otros en mercados organizados</td>
+            <td>-</td>
+            <td>1</td>
+            <td>264</td>
+        </tr>
+        <tr>
+            <td>Instrumentos de patrimonio</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Opciones OTC</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Otros OTC</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Opciones en mercados organizados</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Otros en mercados organizados</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Divisas y oro</td>
+            <td>242</td>
+            <td>34</td>
+            <td>2.382</td>
+        </tr>
+        <tr>
+            <td>Opciones OTC</td>
+            <td>42</td>
+            <td>12</td>
+            <td>1.493</td>
+        </tr>
+        <tr>
+            <td>Otros OTC</td>
+            <td>200</td>
+            <td>22</td>
+            <td>889</td>
+        </tr>
+        <tr>
+            <td>Opciones en mercados organizados</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Otros en mercados organizados</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Crédito</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Materias primas</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Otros</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>COBERTURAS DE FLUJOS DE EFECTIVO</td>
+            <td>446</td>
+            <td>353</td>
+            <td>15.974</td>
+        </tr>
+        <tr>
+            <td>COBERTURA DE LAS INVERSIONES NETAS EN NEGOCIOS EN EL EXTRANJERO</td>
+            <td>47</td>
+            <td>304</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>COBERTURAS DEL VALOR RAZONABLE DEL RIESGO DEL TIPO DE INTERÉS DE LA CARTERA</td>
+            <td>697</td>
+            <td>732</td>
+            <td>17.919</td>
+        </tr>
+        <tr>
+            <td>COBERTURAS DE FLUJOS DE EFECTIVO DEL RIESGO DE TIPO DE INTERÉS DE LA CARTERA</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>DERIVADOS - CONTABILIDAD DE COBERTURAS</td>
+            <td>3.538</td>
+            <td>2.726</td>
+            <td>100.858</td>
+        </tr>
+        <tr>
+            <td>De los cuales: OTC - entidades de crédito</td>
+            <td>3.413</td>
+            <td>2.366</td>
+            <td>49.776</td>
+        </tr>
+        <tr>
+            <td>De los cuales: OTC - otras entidades financieras</td>
+            <td>95</td>
+            <td>256</td>
+            <td>47.881</td>
+        </tr>
+        <tr>
+            <td>De los cuales: OTC - resto</td>
+            <td>29</td>
+            <td>103</td>
+            <td>2.936</td>
+        </tr>
+    </tbody>
+</table>
 
-IMAGE GOES HERE
+<table>
+    <thead>
+        <tr>
+            <th>Derivados - Contabilidad de coberturas-</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Desglose por tipos de riesgo y tipos de cobertura</td>
+        </tr>
+        <tr>
+            <td>Diciembre 2014"</td>
+            <td>Activo</td>
+            <td>Pasivo</td>
+            <td>Importe nocional - Total coberturas</td>
+        </tr>
+        <tr>
+            <td>Tipo de interés</td>
+            <td>2.174</td>
+            <td>990</td>
+            <td>56.125</td>
+        </tr>
+        <tr>
+            <td>Opciones OTC</td>
+            <td>-</td>
+            <td>-</td>
+            <td>2</td>
+        </tr>
+        <tr>
+            <td>Otros OTC</td>
+            <td>2.174</td>
+            <td>990</td>
+            <td>56.123</td>
+        </tr>
+        <tr>
+            <td>Opciones en mercados organizados</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Otros en mercados organizados</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Instrumentos de patrimonio</td>
+            <td>13</td>
+            <td>101</td>
+            <td>578</td>
+        </tr>
+        <tr>
+            <td>Opciones OTC</td>
+            <td>8</td>
+            <td>89</td>
+            <td>578</td>
+        </tr>
+        <tr>
+            <td>Otros OTC</td>
+            <td>6</td>
+            <td>12</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Opciones en mercados organizados</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Otros en mercados organizados</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Divisas y oro</td>
+            <td>-</td>
+            <td>12</td>
+            <td>2.741</td>
+        </tr>
+        <tr>
+            <td>Opciones OTC</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Otros OTC</td>
+            <td>-</td>
+            <td>12</td>
+            <td>2.741</td>
+        </tr>
+        <tr>
+            <td>Opciones en mercados organizados</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Otros en mercados organizados</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Crédito</td>
+            <td>-</td>
+            <td>-</td>
+            <td>20</td>
+        </tr>
+        <tr>
+            <td>Opciones OTC</td>
+            <td>-</td>
+            <td>-</td>
+            <td>20</td>
+        </tr>
+        <tr>
+            <td>Otros OTC</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Opciones en mercados organizados</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Otros en mercados organizados</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Materias primas</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Otros</td>
+            <td>-</td>
+            <td>61</td>
+            <td>115</td>
+        </tr>
+        <tr>
+            <td>COBERTURAS DE VALOR RAZONABLE</td>
+            <td>2.188</td>
+            <td>1.164</td>
+            <td>59.578</td>
+        </tr>
+        <tr>
+            <td>Tipo de interés</td>
+            <td>265</td>
+            <td>272</td>
+            <td>6.014</td>
+        </tr>
+        <tr>
+            <td>Opciones OTC</td>
+            <td>3</td>
+            <td>7</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Otros OTC</td>
+            <td>262</td>
+            <td>265</td>
+            <td>5.777</td>
+        </tr>
+        <tr>
+            <td>Opciones en mercados organizados</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Otros en mercados organizados</td>
+            <td>-</td>
+            <td>-</td>
+            <td>238</td>
+        </tr>
+        <tr>
+            <td>Instrumentos de patrimonio</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Opciones OTC</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Divisas y oro</td>
+            <td>36</td>
+            <td>27</td>
+            <td>2.070</td>
+        </tr>
+        <tr>
+            <td>Opciones OTC</td>
+            <td>22</td>
+            <td>12</td>
+            <td>1.064</td>
+        </tr>
+        <tr>
+            <td>Otros OTC</td>
+            <td>14</td>
+            <td>16</td>
+            <td>1.006</td>
+        </tr>
+        <tr>
+            <td>Opciones en mercados organizados</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Otros en mercados organizados</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Crédito</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Materias primas</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Otros</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>COBERTURAS DE FLUJOS DE EFCTIVO</td>
+            <td>301</td>
+            <td>299</td>
+            <td>8.085</td>
+        </tr>
+        <tr>
+            <td>COBERTURA DE LAS INVERSIONES NETAS EN NEGOCIOS EN EL EXTRANJERO</td>
+            <td>-</td>
+            <td>502</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>COBERTURAS DEL VALOR RAZONABLE DEL RIESGO DEL TIPO DE INTERÉS DE LA CARTERA</td>
+            <td>62</td>
+            <td>366</td>
+            <td>10.783</td>
+        </tr>
+        <tr>
+            <td>COBERTURAS DE FLUJOS DE EFECTIVO DEL RIESGO DE TIPO DE INTERÉS DE LA CARTERA</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>DERIVADOS - CONTABILIDAD DE COBERTURAS</td>
+            <td>2.551</td>
+            <td>2.331</td>
+            <td>82.606</td>
+        </tr>
+        <tr>
+            <td>De los cuales: OTC - entidades de crédito</td>
+            <td>2.305</td>
+            <td>1.954</td>
+            <td>42.724</td>
+        </tr>
+        <tr>
+            <td>De los cuales: OTC - otras entidades financieras</td>
+            <td>236</td>
+            <td>280</td>
+            <td>39.169</td>
+        </tr>
+        <tr>
+            <td>De los cuales: OTC - resto</td>
+            <td>10</td>
+            <td>97</td>
+            <td>476</td>
+        </tr>
+    </tbody>
+</table>
 
-Los anteriores flujos de efectivo incidirán en las cuentas de pérdidas y ganancias consolidadas del Grupo hasta el año 0000.
+A continuación se presentan los flujos de caja previstos en los próximos años para las coberturas de los flujos de efectivo registrados en el balance consolidado adjunto a 31 de diciembre 2016: 
+
+<table>
+    <thead>
+        <tr>
+            <th>Flujos de efectivo del elemento de cobertura</th>
+            <th>3 meses o menos</th>
+            <th>Entre 3 meses y 1 año</th>
+            <th>Entre 1 año y 5 años</th>
+            <th>Más de 5 años</th>
+            <th>Total</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Flujos de efectivo a cobrar</td>
+            <td>548</td>
+            <td>1.103</td>
+            <td>1.794</td>
+            <td>2.857</td>
+            <td>6.302</td>
+        </tr>
+        <tr>
+            <td>Flujos de efectivo a pagar</td>
+            <td>526</td>
+            <td>815</td>
+            <td>1.795</td>
+            <td>3.009</td>
+            <td>6.146</td>
+        </tr>
+    </tbody>
+</table>
+
+Los anteriores flujos de efectivo incidirán en las cuentas de pérdidas y ganancias consolidadas del Grupo hasta el año 0000. 
 
 Durante los ejercicios 2016, 2015 y 2014, no hubo reclasificación en las cuentas de pérdidas y ganancias consolidadas adjuntas por ningún importe significativo diferentes de los mostrados en los estados de ingresos y gastos reconocidos consolidados adjuntos.
 
@@ -2216,24 +13011,202 @@ Las coberturas contables que no cumplieron con el test de efectividad durante lo
 
 El desglose del saldo del capítulo “Inversiones en negocios conjuntos y asociadas” (véase Nota 2.1) de los balances consolidados adjuntos se muestra a continuación:
 
-IMAGE GOES HERE
+<table>
+    <thead>
+        <tr>
+            <th>"Asociadas y negocios conjuntos</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Desglose por entidades "</td>
+            <td>2016</td>
+            <td>2015</td>
+            <td>2014</td>
+        </tr>
+        <tr>
+            <td>Negocios conjuntos</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Fideicomiso 1729 Invex enajenacion de cartera</td>
+            <td>57</td>
+            <td>66</td>
+            <td>70</td>
+        </tr>
+        <tr>
+            <td>Fideicomiso F 403853 5 BBVA Bancomer ser.zibata</td>
+            <td>33</td>
+            <td>44</td>
+            <td>20</td>
+        </tr>
+        <tr>
+            <td>PSA Finance Argentina compañia financiera S.A.</td>
+            <td>21</td>
+            <td>23</td>
+            <td>26</td>
+        </tr>
+        <tr>
+            <td>Resto negocios conjuntos</td>
+            <td>118</td>
+            <td>110</td>
+            <td>3.976</td>
+        </tr>
+        <tr>
+            <td>Subtotal</td>
+            <td>229</td>
+            <td>243</td>
+            <td>4.092</td>
+        </tr>
+        <tr>
+            <td>Entidades asociadas</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Metrovacesa, S.A.</td>
+            <td>-</td>
+            <td>351</td>
+            <td>233</td>
+        </tr>
+        <tr>
+            <td>Metrovacesa Suelo y Promoción, S.A.</td>
+            <td>208</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Metrovacesa Promoción y Arrendamientos S.A.</td>
+            <td>67</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Testa Residencial SOCIMI SAU</td>
+            <td>91</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Atom Bank, PLC.</td>
+            <td>43</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Brunara SICAV, S.A. </td>
+            <td>-</td>
+            <td>54</td>
+            <td>52</td>
+        </tr>
+        <tr>
+            <td>Servired Sociedad Española de Medios de Pago, S.A</td>
+            <td>11</td>
+            <td>92</td>
+            <td>8</td>
+        </tr>
+        <tr>
+            <td>Resto asociadas</td>
+            <td>116</td>
+            <td>139</td>
+            <td>124</td>
+        </tr>
+        <tr>
+            <td>Subtotal</td>
+            <td>536</td>
+            <td>636</td>
+            <td>417</td>
+        </tr>
+        <tr>
+            <td>Total</td>
+            <td>765</td>
+            <td>879</td>
+            <td>4.509</td>
+        </tr>
+    </tbody>
+</table>
 
 El detalle de los negocios conjuntos y las entidades asociadas a 31 de diciembre de 2016 se muestra en el Anexo II.
 Los movimientos que han tenido lugar durante los ejercicios 2016, 2015 y 2014, en este capítulo de los balances consolidados adjuntos se resumen a continuación:
 
-IMGE GOES HERE
+<table>
+    <thead>
+        <tr>
+            <th>Entidades asociadas y negocios conjuntos</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Movimientos del ejercicio"</td>
+            <td>2016</td>
+            <td>2015</td>
+            <td>2014</td>
+        </tr>
+        <tr>
+            <td>Saldo inicial</td>
+            <td>879</td>
+            <td>4.509</td>
+            <td>4.742</td>
+        </tr>
+        <tr>
+            <td>Sociedades adquiridas y ampliaciones de capital</td>
+            <td>456</td>
+            <td>464</td>
+            <td>36</td>
+        </tr>
+        <tr>
+            <td>Sociedades enajenadas y reducciones de capital</td>
+            <td>(91)</td>
+            <td>(32)</td>
+            <td>(10)</td>
+        </tr>
+        <tr>
+            <td>Traspasos y cambios en el método de consolidación</td>
+            <td>(351)</td>
+            <td>(3.850)</td>
+            <td>(948)</td>
+        </tr>
+        <tr>
+            <td>Resultados (Nota 39)</td>
+            <td>25</td>
+            <td>174</td>
+            <td>343</td>
+        </tr>
+        <tr>
+            <td>Diferencias de cambio</td>
+            <td>(34)</td>
+            <td>(250)</td>
+            <td>235</td>
+        </tr>
+        <tr>
+            <td>Dividendos, ajustes por valoración y otros</td>
+            <td>(118)</td>
+            <td>(136)</td>
+            <td>111</td>
+        </tr>
+        <tr>
+            <td>Saldo final</td>
+            <td>765</td>
+            <td>879</td>
+            <td>4.509</td>
+        </tr>
+    </tbody>
+</table>
 
 El movimiento del ejercicio2016 corresponde principalmente a la ampliación de capital de Metrovacesa de febrero de 2016 a la que el Grupo acudió por capitalización de deuda y entrega de inmuebles; y a la operación de escisión posterior, en marzo 2016, de Metrovacesa Suelo y Promoción, S.A.
 
 Las notificaciones sobre la adquisición y venta de inversiones en dependientes, negocios conjuntos y asociadas, en cumplimiento de lo dispuesto en el artículo 155 de la Ley de Sociedades de Capital y en el artículo 53 de la Ley 24/1988, del Mercado de Valores, se indican en el Anexo III.
 
-### 16.2 Otra información de entidades asociadas y negocios conjuntos
+### 16.2 Otra información de entidades asociadas y negocios conjuntos 
 
 Si estas sociedades se hubiesen consolidado por el método de integración global en lugar de por el método de la participación, la variación en cada una de las líneas de los balances y las cuentas de pérdidas y ganancias consolidadas, no sería significativa.
 
-A 31 de diciembre de 2016, no existía ningún acuerdo de apoyo financiero ni otro tipo de compromiso contractual ni de la matriz ni de las entidades dependientes a las entidades asociadas y los negocios conjuntos, que no esté reconocido en los estados financieros (ver Nota 53.2).
+A 31 de diciembre de 2016, no existía ningún acuerdo de apoyo financiero ni otro tipo de compromiso contractual ni de la matriz ni de las entidades dependientes a las entidades asociadas y los negocios conjuntos, que no esté reconocido en los estados financieros (ver Nota 53.2). 
 
-A 31 de diciembre de 2016, no existía ningún pasivo contingente en relación con las inversiones en negocios conjuntos o asociadas (ver Nota 53.2).
+A 31 de diciembre de 2016, no existía ningún pasivo contingente en relación con las inversiones en negocios conjuntos o asociadas (ver Nota 53.2). 
 
 ### 16.3  Existencia de deterioro
 
@@ -2244,8 +13217,986 @@ De acuerdo con la NIC 36 “Deterioro del valor de los activos”, en el caso de
 
 La composición del saldo de este capítulo de los balances consolidados adjuntos, según la naturaleza de las partidas que los integran, se muestra a continuación:
 
-IMAGE GOES HERE
-IMAGE GOES HERE
+<table>
+    <thead>
+        <tr>
+            <th>Coste -</th>
+            <th>&nbsp;</th>
+            <th>&nbsp;</th>
+            <th>&nbsp;</th>
+            <th>&nbsp;</th>
+            <th>&nbsp;</th>
+            <th>&nbsp;</th>
+            <th>&nbsp;</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Saldo inicial</td>
+            <td>5.858</td>
+            <td>545</td>
+            <td>7.628</td>
+            <td>14.029</td>
+            <td>2.391</td>
+            <td>668</td>
+            <td>17.088</td>
+        </tr>
+        <tr>
+            <td>Adiciones</td>
+            <td>30</td>
+            <td>320</td>
+            <td>563</td>
+            <td>913</td>
+            <td>62</td>
+            <td>337</td>
+            <td>1.312</td>
+        </tr>
+        <tr>
+            <td>Retiros</td>
+            <td>(85)</td>
+            <td>(29)</td>
+            <td>(468)</td>
+            <td>(582)</td>
+            <td>(117)</td>
+            <td>(97)</td>
+            <td>(796)</td>
+        </tr>
+        <tr>
+            <td>Entidades incorporadas al Grupo en el ejercicio</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Entidades enajenadas en el ejercicio</td>
+            <td>(7)</td>
+            <td>-</td>
+            <td>(1)</td>
+            <td>(8)</td>
+            <td>(3)</td>
+            <td>-</td>
+            <td>(11)</td>
+        </tr>
+        <tr>
+            <td>Traspasos</td>
+            <td>676</td>
+            <td>(544)</td>
+            <td>(386)</td>
+            <td>(254)</td>
+            <td>(986)</td>
+            <td>84</td>
+            <td>(1.156)</td>
+        </tr>
+        <tr>
+            <td>Diferencia de cambio y otros</td>
+            <td>(296)</td>
+            <td>(52)</td>
+            <td>(277)</td>
+            <td>(625)</td>
+            <td>(184)</td>
+            <td>(34)</td>
+            <td>(843)</td>
+        </tr>
+        <tr>
+            <td>Saldo final</td>
+            <td>6.176</td>
+            <td>240</td>
+            <td>7.059</td>
+            <td>13.473</td>
+            <td>1.163</td>
+            <td>958</td>
+            <td>15.594</td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Amortización acumulada -</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Saldo inicial</td>
+            <td>1.103</td>
+            <td>-</td>
+            <td>4.551</td>
+            <td>5.654</td>
+            <td>116</td>
+            <td>202</td>
+            <td>5.972</td>
+        </tr>
+        <tr>
+            <td>Dotaciones (Nota 45)</td>
+            <td>106</td>
+            <td>-</td>
+            <td>561</td>
+            <td>667</td>
+            <td>23</td>
+            <td>-</td>
+            <td>690</td>
+        </tr>
+        <tr>
+            <td>Retiros</td>
+            <td>(72)</td>
+            <td>-</td>
+            <td>(461)</td>
+            <td>(533)</td>
+            <td>(10)</td>
+            <td>(17)</td>
+            <td>(560)</td>
+        </tr>
+        <tr>
+            <td>Entidades incorporadas al Grupo en el ejercicio</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Entidades enajenadas en el ejercicio</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Traspasos</td>
+            <td>(1)</td>
+            <td>-</td>
+            <td>(37)</td>
+            <td>(38)</td>
+            <td>(55)</td>
+            <td>55</td>
+            <td>(38)</td>
+        </tr>
+        <tr>
+            <td>Diferencia de cambio y otros</td>
+            <td>(20)</td>
+            <td>-</td>
+            <td>(153)</td>
+            <td>(173)</td>
+            <td>(11)</td>
+            <td>(24)</td>
+            <td>(208)</td>
+        </tr>
+        <tr>
+            <td>Saldo final</td>
+            <td>1.116</td>
+            <td>-</td>
+            <td>4.461</td>
+            <td>5.577</td>
+            <td>63</td>
+            <td>216</td>
+            <td>5.856</td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Deterioro -</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Saldo inicial</td>
+            <td>354</td>
+            <td>-</td>
+            <td>-</td>
+            <td>354</td>
+            <td>808</td>
+            <td>10</td>
+            <td>1.172</td>
+        </tr>
+        <tr>
+            <td>Adiciones (Nota 48)</td>
+            <td>48</td>
+            <td>-</td>
+            <td>5</td>
+            <td>53</td>
+            <td>90</td>
+            <td>-</td>
+            <td>143</td>
+        </tr>
+        <tr>
+            <td>Retiros</td>
+            <td>(2)</td>
+            <td>-</td>
+            <td>-</td>
+            <td>(2)</td>
+            <td>(9)</td>
+            <td>-</td>
+            <td>(11)</td>
+        </tr>
+        <tr>
+            <td>Entidades incorporadas al Grupo en el ejercicio</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Entidades enajenadas en el ejercicio</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Traspasos</td>
+            <td>(1)</td>
+            <td>-</td>
+            <td>-</td>
+            <td>(1)</td>
+            <td>(380)</td>
+            <td>-</td>
+            <td>(381)</td>
+        </tr>
+        <tr>
+            <td>Diferencia de cambio y otros</td>
+            <td>(20)</td>
+            <td>-</td>
+            <td>(5)</td>
+            <td>(25)</td>
+            <td>(100)</td>
+            <td>-</td>
+            <td>(125)</td>
+        </tr>
+        <tr>
+            <td>Saldo final</td>
+            <td>379</td>
+            <td>-</td>
+            <td>-</td>
+            <td>379</td>
+            <td>409</td>
+            <td>10</td>
+            <td>798</td>
+        </tr>
+        <tr>
+            <td>Activos tangibles neto -</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Saldo inicial</td>
+            <td>4.401</td>
+            <td>545</td>
+            <td>3.077</td>
+            <td>8.021</td>
+            <td>1.467</td>
+            <td>456</td>
+            <td>9.944</td>
+        </tr>
+        <tr>
+            <td>Saldo final</td>
+            <td>4.681</td>
+            <td>240</td>
+            <td>2.598</td>
+            <td>7.519</td>
+            <td>691</td>
+            <td>732</td>
+            <td>8.941</td>
+        </tr>
+    </tbody>
+</table>
+
+<table>
+    <thead>
+        <tr>
+            <th>Coste -</th>
+            <th>&nbsp;</th>
+            <th>&nbsp;</th>
+            <th>&nbsp;</th>
+            <th>&nbsp;</th>
+            <th>&nbsp;</th>
+            <th>&nbsp;</th>
+            <th>&nbsp;</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Saldo inicial</td>
+            <td>4.168</td>
+            <td>1.085</td>
+            <td>5.904</td>
+            <td>11.157</td>
+            <td>2.180</td>
+            <td>674</td>
+            <td>14.012</td>
+        </tr>
+        <tr>
+            <td>Adiciones</td>
+            <td>105</td>
+            <td>715</td>
+            <td>1.097</td>
+            <td>1.917</td>
+            <td>14</td>
+            <td>240</td>
+            <td>2.171</td>
+        </tr>
+        <tr>
+            <td>Retiros</td>
+            <td>(18)</td>
+            <td>(39)</td>
+            <td>(146)</td>
+            <td>(203)</td>
+            <td>(167)</td>
+            <td>(74)</td>
+            <td>(444)</td>
+        </tr>
+        <tr>
+            <td>Entidades incorporadas al Grupo en el ejercicio</td>
+            <td>1.378</td>
+            <td>78</td>
+            <td>1.426</td>
+            <td>2.882</td>
+            <td>738</td>
+            <td>-</td>
+            <td>3.620</td>
+        </tr>
+        <tr>
+            <td>Entidades enajenadas en el ejercicio</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Traspasos</td>
+            <td>718</td>
+            <td>(1.211)</td>
+            <td>40</td>
+            <td>(453)</td>
+            <td>(235)</td>
+            <td>(153)</td>
+            <td>(841)</td>
+        </tr>
+        <tr>
+            <td>Diferencia de cambio y otros</td>
+            <td>(494)</td>
+            <td>(83)</td>
+            <td>(693)</td>
+            <td>(1.271)</td>
+            <td>(139)</td>
+            <td>(19)</td>
+            <td>(1.429)</td>
+        </tr>
+        <tr>
+            <td>Saldo final</td>
+            <td>5.858</td>
+            <td>545</td>
+            <td>7.628</td>
+            <td>14.029</td>
+            <td>2.391</td>
+            <td>668</td>
+            <td>17.088</td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Amortización acumulada -</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Saldo inicial</td>
+            <td>1.255</td>
+            <td>-</td>
+            <td>3.753</td>
+            <td>5.008</td>
+            <td>102</td>
+            <td>226</td>
+            <td>5.335</td>
+        </tr>
+        <tr>
+            <td>Dotaciones (Nota 45)</td>
+            <td>103</td>
+            <td>-</td>
+            <td>512</td>
+            <td>615</td>
+            <td>25</td>
+            <td>-</td>
+            <td>640</td>
+        </tr>
+        <tr>
+            <td>Retiros</td>
+            <td>(16)</td>
+            <td>-</td>
+            <td>(129)</td>
+            <td>(145)</td>
+            <td>(10)</td>
+            <td>-</td>
+            <td>(155)</td>
+        </tr>
+        <tr>
+            <td>Entidades incorporadas al Grupo en el ejercicio</td>
+            <td>140</td>
+            <td>-</td>
+            <td>940</td>
+            <td>1.080</td>
+            <td>23</td>
+            <td>-</td>
+            <td>1.103</td>
+        </tr>
+        <tr>
+            <td>Entidades enajenadas en el ejercicio</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Traspasos</td>
+            <td>(19)</td>
+            <td>-</td>
+            <td>(16)</td>
+            <td>(35)</td>
+            <td>(9)</td>
+            <td>(15)</td>
+            <td>(59)</td>
+        </tr>
+        <tr>
+            <td>Diferencia de cambio y otros</td>
+            <td>(360)</td>
+            <td>-</td>
+            <td>(509)</td>
+            <td>(869)</td>
+            <td>(15)</td>
+            <td>(9)</td>
+            <td>(893)</td>
+        </tr>
+        <tr>
+            <td>Saldo final</td>
+            <td>1.103</td>
+            <td>-</td>
+            <td>4.551</td>
+            <td>5.654</td>
+            <td>116</td>
+            <td>202</td>
+            <td>5.972</td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Deterioro -</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Saldo inicial</td>
+            <td>148</td>
+            <td>-</td>
+            <td>16</td>
+            <td>164</td>
+            <td>687</td>
+            <td>6</td>
+            <td>857</td>
+        </tr>
+        <tr>
+            <td>Adiciones (Nota 48)</td>
+            <td>7</td>
+            <td>-</td>
+            <td>19</td>
+            <td>26</td>
+            <td>30</td>
+            <td>4</td>
+            <td>60</td>
+        </tr>
+        <tr>
+            <td>Retiros</td>
+            <td>-</td>
+            <td>-</td>
+            <td>(1)</td>
+            <td>(1)</td>
+            <td>(64)</td>
+            <td>-</td>
+            <td>(65)</td>
+        </tr>
+        <tr>
+            <td>Entidades incorporadas al Grupo en el ejercicio</td>
+            <td>187</td>
+            <td>-</td>
+            <td>-</td>
+            <td>187</td>
+            <td>295</td>
+            <td>-</td>
+            <td>482</td>
+        </tr>
+        <tr>
+            <td>Entidades enajenadas en el ejercicio</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Trapasos</td>
+            <td>9</td>
+            <td>-</td>
+            <td>(15)</td>
+            <td>(6)</td>
+            <td>(62)</td>
+            <td>-</td>
+            <td>(68)</td>
+        </tr>
+        <tr>
+            <td>Diferencia de cambio y otros</td>
+            <td>3</td>
+            <td>-</td>
+            <td>(19)</td>
+            <td>(16)</td>
+            <td>(78)</td>
+            <td>-</td>
+            <td>(94)</td>
+        </tr>
+        <tr>
+            <td>Saldo final</td>
+            <td>354</td>
+            <td>-</td>
+            <td>-</td>
+            <td>354</td>
+            <td>808</td>
+            <td>10</td>
+            <td>1.172</td>
+        </tr>
+        <tr>
+            <td>Activos tangibles neto -</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Saldo inicial</td>
+            <td>2.764</td>
+            <td>1.085</td>
+            <td>2.135</td>
+            <td>5.985</td>
+            <td>1.392</td>
+            <td>443</td>
+            <td>7.819</td>
+        </tr>
+        <tr>
+            <td>Saldo final</td>
+            <td>4.401</td>
+            <td>545</td>
+            <td>3.077</td>
+            <td>8.021</td>
+            <td>1.467</td>
+            <td>456</td>
+            <td>9.944</td>
+        </tr>
+    </tbody>
+</table>
+
+<table>
+    <thead>
+        <tr>
+            <th>Coste -</th>
+            <th>&nbsp;</th>
+            <th>&nbsp;</th>
+            <th>&nbsp;</th>
+            <th>&nbsp;</th>
+            <th>&nbsp;</th>
+            <th>&nbsp;</th>
+            <th>&nbsp;</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Saldo inicial</td>
+            <td>3.980</td>
+            <td>715</td>
+            <td>6.827</td>
+            <td>11.522</td>
+            <td>2.519</td>
+            <td>705</td>
+            <td>14.747</td>
+        </tr>
+        <tr>
+            <td>Adiciones</td>
+            <td>153</td>
+            <td>517</td>
+            <td>568</td>
+            <td>1.238</td>
+            <td>4</td>
+            <td>176</td>
+            <td>1.418</td>
+        </tr>
+        <tr>
+            <td>Retiros</td>
+            <td>(48)</td>
+            <td>(32)</td>
+            <td>(697)</td>
+            <td>(777)</td>
+            <td>(96)</td>
+            <td>(38)</td>
+            <td>(911)</td>
+        </tr>
+        <tr>
+            <td>Entidades incorporadas al Grupo en el ejercicio</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Entidades enajenadas en el ejercicio</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Traspasos</td>
+            <td>(30)</td>
+            <td>(94)</td>
+            <td>33</td>
+            <td>(91)</td>
+            <td>(41)</td>
+            <td>(173)</td>
+            <td>(305)</td>
+        </tr>
+        <tr>
+            <td>Diferencia de cambio y otros</td>
+            <td>113</td>
+            <td>(21)</td>
+            <td>(827)</td>
+            <td>(735)</td>
+            <td>(206)</td>
+            <td>4</td>
+            <td>(937)</td>
+        </tr>
+        <tr>
+            <td>Saldo final</td>
+            <td>4.168</td>
+            <td>1.085</td>
+            <td>5.904</td>
+            <td>11.157</td>
+            <td>2.180</td>
+            <td>674</td>
+            <td>14.012</td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Amortización acumulada -</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Saldo inicial</td>
+            <td>1.179</td>
+            <td>-</td>
+            <td>4.801</td>
+            <td>5.980</td>
+            <td>102</td>
+            <td>233</td>
+            <td>6.314</td>
+        </tr>
+        <tr>
+            <td>Dotaciones (Nota 45)</td>
+            <td>94</td>
+            <td>-</td>
+            <td>495</td>
+            <td>589</td>
+            <td>22</td>
+            <td>-</td>
+            <td>611</td>
+        </tr>
+        <tr>
+            <td>Retiros</td>
+            <td>(20)</td>
+            <td>-</td>
+            <td>(669)</td>
+            <td>(689)</td>
+            <td>(6)</td>
+            <td>(1)</td>
+            <td>(696)</td>
+        </tr>
+        <tr>
+            <td>Entidades incorporadas al Grupo en el ejercicio</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Entidades enajenadas en el ejercicio</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Traspasos</td>
+            <td>(11)</td>
+            <td>-</td>
+            <td>(17)</td>
+            <td>(28)</td>
+            <td>(1)</td>
+            <td>(20)</td>
+            <td>(49)</td>
+        </tr>
+        <tr>
+            <td>Diferencia de cambio y otros</td>
+            <td>13</td>
+            <td>-</td>
+            <td>(857)</td>
+            <td>(844)</td>
+            <td>(15)</td>
+            <td>14</td>
+            <td>(845)</td>
+        </tr>
+        <tr>
+            <td>Saldo final</td>
+            <td>1.255</td>
+            <td>-</td>
+            <td>3.753</td>
+            <td>5.008</td>
+            <td>102</td>
+            <td>226</td>
+            <td>5.335</td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Deterioro -</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Saldo inicial</td>
+            <td>153</td>
+            <td>-</td>
+            <td>15</td>
+            <td>168</td>
+            <td>727</td>
+            <td>6</td>
+            <td>900</td>
+        </tr>
+        <tr>
+            <td>Adiciones (Nota 48)</td>
+            <td>25</td>
+            <td>-</td>
+            <td>10</td>
+            <td>35</td>
+            <td>61</td>
+            <td>-</td>
+            <td>97</td>
+        </tr>
+        <tr>
+            <td>Retiros</td>
+            <td>(1)</td>
+            <td>-</td>
+            <td>-</td>
+            <td>(1)</td>
+            <td>(46)</td>
+            <td>-</td>
+            <td>(47)</td>
+        </tr>
+        <tr>
+            <td>Entidades incorporadas al Grupo en el ejercicio</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Entidades enajenadas en el ejercicio</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Traspasos</td>
+            <td>(17)</td>
+            <td>-</td>
+            <td>-</td>
+            <td>(17)</td>
+            <td>(17)</td>
+            <td>-</td>
+            <td>(34)</td>
+        </tr>
+        <tr>
+            <td>Diferencia de cambio y otros</td>
+            <td>(12)</td>
+            <td>-</td>
+            <td>(9)</td>
+            <td>(21)</td>
+            <td>(38)</td>
+            <td>-</td>
+            <td>(59)</td>
+        </tr>
+        <tr>
+            <td>Saldo final</td>
+            <td>148</td>
+            <td>-</td>
+            <td>16</td>
+            <td>164</td>
+            <td>687</td>
+            <td>6</td>
+            <td>857</td>
+        </tr>
+        <tr>
+            <td>Activo material neto -</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Saldo inicial</td>
+            <td>2.647</td>
+            <td>715</td>
+            <td>2.011</td>
+            <td>5.373</td>
+            <td>1.693</td>
+            <td>468</td>
+            <td>7.534</td>
+        </tr>
+        <tr>
+            <td>Saldo final</td>
+            <td>2.764</td>
+            <td>1.085</td>
+            <td>2.135</td>
+            <td>5.985</td>
+            <td>1.392</td>
+            <td>443</td>
+            <td>7.820</td>
+        </tr>
+    </tbody>
+</table>
 
 A 31 de diciembre de 2016 el coste de los activos materiales totalmente amortizados que continuaban en uso era de 0000 millones de euros, siendo su valor recuperable residual no significativo.
 
@@ -2254,37 +14205,362 @@ A 31 de diciembre de 2015, 2014 y 2013, el importe del activo material en régim
 
 La actividad principal del Grupo se realiza a través de una red de oficinas, localizadas geográficamente tal y como se muestra en el siguiente cuadro:
 
-IMAGE GOES HERE
+<table>
+    <thead>
+        <tr>
+            <th>Oficinas por área geográfica</th>
+            <th>2016</th>
+            <th>2015</th>
+            <th>2014</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>España</td>
+            <td>3.303</td>
+            <td>3.811</td>
+            <td>3.112</td>
+        </tr>
+        <tr>
+            <td>México</td>
+            <td>1.836</td>
+            <td>1.818</td>
+            <td>1.831</td>
+        </tr>
+        <tr>
+            <td>América del Sur</td>
+            <td>1.667</td>
+            <td>1.684</td>
+            <td>1.676</td>
+        </tr>
+        <tr>
+            <td>Estados Unidos</td>
+            <td>676</td>
+            <td>669</td>
+            <td>672</td>
+        </tr>
+        <tr>
+            <td>Turquía</td>
+            <td>1.131</td>
+            <td>1.109</td>
+            <td>1</td>
+        </tr>
+        <tr>
+            <td>Resto de Eurasia</td>
+            <td>47</td>
+            <td>54</td>
+            <td>79</td>
+        </tr>
+        <tr>
+            <td>Total</td>
+            <td>8.660</td>
+            <td>9.145</td>
+            <td>7.371</td>
+        </tr>
+    </tbody>
+</table>
 
 A continuación se presenta el desglose del valor neto contable de los activos tangibles correspondientes a sociedades españolas y extranjeras a 31 de diciembre de 2016, 2015 y 2014:
 
-IMAGE GOES HERE
+<table>
+    <thead>
+        <tr>
+            <th>Activos tangibles por sociedades españolas y extranjeras. Valores netos contables</th>
+            <th>2016</th>
+            <th>2015</th>
+            <th>2014</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>BBVA y sociedades dependientes españolas</td>
+            <td>3.692</td>
+            <td>4.584</td>
+            <td>4.083</td>
+        </tr>
+        <tr>
+            <td>Sociedades dependientes extranjeras</td>
+            <td>5.249</td>
+            <td>5.360</td>
+            <td>3.737</td>
+        </tr>
+        <tr>
+            <td>Total</td>
+            <td>8.941</td>
+            <td>9.944</td>
+            <td>7.820</td>
+        </tr>
+    </tbody>
+</table>
 
 ## 18. Activos intangibles
 
 ### 18.1 Fondo de comercio
 
-La composición del saldo y el movimiento de este epígrafe de los balances consolidados adjuntos, en función de las unidades generadoras de efectivo (en adelante, “UGE”) que lo originan, es:
+La composición del saldo y el movimiento de este epígrafe de los balances consolidados adjuntos, en función de las unidades generadoras de efectivo (en adelante, “UGE”) que lo originan, es: 
 
-IMAGE GOES HERE
+<table>
+    <thead>
+        <tr>
+            <th>Fondo de comercio. Detalle por UGEs y movimientos del ejercicio 2016</th>
+            <th>"Saldo</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>inicial"</td>
+            <td>Adiciones </td>
+            <td>Diferencias de cambio</td>
+            <td>Deterioros</td>
+            <td>Otros</td>
+            <td>"Saldo</td>
+        </tr>
+        <tr>
+            <td>final"</td>
+        </tr>
+        <tr>
+            <td>Estados Unidos </td>
+            <td>5.328 </td>
+            <td>-</td>
+            <td>175 </td>
+            <td>-</td>
+            <td>-</td>
+            <td>5.503 </td>
+        </tr>
+        <tr>
+            <td>Turquía</td>
+            <td>727 </td>
+            <td>-</td>
+            <td>(101)</td>
+            <td>-</td>
+            <td>(1)</td>
+            <td>624 </td>
+        </tr>
+        <tr>
+            <td>México</td>
+            <td>602 </td>
+            <td>-</td>
+            <td>(79)</td>
+            <td>-</td>
+            <td>-</td>
+            <td>523 </td>
+        </tr>
+        <tr>
+            <td>Colombia</td>
+            <td>176 </td>
+            <td>-</td>
+            <td>14 </td>
+            <td>-</td>
+            <td>-</td>
+            <td>191 </td>
+        </tr>
+        <tr>
+            <td>Chile</td>
+            <td>62 </td>
+            <td>-</td>
+            <td>6 </td>
+            <td>-</td>
+            <td>-</td>
+            <td>68 </td>
+        </tr>
+        <tr>
+            <td>Resto</td>
+            <td>20 </td>
+            <td>8 </td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>28 </td>
+        </tr>
+        <tr>
+            <td>Total</td>
+            <td>6.915 </td>
+            <td>8 </td>
+            <td>15 </td>
+            <td>-</td>
+            <td>(1)</td>
+            <td>6.937</td>
+        </tr>
+    </tbody>
+</table>
 
 La variación del saldo de este epígrafe en 2016 se debe principalmente a la adquisición adicional de Garanti (ver Nota 3) que se ha asignado a una nueva UGE denominada Turquía y a las diferencias de cambio debidas a la repreciación del dólar estadounidense frente al euro y las depreciaciones del resto de las divisas.
 
-IMAGE GOES HERE
+<table>
+    <thead>
+        <tr>
+            <th>Fondo de comercio. Detalle por UGEs y movimientos del ejercicio 2015</th>
+            <th>Balance at the Beginning </th>
+            <th>Additions </th>
+            <th>"Exchange</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Difference"</td>
+            <td>Impairment</td>
+            <td>Rest</td>
+            <td>Balance at the End </td>
+        </tr>
+        <tr>
+            <td>Estados Unidos </td>
+            <td>4.767 </td>
+            <td>12 </td>
+            <td>549 </td>
+            <td>-</td>
+            <td>-</td>
+            <td>5.328 </td>
+        </tr>
+        <tr>
+            <td>Turquía</td>
+            <td>-</td>
+            <td>788 </td>
+            <td>(62)</td>
+            <td>-</td>
+            <td>-</td>
+            <td>727 </td>
+        </tr>
+        <tr>
+            <td>México</td>
+            <td>638 </td>
+            <td>-</td>
+            <td>(35)</td>
+            <td>-</td>
+            <td>-</td>
+            <td>602 </td>
+        </tr>
+        <tr>
+            <td>Colombia</td>
+            <td>208 </td>
+            <td>-</td>
+            <td>(31)</td>
+            <td>-</td>
+            <td>-</td>
+            <td>176 </td>
+        </tr>
+        <tr>
+            <td>Chile</td>
+            <td>65 </td>
+            <td>-</td>
+            <td>(3)</td>
+            <td>-</td>
+            <td>-</td>
+            <td>62 </td>
+        </tr>
+        <tr>
+            <td>Resto</td>
+            <td>20 </td>
+            <td>-</td>
+            <td>(1)</td>
+            <td>-</td>
+            <td>-</td>
+            <td>20 </td>
+        </tr>
+        <tr>
+            <td>Total</td>
+            <td>5.697 </td>
+            <td>800 </td>
+            <td>418 </td>
+            <td>-</td>
+            <td>-</td>
+            <td>6.915</td>
+        </tr>
+    </tbody>
+</table>
 
 La variación del saldo de este epígrafe en 2015 se debe principalmente a la adquisición adicional de Garanti (ver Nota 3) que se ha asignado a una nueva UGE denominada Turquía y a las diferencias de cambio debidas a la repreciación del dólar estadounidense frente al euro y las depreciaciones del resto de las divisas.
 
-IMAGE GOES HERE
+<table>
+    <thead>
+        <tr>
+            <th>Fondo de comercio. Detalle por UGEs y movimientos del ejercicio 2014</th>
+            <th>Balance at the Beginning </th>
+            <th>Additions </th>
+            <th>"Exchange</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Difference"</td>
+            <td>Impairment</td>
+            <td>Rest</td>
+            <td>Balance at the End </td>
+        </tr>
+        <tr>
+            <td>Estados Unidos </td>
+            <td>4.133 </td>
+            <td>65 </td>
+            <td>570 </td>
+            <td>-</td>
+            <td>(1)</td>
+            <td>4.767 </td>
+        </tr>
+        <tr>
+            <td>México</td>
+            <td>630 </td>
+            <td>-</td>
+            <td>7 </td>
+            <td>-</td>
+            <td>-</td>
+            <td>638 </td>
+        </tr>
+        <tr>
+            <td>Turquía</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Colombia</td>
+            <td>227 </td>
+            <td>-</td>
+            <td>(19)</td>
+            <td>-</td>
+            <td>-</td>
+            <td>208 </td>
+        </tr>
+        <tr>
+            <td>Chile</td>
+            <td>66 </td>
+            <td>-</td>
+            <td>(1)</td>
+            <td>-</td>
+            <td>-</td>
+            <td>65 </td>
+        </tr>
+        <tr>
+            <td>Resto</td>
+            <td>12 </td>
+            <td>8 </td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>20 </td>
+        </tr>
+        <tr>
+            <td>Total</td>
+            <td>5.069 </td>
+            <td>73 </td>
+            <td>557 </td>
+            <td>-</td>
+            <td>(1)</td>
+            <td>5.697</td>
+        </tr>
+    </tbody>
+</table>
 
 ##### Test de deterioro
 
-Tal y como se menciona en la Nota 2.2.8, las unidades generadoras de efectivo (“UGEs”) a las que se han asignado los fondos de comercio se analizan periódicamente, incluyendo en su valor en libros la parte del fondo de comercio asignada, para determinar si se han deteriorado. Este análisis se realiza al menos anualmente, o siempre que existan indicios de deterioro.
+Tal y como se menciona en la Nota 2.2.8, las unidades generadoras de efectivo (“UGEs”) a las que se han asignado los fondos de comercio se analizan periódicamente, incluyendo en su valor en libros la parte del fondo de comercio asignada, para determinar si se han deteriorado. Este análisis se realiza al menos anualmente, o siempre que existan indicios de deterioro. 
 
 Tanto los valores razonables de las UGEs como la asignación de valores razonables a los activos y pasivos de las mismas, están basados en las estimaciones e hipótesis que la Dirección del Grupo ha considerado más apropiadas, dadas las circunstancias. Sin embargo, ciertos cambios en las hipótesis de valoración utilizadas podrían dar lugar a diferencias en el resultado del test de deterioro.
 
-En el cálculo del test del deterioro se utilizan tres hipótesis claves que son aquéllas a las que el importe del valor recuperable es más sensible:
+En el cálculo del test del deterioro se utilizan tres hipótesis claves que son aquéllas a las que el importe del valor recuperable es más sensible: 
 
-• Las proyecciones de los flujos de caja estimados por la Dirección del Grupo, basadas en los últimos presupuestos disponibles para los próximos 5 años.
+• Las proyecciones de los flujos de caja estimados por la Dirección del Grupo, basadas en los últimos presupuestos disponibles para los próximos 5 años. 
 • La tasa de crecimiento sostenible constante para extrapolar los flujos de caja, a partir del quinto año (2021), más allá del periodo cubierto por los presupuestos o previsiones.
 • La tasa para descontar los flujos de caja futuros, que coincide con el coste de capital asignado a cada UGE, y que se compone de una tasa libre de riesgo más una prima que refleja el riesgo inherente de cada uno de los negocios evaluados.
 
@@ -2294,17 +14570,60 @@ A 31 de diciembre de 2016, 2015 y 2014, no se registraron deterioros en ninguna 
 
 El fondo de comercio más significativo del Grupo corresponde a la UGE de Estados Unidos. Las hipótesis más significativas usadas en el test de deterioro de dicha UGE son:
 
-IMAGE GOES HERE
+<table>
+    <thead>
+        <tr>
+            <th>Hipótesis test de deterioro Fondo de comercio UGE Estados Unidos</th>
+            <th>2016</th>
+            <th>2015</th>
+            <th>2014</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Tasa de descuento</td>
+            <td>10,0%</td>
+            <td>9,8%</td>
+            <td>10,0%</td>
+        </tr>
+        <tr>
+            <td>Tasa de crecimiento</td>
+            <td>4,0%</td>
+            <td>4,0%</td>
+            <td>4,0%</td>
+        </tr>
+    </tbody>
+</table>
 
 Dado el potencial crecimiento del sector en Estados Unidos, de acuerdo con el párrafo 33 de la NIC 36, a 31 de diciembre de 2016, 2015 y 2014, el Grupo utilizó una tasa de crecimiento sostenible constante del 0000%, basada en la tasa de crecimiento del PIB real de Estados Unidos y en la inflación esperada. El 0000% empleado es inferior al PIB nominal de EEUU promedio histórico de los últimos 30 años e inferior al PIB real previsto por el FMI. Además, el Grupo tiene un alto peso de su negocio en Texas donde se espera (según previsiones de BBVA Research) que la recuperación económica sea mejor que en el resto del país.
 
 Las hipótesis que tienen más peso y cuya volatilidad podría afectar más en la determinación del valor presente de los flujos de efectivo a partir del quinto año son la tasa de descuento y la tasa de crecimiento. A continuación, se muestra el importe que se incrementaría (o se reduciría) el valor recuperable de la UGE, como consecuencia de una variación razonablemente posible (en puntos básicos, “p.b.”) de cada una de las hipótesis clave:
 
-IMAGE GOES HERE
+<table>
+    <thead>
+        <tr>
+            <th>Análisis de sensibilidad para las principales hipótesis</th>
+            <th>Incremento de 50 p.b. (*)</th>
+            <th>Decremento de 50 p.b. (*)</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Tasa de descuento</td>
+            <td>(1.106)</td>
+            <td>1.309</td>
+        </tr>
+        <tr>
+            <td>Tasa de crecimiento</td>
+            <td>521</td>
+            <td>(441)</td>
+        </tr>
+    </tbody>
+</table>
 
-(*) En base a los movimientos históricos observados, el uso de 50 puntos básicos para el cálculo de un análisis de sensibilidad supondría una variación razonable respecto a la media de las variaciones observadas en los últimos cinco años (32 puntos básicos).
+(*) En base a los movimientos históricos observados, el uso de 50 puntos básicos para el cálculo de un análisis de sensibilidad supondría una variación razonable respecto a la media de las variaciones observadas en los últimos cinco años (36 puntos básicos).
 
-Como se mencionaba anteriormente, la otra de las hipótesis utilizada con más impacto en el test de deterioro son los presupuestos de la UGE y, en concreto, el efecto que las variaciones de tipo de interés tienen en los flujos de caja. En el caso razonablemente más probable de una subida de los tipos de interés, como queda demostrado tras la reciente subida de tipos de diciembre 2015 en Estados Unidos, el margen de intereses se vería afectado positivamente y, por tanto, el valor recuperable de esta UGE se incrementaría.
+Como se mencionaba anteriormente, la otra de las hipótesis utilizada con más impacto en el test de deterioro son los presupuestos de la UGE y, en concreto, el efecto que las variaciones de tipo de interés tienen en los flujos de caja. En el caso razonablemente más probable de una subida de los tipos de interés, como queda demostrado tras la reciente subida de tipos de diciembre 2015 en Estados Unidos, el margen de intereses se vería afectado positivamente y, por tanto, el valor recuperable de esta UGE se incrementaría. 
 
 
 ##### Combinaciones de negocio 2016
@@ -2319,9 +14638,152 @@ Tal y como se menciona en la Nota 3, en el primer semestre del ejercicio 2015, e
 
 A continuación se muestra el detalle del valor en libros de los activos y pasivos consolidados de Catalunya Banc en el momento anterior a la compra y los correspondientes valores razonables, brutos del impacto fiscal, que, de acuerdo con el método de adquisición de la NIIF-3, fueron estimados.
 
-IMAGE GOES HERE
+<table>
+    <thead>
+        <tr>
+            <th>Valoración y cálculo del fondo de comercio</th>
+            <th>Valor en libros</th>
+            <th>Valor razonable</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Coste de adquisición (A)</td>
+            <td>-</td>
+            <td>1.165 </td>
+        </tr>
+        <tr>
+            <td>Efectivo</td>
+            <td>616 </td>
+            <td>616 </td>
+        </tr>
+        <tr>
+            <td>Activos financieros mantenidos para negociar</td>
+            <td>341 </td>
+            <td>341 </td>
+        </tr>
+        <tr>
+            <td>Activos financieros designados a valor razonable con cambios en resultados </td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Activos financieros disponibles para la venta</td>
+            <td>1.845 </td>
+            <td>1.853 </td>
+        </tr>
+        <tr>
+            <td>Préstamos y partidas a cobrar </td>
+            <td>37.509 </td>
+            <td>36.766 </td>
+        </tr>
+        <tr>
+            <td>Inversiones mantenidas hasta el vencimiento (*)</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Cambios del valor razonable de los elementos cubiertos de una cartera con cobertura del riesgo de tipo de interés </td>
+            <td>23 </td>
+            <td>23 </td>
+        </tr>
+        <tr>
+            <td>Derivados - contabilidad de coberturas</td>
+            <td>845 </td>
+            <td>845 </td>
+        </tr>
+        <tr>
+            <td>Activos no corrientes y grupos enajenables de elementos que se han clasificado como mantenidos para la venta </td>
+            <td>274 </td>
+            <td>193 </td>
+        </tr>
+        <tr>
+            <td>Inversiones en dependientes, negocios conjuntos y asociadas </td>
+            <td>209 </td>
+            <td>293 </td>
+        </tr>
+        <tr>
+            <td>Activos tangibles</td>
+            <td>908 </td>
+            <td>626 </td>
+        </tr>
+        <tr>
+            <td>Activos intangibles</td>
+            <td>7 </td>
+            <td>129 </td>
+        </tr>
+        <tr>
+            <td>Otros activos</td>
+            <td>581 </td>
+            <td>498 </td>
+        </tr>
+        <tr>
+            <td>Pasivos financieros mantenidos para negociar </td>
+            <td>(332)</td>
+            <td>(332)</td>
+        </tr>
+        <tr>
+            <td>Pasivos financieros designados a valor razonable con cambios en resultados</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Pasivos financieros a Coste Amortizado</td>
+            <td>(41.271)</td>
+            <td>(41.501)</td>
+        </tr>
+        <tr>
+            <td>Cambios del valor razonable de los elementos cubiertos de una cartera con cobertura del riesgo de tipo de interés </td>
+            <td>(490)</td>
+            <td>(490)</td>
+        </tr>
+        <tr>
+            <td>Derivados - contabilidad de coberturas</td>
+            <td>(535)</td>
+            <td>(535)</td>
+        </tr>
+        <tr>
+            <td>Provisiones</td>
+            <td>(1.248)</td>
+            <td>(1.667)</td>
+        </tr>
+        <tr>
+            <td>Otros pasivos</td>
+            <td>(84)</td>
+            <td>(84)</td>
+        </tr>
+        <tr>
+            <td>Impuesto diferido</td>
+            <td>3.312 </td>
+            <td>3.630 </td>
+        </tr>
+        <tr>
+            <td>Total valor razonable de los activos y pasivos adquiridos (B)</td>
+            <td>-</td>
+            <td>1.205</td>
+        </tr>
+        <tr>
+            <td>Intereses Minoritarios Grupo Catalunya Banc (**) (C)</td>
+            <td>2</td>
+            <td>2</td>
+        </tr>
+        <tr>
+            <td>Intereses Minoritarios Surgidos en la Compra (D)</td>
+            <td>-</td>
+            <td>12</td>
+        </tr>
+        <tr>
+            <td>Diferencia Negativa de Consolidación (A)-(B)+(C )+(D)</td>
+            <td>-</td>
+            <td>(26)</td>
+        </tr>
+    </tbody>
+</table>
 
-La diferencia negativa existente entre la contraprestación entregada y el importe de los socios externos, con el valor razonable neto de los activos identificados adquiridos menos los pasivos asumidos se estimó inicialmente, a 30 de junio de 2015, en un importe de 22 millones de euros pero, posteriormente, el cálculo se modificó hasta los 26 millones de euros que quedaron registrados en la cuenta de pérdidas y ganancias consolidada del ejercicio 2015, en el epígrafe “Diferencia negativa en combinaciones de negocio” (ver Nota 2.2.7).
+(*)  Con posterioridad a la compra reclasificado a la categoría de “Activos financieros disponibles para la venta”.
+(**) Corresponde a los intereses minoritarios que mantenía Catalunya Banc previos a la integración en el Grupo BBVA.
+
+La diferencia negativa existente entre la contraprestación entregada y el importe de los socios externos, con el valor razonable neto de los activos identificados adquiridos menos los pasivos asumidos se estimó inicialmente, a 30 de junio de 2015, en un importe de 22 millones de euros pero, posteriormente, el cálculo se modificó hasta los 26 millones de euros que quedaron registrados en la cuenta de pérdidas y ganancias consolidada del ejercicio 2015, en el epígrafe “Diferencia negativa en combinaciones de negocio” (ver Nota 2.2.7). 
 
 El cálculo de este importe estaba sujeto a cambios ya que la estimación de todos los valores razonables estaba siendo revisada y, de acuerdo con la NIIF-3, podrían verse modificados durante el plazo de un año desde la adquisición (abril 2015). Transcurrido dicho plazo, no se ha producido ningún ajuste significativo que implique modificar los importes registrados en el ejercicio 2015.
 
@@ -2329,20 +14791,176 @@ El cálculo de este importe estaba sujeto a cambios ya que la estimación de tod
 
 Tal y como se menciona en la Nota 3, en el ejercicio 2015, el Grupo adquirió el 14,89% adicional del capital de Garanti Bank.
 
-A continuación se muestra el detalle del valor en libros de los activos y pasivos consolidados de Garanti Bank en el momento anterior a la compra y los correspondientes valores razonables, brutos del impacto fiscal, que, de acuerdo con el método de adquisición de la NIIF-3, fueron estimados.
+A continuación se muestra el detalle del valor en libros de los activos y pasivos consolidados de Garanti Bank en el momento anterior a la compra y los correspondientes valores razonables, brutos del impacto fiscal, que, de acuerdo con el método de adquisición de la NIIF 3:
 
-IMAGE GOES HERE
+<table>
+    <thead>
+        <tr>
+            <th>Valoración y cálculo del fondo de comercio de Garanti Bank</th>
+            <th>Valor en libros</th>
+            <th>Valor razonable</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Coste de adquisición (A)</td>
+            <td>-</td>
+            <td>5.044 </td>
+        </tr>
+        <tr>
+            <td>Efectivo</td>
+            <td>8.915 </td>
+            <td>8.915 </td>
+        </tr>
+        <tr>
+            <td>Activos financieros mantenidos para negociar</td>
+            <td>419 </td>
+            <td>419 </td>
+        </tr>
+        <tr>
+            <td>Activos financieros designados a valor razonable con cambios en resultados </td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Activos financieros disponibles para la venta</td>
+            <td>14.618 </td>
+            <td>14.773 </td>
+        </tr>
+        <tr>
+            <td>Préstamos y partidas a cobrar </td>
+            <td>58.495 </td>
+            <td>58.054 </td>
+        </tr>
+        <tr>
+            <td>Activos no corrientes y grupos enajenables de elementos que se han clasificado como mantenidos para la venta </td>
+            <td>-</td>
+            <td>(2)</td>
+        </tr>
+        <tr>
+            <td>Inversiones en dependientes, negocios conjuntos y asociadas </td>
+            <td>14 </td>
+            <td>21 </td>
+        </tr>
+        <tr>
+            <td>Activos tangibles</td>
+            <td>785 </td>
+            <td>1.399 </td>
+        </tr>
+        <tr>
+            <td>Activos intangibles</td>
+            <td>11 </td>
+            <td>1.188 </td>
+        </tr>
+        <tr>
+            <td>Otros activos</td>
+            <td>3.715 </td>
+            <td>3.652 </td>
+        </tr>
+        <tr>
+            <td>Pasivos financieros designados a valor razonable con cambios en resultados</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Pasivos financieros a Coste Amortizado</td>
+            <td>(70.920)</td>
+            <td>(70.926)</td>
+        </tr>
+        <tr>
+            <td>Provisiones</td>
+            <td>(394)</td>
+            <td>(697)</td>
+        </tr>
+        <tr>
+            <td>Otros pasivos</td>
+            <td>(6.418)</td>
+            <td>(6.418)</td>
+        </tr>
+        <tr>
+            <td>Impuesto diferido</td>
+            <td>263 </td>
+            <td>182 </td>
+        </tr>
+        <tr>
+            <td>Total valor razonable de los activos y pasivos adquiridos (B)</td>
+            <td>-</td>
+            <td>10.560</td>
+        </tr>
+        <tr>
+            <td>Intereses Minoritarios Grupo Garanti (C)</td>
+            <td>5.669 </td>
+            <td>5.669 </td>
+        </tr>
+        <tr>
+            <td>Intereses Minoritarios Surgidos en la Compra (D)</td>
+            <td>-</td>
+            <td>635 </td>
+        </tr>
+        <tr>
+            <td>Fondo de Comercio (A)-(B)+(C )+(D)</td>
+            <td>-</td>
+            <td>788</td>
+        </tr>
+    </tbody>
+</table>
 
-La estimación realizada, de acuerdo con el método de adquisición, que compara entre los valores razonables asignados a los activos adquiridos y pasivos asumidos de Garanti, junto con los activos intangibles identificados, y el pago en efectivo realizado por el Grupo como contraprestación de la operación genera un fondo de comercio, registrado en el capítulo “Activos intangibles – Fondo de comercio” del balance consolidado.
+De acuerdo con el método de adquisición, que implica poner a valor razonable los activos adquiridos y pasivos asumidos de Garanti, junto con los activos intangibles identificados, y el pago en efectivo realizado por el Grupo como contraprestación de la operación genera un fondo de comercio, registrado en el capítulo “Activos intangibles – Fondo de comercio” del balance consolidado.
 
-A 30 de junio de 2016, el cálculo de estaba importe está sujeto a cambios ya que la estimación de todos los valores razonables estaba siendo revisada y, de acuerdo con la NIIF-3, se dispone del plazo de un año para realizar los ajustes necesarios al cálculo de adquisición inicial con posterioridad a dicha fecha, el Grupo ha finalizado dicho proceso, sin cambios significativos.
+A 31 de diciembre de 2016 el Grupo ha finalizado el cálculo del fondo de comercio surgido en dicha operación, respecto al estimado en el cierre anual anterior, de acuerdo con la NIIF 3, al disponer de un plazo de un año para realizar los ajustes necesarios al cálculo de adquisición inicial con posterioridad a dicha fecha, sin haberse producido cambios significativos. Entre los ajustes a dicho cálculo, se ha procedido a reclasificar la marca de Garanti como activo intangible de vida útil definida, con su consiguiente amortización en la partida “Amortización – Otros activos intangibles” de las cuenta de pérdidas y ganancias consolidadas.
+Las hipótesis más significativas usadas en el test de deterioro de dicha UGE son:
 
+<table>
+    <thead>
+        <tr>
+            <th>Hipótesis test de deterioro Fondo de comercio UGE Turquia</th>
+            <th>2016</th>
+            <th>2015</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Tasa de descuento</td>
+            <td>17,7%</td>
+            <td>14,8%</td>
+        </tr>
+        <tr>
+            <td>Tasa de crecimiento</td>
+            <td>7,0%</td>
+            <td>7,0%</td>
+        </tr>
+    </tbody>
+</table>
+
+Las hipótesis que tienen más peso y cuya volatilidad podría afectar más en la determinación del valor presente de los flujos de efectivo a partir del quinto año son la tasa de descuento y la tasa de crecimiento. A continuación, se muestra el importe que se incrementaría (o se reduciría) el valor recuperable de la UGE, como consecuencia de una variación razonablemente posible (en puntos básicos, “p.b.”) de cada una de las hipótesis clave:
+
+<table>
+    <thead>
+        <tr>
+            <th>Análisis de sensibilidad para las principales hipótesis</th>
+            <th>Incremento de 50 p.b.</th>
+            <th>Decremento de 50 p.b.</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Tasa de descuento</td>
+            <td>(172)</td>
+            <td>189</td>
+        </tr>
+        <tr>
+            <td>Tasa de crecimiento</td>
+            <td>123</td>
+            <td>(112)</td>
+        </tr>
+    </tbody>
+</table>
 
 ### 18.2 Otros activos intangibles
 
 La composición del saldo de este capítulo de los balances consolidados adjuntos, según la naturaleza de las partidas que los integran, se muestran a continuación:
 
-IMAGE GOES HERE
+Table GOES HERE
 
 Los importes de las amortizaciones de este epígrafe registradas durante los ejercicios 2016, 2015 y 2014, se muestran en la Nota 45.
 
@@ -2368,33 +14986,559 @@ Debido a las posibles diferentes interpretaciones que pueden darse a determinada
 ### 19.3 Conciliación
 A continuación se presenta la conciliación entre el gasto por el Impuesto sobre Sociedades del Grupo resultante de la aplicación del tipo impositivo general y el gasto registrado por el citado impuesto en las cuentas de pérdidas y ganancias consolidadas adjuntas:
 
-IMAGE GOES HERE
+<table>
+    <thead>
+        <tr>
+            <th>Ganancias o pérdidas antes de impuestos</th>
+            <th>6.392</th>
+            <th>&nbsp;</th>
+            <th>4.603</th>
+            <th>&nbsp;</th>
+            <th>3.980</th>
+            <th>&nbsp;</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Procedente de operaciones continuadas</td>
+            <td>6.392</td>
+            <td>&nbsp;</td>
+            <td>4.603</td>
+            <td>&nbsp;</td>
+            <td>3.980</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Procedente de operaciones interrumpidas</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Impuesto de sociedades con el tipo impositivo del impuesto de sociedades en España 30%</td>
+            <td>1.918</td>
+            <td>&nbsp;</td>
+            <td>1.381</td>
+            <td>&nbsp;</td>
+            <td>1.194</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Disminución por menor tasa efectiva de impuestos de entidades extranjeras (*)</td>
+            <td>(298)</td>
+            <td>&nbsp;</td>
+            <td>(221)</td>
+            <td>&nbsp;</td>
+            <td>(318)</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>México</td>
+            <td>(105)</td>
+            <td>26%</td>
+            <td>(149)</td>
+            <td>25%</td>
+            <td>(145)</td>
+            <td>24%</td>
+        </tr>
+        <tr>
+            <td>Chile</td>
+            <td>(27)</td>
+            <td>17%</td>
+            <td>(28)</td>
+            <td>18%</td>
+            <td>(71)</td>
+            <td>-8%</td>
+        </tr>
+        <tr>
+            <td>Colombia</td>
+            <td>22</td>
+            <td>36%</td>
+            <td>2</td>
+            <td>30%</td>
+            <td>2</td>
+            <td>30%</td>
+        </tr>
+        <tr>
+            <td>Peru </td>
+            <td>(18)</td>
+            <td>26%</td>
+            <td>(13)</td>
+            <td>28%</td>
+            <td>(12)</td>
+            <td>28%</td>
+        </tr>
+        <tr>
+            <td>Turquía</td>
+            <td>(176)</td>
+            <td>21%</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Otros</td>
+            <td>6</td>
+            <td>&nbsp;</td>
+            <td>(33)</td>
+            <td>&nbsp;</td>
+            <td>(92)</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Ingresos con menor tasa fiscal (dividendos)</td>
+            <td>(69)</td>
+            <td>&nbsp;</td>
+            <td>(65)</td>
+            <td>&nbsp;</td>
+            <td>(88)</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Ingresos por puesta en equivalencia</td>
+            <td>(11)</td>
+            <td>&nbsp;</td>
+            <td>(74)</td>
+            <td>&nbsp;</td>
+            <td>(147)</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Otros efectos</td>
+            <td>159</td>
+            <td>&nbsp;</td>
+            <td>253</td>
+            <td>&nbsp;</td>
+            <td>257</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Impuesto sobre beneficios</td>
+            <td>1.699</td>
+            <td>&nbsp;</td>
+            <td>1.274</td>
+            <td>&nbsp;</td>
+            <td>898</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Del que:</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Operaciones continuadas</td>
+            <td>1.699</td>
+            <td>&nbsp;</td>
+            <td>1.274</td>
+            <td>&nbsp;</td>
+            <td>898</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Operaciones interrumpidas</td>
+            <td>-</td>
+            <td>&nbsp;</td>
+            <td>-</td>
+            <td>&nbsp;</td>
+            <td>-</td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
 
 (*) Calculada aplicando la diferencia entre el tipo impositivo vigente en España y el aplicado al resultado del Grupo en cada jurisdicción.
 
 El tipo fiscal efectivo para el Grupo durante los ejercicios 2016, 2015 y 2014, se indica a continuación:
-IMAGE GOES HERE
+
+<table>
+    <thead>
+        <tr>
+            <th>Tipo fiscal efectivo</th>
+            <th>2016</th>
+            <th>2015</th>
+            <th>2014</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Resultado de:</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Grupo fiscal consolidado</td>
+            <td>(483)</td>
+            <td>(1.426)</td>
+            <td>(997)</td>
+        </tr>
+        <tr>
+            <td>Otras entidades españolas</td>
+            <td>52</td>
+            <td>107</td>
+            <td>18</td>
+        </tr>
+        <tr>
+            <td>Entidades extranjeras</td>
+            <td>6.823</td>
+            <td>5.922</td>
+            <td>4.959</td>
+        </tr>
+        <tr>
+            <td>Total </td>
+            <td>6.392</td>
+            <td>4.603</td>
+            <td>3.980</td>
+        </tr>
+        <tr>
+            <td>Impuesto sobre beneficios y otros impuestos</td>
+            <td>1.699</td>
+            <td>1.274</td>
+            <td>898</td>
+        </tr>
+        <tr>
+            <td>Tipo fiscal efectivo</td>
+            <td>26,58%</td>
+            <td>27,68%</td>
+            <td>22,56%</td>
+        </tr>
+    </tbody>
+</table>
 
 ### 19.4  Impuestos repercutidos en el patrimonio neto
 
 Independientemente de los impuestos sobre beneficios registrados en las cuentas de pérdidas y ganancias consolidadas adjuntas, el Grupo registró en su patrimonio neto consolidado las siguientes cargas fiscales, por los siguientes conceptos:
-IMAGE GOES HERE
+
+<table>
+    <thead>
+        <tr>
+            <th>Impuesto repercutido en patrimonio neto</th>
+            <th>2016</th>
+            <th>2015</th>
+            <th>2014</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Cargos a patrimonio neto</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Cartera de renta fija y otros</td>
+            <td>(533)</td>
+            <td>(593)</td>
+            <td>(953)</td>
+        </tr>
+        <tr>
+            <td>Cartera de renta variable</td>
+            <td>(2)</td>
+            <td>113</td>
+            <td>(188)</td>
+        </tr>
+        <tr>
+            <td>Subtotal</td>
+            <td>(535)</td>
+            <td>(480)</td>
+            <td>(1.141)</td>
+        </tr>
+        <tr>
+            <td>Abonos a patrimonio neto</td>
+            <td>-</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Cartera de renta variable</td>
+            <td>-</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Cartera de renta fija y otros</td>
+            <td>-</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Subtotal</td>
+            <td> -</td>
+            <td> -</td>
+            <td> -</td>
+        </tr>
+        <tr>
+            <td>Total</td>
+            <td>(535)</td>
+            <td>(480)</td>
+            <td>(1.141)</td>
+        </tr>
+    </tbody>
+</table>
 
 ### 19.5  Impuestos diferidos
 
 Dentro del saldo del epígrafe “Activos por impuestos” de los balances consolidados adjuntos se incluyen los saldos deudores frente a la Hacienda Pública correspondientes a los activos por impuestos diferidos. Dentro del saldo del epígrafe “Pasivos por impuestos” se incluyen los saldos acreedores correspondiente a los diferentes impuestos diferidos del Grupo. El detalle de los mencionados activos y pasivos por impuestos se indica a continuación:
 
-IMAGE GOES HERE
+<table>
+    <thead>
+        <tr>
+            <th>Activos y pasivos por impuestos</th>
+            <th>2016</th>
+            <th>2015</th>
+            <th>2014</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Activos por impuestos-</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Activos por impuestos corrientes</td>
+            <td>1.853</td>
+            <td>1.901</td>
+            <td>2.035</td>
+        </tr>
+        <tr>
+            <td>Activos por impuestos diferidos</td>
+            <td>16.391</td>
+            <td>15.878</td>
+            <td>10.391</td>
+        </tr>
+        <tr>
+            <td> Pensiones</td>
+            <td>1.190</td>
+            <td>1.022</td>
+            <td>902</td>
+        </tr>
+        <tr>
+            <td> Instrumentos financieros</td>
+            <td>1.371</td>
+            <td>1.474</td>
+            <td>920</td>
+        </tr>
+        <tr>
+            <td> Otros activos</td>
+            <td>662</td>
+            <td>554</td>
+            <td>535</td>
+        </tr>
+        <tr>
+            <td> Insolvencias</td>
+            <td>1.390</td>
+            <td>1.346</td>
+            <td>1.041</td>
+        </tr>
+        <tr>
+            <td> Otros </td>
+            <td>1.236</td>
+            <td>981</td>
+            <td>905</td>
+        </tr>
+        <tr>
+            <td> Activos por impuestos garantizados (*)</td>
+            <td>9.431</td>
+            <td>9.536</td>
+            <td>4.881</td>
+        </tr>
+        <tr>
+            <td> Pérdidas tributarias </td>
+            <td>1.111</td>
+            <td>965</td>
+            <td>1.207</td>
+        </tr>
+        <tr>
+            <td>Total</td>
+            <td>18.245</td>
+            <td>17.779</td>
+            <td>12.426</td>
+        </tr>
+        <tr>
+            <td>Pasivos por impuestos-</td>
+            <td>-</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Pasivos por impuestos corrientes</td>
+            <td>1.276</td>
+            <td>1.238</td>
+            <td>980</td>
+        </tr>
+        <tr>
+            <td>Pasivos por impuestos diferidos</td>
+            <td>3.392</td>
+            <td>3.415</td>
+            <td>3.177</td>
+        </tr>
+        <tr>
+            <td> Instrumentos financieros</td>
+            <td>1.794</td>
+            <td>1.907</td>
+            <td>2.096</td>
+        </tr>
+        <tr>
+            <td> Libertad de amortización y otros</td>
+            <td>1.598</td>
+            <td>1.508</td>
+            <td>1.081</td>
+        </tr>
+        <tr>
+            <td>Total</td>
+            <td>4.668</td>
+            <td>4.653</td>
+            <td>4.157</td>
+        </tr>
+    </tbody>
+</table>
+
+(*) Las Leyes que garantizan los activos por impuestos diferidos fueron aprobadas en España y Portugal en los ejercicios 2013 y 2014.
 
 Los movimientos más significativos producidos en los ejercicios 2016, 2015 y 2014 derivan de los siguientes conceptos:
 
-IMAGE GOES HERE
+<table>
+    <thead>
+        <tr>
+            <th>Saldo inicial</th>
+            <th>15.878</th>
+            <th>3.418</th>
+            <th>10.391</th>
+            <th>3.177</th>
+            <th>9.202</th>
+            <th>1.537</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Pensiones</td>
+            <td>168</td>
+            <td>-</td>
+            <td>120</td>
+            <td>-</td>
+            <td>152</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Instrumentos financieros</td>
+            <td>(103)</td>
+            <td>(113)</td>
+            <td>554</td>
+            <td>(189)</td>
+            <td>(218)</td>
+            <td>1.171</td>
+        </tr>
+        <tr>
+            <td>Otros activos</td>
+            <td>108</td>
+            <td>-</td>
+            <td>19</td>
+            <td>-</td>
+            <td>79</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Insolvencias</td>
+            <td>44</td>
+            <td>-</td>
+            <td>305</td>
+            <td>-</td>
+            <td>251</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Otros </td>
+            <td>255</td>
+            <td>-</td>
+            <td>76</td>
+            <td>-</td>
+            <td>393</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Activos fiscales garantizados (*)</td>
+            <td>(105)</td>
+            <td>-</td>
+            <td>4.655</td>
+            <td>-</td>
+            <td>508</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Perdidas tributarias</td>
+            <td>146</td>
+            <td>-</td>
+            <td>(242)</td>
+            <td>-</td>
+            <td>24</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Libertad de Amortizacion y otros</td>
+            <td>-</td>
+            <td>87</td>
+            <td>-</td>
+            <td>430</td>
+            <td>-</td>
+            <td>469</td>
+        </tr>
+        <tr>
+            <td>Saldo final</td>
+            <td>16.391</td>
+            <td>3.392</td>
+            <td>15.878</td>
+            <td>3.418</td>
+            <td>10.391</td>
+            <td>3.177</td>
+        </tr>
+    </tbody>
+</table>
 
 (*)   Incorporación de Catalunya Bank S.A. en 2015
 
 De los activos por impuestos diferidos contenidos en la tabla anterior, el detalle de los conceptos e importes garantizados por los Estados Español y Portugués, en función de las partidas que originaron dichos activos, es el siguiente:
 
-IMAGE GOES HERE
+<table>
+    <thead>
+        <tr>
+            <th>Activos por impuestos garantizados</th>
+            <th>2016</th>
+            <th>2015</th>
+            <th>2014</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Pensiones</td>
+            <td>1.901</td>
+            <td>1.904</td>
+            <td>1.741</td>
+        </tr>
+        <tr>
+            <td>Insolvencias</td>
+            <td>7.530</td>
+            <td>7.632</td>
+            <td>3.140</td>
+        </tr>
+        <tr>
+            <td>Total </td>
+            <td>9.431</td>
+            <td>9.536</td>
+            <td>4.881</td>
+        </tr>
+    </tbody>
+</table>
 
 A 31 de diciembre de 2016, la cifra total de activos por impuestos diferidos netos no garantizados asciende a 0000 millones de euros (2.859  y 0000 millones de euros a 31 de diciembre de 2015 y 2014), cuyo desglose por las principales geografías es el siguiente:
 
@@ -2412,11 +15556,198 @@ A 31 de diciembre de 2016, 2015 y 2014, el importe estimado de las diferencias t
 
 La composición del saldo de estos capítulos de los balances consolidados adjuntos es:
 
-IMAGE GOES HERE
+<table>
+    <thead>
+        <tr>
+            <th>"Otros activos y pasivos.</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Desglose por naturaleza"</td>
+            <td>2016</td>
+            <td>2015</td>
+            <td>2014</td>
+        </tr>
+        <tr>
+            <td>Activos-</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Existencias</td>
+            <td>3.298</td>
+            <td>4.303</td>
+            <td>4.443</td>
+        </tr>
+        <tr>
+            <td>Inmobiliarias</td>
+            <td>3.268</td>
+            <td>4.172</td>
+            <td>4.389</td>
+        </tr>
+        <tr>
+            <td>Resto de los otros activos</td>
+            <td>29</td>
+            <td>131</td>
+            <td>54</td>
+        </tr>
+        <tr>
+            <td>Operaciones en camino</td>
+            <td>241</td>
+            <td>148</td>
+            <td>230</td>
+        </tr>
+        <tr>
+            <td>Periodificaciones</td>
+            <td>723</td>
+            <td>804</td>
+            <td>706</td>
+        </tr>
+        <tr>
+            <td>Gastos pagados no devengados</td>
+            <td>518</td>
+            <td>558</td>
+            <td>491</td>
+        </tr>
+        <tr>
+            <td>Resto de otras periodificaciones activas</td>
+            <td>204</td>
+            <td>246</td>
+            <td>215</td>
+        </tr>
+        <tr>
+            <td>Contratos de seguros vinculados a pensiones</td>
+            <td>&nbsp;</td>
+            <td>-</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Resto de otros conceptos</td>
+            <td>3.012</td>
+            <td>3.311</td>
+            <td>2.715</td>
+        </tr>
+        <tr>
+            <td>Total activos</td>
+            <td>7.274</td>
+            <td>8.565</td>
+            <td>8.094</td>
+        </tr>
+        <tr>
+            <td>Pasivos-</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Operaciones en camino</td>
+            <td>127</td>
+            <td>52</td>
+            <td>77</td>
+        </tr>
+        <tr>
+            <td>Periodificaciones</td>
+            <td>2.721</td>
+            <td>2.609</td>
+            <td>2.370</td>
+        </tr>
+        <tr>
+            <td>Gastos devengados no pagados</td>
+            <td>2.125</td>
+            <td>2.009</td>
+            <td>1.772</td>
+        </tr>
+        <tr>
+            <td>Resto de otras periodificaciones pasivas</td>
+            <td>596</td>
+            <td>600</td>
+            <td>598</td>
+        </tr>
+        <tr>
+            <td>Otros conceptos</td>
+            <td>2.131</td>
+            <td>1.949</td>
+            <td>2.072</td>
+        </tr>
+        <tr>
+            <td>Total pasivos</td>
+            <td>4.979</td>
+            <td>4.610</td>
+            <td>4.519</td>
+        </tr>
+    </tbody>
+</table>
 
 El epígrafe "Existencias" del detalle anterior incluye el valor neto contable de las compras de suelo y propiedades que las compañías inmobiliarias del Grupo tienen disponibles para la venta o para su negocio. Los importes de este epígrafe incluyen, principalmente, activos inmobiliarios adquiridos por estas empresas a clientes en dificultad (sobre todo en España), netos de sus correspondientes provisiones por deterioro. El deterioro registrado en el epígrafe “Deterioro del valor o reversión del deterioro del valor de activos no financieros” de las cuentas de pérdidas y ganancias consolidadas adjuntas ascendieron a 0000,  209 y 192  millones de euros durante los ejercicios de 2016, 2015 y 2014, respectivamente (ver Nota 48). A continuación se detalla el movimiento de los activos inmobiliarios adquiridos a clientes en dificultad:
 
-IMAGE GOES HERE
+<table>
+    <thead>
+        <tr>
+            <th>Movimientos de los Activos inmobiliarios adquiridos a clientes en dificultad</th>
+            <th>2016</th>
+            <th>2015</th>
+            <th>2014</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Valor bruto</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Saldo Inicial</td>
+            <td>9.318</td>
+            <td>9.119</td>
+            <td>9.343</td>
+        </tr>
+        <tr>
+            <td>Adquisiciones de negocio y desinversiones (*)</td>
+            <td>-</td>
+            <td>580</td>
+            <td> -</td>
+        </tr>
+        <tr>
+            <td>Adiciones</td>
+            <td>336</td>
+            <td>797</td>
+            <td>479</td>
+        </tr>
+        <tr>
+            <td>Retiros </td>
+            <td>(1.214)</td>
+            <td>(1.188)</td>
+            <td>(971)</td>
+        </tr>
+        <tr>
+            <td>Traspasos y otros</td>
+            <td>59</td>
+            <td>10</td>
+            <td>268</td>
+        </tr>
+        <tr>
+            <td>Saldo final</td>
+            <td>8.499</td>
+            <td>9.318</td>
+            <td>9.119</td>
+        </tr>
+        <tr>
+            <td>Deterioro del valor</td>
+            <td>(5.385)</td>
+            <td>(5.291)</td>
+            <td>(4.898)</td>
+        </tr>
+        <tr>
+            <td>Valor en libros</td>
+            <td>3.114</td>
+            <td>4.154</td>
+            <td>4.219</td>
+        </tr>
+    </tbody>
+</table>
 
 (*) Principalmente activos procedentes de la Adquisición de Catalunya Banc en 2015
 
@@ -2425,44 +15756,1515 @@ IMAGE GOES HERE
 
 El desglose del saldo del capítulo “Activos no corrientes y grupos enajenables de elementos que se han clasificado como mantenidos para la venta” de los balances consolidados adjuntos, en función de la procedencia de los mismos, se muestra a continuación:
 
-IMAGE GOES HERE
+<table>
+    <thead>
+        <tr>
+            <th>Activos no corrientes y grupos enajenables de elementos que se han clasificado como mantenidos para la venta</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Desglose por conceptos"</td>
+            <td>2016</td>
+            <td>2015</td>
+            <td>2014</td>
+        </tr>
+        <tr>
+            <td>Adjudicaciones o recuperaciones por impagos</td>
+            <td>4.225</td>
+            <td>3.991</td>
+            <td>3.330</td>
+        </tr>
+        <tr>
+            <td> Adjudicaciones</td>
+            <td>4.057</td>
+            <td>3.775</td>
+            <td>3.144</td>
+        </tr>
+        <tr>
+            <td> Recuperaciones de arrendamientos financieros </td>
+            <td>168</td>
+            <td>216</td>
+            <td>186</td>
+        </tr>
+        <tr>
+            <td>Otros activos procedentes del inmovilizado material </td>
+            <td>1.181</td>
+            <td>706</td>
+            <td>315</td>
+        </tr>
+        <tr>
+            <td> Inmovilizado material de uso propio</td>
+            <td>378</td>
+            <td>431</td>
+            <td>272</td>
+        </tr>
+        <tr>
+            <td> Operaciones de arrendamientos operativos (*)</td>
+            <td>803</td>
+            <td>275</td>
+            <td>43</td>
+        </tr>
+        <tr>
+            <td> Inversiones inmobiliarias</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Sociedades en proceso de venta</td>
+            <td>40</td>
+            <td>37</td>
+            <td>924</td>
+        </tr>
+        <tr>
+            <td>Amortización acumulada (**)</td>
+            <td>(116)</td>
+            <td>(80)</td>
+            <td>(74)</td>
+        </tr>
+        <tr>
+            <td>Deterioro del valor</td>
+            <td>(1.727)</td>
+            <td>(1.285)</td>
+            <td>(702)</td>
+        </tr>
+        <tr>
+            <td>Total Activos no corrientes y grupos enajenables de elementos que se han clasificado como mantenidos para la venta</td>
+            <td>3.603</td>
+            <td>3.369</td>
+            <td>3.793</td>
+        </tr>
+    </tbody>
+</table>
 
- (*)  Corresponde a la amortización acumulada de los activos antes de su clasificación como "Activos no corrientes y grupos enajenables de elementos que se han clasificado como mantenidos para la venta”.
+(*) Incluye inversiones inmobiliarias traspasadas de BBVA Propiedad. 
+(**) Corresponde a la amortización acumulada de los activos antes de su clasificación como "Activos no corrientes y
+ grupos enajenables de elementos que se han clasificado como mantenidos para la venta”.
+
+Los movimientos de los saldos de este capítulo en los ejercicios 2016, 2015 y 2014, fueron los siguientes:
+
+<table>
+    <thead>
+        <tr>
+            <th>Coste (1)</th>
+            <th>&nbsp;</th>
+            <th>&nbsp;</th>
+            <th>&nbsp;</th>
+            <th>&nbsp;</th>
+            <th>&nbsp;</th>
+            <th>&nbsp;</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Saldo inicial</td>
+            <td>&nbsp;</td>
+            <td>3.775</td>
+            <td>216</td>
+            <td>626</td>
+            <td>37</td>
+            <td>4.617</td>
+        </tr>
+        <tr>
+            <td>Adiciones </td>
+            <td>&nbsp;</td>
+            <td>582</td>
+            <td>57</td>
+            <td>23</td>
+            <td>-</td>
+            <td>662</td>
+        </tr>
+        <tr>
+            <td>Aportaciones por incorporación sociedades al Grupo</td>
+            <td>&nbsp;</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Retiros (ventas y otras bajas)</td>
+            <td>&nbsp;</td>
+            <td>(779)</td>
+            <td>(77)</td>
+            <td>(170)</td>
+            <td>3</td>
+            <td>(1.026)</td>
+        </tr>
+        <tr>
+            <td>Traspasos, otros movimientos y diferencias de cambio</td>
+            <td>&nbsp;</td>
+            <td>480</td>
+            <td>(28)</td>
+            <td>586</td>
+            <td>-</td>
+            <td>1.037</td>
+        </tr>
+        <tr>
+            <td>Saldo final</td>
+            <td>&nbsp;</td>
+            <td>4.057</td>
+            <td>168</td>
+            <td>1.065</td>
+            <td>40</td>
+            <td>5.290</td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Deterioro (2)</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Saldo inicial</td>
+            <td>&nbsp;</td>
+            <td>994</td>
+            <td>52</td>
+            <td>240</td>
+            <td>-</td>
+            <td>1.285</td>
+        </tr>
+        <tr>
+            <td>Adiciones </td>
+            <td>50</td>
+            <td>129</td>
+            <td>3</td>
+            <td>5</td>
+            <td>-</td>
+            <td>136</td>
+        </tr>
+        <tr>
+            <td>Aportaciones por incorporación sociedades al Grupo</td>
+            <td>&nbsp;</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Retiros (ventas y otras bajas)</td>
+            <td>&nbsp;</td>
+            <td>(153)</td>
+            <td>(6)</td>
+            <td>(33)</td>
+            <td>-</td>
+            <td>(192)</td>
+        </tr>
+        <tr>
+            <td>Traspasos, otros movimientos y diferencias de cambio</td>
+            <td>&nbsp;</td>
+            <td>268</td>
+            <td>(2)</td>
+            <td>232</td>
+            <td>-</td>
+            <td>499</td>
+        </tr>
+        <tr>
+            <td>Saldo final</td>
+            <td>&nbsp;</td>
+            <td>1.237</td>
+            <td>47</td>
+            <td>443</td>
+            <td>-</td>
+            <td>1.727</td>
+        </tr>
+        <tr>
+            <td>Saldo final neto (1)-(2)</td>
+            <td>&nbsp;</td>
+            <td>2.820</td>
+            <td>121</td>
+            <td>621</td>
+            <td>40</td>
+            <td>3.563</td>
+        </tr>
+    </tbody>
+</table>
+
+(*) Netos de amortizaciones acumuladas hasta su clasificación como "Activos no corrientes y grupos enajenables de elementos que se han clasificado como mantenidos para la venta".
+
+<table>
+    <thead>
+        <tr>
+            <th>Coste (1)</th>
+            <th>&nbsp;</th>
+            <th>&nbsp;</th>
+            <th>&nbsp;</th>
+            <th>&nbsp;</th>
+            <th>&nbsp;</th>
+            <th>&nbsp;</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Saldo inicial</td>
+            <td>&nbsp;</td>
+            <td>3.144</td>
+            <td>186</td>
+            <td>241</td>
+            <td>924</td>
+            <td>4.495</td>
+        </tr>
+        <tr>
+            <td>Adiciones </td>
+            <td>&nbsp;</td>
+            <td>801</td>
+            <td>94</td>
+            <td>79</td>
+            <td>-</td>
+            <td>974</td>
+        </tr>
+        <tr>
+            <td>Aportaciones por incorporación sociedades al Grupo</td>
+            <td>&nbsp;</td>
+            <td>446</td>
+            <td>1</td>
+            <td>163</td>
+            <td>-</td>
+            <td>609</td>
+        </tr>
+        <tr>
+            <td>Retiros (ventas y otras bajas)</td>
+            <td>&nbsp;</td>
+            <td>(586)</td>
+            <td>(53)</td>
+            <td>(163)</td>
+            <td>(887)</td>
+            <td>(1.688)</td>
+        </tr>
+        <tr>
+            <td>Traspasos, otros movimientos y diferencias de cambio</td>
+            <td>&nbsp;</td>
+            <td>(30)</td>
+            <td>(13)</td>
+            <td>307</td>
+            <td>-</td>
+            <td>264</td>
+        </tr>
+        <tr>
+            <td>Saldo final</td>
+            <td>&nbsp;</td>
+            <td>3.775</td>
+            <td>216</td>
+            <td>626</td>
+            <td>37</td>
+            <td>4.654</td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Deterioro (2)</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Saldo inicial</td>
+            <td>&nbsp;</td>
+            <td>578</td>
+            <td>53</td>
+            <td>70</td>
+            <td>-</td>
+            <td>702</td>
+        </tr>
+        <tr>
+            <td>Adiciones </td>
+            <td>50</td>
+            <td>208</td>
+            <td>11</td>
+            <td>66</td>
+            <td>-</td>
+            <td>285</td>
+        </tr>
+        <tr>
+            <td>Aportaciones por incorporación sociedades al Grupo</td>
+            <td>&nbsp;</td>
+            <td>328</td>
+            <td>-</td>
+            <td>75</td>
+            <td>-</td>
+            <td>404</td>
+        </tr>
+        <tr>
+            <td>Retiros (ventas y otras bajas)</td>
+            <td>&nbsp;</td>
+            <td>(117)</td>
+            <td>(14)</td>
+            <td>(39)</td>
+            <td>-</td>
+            <td>(170)</td>
+        </tr>
+        <tr>
+            <td>Traspasos, otros movimientos y diferencias de cambio</td>
+            <td>&nbsp;</td>
+            <td>(4)</td>
+            <td>2</td>
+            <td>66</td>
+            <td>-</td>
+            <td>64</td>
+        </tr>
+        <tr>
+            <td>Saldo final</td>
+            <td>&nbsp;</td>
+            <td>994</td>
+            <td>52</td>
+            <td>240</td>
+            <td>-</td>
+            <td>1.285</td>
+        </tr>
+        <tr>
+            <td>Saldo final neto (1)-(2)</td>
+            <td>&nbsp;</td>
+            <td>2.781</td>
+            <td>164</td>
+            <td>387</td>
+            <td>37</td>
+            <td>3.369</td>
+        </tr>
+    </tbody>
+</table>
+
+(*) Netos de amortizaciones acumuladas hasta su clasificación como "Activos no corrientes y grupos enajenables de elementos que se han clasificado como mantenidos para la venta".
+(**) Corresponde al acuerdo de venta sociedades (ver Nota 3).
+
+<table>
+    <thead>
+        <tr>
+            <th>Coste (1)</th>
+            <th>&nbsp;</th>
+            <th>&nbsp;</th>
+            <th>&nbsp;</th>
+            <th>&nbsp;</th>
+            <th>&nbsp;</th>
+            <th>&nbsp;</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Saldo inicial</td>
+            <td>&nbsp;</td>
+            <td>2.914</td>
+            <td>186</td>
+            <td>253</td>
+            <td>92</td>
+            <td>3.445</td>
+        </tr>
+        <tr>
+            <td>Adiciones </td>
+            <td>&nbsp;</td>
+            <td>783</td>
+            <td>50</td>
+            <td>82</td>
+            <td>-</td>
+            <td>916</td>
+        </tr>
+        <tr>
+            <td>Aportaciones por incorporación sociedades al Grupo</td>
+            <td>&nbsp;</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Retiros (ventas y otras bajas)</td>
+            <td>&nbsp;</td>
+            <td>(565)</td>
+            <td>(36)</td>
+            <td>(161)</td>
+            <td>-</td>
+            <td>(762)</td>
+        </tr>
+        <tr>
+            <td>Traspasos, otros movimientos y diferencias de cambio</td>
+            <td>&nbsp;</td>
+            <td>12</td>
+            <td>(14)</td>
+            <td>67</td>
+            <td>832</td>
+            <td>897</td>
+        </tr>
+        <tr>
+            <td>Saldo final</td>
+            <td>&nbsp;</td>
+            <td>3.144</td>
+            <td>187</td>
+            <td>241</td>
+            <td>924</td>
+            <td>4.495</td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Deterioro (2)</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Saldo inicial</td>
+            <td>&nbsp;</td>
+            <td>420</td>
+            <td>45</td>
+            <td>99</td>
+            <td>-</td>
+            <td>565</td>
+        </tr>
+        <tr>
+            <td>Adiciones </td>
+            <td>50</td>
+            <td>391</td>
+            <td>12</td>
+            <td>4</td>
+            <td>-</td>
+            <td>406</td>
+        </tr>
+        <tr>
+            <td>Aportaciones por incorporación sociedades al Grupo</td>
+            <td>&nbsp;</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Retiros (ventas y otras bajas)</td>
+            <td>&nbsp;</td>
+            <td>(140)</td>
+            <td>(7)</td>
+            <td>(51)</td>
+            <td>-</td>
+            <td>(198)</td>
+        </tr>
+        <tr>
+            <td>Traspasos, otros movimientos y diferencias de cambio</td>
+            <td>&nbsp;</td>
+            <td>(93)</td>
+            <td>3</td>
+            <td>19</td>
+            <td>-</td>
+            <td>(71)</td>
+        </tr>
+        <tr>
+            <td>Saldo final</td>
+            <td>&nbsp;</td>
+            <td>578</td>
+            <td>53</td>
+            <td>71</td>
+            <td>-</td>
+            <td>702</td>
+        </tr>
+        <tr>
+            <td>Saldo final neto (1)-(2)</td>
+            <td>&nbsp;</td>
+            <td>2.565</td>
+            <td>134</td>
+            <td>170</td>
+            <td>924</td>
+            <td>3.793</td>
+        </tr>
+    </tbody>
+</table>
+
+(*) Netos de amortizaciones acumuladas hasta su clasificación como "Activos no corrientes y grupos enajenables de elementos que se han clasificado como mantenidos para la venta".
+(**) Corresponde al acuerdo de venta sociedades (ver Nota 3).
 
 
 ## 22. Pasivos financieros a coste amortizado
 
 La composición del saldo de este capítulo de los balances consolidados adjuntos es:
 
-IMAGE GOES HERE
+<table>
+    <thead>
+        <tr>
+            <th>Pasivos financieros a coste amortizado</th>
+            <th>Notas</th>
+            <th>2016</th>
+            <th>2015</th>
+            <th>2014</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Depósitos</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td> Depósitos de bancos centrales</td>
+            <td>9</td>
+            <td>34.740</td>
+            <td>40.087</td>
+            <td>28.193</td>
+        </tr>
+        <tr>
+            <td> Depósitos de entidades de crédito</td>
+            <td>22.1</td>
+            <td>63.501</td>
+            <td>68.543</td>
+            <td>65.168</td>
+        </tr>
+        <tr>
+            <td> Depósitos de la clientela</td>
+            <td>22.2</td>
+            <td>401.465</td>
+            <td>403.362</td>
+            <td>319.334</td>
+        </tr>
+        <tr>
+            <td>Valores representativos de deuda emitidos</td>
+            <td>22.3</td>
+            <td>76.375</td>
+            <td>81.980</td>
+            <td>71.917</td>
+        </tr>
+        <tr>
+            <td>Otros pasivos financieros </td>
+            <td>22.4</td>
+            <td>13.129</td>
+            <td>12.141</td>
+            <td>7.288</td>
+        </tr>
+        <tr>
+            <td>Total</td>
+            <td>&nbsp;</td>
+            <td>589.210</td>
+            <td>606.113</td>
+            <td>491.899</td>
+        </tr>
+    </tbody>
+</table>
 
 ### 22.1  Depósitos de entidades de crédito
 
 El desglose del saldo de este epígrafe de los balances consolidados adjuntos, por tipos de instrumentos financieros, se muestra a continuación:
 
-IMAGE GOES HERE
+<table>
+    <thead>
+        <tr>
+            <th>Depósitos de entidades de crédito</th>
+            <th>Notas</th>
+            <th>2016</th>
+            <th>2015</th>
+            <th>2014</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Cuentas mutuas</td>
+            <td>&nbsp;</td>
+            <td>165</td>
+            <td>160</td>
+            <td>218</td>
+        </tr>
+        <tr>
+            <td>Cuentas a plazo</td>
+            <td>&nbsp;</td>
+            <td>30.286</td>
+            <td>37.859</td>
+            <td>26.731</td>
+        </tr>
+        <tr>
+            <td>Cuentas a la vista</td>
+            <td>&nbsp;</td>
+            <td>4.435</td>
+            <td>4.121</td>
+            <td>5.082</td>
+        </tr>
+        <tr>
+            <td>Resto de cuentas</td>
+            <td>&nbsp;</td>
+            <td>35</td>
+            <td>149</td>
+            <td>51</td>
+        </tr>
+        <tr>
+            <td>Cesión temporal de activos</td>
+            <td>35</td>
+            <td>28.421</td>
+            <td>26.069</td>
+            <td>32.935</td>
+        </tr>
+        <tr>
+            <td>Subtotal</td>
+            <td>&nbsp;</td>
+            <td>63.342</td>
+            <td>68.359</td>
+            <td>65.017</td>
+        </tr>
+        <tr>
+            <td>Intereses devengados pendientes de vencimiento</td>
+            <td>&nbsp;</td>
+            <td>160</td>
+            <td>185</td>
+            <td>151</td>
+        </tr>
+        <tr>
+            <td>Total</td>
+            <td>&nbsp;</td>
+            <td>63.501</td>
+            <td>68.543</td>
+            <td>65.168</td>
+        </tr>
+    </tbody>
+</table>
 
 El desglose del saldo de este epígrafe de los balances consolidados adjuntos, por tipo de instrumento financiero y por área geográfica, es el siguiente:
 
-IMAGE GOES HERE
+<table>
+    <thead>
+        <tr>
+            <th>"Depósitos de Entidades de crédito </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Diciembre 2016"</td>
+            <td>"A la vista</td>
+        </tr>
+        <tr>
+            <td> y otros"</td>
+            <td>Plazo</td>
+            <td>Cesión temporal de activos</td>
+            <td>Total</td>
+        </tr>
+        <tr>
+            <td>España</td>
+            <td>956</td>
+            <td>4.995</td>
+            <td>817</td>
+            <td>6.768</td>
+        </tr>
+        <tr>
+            <td>Resto de Europa</td>
+            <td>896</td>
+            <td>13.751</td>
+            <td>23.691</td>
+            <td>38.338</td>
+        </tr>
+        <tr>
+            <td>México</td>
+            <td>306</td>
+            <td>426</td>
+            <td>2.931</td>
+            <td>3.663</td>
+        </tr>
+        <tr>
+            <td>América del Sur</td>
+            <td>275</td>
+            <td>3.294</td>
+            <td>465</td>
+            <td>4.035</td>
+        </tr>
+        <tr>
+            <td>Estados Unidos</td>
+            <td>1.812</td>
+            <td>3.225</td>
+            <td>3</td>
+            <td>5.040</td>
+        </tr>
+        <tr>
+            <td>Turquía</td>
+            <td>317</td>
+            <td>1.140</td>
+            <td>5</td>
+            <td>1.463</td>
+        </tr>
+        <tr>
+            <td>Resto del mundo</td>
+            <td>88</td>
+            <td>3.597</td>
+            <td>509</td>
+            <td>4.194</td>
+        </tr>
+        <tr>
+            <td>Total </td>
+            <td>4.651</td>
+            <td>30.429</td>
+            <td>28.420</td>
+            <td>63.501</td>
+        </tr>
+    </tbody>
+</table>
+
+<table>
+    <thead>
+        <tr>
+            <th>"Depósitos de entidades de crédito </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Diciembre 2015"</td>
+            <td>"A la vista</td>
+        </tr>
+        <tr>
+            <td> y otros"</td>
+            <td>Plazo</td>
+            <td>Cesión temporal de activos</td>
+            <td>Total</td>
+        </tr>
+        <tr>
+            <td>España</td>
+            <td>951</td>
+            <td>6.718</td>
+            <td>593</td>
+            <td>8.262</td>
+        </tr>
+        <tr>
+            <td>Resto de Europa</td>
+            <td>801</td>
+            <td>15.955</td>
+            <td>23.140</td>
+            <td>39.896</td>
+        </tr>
+        <tr>
+            <td>México</td>
+            <td>54</td>
+            <td>673</td>
+            <td>916</td>
+            <td>1.643</td>
+        </tr>
+        <tr>
+            <td>América del Sur</td>
+            <td>212</td>
+            <td>3.779</td>
+            <td>432</td>
+            <td>4.423</td>
+        </tr>
+        <tr>
+            <td>Estados Unidos</td>
+            <td>1.892</td>
+            <td>5.497</td>
+            <td>2</td>
+            <td>7.391</td>
+        </tr>
+        <tr>
+            <td>Turquía</td>
+            <td>355</td>
+            <td>1.423</td>
+            <td>8</td>
+            <td>1.786</td>
+        </tr>
+        <tr>
+            <td>Resto del mundo</td>
+            <td>53</td>
+            <td>4.108</td>
+            <td>981</td>
+            <td>5.142</td>
+        </tr>
+        <tr>
+            <td>Total </td>
+            <td>4.318</td>
+            <td>38.153</td>
+            <td>26.072</td>
+            <td>68.543</td>
+        </tr>
+    </tbody>
+</table>
+
+<table>
+    <thead>
+        <tr>
+            <th>"Depósitos a entidades de crédito </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Diciembre 2014"</td>
+            <td>"A la vista</td>
+        </tr>
+        <tr>
+            <td> y otros"</td>
+            <td>Plazo</td>
+            <td>Cesión temporal de activos</td>
+            <td>Total</td>
+        </tr>
+        <tr>
+            <td>España</td>
+            <td>1.327</td>
+            <td>6.504</td>
+            <td>2.442</td>
+            <td>10.273</td>
+        </tr>
+        <tr>
+            <td>Resto de Europa</td>
+            <td>1.191</td>
+            <td>9.925</td>
+            <td>27.940</td>
+            <td>39.056</td>
+        </tr>
+        <tr>
+            <td>Mexico</td>
+            <td>125</td>
+            <td>1.066</td>
+            <td>1.875</td>
+            <td>3.065</td>
+        </tr>
+        <tr>
+            <td>América del Sur</td>
+            <td>961</td>
+            <td>3.221</td>
+            <td>456</td>
+            <td>4.638</td>
+        </tr>
+        <tr>
+            <td>Estados Unidos</td>
+            <td>1.669</td>
+            <td>4.743</td>
+            <td>-</td>
+            <td>6.411</td>
+        </tr>
+        <tr>
+            <td>Turquía</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Resto del mundo</td>
+            <td>33</td>
+            <td>1.461</td>
+            <td>231</td>
+            <td>1.725</td>
+        </tr>
+        <tr>
+            <td>Total </td>
+            <td>5.306</td>
+            <td>26.920</td>
+            <td>32.944</td>
+            <td>65.168</td>
+        </tr>
+    </tbody>
+</table>
 
 
 ### 22.2 Depósitos de la clientela
 
 La composición del saldo de este epígrafe de los balances consolidados adjuntos, por tipos de instrumentos financieros, se indica a continuación:
 
-IMAGE GOES HERE
+<table>
+    <thead>
+        <tr>
+            <th>Depósitos de la clientela</th>
+            <th>Notas</th>
+            <th>2016</th>
+            <th>2015</th>
+            <th>2014</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td> Administraciones Públicas </td>
+            <td>&nbsp;</td>
+            <td>21.359</td>
+            <td>25.343</td>
+            <td>22.122</td>
+        </tr>
+        <tr>
+            <td>De los que:</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td> Cesión temporal de activos</td>
+            <td>35</td>
+            <td>-</td>
+            <td>7.556</td>
+            <td>3.022</td>
+        </tr>
+        <tr>
+            <td> Cuentas corrientes</td>
+            <td>&nbsp;</td>
+            <td>123.401</td>
+            <td>112.273</td>
+            <td>96.414</td>
+        </tr>
+        <tr>
+            <td> Cuentas de ahorro</td>
+            <td>&nbsp;</td>
+            <td>88.835</td>
+            <td>82.975</td>
+            <td>65.555</td>
+        </tr>
+        <tr>
+            <td> Imposiciones a plazo</td>
+            <td>&nbsp;</td>
+            <td>153.123</td>
+            <td>165.125</td>
+            <td>111.796</td>
+        </tr>
+        <tr>
+            <td> Cesiones temporales de activos</td>
+            <td>35</td>
+            <td>13.491</td>
+            <td>15.711</td>
+            <td>21.595</td>
+        </tr>
+        <tr>
+            <td> Depósitos subordinados</td>
+            <td>&nbsp;</td>
+            <td>233</td>
+            <td>285</td>
+            <td>260</td>
+        </tr>
+        <tr>
+            <td> Otras cuentas</td>
+            <td>&nbsp;</td>
+            <td>329</td>
+            <td>812</td>
+            <td>677</td>
+        </tr>
+        <tr>
+            <td> Ajustes por valoración </td>
+            <td>&nbsp;</td>
+            <td>694</td>
+            <td>839</td>
+            <td>915</td>
+        </tr>
+        <tr>
+            <td>Total</td>
+            <td>&nbsp;</td>
+            <td>401.465</td>
+            <td>403.362</td>
+            <td>319.334</td>
+        </tr>
+        <tr>
+            <td>De los que:</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td> En euros</td>
+            <td>&nbsp;</td>
+            <td>189.438</td>
+            <td>203.053</td>
+            <td>162.844</td>
+        </tr>
+        <tr>
+            <td> En moneda extranjera</td>
+            <td>&nbsp;</td>
+            <td>212.027</td>
+            <td>200.309</td>
+            <td>156.489</td>
+        </tr>
+        <tr>
+            <td>De los que:</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td> Depósitos de la clientela sin intereses devengados</td>
+            <td>&nbsp;</td>
+            <td>400.742</td>
+            <td>402.689</td>
+            <td>318.657</td>
+        </tr>
+        <tr>
+            <td> Intereses devengados</td>
+            <td>&nbsp;</td>
+            <td>723</td>
+            <td>673</td>
+            <td>677</td>
+        </tr>
+    </tbody>
+</table>
 
 La composición del saldo de este epígrafe de los balances consolidados adjuntos, por tipos de instrumento y por área geográfica, es la siguiente:
 
-IMAGE GOES HERE
+<table>
+    <thead>
+        <tr>
+            <th>"Depósitos de la clientela</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Diciembre 2016"</td>
+            <td>"A la vista</td>
+        </tr>
+        <tr>
+            <td> y otros"</td>
+            <td>Plazo</td>
+            <td>Cesión temporal de activos</td>
+            <td>Total</td>
+        </tr>
+        <tr>
+            <td>España</td>
+            <td>102.730</td>
+            <td>56.391</td>
+            <td>1.901</td>
+            <td>161.022</td>
+        </tr>
+        <tr>
+            <td>Resto de Europa</td>
+            <td>6.959</td>
+            <td>19.683</td>
+            <td>4.306</td>
+            <td>30.949</td>
+        </tr>
+        <tr>
+            <td>México</td>
+            <td>36.468</td>
+            <td>10.647</td>
+            <td>7.002</td>
+            <td>54.117</td>
+        </tr>
+        <tr>
+            <td>América del Sur</td>
+            <td>26.997</td>
+            <td>23.023</td>
+            <td>263</td>
+            <td>50.282</td>
+        </tr>
+        <tr>
+            <td>Estados Unidos</td>
+            <td>47.340</td>
+            <td>14.971</td>
+            <td>-</td>
+            <td>62.311</td>
+        </tr>
+        <tr>
+            <td>Turquía</td>
+            <td>9.862</td>
+            <td>28.328</td>
+            <td>21</td>
+            <td>38.211</td>
+        </tr>
+        <tr>
+            <td>Resto del mundo</td>
+            <td>1.190</td>
+            <td>3.382</td>
+            <td>-</td>
+            <td>4.572</td>
+        </tr>
+        <tr>
+            <td>Total </td>
+            <td>231.547</td>
+            <td>156.425</td>
+            <td>13.493</td>
+            <td>401.465</td>
+        </tr>
+    </tbody>
+</table>
+
+<table>
+    <thead>
+        <tr>
+            <th>"Depósitos a la clientela</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Diciembre 2015"</td>
+            <td>"A la vista</td>
+        </tr>
+        <tr>
+            <td> y otros"</td>
+            <td>Plazo</td>
+            <td>Cesión temporal de activos</td>
+            <td>Total</td>
+        </tr>
+        <tr>
+            <td>España</td>
+            <td>86.564</td>
+            <td>70.816</td>
+            <td>11.309</td>
+            <td>168.689</td>
+        </tr>
+        <tr>
+            <td>Resto de Europa</td>
+            <td>5.514</td>
+            <td>22.833</td>
+            <td>7.423</td>
+            <td>35.770</td>
+        </tr>
+        <tr>
+            <td>México</td>
+            <td>36.907</td>
+            <td>10.320</td>
+            <td>4.195</td>
+            <td>51.422</td>
+        </tr>
+        <tr>
+            <td>América del Sur</td>
+            <td>24.574</td>
+            <td>19.591</td>
+            <td>304</td>
+            <td>44.469</td>
+        </tr>
+        <tr>
+            <td>Estados Unidos</td>
+            <td>47.071</td>
+            <td>15.893</td>
+            <td>24</td>
+            <td>62.988</td>
+        </tr>
+        <tr>
+            <td>Turquía</td>
+            <td>9.277</td>
+            <td>26.744</td>
+            <td>15</td>
+            <td>36.036</td>
+        </tr>
+        <tr>
+            <td>Resto del mundo</td>
+            <td>357</td>
+            <td>3.631</td>
+            <td>-</td>
+            <td>3.988</td>
+        </tr>
+        <tr>
+            <td>Total </td>
+            <td>210.264</td>
+            <td>169.828</td>
+            <td>23.270</td>
+            <td>403.362</td>
+        </tr>
+    </tbody>
+</table>
+
+<table>
+    <thead>
+        <tr>
+            <th>"Depósitos de la clientela</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Diciembre 2014"</td>
+            <td>"A la vista</td>
+        </tr>
+        <tr>
+            <td> y otros"</td>
+            <td>Plazo</td>
+            <td>Cesión temporal de activos</td>
+            <td>Total</td>
+        </tr>
+        <tr>
+            <td>España</td>
+            <td>43.732</td>
+            <td>90.206</td>
+            <td>9.783</td>
+            <td>143.721</td>
+        </tr>
+        <tr>
+            <td>Resto de Europa</td>
+            <td>2.267</td>
+            <td>7.884</td>
+            <td>8.036</td>
+            <td>18.187</td>
+        </tr>
+        <tr>
+            <td>Mexico</td>
+            <td>22.550</td>
+            <td>17.769</td>
+            <td>6.359</td>
+            <td>46.678</td>
+        </tr>
+        <tr>
+            <td>América del Sur</td>
+            <td>23.118</td>
+            <td>34.680</td>
+            <td>441</td>
+            <td>58.239</td>
+        </tr>
+        <tr>
+            <td>Estados Unidos</td>
+            <td>19.020</td>
+            <td>31.881</td>
+            <td>1</td>
+            <td>50.902</td>
+        </tr>
+        <tr>
+            <td>Resto del mundo</td>
+            <td>734</td>
+            <td>873</td>
+            <td>-</td>
+            <td>1.607</td>
+        </tr>
+        <tr>
+            <td>Total </td>
+            <td>111.421</td>
+            <td>183.293</td>
+            <td>24.620</td>
+            <td>319.334</td>
+        </tr>
+    </tbody>
+</table>
 
 
 ### 22.3 Valores representativos de deuda emitidos
 
 La composición del saldo de esta cuenta, por tipos de instrumentos financieros y por monedas, se indica a continuación:
 
-IMAGE GOES HERE
+<table>
+    <thead>
+        <tr>
+            <th>Valores representativos de deuda emitidos</th>
+            <th>2016</th>
+            <th>2015</th>
+            <th>2014</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>En euros </td>
+            <td>45.619</td>
+            <td>51.449</td>
+            <td>49.659</td>
+        </tr>
+        <tr>
+            <td>Pagares y efectos</td>
+            <td>841</td>
+            <td>456</td>
+            <td>410</td>
+        </tr>
+        <tr>
+            <td>Bonos y obligaciones no convertibles a tipo de interés variable</td>
+            <td>3.138</td>
+            <td>3.375</td>
+            <td>2.376</td>
+        </tr>
+        <tr>
+            <td>Bonos y obligaciones no convertibles a tipo de interés fijo</td>
+            <td>5.284</td>
+            <td>6.389</td>
+            <td>8.555</td>
+        </tr>
+        <tr>
+            <td>Cédulas hipotecarias</td>
+            <td>23.869</td>
+            <td>28.740</td>
+            <td>26.119</td>
+        </tr>
+        <tr>
+            <td>Pasivos financieros híbridos</td>
+            <td>450</td>
+            <td>384</td>
+            <td>234</td>
+        </tr>
+        <tr>
+            <td>Bonos de titulizaciones realizadas por el Grupo </td>
+            <td>3.548</td>
+            <td>4.580</td>
+            <td>4.741</td>
+        </tr>
+        <tr>
+            <td>Otros valores</td>
+            <td>-</td>
+            <td> -</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Intereses devengados y otros (*)</td>
+            <td>1.518</td>
+            <td>1.425</td>
+            <td>1.865</td>
+        </tr>
+        <tr>
+            <td>Pasivos subordinados</td>
+            <td>6.972</td>
+            <td>6.100</td>
+            <td>5.359</td>
+        </tr>
+        <tr>
+            <td>Convertibles</td>
+            <td>4.000</td>
+            <td>3.000</td>
+            <td>1.500</td>
+        </tr>
+        <tr>
+            <td> Valores perpetuos eventualmente convertibles</td>
+            <td>4.000</td>
+            <td>3.000</td>
+            <td>1.500</td>
+        </tr>
+        <tr>
+            <td> Bonos subordinados convertibles</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>No convertibles</td>
+            <td>2.852</td>
+            <td>3.040</td>
+            <td>3.778</td>
+        </tr>
+        <tr>
+            <td> Participaciones preferentes</td>
+            <td>359</td>
+            <td>357</td>
+            <td>1.033</td>
+        </tr>
+        <tr>
+            <td> Otros pasivos subordinados</td>
+            <td>2.493</td>
+            <td>2.683</td>
+            <td>2.745</td>
+        </tr>
+        <tr>
+            <td>Intereses devengados y otros (*)</td>
+            <td>120</td>
+            <td>60</td>
+            <td>81</td>
+        </tr>
+        <tr>
+            <td>En moneda extranjera </td>
+            <td>30.759</td>
+            <td>30.531</td>
+            <td>22.258</td>
+        </tr>
+        <tr>
+            <td>Pagares y efectos</td>
+            <td>377</td>
+            <td>192</td>
+            <td>660</td>
+        </tr>
+        <tr>
+            <td>Bonos y obligaciones no convertibles a tipo de interés variable</td>
+            <td>1.044</td>
+            <td>1.240</td>
+            <td>588</td>
+        </tr>
+        <tr>
+            <td>Bonos y obligaciones no convertibles a tipo de interés fijo</td>
+            <td>13.880</td>
+            <td>13.553</td>
+            <td>9.898</td>
+        </tr>
+        <tr>
+            <td>Cédulas hipotecarias</td>
+            <td>147</td>
+            <td>146</td>
+            <td>117</td>
+        </tr>
+        <tr>
+            <td>Pasivos financieros híbridos</td>
+            <td>2.030</td>
+            <td>2.392</td>
+            <td>1.945</td>
+        </tr>
+        <tr>
+            <td>Otros valores asociados a actividades financieras</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Bonos de titulizaciones realizadas por el Grupo </td>
+            <td>2.977</td>
+            <td>3.039</td>
+            <td>474</td>
+        </tr>
+        <tr>
+            <td>Otros valores</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Intereses devengados y otros (*)</td>
+            <td>288</td>
+            <td>254</td>
+            <td>114</td>
+        </tr>
+        <tr>
+            <td>Pasivos subordinados</td>
+            <td>10.016</td>
+            <td>9.715</td>
+            <td>8.462</td>
+        </tr>
+        <tr>
+            <td>Convertibles</td>
+            <td>1.487</td>
+            <td>1.439</td>
+            <td>1.235</td>
+        </tr>
+        <tr>
+            <td> Valores perpetuos eventualmente convertibles</td>
+            <td>1.487</td>
+            <td>1.439</td>
+            <td>1.235</td>
+        </tr>
+        <tr>
+            <td>No convertibles</td>
+            <td>8.134</td>
+            <td>7.818</td>
+            <td>6.833</td>
+        </tr>
+        <tr>
+            <td> Participaciones preferentes</td>
+            <td>629</td>
+            <td>616</td>
+            <td>876</td>
+        </tr>
+        <tr>
+            <td> Otros pasivos subordinados</td>
+            <td>7.505</td>
+            <td>7.202</td>
+            <td>5.957</td>
+        </tr>
+        <tr>
+            <td>Intereses devengados y otros (*)</td>
+            <td>394</td>
+            <td>458</td>
+            <td>394</td>
+        </tr>
+        <tr>
+            <td> Total</td>
+            <td>76.375</td>
+            <td>81.980</td>
+            <td>71.917</td>
+        </tr>
+    </tbody>
+</table>
 
 (*) Operaciones de cobertura y gastos de emisión.
 
@@ -2474,20 +17276,73 @@ Las emisiones de deuda senior realizadas por BBVA Senior Finance, S.A.U., BBVA U
 
 De los saldos anteriores, las emisiones de BBVA International Preferred, S.A.U., BBVA Subordinated Capital, S.A.U., BBVA Global Finance, Ltd., Caixa Terrassa Societat de Participacions Preferents, S.A.U. y CaixaSabadell Preferents, S.A.U. están garantizadas con carácter solidario e irrevocable por el Banco. La variación del saldo se debe fundamentalmente a las siguientes operaciones:
 
-##### Valores perpetuos eventualmente convertibles
+##### Valores perpetuos eventualmente convertibles 
 
 El 8 de abril de 2016, BBVA realizó la cuarta emisión de valores perpetuos eventualmente convertibles en acciones ordinarias de nueva emisión de BBVA (instrumentos de capital de nivel 1 adicional), con exclusión del derecho de suscripción preferente, por un importe de 1.000 millones de euros. Dicha emisión fue dirigida únicamente a inversores cualificados y clientes de banca privada extranjeros, cotiza en la Bolsa de Irlanda y en ningún caso podrá ser suscrita en España ni por inversores residentes en España.
 
 El 10 de febrero de 2015, BBVA realizó la tercera emisión de valores perpetuos eventualmente convertibles en acciones ordinarias de nueva emisión de BBVA (instrumentos de capital de nivel 1 adicional), con exclusión del derecho de suscripción preferente, por un importe de 1.500 millones de euros. Dicha emisión fue dirigida únicamente a inversores cualificados y clientes de banca privada extranjeros, cotiza en la Bolsa de Irlanda y en ningún caso podrá ser suscrita en España ni por inversores residentes en España.
 
-Estos valores perpetuos son convertibles en acciones ordinarias de nueva emisión de BBVA si la ratio de capital de nivel 1 ordinario del Banco a nivel individual o consolidado se sitúa por debajo del 5,125%, entre otros supuestos.
+Estos valores perpetuos son convertibles en acciones ordinarias de nueva emisión de BBVA si la ratio de capital de nivel 1 ordinario del Banco a nivel individual o consolidado se sitúa por debajo del 5,125%, entre otros supuestos. 
 Estas emisiones son amortizables, en su totalidad o parcialmente, por decisión de BBVA, una vez hayan transcurrido, al menos, cinco años desde su fecha de emisión, según las condiciones particulares de cada una de ellas, y con el consentimiento previo del Banco de España o de la autoridad que resulte competente.
 
 ###### Participaciones preferentes
 
 El desglose, por sociedades emisoras, del saldo de esta cuenta de los balances consolidados adjuntos se indica a continuación:
 
-IMAGE GOES HERE
+<table>
+    <thead>
+        <tr>
+            <th>Participaciones preferentes por sociedades emisoras</th>
+            <th>2016</th>
+            <th>2015</th>
+            <th>2014</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>BBVA International Preferred, S.A.U. (*)</td>
+            <td>855</td>
+            <td>842</td>
+            <td>1.750</td>
+        </tr>
+        <tr>
+            <td>Grupo Unnim (**)</td>
+            <td>100</td>
+            <td>109</td>
+            <td>109</td>
+        </tr>
+        <tr>
+            <td>Grupo Compass</td>
+            <td>22</td>
+            <td>22</td>
+            <td>20</td>
+        </tr>
+        <tr>
+            <td>BBVA Capital Finance, S.A.U. </td>
+            <td>-</td>
+            <td>-</td>
+            <td>25</td>
+        </tr>
+        <tr>
+            <td>BBVA Colombia, S.A.</td>
+            <td>1</td>
+            <td>1</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>BBVA International, Ltd. </td>
+            <td>-</td>
+            <td>-</td>
+            <td>7</td>
+        </tr>
+        <tr>
+            <td>Total</td>
+            <td>979</td>
+            <td>974</td>
+            <td>1.910</td>
+        </tr>
+    </tbody>
+</table>
 
 (*) Cotiza en las Bolsas de Londres y Nueva York.
 (**)  Grupo Unnim: Emisiones previas a la adquisición por parte de BBVA.
@@ -2503,9 +17358,51 @@ Asimismo, el 27 de febrero de 2015, BBVA Capital Finance, S.A.U., BBVA Internati
 El 27 de febrero de 2015, BBVA anunció la amortización anticipada total de emisiones de obligaciones subordinadas por un importe nominal de 36 millones de euros.
 
 ### 22.4  Otros pasivos financieros
+
 El desglose del saldo de este epígrafe de los balances consolidados adjuntos es:
 
-IMAGE GOES HERE
+<table>
+    <thead>
+        <tr>
+            <th>Otros pasivos financieros</th>
+            <th>2016</th>
+            <th>2015</th>
+            <th>2014</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Acreedores por otros pasivos financieros</td>
+            <td>3.465</td>
+            <td>3.303</td>
+            <td>1.692</td>
+        </tr>
+        <tr>
+            <td>Cuentas de recaudación</td>
+            <td>2.768</td>
+            <td>2.369</td>
+            <td>2.402</td>
+        </tr>
+        <tr>
+            <td>Acreedores por otras obligaciones a pagar</td>
+            <td>6.370</td>
+            <td>5.960</td>
+            <td>3.194</td>
+        </tr>
+        <tr>
+            <td>Dividendo a cuenta pendiente de pago (Nota 4)</td>
+            <td>525</td>
+            <td>509</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td> Total</td>
+            <td>13.129</td>
+            <td>12.141</td>
+            <td>7.288</td>
+        </tr>
+    </tbody>
+</table>
 
 
 ## 23. Activos y pasivos amparados por contratos de seguro o reaseguro
@@ -2514,7 +17411,7 @@ El Grupo realiza negocios de seguros, principalmente en España y en Latinoamér
 
 Los productos de ahorro tienen dos modalidades, una de seguros individuales, en los que se busca facilitar al cliente un ahorro finalista, para su jubilación o cualquier otro evento, y otros seguros colectivos que son contratados por empresas para cubrir los compromisos con sus empleados.
 
-La actividad aseguradora genera diferentes riesgos, incluyendo riesgos comunes a los del Grupo como son el riesgo de crédito, de mercado, de liquidez y operacional en los que se utilizan metodologías similares para su medición (ver Nota 7), si bien su gestión es diferenciada debido a las particulares características del negocio asegurador tales como la cobertura de las obligaciones contraídas o el plazo dilatado de los compromisos. Adicionalmente la actividad aseguradora genera riesgos específicos y diferenciales de este negocio, y de carácter probabilístico tales como:
+La actividad aseguradora genera diferentes riesgos, incluyendo riesgos comunes a los del Grupo como son el riesgo de crédito, de mercado, de liquidez y operacional en los que se utilizan metodologías similares para su medición (ver Nota 7), si bien su gestión es diferenciada debido a las particulares características del negocio asegurador tales como la cobertura de las obligaciones contraídas o el plazo dilatado de los compromisos. Adicionalmente la actividad aseguradora genera riesgos específicos y diferenciales de este negocio, y de carácter probabilístico tales como: 
 • Riesgo técnico: emerge ante desviaciones en la estimación de la siniestralidad de los seguros, ya sea en cuanto al número, al importe de dichos siniestros o al momento de su ocurrencia.
 • Riesgo biométrico: dependiente de las desviaciones en el comportamiento esperado de la mortalidad o la supervivencia de los asegurados.
 
@@ -2522,45 +17419,396 @@ El sector asegurador es un sector altamente regulado en cada geografía. En este
 
 Las provisiones más significativas registradas por las entidades aseguradoras consolidadas en lo que se refiere a las pólizas de seguros emitidas por ellas, se registran en el capítulo “Pasivos amparados por contratos de seguro o reaseguro” de los balances consolidados.
 
-El desglose del saldo de este capítulo de los balances consolidados adjuntos es:
+El desglose del saldo de este capítulo de los balances consolidados adjuntos es: 
 
-IMAGE GOES HERE
+<table>
+    <thead>
+        <tr>
+            <th>Provisiones técnicas por tipo de producto de seguro</th>
+            <th> 2016</th>
+            <th> 2015</th>
+            <th>2014</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Provisiones matemáticas</td>
+            <td>7.813</td>
+            <td>8.101</td>
+            <td>9.352</td>
+        </tr>
+        <tr>
+            <td>Seguros de vida individual (1)</td>
+            <td>4.791</td>
+            <td>4.294</td>
+            <td>5.683</td>
+        </tr>
+        <tr>
+            <td>Ahorro</td>
+            <td>3.943</td>
+            <td>3.756</td>
+            <td>5.073</td>
+        </tr>
+        <tr>
+            <td>Riesgo</td>
+            <td>848</td>
+            <td>526</td>
+            <td>610</td>
+        </tr>
+        <tr>
+            <td>Otros</td>
+            <td> -</td>
+            <td>12</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Seguros colectivos (2)</td>
+            <td>3.022</td>
+            <td>3.807</td>
+            <td>3.669</td>
+        </tr>
+        <tr>
+            <td>Ahorro</td>
+            <td>2.801</td>
+            <td>3.345</td>
+            <td>3.207</td>
+        </tr>
+        <tr>
+            <td>Riesgo</td>
+            <td>221</td>
+            <td>462</td>
+            <td>462</td>
+        </tr>
+        <tr>
+            <td>Otros</td>
+            <td> -</td>
+            <td>-</td>
+            <td> -</td>
+        </tr>
+        <tr>
+            <td>Provisiones para siniestros</td>
+            <td>691</td>
+            <td>697</td>
+            <td>578</td>
+        </tr>
+        <tr>
+            <td>Provisiones para riesgos en curso y otras provisiones</td>
+            <td>635</td>
+            <td>609</td>
+            <td>529</td>
+        </tr>
+        <tr>
+            <td>Total </td>
+            <td>9.139</td>
+            <td>9.407</td>
+            <td>10.460</td>
+        </tr>
+    </tbody>
+</table>
 
 A continuación se detallan los flujos de dichos pasivos amparados por contratos de seguro o reaseguro:
 
-IMAGE GOES HERE
+<table>
+    <thead>
+        <tr>
+            <th>Vencimientos residuales</th>
+            <th>Menos de 1 año</th>
+            <th>De 1 a 3 años</th>
+            <th>De 3 a 5 años</th>
+            <th>Más de 5 años</th>
+            <th>Total</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Pasivos amparados por contratos de seguro o reaseguro</td>
+            <td>1.705</td>
+            <td>1.214</td>
+            <td>1.482</td>
+            <td>4.738</td>
+            <td>9.139</td>
+        </tr>
+    </tbody>
+</table>
 
 Los métodos y técnicas de modelización que se utilizan para calcular las provisiones matemáticas de los productos de seguros son métodos actuariales y financieros y técnicas de modelización aprobadas por el correspondiente regulador o supervisor del país en el que se opera. Las aseguradoras del Grupo más importantes están ubicadas en España y en México (lo que representa, en conjunto, aproximadamente el 95% de la actividad de seguros) donde los métodos y técnicas de modelización están revisados por las autoridades de seguros en España (Dirección General de Seguros) y en México (Comisión Nacional de Seguros y Fianzas), respectivamente. Los métodos y técnicas de modelización utilizadas para calcular las provisiones matemáticas de los productos de seguros están en consonancia con las NIIF y consisten principalmente en la valoración de los flujos futuros de efectivo estimados, descontados al tipo de interés de técnico de cada póliza. Para poder asegurar dicho tipo de interés técnico se realiza una gestión de activo-pasivo, adquiriendo una cartera de valores que generen los flujos necesarios para cubrir los compromisos de pagos asumidos con clientes.
 
 La siguiente tabla muestra los supuestos clave para el cálculo de las provisiones matemáticas de seguros en España y México, respectivamente:
 
-IMAGE GOES HERE
+<table>
+    <thead>
+        <tr>
+            <th>Seguros de vida riesgo individual (1)</th>
+            <th>"GKMF80 PASEM/95%PASEM Hombre</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Tablas propias"</td>
+            <td>Tabla de la Comision Nacional de Seguros y Fianzas 2000-individual</td>
+            <td>1,15%-3,00%</td>
+            <td>2,5%</td>
+        </tr>
+        <tr>
+            <td>Seguros de ahorro (2)</td>
+            <td>PERMF2000/Tablas propias</td>
+            <td>Tabla de la Comision Nacional de Seguros y Fianzas 2000-grupo</td>
+            <td>1,37%-3,00%</td>
+            <td>5,5%</td>
+        </tr>
+    </tbody>
+</table>
 
-La siguiente tabla muestra las provisiones matemáticas por tipo de producto a 31 de diciembre de 2016, 2015 y 2014:
-
-IMAGE GOES HERE
-
-La tabla siguiente muestra la aportación de cada producto de seguros a los ingresos netos de gastos (ver Nota 43) del Grupo en los ejercicios 2016, 2015 y 2014:
-
-IMAGE GOES HERE
-
-El capítulo “Activos amparados por contratos de seguro o reaseguro” de los balances consolidados adjuntos recoge los importes que las entidades consolidadas tienen derecho a percibir con origen en los contratos de reaseguro que mantienen con terceras partes y, más concretamente, la participación del reaseguro en las provisiones técnicas constituidas por las entidades de seguros consolidadas. A 31 de diciembre de 2016, 2015 y 2014, el saldo era de 0000, 511 y 559 millones de euros, respectivamente.
+El capítulo “Activos amparados por contratos de seguro o reaseguro” de los balances consolidados adjuntos recoge los importes que las entidades consolidadas tienen derecho a percibir con origen en los contratos de reaseguro que mantienen con terceras partes y, más concretamente, la participación del reaseguro en las provisiones técnicas constituidas por las entidades de seguros consolidadas. A 31 de diciembre de 2016, 2015 y 2014, el saldo era de 447, 511 y 559 millones de euros, respectivamente.
 
 
 ## 24. Provisiones
 
 La composición del saldo de este epígrafe de los balances consolidados adjuntos, en función del tipo de provisiones que lo originan, es la siguiente:
 
-IMAGE IS HERE
+<table>
+    <thead>
+        <tr>
+            <th>Provisiones. Desglose por conceptos</th>
+            <th>Notas</th>
+            <th>2016</th>
+            <th>2015</th>
+            <th>2014</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Pensiones y otras obligaciones de prestaciones definidas post-empleo</td>
+            <td>25</td>
+            <td>6.025</td>
+            <td>6.299</td>
+            <td>5.970</td>
+        </tr>
+        <tr>
+            <td>Otras retribuciones a los empleados a largo plazo</td>
+            <td>25</td>
+            <td>69</td>
+            <td>68</td>
+            <td>62</td>
+        </tr>
+        <tr>
+            <td>Cuestiones procesales y litigios por impuestos pendientes</td>
+            <td>&nbsp;</td>
+            <td>418</td>
+            <td>616</td>
+            <td>262</td>
+        </tr>
+        <tr>
+            <td>Compromisos y garantías concedidos</td>
+            <td>&nbsp;</td>
+            <td>950</td>
+            <td>714</td>
+            <td>381</td>
+        </tr>
+        <tr>
+            <td>Restantes provisiones (*) (**)</td>
+            <td>&nbsp;</td>
+            <td>1.609</td>
+            <td>1.155</td>
+            <td>769</td>
+        </tr>
+        <tr>
+            <td>Total</td>
+            <td>&nbsp;</td>
+            <td>9.071</td>
+            <td>8.852</td>
+            <td>7.444</td>
+        </tr>
+    </tbody>
+</table>
+
+(*) A 31 de diciembre de 2016 este epígrafe incluye la provisión de 577 millones de euros por las conocidas “clausulas suelo” como se comenta más adelante.
+(**) A 31 de diciembre de 2015, este epígrafe engloba Provisiones por distintos conceptos y correspondientes a distintas geografías que, de manera individual, no son significativas, salvo las afloradas de la PPA de Catalunya Banc y de Garanti (ver Nota 18.1), en concepto de pasivos contingentes.
 
 Durante el ejercicio de 2016, la variación del saldo del epígrafe “Otras provisiones” y “Provisiones para riesgos y compromisos contingentes” se debe, fundamentalmente, a la toma de control del Grupo Garanti (tercer trimestre) y a la adquisición del Grupo Catalunya Banc (segundo trimestre).
 
 El movimiento del epígrafe “Provisiones para riesgos y compromisos contingentes” de los balances consolidados adjuntos se presenta en la Nota 7.3.8, conjuntamente con el movimiento de las pérdidas por deterioro de otros instrumentos financieros.
-A continuación se muestra el movimiento que se ha producido durante los ejercicios 2016, 2015 y 2014 en el saldo de los epígrafes de este capítulo:
 
-IMAGE IS HERE
+A continuación se muestra el movimiento que se ha producido durante los ejercicios 2016, 2015 y 2014 en el saldo de los epígrafes de este capítulo: 
 
-IMAGE IS HERE
+<table>
+    <thead>
+        <tr>
+            <th>"Fondos para pensiones y obligaciones similares.</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Movimientos del periodo"</td>
+            <td>Notas</td>
+            <td>2016</td>
+            <td>2015</td>
+            <td>2014</td>
+        </tr>
+        <tr>
+            <td>Saldo inicial</td>
+            <td>&nbsp;</td>
+            <td>6.299</td>
+            <td>5.970</td>
+            <td>5.512</td>
+        </tr>
+        <tr>
+            <td>Más -</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Cargos a resultados del ejercicio</td>
+            <td>&nbsp;</td>
+            <td>402</td>
+            <td>687</td>
+            <td>1.004</td>
+        </tr>
+        <tr>
+            <td> Intereses y cargas asimiladas</td>
+            <td>37.2</td>
+            <td>96</td>
+            <td>108</td>
+            <td>172</td>
+        </tr>
+        <tr>
+            <td> Gastos de personal</td>
+            <td>44.1</td>
+            <td>67</td>
+            <td>57</td>
+            <td>58</td>
+        </tr>
+        <tr>
+            <td> Dotaciones a provisiones</td>
+            <td>&nbsp;</td>
+            <td>239</td>
+            <td>522</td>
+            <td>774</td>
+        </tr>
+        <tr>
+            <td>Cargos a patrimonio neto (*)</td>
+            <td>25</td>
+            <td>356</td>
+            <td>135</td>
+            <td>497</td>
+        </tr>
+        <tr>
+            <td>Traspasos y otros movimientos (**)</td>
+            <td>&nbsp;</td>
+            <td>66</td>
+            <td>440</td>
+            <td>75</td>
+        </tr>
+        <tr>
+            <td>Menos -</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Prestaciones pagadas</td>
+            <td>25</td>
+            <td>(926)</td>
+            <td>(925)</td>
+            <td>(854)</td>
+        </tr>
+        <tr>
+            <td>Aportaciones de la empresa y otros movimientos</td>
+            <td>25</td>
+            <td>(154)</td>
+            <td>(8)</td>
+            <td>(264)</td>
+        </tr>
+        <tr>
+            <td>Saldo final </td>
+            <td>&nbsp;</td>
+            <td>6.043</td>
+            <td>6.299</td>
+            <td>5.970</td>
+        </tr>
+    </tbody>
+</table>
+
+(*) Corresponden a las pérdidas (ganancias) actuariales por ciertos compromisos de prestación definida por retribuciones post-empleo por pensiones con cargo a "Patrimonio Neto" (ver Nota 2.2.12)
+(**) El saldo del ejercicio 2015 corresponde principalmente a la incorporación de Garanti y Catalunya Banc (ver Nota 3).
+
+<table>
+    <thead>
+        <tr>
+            <th>Provisiones para impuestos, contingencias legales y otras provisiones. Movimientos del periodo</th>
+            <th>2016</th>
+            <th>2015</th>
+            <th>2014</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Saldo inicial</td>
+            <td>1.771</td>
+            <td>1.031</td>
+            <td>933</td>
+        </tr>
+        <tr>
+            <td>Más -</td>
+            <td>&nbsp;</td>
+            <td>-</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Cargo a resultados del ejercicio</td>
+            <td>1.109</td>
+            <td>334</td>
+            <td>387</td>
+        </tr>
+        <tr>
+            <td>Incorporación de sociedades al Grupo (*)</td>
+            <td>-</td>
+            <td>1.256</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Traspasos y otros movimientos</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Menos -</td>
+            <td>&nbsp;</td>
+            <td>-</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Fondos disponibles</td>
+            <td>(311)</td>
+            <td>(205)</td>
+            <td>(75)</td>
+        </tr>
+        <tr>
+            <td>Utilizaciones de fondos y otros movimientos</td>
+            <td>(540)</td>
+            <td>(645)</td>
+            <td>(214)</td>
+        </tr>
+        <tr>
+            <td>Salida de sociedades del Grupo</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Saldo al final</td>
+            <td>2.028</td>
+            <td>1.771</td>
+            <td>1.031</td>
+        </tr>
+    </tbody>
+</table>
+
+(*) Corresponden principalmente a la incorporación de Garanti y Catalunya Banc en el ejercicio 2015 (Nota 3).
 
 ###### Procedimientos y litigios judiciales en curso
 
@@ -2571,41 +17819,647 @@ Diversas entidades del Grupo son parte en procedimientos judiciales en varias ju
 
 Como se describe en la Nota 2.2.12, las entidades del Grupo tienen asumidos compromisos con los empleados que incluyen planes de aportación definida y de prestación definida (ver Glosario), compromisos por gastos médicos con sus empleados, así como otros compromisos post-empleo.
 
-El Grupo financia planes de aportación definida en casi la totalidad de los países donde tiene presencia, siendo los más significativos los planes existentes en España y México. La mayoría de los planes de prestación definida corresponden a personal jubilado, los cuales se encuentran cerrados a nuevas incorporaciones, siendo España, México, Estados Unidos y Turquía los países que concentran la mayor parte de compromisos. El Grupo también mantiene en México compromisos por gastos médicos para un colectivo cerrado de empleados y familiares, tanto para el periodo activo como una vez jubilado.
+El Grupo financia planes de aportación definida en casi la totalidad de los países donde tiene presencia, siendo los más significativos los planes existentes en España y México. La mayoría de los planes de prestación definida corresponden a personal jubilado, los cuales se encuentran cerrados a nuevas incorporaciones, siendo España, México, Estados Unidos y Turquía los países que concentran la mayor parte de compromisos. El Grupo también mantiene en México compromisos por gastos médicos para un colectivo cerrado de empleados y familiares, tanto para el periodo activo como una vez jubilado. 
 
 El desglose de los pasivos registrados en los balances consolidados a 31 de diciembre de 2016, 2015 y 2014, que corresponden únicamente a los compromisos de prestación definida, se muestra a continuación:
 
-IMAGE HERE
+<table>
+    <thead>
+        <tr>
+            <th>Pasivo (activo) neto en balance</th>
+            <th>2016</th>
+            <th>2015</th>
+            <th>2014</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Obligaciones por pensiones</td>
+            <td>5.277</td>
+            <td>5.306</td>
+            <td>4.737</td>
+        </tr>
+        <tr>
+            <td>Obligaciones por prejubilaciones</td>
+            <td>2.559</td>
+            <td>2.855</td>
+            <td>2.803</td>
+        </tr>
+        <tr>
+            <td>Obligaciones por planes médicos</td>
+            <td>1.015</td>
+            <td>1.023</td>
+            <td>1.083</td>
+        </tr>
+        <tr>
+            <td>Otras retribuciones a largo plazo</td>
+            <td>69</td>
+            <td>68</td>
+            <td>62</td>
+        </tr>
+        <tr>
+            <td>Total obligaciones</td>
+            <td>8.920</td>
+            <td>9.252</td>
+            <td>8.685</td>
+        </tr>
+        <tr>
+            <td>Activos afectos a planes por pensiones</td>
+            <td>1.909</td>
+            <td>1.974</td>
+            <td>1.697</td>
+        </tr>
+        <tr>
+            <td>Activos afectos a planes médicos</td>
+            <td>1.113</td>
+            <td>1.149</td>
+            <td>1.240</td>
+        </tr>
+        <tr>
+            <td>Total activos afectos (*)</td>
+            <td>3.022</td>
+            <td>3.124</td>
+            <td>2.937</td>
+        </tr>
+        <tr>
+            <td>Total pasivo / activo neto en balance</td>
+            <td>5.898</td>
+            <td>6.128</td>
+            <td>5.748</td>
+        </tr>
+    </tbody>
+</table>
+
+(*) Para Turquía, la fundación que gestiona los compromisos mantiene un activo adicional de 257 millones de euros que no ha sido reflejado en las cuentas, de acuerdo con la normativa NIIF-UE sobre el límite del activo, ya que, si bien puede ser utilizado para rebajar futuras contribuciones para las pensiones, no puede ser recuperado de forma inmediata.
+(**) Registrados en el epígrafe "Otros activos" de los balances consolidados (ver Nota 20).
+(***) Registrados en el epígrafe "Provisiones- Pensiones y otras obligaciones de prestaciones definidas post-empleo" de los balances consolidados (ver Nota 24).
+(****) Registrados en el epígrafe "Provisiones- Otras retribuciones a los empleados a largo plazo" de los balances consolidados.
+
 
 A continuación se presentan los costes registrados por compromisos post-empleo en las cuentas de pérdidas y ganancias consolidadas de los ejercicios 2016, 2015 y 2014:
 
-IMAGE HERE
+<table>
+    <thead>
+        <tr>
+            <th>Efectos en cuentas de pérdidas y ganancias consolidadas</th>
+            <th>Notas</th>
+            <th>2016</th>
+            <th>2015</th>
+            <th>2014</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Ingresos y gastos por intereses</td>
+            <td>37.2</td>
+            <td>96</td>
+            <td>108</td>
+            <td>172</td>
+        </tr>
+        <tr>
+            <td>Gastos por intereses</td>
+            <td>&nbsp;</td>
+            <td>303</td>
+            <td>309</td>
+            <td>336</td>
+        </tr>
+        <tr>
+            <td>Ingresos por intereses</td>
+            <td>&nbsp;</td>
+            <td>(207)</td>
+            <td>(201)</td>
+            <td>(165)</td>
+        </tr>
+        <tr>
+            <td>Gastos de personal</td>
+            <td>&nbsp;</td>
+            <td>154</td>
+            <td>141</td>
+            <td>121</td>
+        </tr>
+        <tr>
+            <td>Contribuciones a fondos de pensiones de aportación definida</td>
+            <td>44.1</td>
+            <td>87</td>
+            <td>84</td>
+            <td>63</td>
+        </tr>
+        <tr>
+            <td>Dotaciones a planes por pensiones de prestación definida</td>
+            <td>44.1</td>
+            <td>67</td>
+            <td>57</td>
+            <td>58</td>
+        </tr>
+        <tr>
+            <td>Provisiones o reversión de provisiones</td>
+            <td>46</td>
+            <td>332</td>
+            <td>592</td>
+            <td>816</td>
+        </tr>
+        <tr>
+            <td>Coste por prejubilaciones del período</td>
+            <td>&nbsp;</td>
+            <td>236</td>
+            <td>502</td>
+            <td>681</td>
+        </tr>
+        <tr>
+            <td>Coste de servicios pasados</td>
+            <td>&nbsp;</td>
+            <td>(2)</td>
+            <td>26</td>
+            <td>(29)</td>
+        </tr>
+        <tr>
+            <td>Pérdidas / ganancias actuariales (*)</td>
+            <td>&nbsp;</td>
+            <td>3</td>
+            <td>20</td>
+            <td>93</td>
+        </tr>
+        <tr>
+            <td>Resto de dotaciones</td>
+            <td>&nbsp;</td>
+            <td>95</td>
+            <td>44</td>
+            <td>71</td>
+        </tr>
+        <tr>
+            <td>Total efecto en las cuentas de pérdidas y ganancias consolidadas: cargos (abonos)</td>
+            <td>&nbsp;</td>
+            <td>582</td>
+            <td>841</td>
+            <td>1.109</td>
+        </tr>
+    </tbody>
+</table>
+
+ (*) Corresponden a las mediciones de la obligación neta por prestaciones definidas surgidas por prejubilaciones y otras retribuciones a largo plazo que se registran con cargo a resultados (ver Nota 2.2.12).
 
 A continuación se presentan los costes registrados por compromisos post-empleo en el patrimonio neto de los ejercicios 2016, 2015 y 2014:
 
-IMAGE HERE
+<table>
+    <thead>
+        <tr>
+            <th>Efectos en patrimonio neto</th>
+            <th>Notas</th>
+            <th>2016</th>
+            <th>2015</th>
+            <th>2014</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Planes por pensiones de prestación definida</td>
+            <td>&nbsp;</td>
+            <td>237</td>
+            <td>128</td>
+            <td>353</td>
+        </tr>
+        <tr>
+            <td>Planes médicos de prestación definida</td>
+            <td>&nbsp;</td>
+            <td>119</td>
+            <td>7</td>
+            <td>144</td>
+        </tr>
+        <tr>
+            <td>Total efecto en el patrimonio neto: cargos (abonos) (*)</td>
+            <td>2.2.12</td>
+            <td>356</td>
+            <td>135</td>
+            <td>497</td>
+        </tr>
+    </tbody>
+</table>
 
 ### 25.1 Planes de prestación definida
 
 Los compromisos incluidos en estos planes corresponden a personal jubilado o prejubilado del Grupo, a colectivos cerrados de empleados aún en activo para el caso de jubilación y a la mayoría de los empleados para los compromisos de incapacidad laboral permanente y fallecimiento en activo. Para estos últimos, el Grupo desembolsa las primas exigidas para su total aseguramiento. El movimiento de los compromisos para los ejercicios 2016, 2015 y 2014: se detalla a continuación:
 
-IMAGE GOES HERE
+<table>
+    <thead>
+        <tr>
+            <th>Saldo inicial</th>
+            <th>9.184</th>
+            <th>3.124</th>
+            <th>6.060</th>
+            <th>8.622</th>
+            <th>2.937</th>
+            <th>5.685</th>
+            <th>7.714</th>
+            <th>2.375</th>
+            <th>5.337</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Coste de servicios corriente</td>
+            <td>67</td>
+            <td>-</td>
+            <td>67</td>
+            <td>57</td>
+            <td> -</td>
+            <td>57</td>
+            <td>58</td>
+            <td>-</td>
+            <td>58</td>
+        </tr>
+        <tr>
+            <td>Gastos o ingresos por intereses</td>
+            <td>299</td>
+            <td>207</td>
+            <td>92</td>
+            <td>309</td>
+            <td>201</td>
+            <td>108</td>
+            <td>336</td>
+            <td>165</td>
+            <td>172</td>
+        </tr>
+        <tr>
+            <td>Aportaciones de los partícipes</td>
+            <td>5</td>
+            <td>5</td>
+            <td>-</td>
+            <td>2</td>
+            <td>2</td>
+            <td>-</td>
+            <td>1</td>
+            <td>1</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Aportaciones de la empresa</td>
+            <td>-</td>
+            <td>154</td>
+            <td>(154)</td>
+            <td>-</td>
+            <td>8</td>
+            <td>(8)</td>
+            <td>-</td>
+            <td>264</td>
+            <td>(264)</td>
+        </tr>
+        <tr>
+            <td>Coste por servicios pasados (1)</td>
+            <td>235</td>
+            <td>-</td>
+            <td>235</td>
+            <td>530</td>
+            <td> -</td>
+            <td>530</td>
+            <td>652</td>
+            <td>-</td>
+            <td>652</td>
+        </tr>
+        <tr>
+            <td>Pérdidas / (ganancias) actuariales:</td>
+            <td>354</td>
+            <td>(5)</td>
+            <td>359</td>
+            <td>42</td>
+            <td>(113)</td>
+            <td>155</td>
+            <td>769</td>
+            <td>178</td>
+            <td>590</td>
+        </tr>
+        <tr>
+            <td> Por rendimientos de los activos del plan (2)</td>
+            <td>-</td>
+            <td>(20)</td>
+            <td>20</td>
+            <td>-</td>
+            <td>(106)</td>
+            <td>106</td>
+            <td>-</td>
+            <td>178</td>
+            <td>(178)</td>
+        </tr>
+        <tr>
+            <td> Por cambios en hipótesis demográficas</td>
+            <td>107</td>
+            <td>-</td>
+            <td>107</td>
+            <td>8</td>
+            <td>-</td>
+            <td>8</td>
+            <td>31</td>
+            <td>-</td>
+            <td>31</td>
+        </tr>
+        <tr>
+            <td> Por cambios en hipótesis financieras</td>
+            <td>106</td>
+            <td>-</td>
+            <td>106</td>
+            <td>(53)</td>
+            <td>-</td>
+            <td>(53)</td>
+            <td>724</td>
+            <td>-</td>
+            <td>724</td>
+        </tr>
+        <tr>
+            <td> Otras pérdidas / (ganancias) actuariales</td>
+            <td>141</td>
+            <td>15</td>
+            <td>125</td>
+            <td>88</td>
+            <td>(7)</td>
+            <td>94</td>
+            <td>13</td>
+            <td>-</td>
+            <td>13</td>
+        </tr>
+        <tr>
+            <td>Prestaciones pagadas</td>
+            <td>(1.052)</td>
+            <td>(169)</td>
+            <td>(883)</td>
+            <td>(1.086)</td>
+            <td>(146)</td>
+            <td>(940)</td>
+            <td>(984)</td>
+            <td>(130)</td>
+            <td>(854)</td>
+        </tr>
+        <tr>
+            <td>Prestaciones pagadas (liquidaciones)</td>
+            <td>(43)</td>
+            <td>-</td>
+            <td>(43)</td>
+            <td>(2)</td>
+            <td>(17)</td>
+            <td>15</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Combinaciones de negocio y desinversiones</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>795</td>
+            <td>321</td>
+            <td>474</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Variaciones por tipos de cambio</td>
+            <td>(282)</td>
+            <td>(293)</td>
+            <td>11</td>
+            <td>(136)</td>
+            <td>(98)</td>
+            <td>(38)</td>
+            <td>43</td>
+            <td>53</td>
+            <td>(10)</td>
+        </tr>
+        <tr>
+            <td>Otros movimientos</td>
+            <td>84</td>
+            <td>-</td>
+            <td>84</td>
+            <td>50</td>
+            <td>28</td>
+            <td>22</td>
+            <td>33</td>
+            <td>31</td>
+            <td>3</td>
+        </tr>
+        <tr>
+            <td>Saldo al final</td>
+            <td>8.851</td>
+            <td>3.022</td>
+            <td>5.829</td>
+            <td>9.184</td>
+            <td>3.124</td>
+            <td>6.060</td>
+            <td>8.622</td>
+            <td>2.937</td>
+            <td>5.685</td>
+        </tr>
+        <tr>
+            <td>De los que:</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>España</td>
+            <td>6.157</td>
+            <td>358</td>
+            <td>5.799</td>
+            <td>6.491</td>
+            <td>380</td>
+            <td>6.111</td>
+            <td>6.212</td>
+            <td>382</td>
+            <td>5.830</td>
+        </tr>
+        <tr>
+            <td>México</td>
+            <td>1.456</td>
+            <td>1.627</td>
+            <td>(171)</td>
+            <td>1.527</td>
+            <td>1.745</td>
+            <td>(219)</td>
+            <td>1.643</td>
+            <td>1.908</td>
+            <td>(266)</td>
+        </tr>
+        <tr>
+            <td>Estados Unidos</td>
+            <td>385</td>
+            <td>339</td>
+            <td>46</td>
+            <td>362</td>
+            <td>329</td>
+            <td>33</td>
+            <td>362</td>
+            <td>324</td>
+            <td>38</td>
+        </tr>
+        <tr>
+            <td>Turquía</td>
+            <td>447</td>
+            <td>348</td>
+            <td>99</td>
+            <td>435</td>
+            <td>337</td>
+            <td>98</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
 
-El saldo del epígrafe “Provisiones – Pensiones y otras obligaciones de prestaciones definidas post-empleo” del balance consolidado adjunto a 31 de diciembre de 2016 incluye 0000 millones de euros en concepto de compromisos por prestaciones post-empleo mantenidos con anteriores miembros del Consejo de Administración y de la Alta Dirección del Banco.
+(1) Incluye ganancias y pérdidas por liquidación. 
+(2) Excluidos los intereses que se reflejan en la línea de "Gastos o ingresos por intereses".
+
+El saldo del epígrafe “Provisiones – Pensiones y otras obligaciones de prestaciones definidas post-empleo” del balance consolidado adjunto a 31 de diciembre de 2016 incluye 355 millones de euros en concepto de compromisos por prestaciones post-empleo mantenidos con anteriores miembros del Consejo de Administración y de la Alta Dirección del Banco. 
 
 Los compromisos más relevantes se encuentran en España y México y, en menor medida, en Estados Unidos y Turquía. El resto de compromisos se localizan mayoritariamente en Portugal y en América del Sur. Excepto en aquellos países que así lo establezca la normativa, todos los planes se encuentran cerrados para los nuevos empleados, que a cambio disponen de planes de aportación definida.
 
-Con el fin de garantizar el buen gobierno de los sistemas, el Grupo tiene establecidos Comités de compromisos donde participan diversas áreas de forma que se garantice la toma de decisiones considerando todos los impactos que estos llevan asociados. Tanto los costes como los valores actuales de los compromisos son determinados por actuarios cualificados independientes, que realizan las valoraciones utilizando el método de la “unidad de crédito proyectada”.
+Tanto los costes como los valores actuales de los compromisos son determinados por actuarios cualificados independientes, que realizan las valoraciones utilizando el método de la “unidad de crédito proyectada”. Con el fin de garantizar el buen gobierno de los sistemas, el Grupo tiene establecidos Comités de compromisos donde participan diversas áreas de forma que se garantice la toma de decisiones considerando todos los impactos que estos llevan asociados.
 
-La siguiente tabla recoge las principales hipótesis actuariales utilizadas en la valoración de los compromisos a 31 de diciembre de 2016:
+La siguiente tabla recoge las principales hipótesis actuariales utilizadas en la valoración de los compromisos a 31 de diciembre de 2016, 2015 y 2014:
 
-IMAGE GOES HERE
+<table>
+    <thead>
+        <tr>
+            <th>Tipo de descuento</th>
+            <th>1,50%</th>
+            <th>9,95%</th>
+            <th>4,04%</th>
+            <th>11,50%</th>
+            <th>2,00%</th>
+            <th>9,30%</th>
+            <th>4,30%</th>
+            <th>10,30%</th>
+            <th>2,25%</th>
+            <th>8,75%</th>
+            <th>3,97%</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Tasa de crecimiento de salarios</td>
+            <td>1,50%</td>
+            <td>4,75%</td>
+            <td>3,00%</td>
+            <td>9,30%</td>
+            <td>2,00%</td>
+            <td>4,75%</td>
+            <td>3,00%</td>
+            <td>8,60%</td>
+            <td>2,00%</td>
+            <td>4,75%</td>
+            <td>3,25%</td>
+        </tr>
+        <tr>
+            <td>Tasa de crecimiento de las pensiones</td>
+            <td>-</td>
+            <td>2,13%</td>
+            <td>-</td>
+            <td>7,80%</td>
+            <td>&nbsp;</td>
+            <td>2,13%</td>
+            <td>&nbsp;</td>
+            <td>7,10%</td>
+            <td>&nbsp;</td>
+            <td>2,13%</td>
+            <td>2,25%</td>
+        </tr>
+        <tr>
+            <td>Tasa de tendencia en el crecimiento de costes médicos</td>
+            <td>-</td>
+            <td>6,75%</td>
+            <td>-</td>
+            <td>10,92%</td>
+            <td>&nbsp;</td>
+            <td>6,75%</td>
+            <td>&nbsp;</td>
+            <td>9,94%</td>
+            <td>&nbsp;</td>
+            <td>6,75%</td>
+            <td>8,00%</td>
+        </tr>
+        <tr>
+            <td>Tablas de mortalidad</td>
+            <td>PERM/F 2000P</td>
+            <td>EMSSA97 (adjustment EMSSA09)</td>
+            <td>RP 2014</td>
+            <td>CSO2001</td>
+            <td>PERM/F 2000P</td>
+            <td>EMSSA 97</td>
+            <td>RP 2014</td>
+            <td>CSO2001</td>
+            <td>PERM/F 2000P</td>
+            <td>EMSSA 97</td>
+            <td>RP 2014</td>
+        </tr>
+    </tbody>
+</table>
 
-Además de los compromisos anteriores, el Grupo mantiene otros compromisos de menor relevancia económica, que mayoritariamente corresponden a premios por antigüedad consistentes en la entrega de una cuantía establecida o unos días de vacaciones que se disfrutarán cuando los empleados cumplan un determinado número de años de prestación de servicios efectivos. A 31 de diciembre de 2016, 2015 y 2014 el valor de estos compromisos ascendía a 000, 39 y 45 millones de euros, respectivamente. Los anteriores importes se encuentran registrados en el epígrafe “Provisiones - Restantes provisiones” de los balances consolidados adjuntos (ver Nota 24).
+Los tipos de descuento utilizados para actualizar los flujos futuros se han determinado tomando como referencia bonos corporativos de alta calidad (ver Nota 2.2.12) de cada una de las divisas (zona Euro para el caso de España, peso mexicano para México y dólar estadounidense para Estados Unidos) y gubernamental en nueva lira turca para el caso de Turquía.
 
-Como se describe anteriormente, las entidades del Grupo mantienen compromisos por pensiones y gastos médicos con sus empleados.
+El rendimiento esperado de los activos del Plan se corresponde con el tipo de descuento establecido.
 
-##### Retribuciones post-empleo y otras prestaciones a largo plazo
+Las edades de jubilación para los compromisos se determinan a la primera fecha en la que se tenga derecho a la jubilación, la pactada contractualmente en el caso de las prejubilaciones o mediante la utilización de tasas de jubilación. 
+
+Las variaciones de las principales hipótesis pueden afectar al cálculo de los compromisos. A continuación se muestra un cuadro de sensibilidades con el efecto que produciría en las obligaciones una variación en las hipótesis principales:
+
+<table>
+    <thead>
+        <tr>
+            <th>Tipo de descuento</th>
+            <th>50</th>
+            <th>(367)</th>
+            <th>401</th>
+            <th>(357)</th>
+            <th>391</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Tasa de crecimiento de salarios</td>
+            <td>50</td>
+            <td>9</td>
+            <td>(9)</td>
+            <td>9</td>
+            <td>(9)</td>
+        </tr>
+        <tr>
+            <td>Tasa de crecimiento de las pensiones</td>
+            <td>50</td>
+            <td>28</td>
+            <td>(27)</td>
+            <td>23</td>
+            <td>(22)</td>
+        </tr>
+        <tr>
+            <td>Tasa de tendencia en el crecimiento de costes médicos</td>
+            <td>100</td>
+            <td>263</td>
+            <td>(204)</td>
+            <td>213</td>
+            <td>(169)</td>
+        </tr>
+        <tr>
+            <td>Incremento en la obligación por año de longevidad</td>
+            <td>-</td>
+            <td>121</td>
+            <td>-</td>
+            <td>130</td>
+            <td> -</td>
+        </tr>
+    </tbody>
+</table>
+
+Las sensibilidades se han determinado a la fecha de los estados financieros consolidados, y se corresponden con la variación individual de cada una de las hipótesis manteniendo constante el resto, por lo que excluye posibles efectos combinados.
+
+Además de los compromisos anteriores, el Grupo mantiene otras retribuciones a largo plazo de menor relevancia económica, que mayoritariamente corresponden a premios por antigüedad consistentes en la entrega de una cuantía establecida o unos días de vacaciones que se disfrutarán cuando los empleados cumplan un determinado número de años de prestación de servicios efectivos. A 31 de diciembre de 2016, 2015 y 2014 el valor de estos compromisos ascendía a 69, 68 y 62 millones de euros, respectivamente. Los anteriores importes se encuentran registrados en el epígrafe “Provisiones – Otras retribuciones a los empleados a largo plazo” de los balances consolidados adjuntos (ver Nota 24).
+
+Como se describe anteriormente, las entidades del Grupo mantienen compromisos post-empleo por pensiones y gastos médicos con sus empleados.
+
+##### Compromisos post-empleo y otras obligaciones similares 
 
 Los compromisos corresponden mayoritariamente a pensiones en pago determinadas en base al salario y a los años de servicio. En la mayor parte de los planes, los pagos se originan por jubilación, fallecimiento e incapacidad laboral del empleado.
 
@@ -2613,11 +18467,689 @@ Adicionalmente, las sociedades españolas del Grupo ofrecieron a determinados em
 
 El movimiento de las obligaciones y los activos afectos a planes de prestación definida para el ejercicio 2016 es el siguiente:
 
-IMAGE GOES HERE
+<table>
+    <thead>
+        <tr>
+            <th>Saldo inicial</th>
+            <th>6.109</th>
+            <th>(79)</th>
+            <th>35</th>
+            <th>97</th>
+            <th>24</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Coste de servicios corriente</td>
+            <td>10</td>
+            <td>6</td>
+            <td>4</td>
+            <td>22</td>
+            <td>5</td>
+        </tr>
+        <tr>
+            <td>Gastos o ingresos por intereses</td>
+            <td>98</td>
+            <td>(7)</td>
+            <td>1</td>
+            <td>8</td>
+            <td>2</td>
+        </tr>
+        <tr>
+            <td>Aportaciones de los partícipes</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>0</td>
+        </tr>
+        <tr>
+            <td>Aportaciones de la empresa</td>
+            <td>-</td>
+            <td>(14)</td>
+            <td>(1)</td>
+            <td>(17)</td>
+            <td>(9)</td>
+        </tr>
+        <tr>
+            <td>Coste por servicios pasados (1)</td>
+            <td>240</td>
+            <td>1</td>
+            <td>-</td>
+            <td>4</td>
+            <td>(4)</td>
+        </tr>
+        <tr>
+            <td>Pérdidas / (ganancias) actuariales:</td>
+            <td>188</td>
+            <td>23</td>
+            <td>10</td>
+            <td>8</td>
+            <td>11</td>
+        </tr>
+        <tr>
+            <td>Por rendimientos de los activos del plan (2)</td>
+            <td>(35)</td>
+            <td>23</td>
+            <td>3</td>
+            <td>(23)</td>
+            <td>(23)</td>
+        </tr>
+        <tr>
+            <td>Por cambios en hipótesis demográficas</td>
+            <td>-</td>
+            <td>2</td>
+            <td>(5)</td>
+            <td>-</td>
+            <td>(1)</td>
+        </tr>
+        <tr>
+            <td>Por cambios en hipótesis financieras</td>
+            <td>192</td>
+            <td>(22)</td>
+            <td>13</td>
+            <td>(23)</td>
+            <td>37</td>
+        </tr>
+        <tr>
+            <td>Otras pérdidas / (ganancias) actuariales</td>
+            <td>31</td>
+            <td>19</td>
+            <td>(1)</td>
+            <td>54</td>
+            <td>(2)</td>
+        </tr>
+        <tr>
+            <td>Prestaciones pagadas</td>
+            <td>(867)</td>
+            <td>-</td>
+            <td>(3)</td>
+            <td>(9)</td>
+            <td>(2)</td>
+        </tr>
+        <tr>
+            <td>Prestaciones pagadas (liquidaciones)</td>
+            <td>(43)</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Combinaciones de negocio y desinversiones</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Variaciones por tipos de cambio</td>
+            <td>-</td>
+            <td>10</td>
+            <td>2</td>
+            <td>(15)</td>
+            <td>(4)</td>
+        </tr>
+        <tr>
+            <td>Otros movimientos</td>
+            <td>63</td>
+            <td>-</td>
+            <td>(3)</td>
+            <td>-</td>
+            <td>20</td>
+        </tr>
+        <tr>
+            <td>Saldo al final</td>
+            <td>5.799</td>
+            <td>(59)</td>
+            <td>46</td>
+            <td>99</td>
+            <td>42</td>
+        </tr>
+    </tbody>
+</table>
 
-El movimiento de las obligaciones/activos netas por planes de prestación definida para el ejercicio 2015 es el siguiente:
+<table>
+    <thead>
+        <tr>
+            <th>Saldo inicial</th>
+            <th>380</th>
+            <th>596</th>
+            <th>329</th>
+            <th>337</th>
+            <th>333</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Coste de servicios corriente</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Gastos o ingresos por intereses</td>
+            <td>7</td>
+            <td>49</td>
+            <td>13</td>
+            <td>33</td>
+            <td>9</td>
+        </tr>
+        <tr>
+            <td>Aportaciones de los partícipes</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>4</td>
+            <td>1</td>
+        </tr>
+        <tr>
+            <td>Aportaciones de la empresa</td>
+            <td>-</td>
+            <td>14</td>
+            <td>1</td>
+            <td>17</td>
+            <td>9</td>
+        </tr>
+        <tr>
+            <td>Coste por servicios pasados (1)</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Pérdidas / (ganancias) actuariales:</td>
+            <td>35</td>
+            <td>(23)</td>
+            <td>(3)</td>
+            <td>23</td>
+            <td>23</td>
+        </tr>
+        <tr>
+            <td>Por rendimientos de los activos del plan (2)</td>
+            <td>35</td>
+            <td>(23)</td>
+            <td>(3)</td>
+            <td>23</td>
+            <td>23</td>
+        </tr>
+        <tr>
+            <td>Por cambios en hipótesis demográficas</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Por cambios en hipótesis financieras</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Otras pérdidas / (ganancias) actuariales</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td> -</td>
+        </tr>
+        <tr>
+            <td>Prestaciones pagadas</td>
+            <td>(64)</td>
+            <td>(40)</td>
+            <td>(13)</td>
+            <td>(12)</td>
+            <td>(9)</td>
+        </tr>
+        <tr>
+            <td>Prestaciones pagadas (liquidaciones)</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Combinaciones de negocio y desinversiones</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Variaciones por tipos de cambio</td>
+            <td>-</td>
+            <td>(81)</td>
+            <td>11</td>
+            <td>(54)</td>
+            <td>(14)</td>
+        </tr>
+        <tr>
+            <td>Otros movimientos</td>
+            <td>-</td>
+            <td>-</td>
+            <td>1</td>
+            <td>-</td>
+            <td>(1)</td>
+        </tr>
+        <tr>
+            <td>Saldo al final</td>
+            <td>358</td>
+            <td>514</td>
+            <td>339</td>
+            <td>348</td>
+            <td>350</td>
+        </tr>
+    </tbody>
+</table>
 
-IMAGE GOES HERE
+<table>
+    <thead>
+        <tr>
+            <th>Saldo inicial</th>
+            <th>6.109</th>
+            <th>(79)</th>
+            <th>35</th>
+            <th>97</th>
+            <th>24</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Coste de servicios corriente</td>
+            <td>10</td>
+            <td>6</td>
+            <td>4</td>
+            <td>22</td>
+            <td>5</td>
+        </tr>
+        <tr>
+            <td>Gastos o ingresos por intereses</td>
+            <td>98</td>
+            <td>(7)</td>
+            <td>1</td>
+            <td>8</td>
+            <td>2</td>
+        </tr>
+        <tr>
+            <td>Aportaciones de los partícipes</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>0</td>
+        </tr>
+        <tr>
+            <td>Aportaciones de la empresa</td>
+            <td>-</td>
+            <td>(14)</td>
+            <td>(1)</td>
+            <td>(17)</td>
+            <td>(9)</td>
+        </tr>
+        <tr>
+            <td>Coste por servicios pasados (1)</td>
+            <td>240</td>
+            <td>1</td>
+            <td>-</td>
+            <td>4</td>
+            <td>(4)</td>
+        </tr>
+        <tr>
+            <td>Pérdidas / (ganancias) actuariales:</td>
+            <td>188</td>
+            <td>23</td>
+            <td>10</td>
+            <td>8</td>
+            <td>11</td>
+        </tr>
+        <tr>
+            <td>Por rendimientos de los activos del plan (2)</td>
+            <td>(35)</td>
+            <td>23</td>
+            <td>3</td>
+            <td>(23)</td>
+            <td>(23)</td>
+        </tr>
+        <tr>
+            <td>Por cambios en hipótesis demográficas</td>
+            <td>-</td>
+            <td>2</td>
+            <td>(5)</td>
+            <td>-</td>
+            <td>(1)</td>
+        </tr>
+        <tr>
+            <td>Por cambios en hipótesis financieras</td>
+            <td>192</td>
+            <td>(22)</td>
+            <td>13</td>
+            <td>(23)</td>
+            <td>37</td>
+        </tr>
+        <tr>
+            <td>Otras pérdidas / (ganancias) actuariales</td>
+            <td>31</td>
+            <td>19</td>
+            <td>(1)</td>
+            <td>54</td>
+            <td>(2)</td>
+        </tr>
+        <tr>
+            <td>Prestaciones pagadas</td>
+            <td>(867)</td>
+            <td>-</td>
+            <td>(3)</td>
+            <td>(9)</td>
+            <td>(2)</td>
+        </tr>
+        <tr>
+            <td>Prestaciones pagadas (liquidaciones)</td>
+            <td>(43)</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Combinaciones de negocio y desinversiones</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Variaciones por tipos de cambio</td>
+            <td>-</td>
+            <td>10</td>
+            <td>2</td>
+            <td>(15)</td>
+            <td>(4)</td>
+        </tr>
+        <tr>
+            <td>Otros movimientos</td>
+            <td>63</td>
+            <td>-</td>
+            <td>(3)</td>
+            <td>-</td>
+            <td>20</td>
+        </tr>
+        <tr>
+            <td>Saldo al final</td>
+            <td>5.799</td>
+            <td>(59)</td>
+            <td>46</td>
+            <td>99</td>
+            <td>42</td>
+        </tr>
+    </tbody>
+</table>
+
+(1) Incluye ganancias y pérdidas por liquidación. 
+(2) Excluidos los intereses que se reflejan en la línea de "Gastos o ingresos por intereses".
+
+El movimiento neto de los compromisos para los ejercicios 2015 y 2014 es el siguiente:
+
+<table>
+    <thead>
+        <tr>
+            <th>Saldo inicial</th>
+            <th>5.830</th>
+            <th>(94)</th>
+            <th>38</th>
+            <th> -</th>
+            <th>69</th>
+            <th>5.395</th>
+            <th>(38)</th>
+            <th>32</th>
+            <th>76</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Coste de servicios corriente</td>
+            <td>9</td>
+            <td>8</td>
+            <td>3</td>
+            <td>2</td>
+            <td>4</td>
+            <td>18</td>
+            <td>7</td>
+            <td>5</td>
+            <td>6</td>
+        </tr>
+        <tr>
+            <td>Gastos o ingresos por intereses</td>
+            <td>123</td>
+            <td>(10)</td>
+            <td>1</td>
+            <td>4</td>
+            <td>3</td>
+            <td>169</td>
+            <td>(3)</td>
+            <td>2</td>
+            <td>17</td>
+        </tr>
+        <tr>
+            <td>Aportaciones de los partícipes</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Aportaciones de la empresa</td>
+            <td>-</td>
+            <td>(1)</td>
+            <td>-</td>
+            <td>-</td>
+            <td>(7)</td>
+            <td>-</td>
+            <td>(72)</td>
+            <td>(2)</td>
+            <td>(7)</td>
+        </tr>
+        <tr>
+            <td>Coste por servicios pasados (1)</td>
+            <td>550</td>
+            <td>(15)</td>
+            <td>-</td>
+            <td>2</td>
+            <td> -</td>
+            <td>683</td>
+            <td>-</td>
+            <td>(20)</td>
+            <td>(12)</td>
+        </tr>
+        <tr>
+            <td>Pérdidas / (ganancias) actuariales:</td>
+            <td>112</td>
+            <td>29</td>
+            <td>(9)</td>
+            <td>10</td>
+            <td>7</td>
+            <td>394</td>
+            <td>12</td>
+            <td>19</td>
+            <td>20</td>
+        </tr>
+        <tr>
+            <td>Por rendimientos de los activos del plan (2)</td>
+            <td>-</td>
+            <td>50</td>
+            <td>19</td>
+            <td>(54)</td>
+            <td>(3)</td>
+            <td>-</td>
+            <td>(27)</td>
+            <td>(47)</td>
+            <td>(59)</td>
+        </tr>
+        <tr>
+            <td>Por cambios en hipótesis demográficas</td>
+            <td>-</td>
+            <td>-</td>
+            <td>(7)</td>
+            <td>15</td>
+            <td>-</td>
+            <td>-</td>
+            <td>1</td>
+            <td>31</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Por cambios en hipótesis financieras</td>
+            <td>101</td>
+            <td>(23)</td>
+            <td>(18)</td>
+            <td>(25)</td>
+            <td>3</td>
+            <td>398</td>
+            <td>38</td>
+            <td>39</td>
+            <td>69</td>
+        </tr>
+        <tr>
+            <td>Otras pérdidas / (ganancias) actuariales</td>
+            <td>11</td>
+            <td>2</td>
+            <td>(3)</td>
+            <td>74</td>
+            <td>7</td>
+            <td>(4)</td>
+            <td>-</td>
+            <td>(3)</td>
+            <td>10</td>
+        </tr>
+        <tr>
+            <td>Prestaciones pagadas</td>
+            <td>(913)</td>
+            <td>-</td>
+            <td>(20)</td>
+            <td>(4)</td>
+            <td>(3)</td>
+            <td>(847)</td>
+            <td>-</td>
+            <td>(3)</td>
+            <td>(4)</td>
+        </tr>
+        <tr>
+            <td>Prestaciones pagadas (liquidaciones)</td>
+            <td>-</td>
+            <td>-</td>
+            <td>17</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Combinaciones de negocio y desinversiones</td>
+            <td>378</td>
+            <td>-</td>
+            <td>-</td>
+            <td>96</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Variaciones por tipos de cambio</td>
+            <td>1</td>
+            <td>5</td>
+            <td>4</td>
+            <td>(11)</td>
+            <td>(45)</td>
+            <td>1</td>
+            <td>-</td>
+            <td>6</td>
+            <td>(16)</td>
+        </tr>
+        <tr>
+            <td>Otros movimientos</td>
+            <td>23</td>
+            <td>1</td>
+            <td>(1)</td>
+            <td> -</td>
+            <td>(1)</td>
+            <td>17</td>
+            <td>-</td>
+            <td>(1)</td>
+            <td>(13)</td>
+        </tr>
+        <tr>
+            <td>Saldo al final</td>
+            <td>6.111</td>
+            <td>(78)</td>
+            <td>33</td>
+            <td>98</td>
+            <td>23</td>
+            <td>5.830</td>
+            <td>(82)</td>
+            <td>38</td>
+            <td>89</td>
+        </tr>
+        <tr>
+            <td>de los que:</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td> Obligaciones no causadas</td>
+            <td>172</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>221</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td> Obligaciones causadas</td>
+            <td>5.939</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>5.609</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
+
+(1) Incluye ganancias y pérdidas por liquidación. 
+(2) Excluidos los intereses que se reflejan en la línea de "Gastos o ingresos por intereses".
 
 En España, la normativa establece que los compromisos por pensiones de jubilación y fallecimiento deben estar cubiertos mediante un Plan de Pensiones o mediante pólizas de Seguros.
 
@@ -2638,23 +19170,288 @@ La Fundación que mantiene los activos y pasivos correspondientes a los empleado
 
 Adicionalmente Garanti tiene constituido un plan de pensiones de prestación definida para los empleados, complementario a las prestaciones otorgadas por la seguridad social, que se encuentra reflejado en el balance consolidado.
 
-
 ##### Compromisos por gastos médicos
+
 El movimiento de los compromisos médicos para los ejercicios 2016, 2015 y 2014 se detalla a continuación:
 
-IMAGE GOES HERE
+<table>
+    <thead>
+        <tr>
+            <th>Coste de servicios corriente</th>
+            <th>24</th>
+            <th>-</th>
+            <th>24</th>
+            <th>31</th>
+            <th>-</th>
+            <th>31</th>
+            <th>23</th>
+            <th>-</th>
+            <th>23</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Gastos o ingresos por intereses</td>
+            <td>86</td>
+            <td>97</td>
+            <td>(11)</td>
+            <td>95</td>
+            <td>109</td>
+            <td>(14)</td>
+            <td>78</td>
+            <td>90</td>
+            <td>(13)</td>
+        </tr>
+        <tr>
+            <td>Aportaciones de los partícipes</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Aportaciones de la empresa</td>
+            <td>-</td>
+            <td>114</td>
+            <td>(114)</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>183</td>
+            <td>(183)</td>
+        </tr>
+        <tr>
+            <td>Coste por servicios pasados (1)</td>
+            <td>(5)</td>
+            <td>-</td>
+            <td>(5)</td>
+            <td>1</td>
+            <td>-</td>
+            <td>1</td>
+            <td>1</td>
+            <td>-</td>
+            <td>1</td>
+        </tr>
+        <tr>
+            <td>Pérdidas / (ganancias) actuariales:</td>
+            <td>59</td>
+            <td>(60)</td>
+            <td>119</td>
+            <td>(87)</td>
+            <td>(94)</td>
+            <td>7</td>
+            <td>190</td>
+            <td>46</td>
+            <td>144</td>
+        </tr>
+        <tr>
+            <td>Por rendimientos de los activos del plan (2)</td>
+            <td>-</td>
+            <td>(60)</td>
+            <td>60</td>
+            <td>-</td>
+            <td>(94)</td>
+            <td>94</td>
+            <td>-</td>
+            <td>46</td>
+            <td>(46)</td>
+        </tr>
+        <tr>
+            <td>Por cambios en hipótesis demográficas</td>
+            <td>110</td>
+            <td>-</td>
+            <td>110</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Por cambios en hipótesis financieras</td>
+            <td>(91)</td>
+            <td>-</td>
+            <td>(91)</td>
+            <td>(91)</td>
+            <td>-</td>
+            <td>(91)</td>
+            <td>181</td>
+            <td>-</td>
+            <td>181</td>
+        </tr>
+        <tr>
+            <td>Otras pérdidas / (ganancias) actuariales</td>
+            <td>39</td>
+            <td>-</td>
+            <td>39</td>
+            <td>4</td>
+            <td>-</td>
+            <td>4</td>
+            <td>10</td>
+            <td>-</td>
+            <td>10</td>
+        </tr>
+        <tr>
+            <td>Prestaciones pagadas</td>
+            <td>(33)</td>
+            <td>(30)</td>
+            <td>(2)</td>
+            <td>(30)</td>
+            <td>(30)</td>
+            <td>-</td>
+            <td>(29)</td>
+            <td>(28)</td>
+            <td>(1)</td>
+        </tr>
+        <tr>
+            <td>Prestaciones pagadas (liquidaciones)</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>(2)</td>
+            <td>-</td>
+            <td>(2)</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Combinaciones de negocio y desinversiones</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Variaciones por tipos de cambio</td>
+            <td>(138)</td>
+            <td>(156)</td>
+            <td>18</td>
+            <td>(69)</td>
+            <td>(76)</td>
+            <td>8</td>
+            <td>9</td>
+            <td>10</td>
+            <td>(1)</td>
+        </tr>
+        <tr>
+            <td>Otros movimientos</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>1</td>
+            <td>(1)</td>
+        </tr>
+        <tr>
+            <td>Saldo al final</td>
+            <td>1.015</td>
+            <td>1.113</td>
+            <td>(98)</td>
+            <td>1.022</td>
+            <td>1.149</td>
+            <td>(127)</td>
+            <td>1.083</td>
+            <td>1.240</td>
+            <td>(157)</td>
+        </tr>
+    </tbody>
+</table>
 
-La valoración de estos compromisos así como su reflejo contable se realiza de igual forma que los compromisos por pensiones.
+(1) Incluye ganancias y pérdidas por liquidación.
+(2) Excluidos los intereses que se reflejan en la línea de "Gastos o ingresos por intereses".
 
 En México existe un plan de gastos médicos para los empleados cuya fecha de ingreso es anterior a 2007. Los empleados contratados posteriormente cuentan con pólizas de seguros de salud. De acuerdo a la regulación local y a la política del Grupo, existen fondos en fideicomisos para hacer frente al pago de estas coberturas.
 
 En Turquía la cobertura de Salud correspondiente a los empleados se viene otorgando a través de una fundación colaboradora del Sistema de Seguridad Social, si bien, está legalmente prevista la unificación futura de los diversos sistemas existentes en la propia Seguridad Social.
 
+La valoración de estos compromisos así como su reflejo contable se realiza de igual forma que los compromisos por pensiones.
+
 ##### Distribución esperada de pagos
 
 La estimación de pago de las distintas prestaciones para el conjunto de sociedades en España, México, Estados Unidos y Turquía en los próximos 10 años es la siguiente:
 
-IMAGE GOES HERE
+<table>
+    <thead>
+        <tr>
+            <th>Prestaciones esperadas a pagar</th>
+            <th>&nbsp;</th>
+            <th>2017</th>
+            <th>2018</th>
+            <th>2019</th>
+            <th>2020</th>
+            <th>2021</th>
+            <th>2022-2026</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Compromisos en España</td>
+            <td>&nbsp;</td>
+            <td>820</td>
+            <td>736</td>
+            <td>652</td>
+            <td>563</td>
+            <td>470</td>
+            <td>1.269</td>
+        </tr>
+        <tr>
+            <td>Compromisos en México</td>
+            <td>&nbsp;</td>
+            <td>79</td>
+            <td>80</td>
+            <td>84</td>
+            <td>88</td>
+            <td>93</td>
+            <td>556</td>
+        </tr>
+        <tr>
+            <td>Compromisos en Estados Unidos</td>
+            <td>&nbsp;</td>
+            <td>17</td>
+            <td>18</td>
+            <td>18</td>
+            <td>19</td>
+            <td>20</td>
+            <td>112</td>
+        </tr>
+        <tr>
+            <td>Compromisos en Turquía</td>
+            <td>&nbsp;</td>
+            <td>25</td>
+            <td>15</td>
+            <td>16</td>
+            <td>18</td>
+            <td>21</td>
+            <td>165</td>
+        </tr>
+        <tr>
+            <td>Total</td>
+            <td>&nbsp;</td>
+            <td>941</td>
+            <td>849</td>
+            <td>770</td>
+            <td>688</td>
+            <td>604</td>
+            <td>2.102</td>
+        </tr>
+    </tbody>
+</table>
 
 ##### Activos afectos
 
@@ -2669,19 +19466,142 @@ La política de inversión de los planes tiene como principio la inversión en a
 En aquellos países con activos asociados a los planes en forma de fondos de pensiones, la estrategia de inversión se gestiona de manera acorde a la regulación local existente. Para el establecimiento de la asignación de activos específicos se considera tanto la situación presente de los mercados como el perfil de riesgo de los activos y su posible evolución futura. En todos los casos, BBVA considera para su selección que los activos sean acordes con el vencimiento de los compromisos y con sus necesidades de liquidez a corto plazo.
 
 Los riesgos asociados podrían surgir por un déficit en los activos afectos por diversos factores como una caída en el valor de mercado de las inversiones, o un incremento del tipo de interés a largo plazo que disminuya el valor de los títulos a plazo fijo; un empeoramiento de la economía que lleve a más fallidos y rebajas en la calificación crediticia.
+
 En el cuadro adjunto se detalla la composición por categoría de activos mantenidos por las principales sociedades del Grupo, a 31 de diciembre de 2016:
 
-IMAGE GOES HERE
+<table>
+    <thead>
+        <tr>
+            <th>Composición de los activos de los planes</th>
+            <th>2016</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Efectivo y equivalentes</td>
+            <td>151</td>
+        </tr>
+        <tr>
+            <td>Instrumentos de capital</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Valores representativos de deuda (deuda pública)</td>
+            <td>2.150</td>
+        </tr>
+        <tr>
+            <td>Bonos nacionales</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Deuda Pública Mexicana</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Deuda Pública Estados Unidos</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Bonos de resto de países</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Bonos indexados</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Inmuebles y bienes</td>
+            <td>1</td>
+        </tr>
+        <tr>
+            <td>Derivados</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Fondos de inversión</td>
+            <td>1</td>
+        </tr>
+        <tr>
+            <td>Valores garantizados por activos</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Deuda estructurada</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Contratos de seguros</td>
+            <td>5</td>
+        </tr>
+        <tr>
+            <td>Otras inversiones</td>
+            <td>9</td>
+        </tr>
+        <tr>
+            <td>Total</td>
+            <td>2.317</td>
+        </tr>
+        <tr>
+            <td>De los que:</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Cuentas bancarias en BBVA</td>
+            <td>4</td>
+        </tr>
+        <tr>
+            <td>Valores representativos de deuda emitidos por BBVA</td>
+            <td>3</td>
+        </tr>
+    </tbody>
+</table>
 
 Adicionalmente, existen activos afectos a contratos de seguros en España y a una fundación en Turquía, tal como se ha mencionado anteriormente.
 
 El siguiente cuadro desglosa para a 31 de diciembre de 2016 la inversión en mercados cotizados (Nivel 1):
-IMAGE GOES HERE
+
+<table>
+    <thead>
+        <tr>
+            <th>Inversión en mercados cotizados</th>
+            <th>2016</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Efectivo y equivalentes</td>
+            <td>151</td>
+        </tr>
+        <tr>
+            <td>Valores representativos de deuda (deuda pública)</td>
+            <td>2.150</td>
+        </tr>
+        <tr>
+            <td>Fondos de inversión</td>
+            <td>1</td>
+        </tr>
+        <tr>
+            <td>Total</td>
+            <td>2.302</td>
+        </tr>
+        <tr>
+            <td>De los que:</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Cuentas bancarias en BBVA</td>
+            <td>4</td>
+        </tr>
+        <tr>
+            <td>Valores representativos de deuda emitidos por BBVA</td>
+            <td>3</td>
+        </tr>
+    </tbody>
+</table>
 
 El resto de activos se encuentran invertidos principalmente en activos de Nivel 2 de acuerdo a la clasificación establecida en NIIF 13 (básicamente pólizas de seguros). A 31 de diciembre de 2016, casi la totalidad de los activos afectos a los compromisos con empleados correspondían a valores de renta fija.
 
-
-### 25.2 Planes de aportación definida
+### 25.2 Planes de aportación definida 
 
 Algunas sociedades del Grupo cuentan con planes de aportación definida, permitiendo en algunos casos que los empleados realicen aportaciones que posteriormente complementa la sociedad.
 
@@ -2698,11 +19618,60 @@ Adicionalmente, a 31 de diciembre de 2016 las acciones de BBVA Banco Continental
 
 A 0000 de 0000 de 2016, State Street Bank and Trust Co., Chase Nominees Ltd. y The Bank of New York Mellon SA NV en su condición de bancos custodios/depositarios internacionales, ostentaban un 0000%, un 0000% y un 0000% del capital social de BBVA, respectivamente. De las posiciones mantenidas por los custodios, no se tiene conocimiento de la existencia de accionistas individuales con participaciones directas o indirectas iguales o superiores al 3% del capital social de BBVA.
 La sociedad Blackrock Inc., con fecha 0000 de 0000 de 2016, comunicó a la Comisión Nacional del Mercado de Valores (CNMV) que pasó a tener una participación indirecta en el capital social de Banco Bilbao Vizcaya Argentaria, S.A., de 0000% de derechos de voto atribuidos a las acciones, más 0000% de derechos de voto a través de instrumentos financieros.
+
 No se tiene conocimiento de la existencia de participaciones directas o indirectas a través de las cuales se ejerza el control sobre el Banco. BBVA no ha recibido comunicación alguna acreditativa de la existencia de pactos parasociales que incluyan la regulación del ejercicio del derecho de voto en sus Juntas Generales de Accionistas o que restrinjan o condicionen la libre transmisibilidad de las acciones de BBVA. Tampoco se tiene conocimiento de ningún acuerdo que pudiera dar lugar a una toma de control del Banco.
 
 Los movimientos del capítulo “Capital” de los balances consolidados adjuntos se deben a las siguientes ampliaciones de capital:
 
-IMAGE GOES HERE
+<table>
+    <thead>
+        <tr>
+            <th>Aumentos de Capital</th>
+            <th>Nº de acciones</th>
+            <th>"Capital</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>(Millones de euros)"</td>
+        </tr>
+        <tr>
+            <td>Saldo a 31 Diciembre 2014</td>
+            <td>6.171.338.995</td>
+            <td>3.024</td>
+        </tr>
+        <tr>
+            <td>Dividendo Opción - Enero 2015</td>
+            <td>53.584.943</td>
+            <td>26</td>
+        </tr>
+        <tr>
+            <td>Dividendo Opción - Abril 2015</td>
+            <td>80.314.074</td>
+            <td>39</td>
+        </tr>
+        <tr>
+            <td>Dividendo Opción - Octubre 2015</td>
+            <td>61.442.106</td>
+            <td>30</td>
+        </tr>
+        <tr>
+            <td>Saldo a 31 Diciembre 2015</td>
+            <td>6.366.680.118</td>
+            <td>3.120</td>
+        </tr>
+        <tr>
+            <td>Dividendo Opción - Abril 2016</td>
+            <td>113.677.807</td>
+            <td>56</td>
+        </tr>
+        <tr>
+            <td>Dividendo Opción - Octubre 2016</td>
+            <td>86.257.317</td>
+            <td>42</td>
+        </tr>
+    </tbody>
+</table>
 
 ##### Programa “Dividendo Opción” ejercicio 2016
 
@@ -2723,7 +19692,7 @@ Asimismo, el Consejo de Administración de BBVA, en su reunión de 30 de septiem
 
 La Junta General Ordinaria de Accionistas del Banco celebrada el 16 de marzo de 2012 acordó, en el punto tercero del orden del día, delegar en el Consejo de Administración la facultad de aumentar el capital social, mediante aportaciones dinerarias, de acuerdo con lo previsto en el artículo 297.1.b) de la Ley de Sociedades de Capital, en una o varias veces, dentro del plazo legal de cinco años desde la fecha de adopción del acuerdo, hasta un importe nominal máximo del 50% del capital social suscrito y desembolsado en la fecha de adopción del acuerdo. Asimismo, se acordó facultar al Consejo de Administración para poder excluir el derecho de suscripción preferente en dichos aumentos de capital, de acuerdo con los términos del artículo 506 de la Ley de Sociedades de Capital, quedando esta facultad limitada a la cantidad correspondiente al 20% del capital social del Banco en la fecha de adopción del acuerdo.
 
-En su reunión celebrada el 19 de noviembre de 2014, el Consejo de Administración de BBVA, en uso de la delegación otorgada por la Junta General de Accionistas de 16 de marzo de 2012, en el punto tercero de su orden del día, acordó llevar a cabo un aumento de capital con exclusión del derecho de suscripción preferente y con cargo a aportaciones dinerarias, mediante un procedimiento de colocación privada acelerada denominado "Accelerated Bookbuilt Offering".
+En su reunión celebrada el 19 de noviembre de 2014, el Consejo de Administración de BBVA, en uso de la delegación otorgada por la Junta General de Accionistas de 16 de marzo de 2012, en el punto tercero de su orden del día, acordó llevar a cabo un aumento de capital con exclusión del derecho de suscripción preferente y con cargo a aportaciones dinerarias, mediante un procedimiento de colocación privada acelerada denominado "Accelerated Bookbuilt Offering". 
 
 El 20 de noviembre de 2014 se ejecutó efectivamente el aumento de capital, por un importe nominal total de 118.787.879,56 euros, mediante la emisión de 242.424.244 acciones ordinarias de BBVA, de 0,49 euros de valor nominal cada una de ellas, de la misma clase y serie que las actualmente en circulación. El tipo de emisión de estas nuevas acciones se fijó en la cantidad de 8,25 euros por acción (correspondiendo 0,49 euros al valor nominal y 7,76 euros a la prima de emisión). En consecuencia, el importe efectivo total del aumento de Capital ascendió a 2.000.000.013 euros, correspondiendo 118.787.879,56 euros al importe nominal y 1.881.212.133,44 euros a la prima de emisión (ver Nota 28).
 
@@ -2740,9 +19709,7 @@ La Junta General Ordinaria de Accionistas del Banco celebrada el 13 de marzo de 
 
 ## 27. Prima de emisión
 
-Las variaciones de los saldos de este epígrafe de los balances consolidados adjuntos fueron debidas a las ampliaciones de capital realizadas en 2014 (ver Nota 27), como se detalla a continuación:
-
-IMAGE GOES HERE
+No existe ninguna variación en los saldos para los años 2016 y 2015 para la prima de emisión de los balances consolidados adjuntos, manteniéndose el saldo de 23.992 millones de euros desde las ampliaciones de capital llevadas a cabo en 2014 (ver Nota 26).
 
 El Texto Refundido de la Ley de Sociedades de Capital permite expresamente la utilización del saldo de la prima de emisión para ampliar el capital y no establece restricción específica alguna en cuanto a la disponibilidad de dicho saldo.
 
@@ -2751,8 +19718,73 @@ El Texto Refundido de la Ley de Sociedades de Capital permite expresamente la ut
 
 La composición del saldo de estos capítulos de los balances consolidados adjuntos es la siguiente:
 
-IMAGE GOES HERE
+<table>
+    <thead>
+        <tr>
+            <th>"Ganacias acumuladas, Reservas de revaloración y Otras reservas</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Desglose por conceptos"</td>
+            <td>Notas</td>
+            <td>2016</td>
+            <td>2015</td>
+            <td>2014</td>
+        </tr>
+        <tr>
+            <td>Reserva legal</td>
+            <td>28.1</td>
+            <td>624</td>
+            <td>605</td>
+            <td>567</td>
+        </tr>
+        <tr>
+            <td>Reservas indisponibles </td>
+            <td>28.2</td>
+            <td>201</td>
+            <td>213</td>
+            <td>268</td>
+        </tr>
+        <tr>
+            <td>Reservas por regularizaciones y actualizaciones de balance</td>
+            <td>&nbsp;</td>
+            <td>20</td>
+            <td>22</td>
+            <td>23</td>
+        </tr>
+        <tr>
+            <td>Reservas libre disposición</td>
+            <td>&nbsp;</td>
+            <td>8.521</td>
+            <td>6.971</td>
+            <td>6.784</td>
+        </tr>
+        <tr>
+            <td>Total reservas sociedad matriz (*)</td>
+            <td>&nbsp;</td>
+            <td>9.366</td>
+            <td>7.811</td>
+            <td>7.642</td>
+        </tr>
+        <tr>
+            <td>Reservas de consolidación atribuidas a la matriz y a las sociedades consolidadas</td>
+            <td>&nbsp;</td>
+            <td>14.275</td>
+            <td>14.701</td>
+            <td>13.294</td>
+        </tr>
+        <tr>
+            <td>Total</td>
+            <td>&nbsp;</td>
+            <td>23.641</td>
+            <td>22.512</td>
+            <td>20.936</td>
+        </tr>
+    </tbody>
+</table>
 
+(*) Total reservas de BBVA, S.A. (Anexo IX).
 
 ### 28.1  Reserva legal
 
@@ -2765,7 +19797,45 @@ La reserva legal podrá utilizarse para aumentar el capital social en la parte q
 
 A 31 de diciembre de 2016, 2015 y 2014, el Banco tenía registradas las siguientes reservas indisponibles:
 
-IMAGE GOES HERE
+<table>
+    <thead>
+        <tr>
+            <th>"Reservas indisponibles</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Desglose por conceptos"</td>
+            <td>2016</td>
+            <td>2015</td>
+            <td>2014</td>
+        </tr>
+        <tr>
+            <td>Reserva indisponible por capital amortizado</td>
+            <td>88</td>
+            <td>88</td>
+            <td>88</td>
+        </tr>
+        <tr>
+            <td>Reserva indisponible sobre acciones de la sociedad dominante y prestamos sobre dichas acciones</td>
+            <td>111</td>
+            <td>123</td>
+            <td>178</td>
+        </tr>
+        <tr>
+            <td>Reserva indisponible por redenominación en euros del capital</td>
+            <td>2</td>
+            <td>2</td>
+            <td>2</td>
+        </tr>
+        <tr>
+            <td>Total</td>
+            <td>201</td>
+            <td>213</td>
+            <td>268</td>
+        </tr>
+    </tbody>
+</table>
 
 La reserva indisponible por capital amortizado tiene su origen en la reducción de valor nominal unitario de las acciones de BBVA realizada en el mes de abril de 2000.
 
@@ -2778,7 +19848,242 @@ Por último, y de acuerdo con lo establecido en la Ley 46/1998, sobre Introducci
 
 El desglose de los epígrafes “Ganancias acumuladas, Reservas de revalorización y Otras reservas” de los balances consolidados adjuntos, por sociedades o grupos de sociedades, se presenta a continuación:
 
-IMAGE GOES HERE
+<table>
+    <thead>
+        <tr>
+            <th>"Reservas</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Desglose por conceptos"</td>
+            <td>2016</td>
+            <td>2015</td>
+            <td>2014</td>
+        </tr>
+        <tr>
+            <td>Ganancias acumuladas y Reservas de revalorización</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Sociedad matriz </td>
+            <td>14.101</td>
+            <td>14.763</td>
+            <td>11.634</td>
+        </tr>
+        <tr>
+            <td>Grupo BBVA Bancomer</td>
+            <td>9.108</td>
+            <td>8.178</td>
+            <td>7.482</td>
+        </tr>
+        <tr>
+            <td>BBVA Seguros, S.A.</td>
+            <td>(62)</td>
+            <td>261</td>
+            <td>431</td>
+        </tr>
+        <tr>
+            <td>Corporación General Financiera, S.A.</td>
+            <td>1.187</td>
+            <td>1.192</td>
+            <td>711</td>
+        </tr>
+        <tr>
+            <td>Grupo BBVA Banco Provincial</td>
+            <td>1.752</td>
+            <td>1.751</td>
+            <td>1.592</td>
+        </tr>
+        <tr>
+            <td>Grupo BBVA Chile</td>
+            <td>1.264</td>
+            <td>1.115</td>
+            <td>1.048</td>
+        </tr>
+        <tr>
+            <td>Compañía de Cartera e Inversiones, S.A.</td>
+            <td>(27)</td>
+            <td>(16)</td>
+            <td>10</td>
+        </tr>
+        <tr>
+            <td>Anida Grupo Inmobiliario, S.L.</td>
+            <td>528</td>
+            <td>527</td>
+            <td>589</td>
+        </tr>
+        <tr>
+            <td>BBVA Suiza, S.A. </td>
+            <td>(1)</td>
+            <td>(4)</td>
+            <td>(17)</td>
+        </tr>
+        <tr>
+            <td>Grupo BBVA Continental</td>
+            <td>611</td>
+            <td>506</td>
+            <td>437</td>
+        </tr>
+        <tr>
+            <td>BBVA Luxinvest, S.A.</td>
+            <td>16</td>
+            <td>33</td>
+            <td>467</td>
+        </tr>
+        <tr>
+            <td>Grupo BBVA Colombia</td>
+            <td>803</td>
+            <td>656</td>
+            <td>492</td>
+        </tr>
+        <tr>
+            <td>Grupo BBVA Banco Francés</td>
+            <td>827</td>
+            <td>621</td>
+            <td>439</td>
+        </tr>
+        <tr>
+            <td>Banco Industrial de Bilbao, S.A.</td>
+            <td>61</td>
+            <td>33</td>
+            <td>43</td>
+        </tr>
+        <tr>
+            <td>Uno-E Bank, S.A. (*)</td>
+            <td>-</td>
+            <td>(62)</td>
+            <td>(65)</td>
+        </tr>
+        <tr>
+            <td>Gran Jorge Juan, S.A.</td>
+            <td>(30)</td>
+            <td>(40)</td>
+            <td>(45)</td>
+        </tr>
+        <tr>
+            <td>Grupo BBVA Portugal</td>
+            <td>(477)</td>
+            <td>(511)</td>
+            <td>(519)</td>
+        </tr>
+        <tr>
+            <td>Participaciones Arenal, S.L.</td>
+            <td>(180)</td>
+            <td>(180)</td>
+            <td>(180)</td>
+        </tr>
+        <tr>
+            <td>BBVA Propiedad S.A.</td>
+            <td>(431)</td>
+            <td>(412)</td>
+            <td>(342)</td>
+        </tr>
+        <tr>
+            <td>Anida Operaciones Singulares, S.L.</td>
+            <td>(4.127)</td>
+            <td>(3.962)</td>
+            <td>(1.788)</td>
+        </tr>
+        <tr>
+            <td>Grupo BBVA USA Bancshares</td>
+            <td>(1.053)</td>
+            <td>(1.459)</td>
+            <td>(1.747)</td>
+        </tr>
+        <tr>
+            <td>Grupo Garanti Turkiye Bankasi</td>
+            <td>127</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Sociedades inmobiliarias Unnim</td>
+            <td>(477)</td>
+            <td>(403)</td>
+            <td>(348)</td>
+        </tr>
+        <tr>
+            <td>Bilbao Vizcaya Holding, S.A.</td>
+            <td>139</td>
+            <td>73</td>
+            <td>70</td>
+        </tr>
+        <tr>
+            <td>BBVA Autorenting, S.A.</td>
+            <td>(38)</td>
+            <td>(49)</td>
+            <td>(30)</td>
+        </tr>
+        <tr>
+            <td>Pecri Inversión S.L.</td>
+            <td>(75)</td>
+            <td>(78)</td>
+            <td>15</td>
+        </tr>
+        <tr>
+            <td>Resto</td>
+            <td>162</td>
+            <td>77</td>
+            <td>(75)</td>
+        </tr>
+        <tr>
+            <td>Subtotal </td>
+            <td>23.708</td>
+            <td>22.610</td>
+            <td>20.304</td>
+        </tr>
+        <tr>
+            <td>Otras reservas acumuladas de inversiones en negocios conjuntos y asociadas</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Citic International.Financial Holdings Limited </td>
+            <td>-</td>
+            <td>-</td>
+            <td>197</td>
+        </tr>
+        <tr>
+            <td>Grupo Garanti Turkiye Bankasi</td>
+            <td>-</td>
+            <td>-</td>
+            <td>609</td>
+        </tr>
+        <tr>
+            <td>Metrovacesa</td>
+            <td>-</td>
+            <td>(143)</td>
+            <td>(68)</td>
+        </tr>
+        <tr>
+            <td>Metrovacesa Suelo</td>
+            <td>(52)</td>
+            <td>-</td>
+            <td>(94)</td>
+        </tr>
+        <tr>
+            <td>Resto</td>
+            <td>(15)</td>
+            <td>45</td>
+            <td>(11)</td>
+        </tr>
+        <tr>
+            <td>Subtotal </td>
+            <td>(67)</td>
+            <td>(98)</td>
+            <td>633</td>
+        </tr>
+        <tr>
+            <td>Total </td>
+            <td>23.641</td>
+            <td>22.512</td>
+            <td>20.937</td>
+        </tr>
+    </tbody>
 
 A efectos de la asignación de las reservas y pérdidas de ejercicios anteriores a las sociedades consolidadas y a la matriz, se han considerado, entre otros, las transferencias de reservas generadas por los dividendos pagados y las transacciones efectuadas entre dichas sociedades en el ejercicio en que las mismas tuvieron lugar.
 
@@ -2787,26 +20092,316 @@ A efectos de la asignación de las reservas y pérdidas de ejercicios anteriores
 
 Durante los ejercicios 2016,  2015 y 2014, las sociedades del Grupo realizaron las siguientes transacciones con acciones emitidas por el Banco:
 
-IMAGE GOES HERE
+<table>
+    <thead>
+        <tr>
+            <th>Saldo inicial </th>
+            <th>38.917.665</th>
+            <th>309</th>
+            <th>41.510.698</th>
+            <th>350</th>
+            <th>6.876.770</th>
+            <th>66</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td> + Compras</td>
+            <td>379.850.939</td>
+            <td>2.004</td>
+            <td>431.321.283</td>
+            <td>3.273</td>
+            <td>425.390.265</td>
+            <td>3.770</td>
+        </tr>
+        <tr>
+            <td> - Ventas y otros movimientos</td>
+            <td>(411.537.817)</td>
+            <td>(2.263)</td>
+            <td>(433.914.316)</td>
+            <td>(3.314)</td>
+            <td>(390.756.337)</td>
+            <td>(3.484)</td>
+        </tr>
+        <tr>
+            <td> +/- Derivados sobre acciones BBVA, S.A.</td>
+            <td>-</td>
+            <td>(1)</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>(3)</td>
+        </tr>
+        <tr>
+            <td> +/- Otros movimientos</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Saldo al final </td>
+            <td>7.230.787</td>
+            <td>48</td>
+            <td>38.917.665</td>
+            <td>309</td>
+            <td>41.510.698</td>
+            <td>350</td>
+        </tr>
+        <tr>
+            <td> De los que:</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Propiedad de BBVA, S.A.</td>
+            <td>2.789.894</td>
+            <td>22</td>
+            <td>1.840.378</td>
+            <td>19</td>
+            <td>5.001.897</td>
+            <td>46</td>
+        </tr>
+        <tr>
+            <td>Propiedad de Corporación General Financiera, S.A.</td>
+            <td>4.440.893</td>
+            <td>26</td>
+            <td>37.077.287</td>
+            <td>290</td>
+            <td>36.480.861</td>
+            <td>304</td>
+        </tr>
+        <tr>
+            <td>Propiedad de otras sociedades del Grupo</td>
+            <td> -</td>
+            <td> -</td>
+            <td>-</td>
+            <td>-</td>
+            <td>27.940</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Precio medio de compra en euros</td>
+            <td>5,27</td>
+            <td>&nbsp;</td>
+            <td>7,60</td>
+            <td>&nbsp;</td>
+            <td>8,86</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Precio medio de venta en euros</td>
+            <td>5,50</td>
+            <td>&nbsp;</td>
+            <td>7,67</td>
+            <td>&nbsp;</td>
+            <td>8,94</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>"Resultados netos por transacciones</td>
+        </tr>
+        <tr>
+            <td> (Fondos propios-Reservas)"</td>
+            <td>&nbsp;</td>
+            <td>(30)</td>
+            <td>&nbsp;</td>
+            <td>6</td>
+            <td>&nbsp;</td>
+            <td>5</td>
+        </tr>
+    </tbody>
+</table>
 
 Los porcentajes de las acciones mantenidas en la autocartera del Grupo durante los ejercicios 2016, 2015 y 2014 fueron los siguientes:
 
-IMAGE GOES HERE
+<table>
+    <thead>
+        <tr>
+            <th>% de acciones en autocartera</th>
+            <th>0,081%</th>
+            <th>0,756%</th>
+            <th>0,110%</th>
+            <th>0,000%</th>
+            <th>0,806%</th>
+            <th>0,613%</th>
+            <th>0,000%</th>
+            <th>0,699%</th>
+            <th>0,672%</th>
+        </tr>
+        </tbody>
+</table>
 
 A 31 de diciembre de 2016, 2015 y 2014, el número de acciones de BBVA aceptadas en concepto de garantía de las financiaciones concedidas por el Grupo, era:
 
-IMAGE GOES HERE
+<table>
+    <thead>
+        <tr>
+            <th>Acciones de BBVA aceptadas en concepto de garantía</th>
+            <th>2016</th>
+            <th>2015</th>
+            <th>2014</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Número de acciones en garantía</td>
+            <td>90.731.198</td>
+            <td>92.703.291</td>
+            <td>97.795.984</td>
+        </tr>
+        <tr>
+            <td>Valor nominal por acción (en euros)</td>
+            <td>0,49</td>
+            <td>0,49</td>
+            <td>0,49</td>
+        </tr>
+        <tr>
+            <td>Porcentaje que representan sobre el capital</td>
+            <td>1,38%</td>
+            <td>1,46%</td>
+            <td>1,58%</td>
+        </tr>
+    </tbody>
+</table>
 
 El número de acciones de BBVA propiedad de terceros pero gestionadas por alguna sociedad del Grupo a 31 de diciembre de 2016, 2015 y 2014, era:
 
-IMAGE GOES HERE
+<table>
+    <thead>
+        <tr>
+            <th>Acciones de BBVA propiedad de terceros gestionado por el Grupo</th>
+            <th>2016</th>
+            <th>2015</th>
+            <th>2014</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Número de acciones propiedad de terceros</td>
+            <td>85.766.602</td>
+            <td>92.783.913</td>
+            <td>101.425.692</td>
+        </tr>
+        <tr>
+            <td>Valor nominal por acción (en euros)</td>
+            <td>0,49</td>
+            <td>0,49</td>
+            <td>0,49</td>
+        </tr>
+        <tr>
+            <td>Porcentaje que representan sobre el capital</td>
+            <td>1,31%</td>
+            <td>1,46%</td>
+            <td>1,64%</td>
+        </tr>
+    </tbody>
+</table>
 
 
 ## 30. Otro resultado global acumulado
 
 La composición del saldo de este capítulo de los balances consolidados adjuntos se indica a continuación:
 
-IMAGE GOES HERE
+<table>
+    <thead>
+        <tr>
+            <th>"Otro resultado global acumulado</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Desglose por conceptos"</td>
+            <td>2016</td>
+            <td>2015</td>
+            <td>2014</td>
+        </tr>
+        <tr>
+            <td>Elementos que no se reclasificarán en resultados</td>
+            <td>(1.095)</td>
+            <td>(859)</td>
+            <td>(777)</td>
+        </tr>
+        <tr>
+            <td>Ganancias o (-) pérdidas actuariales en planes de pensiones de prestaciones definidas</td>
+            <td>(1.095)</td>
+            <td>(859)</td>
+            <td>(777)</td>
+        </tr>
+        <tr>
+            <td>Activos no corrientes y grupos enajenables de elementos que se han clasificado como mantenidos para la venta</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Participación en otros ingresos y gastos reconocidos de inversiones en negocios conjuntos y asociadas</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Resto de ajustes de valoración</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Elementos que pueden reclasificarse en resultados</td>
+            <td>(4.363)</td>
+            <td>(2.490)</td>
+            <td>429</td>
+        </tr>
+        <tr>
+            <td>Cobertura de inversiones netas en negocios en el extranjero (porción efectiva)</td>
+            <td>(118)</td>
+            <td>(274)</td>
+            <td>(373)</td>
+        </tr>
+        <tr>
+            <td>Conversión en divisas</td>
+            <td>(5.185)</td>
+            <td>(3.905)</td>
+            <td>(2.173)</td>
+        </tr>
+        <tr>
+            <td>Derivados de cobertura. Coberturas de flujos de efectivo (porción efectiva)</td>
+            <td>16</td>
+            <td>(49)</td>
+            <td>(46)</td>
+        </tr>
+        <tr>
+            <td>Activos financieros disponibles para la venta</td>
+            <td>947</td>
+            <td>1.674</td>
+            <td>3.816</td>
+        </tr>
+        <tr>
+            <td>Activos no corrientes y grupos enajenables de elementos que se han clasificado como mantenidos para la venta</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Participación en otros ingresos y gastos reconocidos en inversiones en negocios conjuntos y asociadas</td>
+            <td>(23)</td>
+            <td>64</td>
+            <td>(796)</td>
+        </tr>
+        <tr>
+            <td>Total</td>
+            <td>(5.458)</td>
+            <td>(3.349)</td>
+            <td>(348)</td>
+        </tr>
+    </tbody>
+</table>
 
 Los saldos registrados en estos epígrafes se presentan netos de su correspondiente efecto fiscal.
 
@@ -2817,11 +20412,132 @@ La principal variación de este capítulo se debe a la conversión a euros de lo
 
 El detalle, por grupos de sociedades consolidadas, del saldo del capítulo “Resultado del periodo - Atribuible a intereses minoritarios (participaciones no dominantes)” de los balances consolidados adjuntos es:
 
-IMAGE GOES HERE
+<table>
+    <thead>
+        <tr>
+            <th>Intereses minoritarios. Desglose por subgrupos</th>
+            <th>2016</th>
+            <th>2015</th>
+            <th>2014</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Grupo BBVA Colombia</td>
+            <td>67</td>
+            <td>58</td>
+            <td>59</td>
+        </tr>
+        <tr>
+            <td>Grupo BBVA Chile</td>
+            <td>377</td>
+            <td>314</td>
+            <td>347</td>
+        </tr>
+        <tr>
+            <td>Grupo BBVA Banco Continental</td>
+            <td>1.059</td>
+            <td>913</td>
+            <td>839</td>
+        </tr>
+        <tr>
+            <td>Grupo BBVA Banco Provincial </td>
+            <td>97</td>
+            <td>100</td>
+            <td>958</td>
+        </tr>
+        <tr>
+            <td>Grupo BBVA Banco Francés</td>
+            <td>243</td>
+            <td>220</td>
+            <td>230</td>
+        </tr>
+        <tr>
+            <td>Grupo Garanti (Nota 3)</td>
+            <td>6.157</td>
+            <td>6.302</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Otras sociedades</td>
+            <td>64</td>
+            <td>86</td>
+            <td>78</td>
+        </tr>
+        <tr>
+            <td>Total</td>
+            <td>8.064</td>
+            <td>7.992</td>
+            <td>2.511</td>
+        </tr>
+    </tbody>
+</table>
 
 Seguidamente se detallan, por grupos de sociedades consolidadas, los importes registrados en el capítulo “Resultado del periodo - Atribuible a intereses minoritarios (participaciones no dominantes)” de las cuentas de pérdidas y ganancias consolidadas adjuntas:
 
-IMAGE GOES HERE
+<table>
+    <thead>
+        <tr>
+            <th>"Atribuible a intereses minoritarios (participaciones no dominantes)</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Desglose por subgrupos"</td>
+            <td>2016</td>
+            <td>2015</td>
+            <td>2014</td>
+        </tr>
+        <tr>
+            <td>Grupo BBVA Colombia</td>
+            <td>9</td>
+            <td>11</td>
+            <td>11</td>
+        </tr>
+        <tr>
+            <td>Grupo BBVA Chile</td>
+            <td>40</td>
+            <td>42</td>
+            <td>53</td>
+        </tr>
+        <tr>
+            <td>Grupo BBVA Banco Continental</td>
+            <td>193</td>
+            <td>211</td>
+            <td>195</td>
+        </tr>
+        <tr>
+            <td>Grupo BBVA Banco Provincial </td>
+            <td>(2)</td>
+            <td>-</td>
+            <td>131</td>
+        </tr>
+        <tr>
+            <td>Grupo BBVA Banco Francés</td>
+            <td>55</td>
+            <td>76</td>
+            <td>65</td>
+        </tr>
+        <tr>
+            <td>Grupo Garanti (Nota 3)</td>
+            <td>917</td>
+            <td>316</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Otras sociedades</td>
+            <td>8</td>
+            <td>30</td>
+            <td>9</td>
+        </tr>
+        <tr>
+            <td>Total</td>
+            <td>1.218</td>
+            <td>686</td>
+            <td>464</td>
+        </tr>
+    </tbody>
+</table>
 
 Los dividendos repartidos a los minoritarios de las siguientes entidades del Grupo en el primer semestre de 2016 han sido los siguientes: BBVA Banco Continental 90 millones de euros, Grupo BBVA Chile 12 millones de euros, Grupo BBVA Banco Francés 12 millones de euros, Grupo Garanti 106 millones de euros, Grupo BBVA Colombia 4 millones de euros y sociedades españolas 4 millones de euros.
 
@@ -2848,9 +20564,220 @@ Asimismo, el supervisor ha comunicado a BBVA que está incluida en el listado de
 
 A continuación se muestran, los recursos propios del Grupo, calculados con el perímetro de sociedades de acuerdo con las normativas aplicables en cada una de las fechas presentadas, 31 de diciembre de 2016, 2015 y 2014, aunque para esta última se ha adaptado la nomenclatura de las líneas del cuadro a la nomenclatura aplicable a 31 de diciembre de 2016 para facilitar la comparación:
 
-IMAGE GOES HERE
+<table>
+    <thead>
+        <tr>
+            <th>Recursos propios Computables</th>
+            <th>Diciembre 2016 (*)</th>
+            <th>Diciembre 2015 (**)</th>
+            <th>Diciembre 2014</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Capital</td>
+            <td>3.218</td>
+            <td>3.120</td>
+            <td>3.024</td>
+        </tr>
+        <tr>
+            <td>Prima de emisión</td>
+            <td>23.992</td>
+            <td>23.992</td>
+            <td>23.992</td>
+        </tr>
+        <tr>
+            <td>Ganancias acumuladas, reservas de revaloración y otras reservas</td>
+            <td>23.641</td>
+            <td>22.512</td>
+            <td>20.936</td>
+        </tr>
+        <tr>
+            <td>Otros elementos de patrimonio neto</td>
+            <td>54</td>
+            <td>35</td>
+            <td>67</td>
+        </tr>
+        <tr>
+            <td>Acciones propias en cartera</td>
+            <td>(48)</td>
+            <td>(309)</td>
+            <td>(350)</td>
+        </tr>
+        <tr>
+            <td>Resultado atribuíble a los propietarios de la dominante</td>
+            <td>3.475</td>
+            <td>2.642</td>
+            <td>2.618</td>
+        </tr>
+        <tr>
+            <td>Dividendo a cuenta</td>
+            <td>(1.510)</td>
+            <td>(1.352)</td>
+            <td>(841)</td>
+        </tr>
+        <tr>
+            <td>Total Fondos Propios </td>
+            <td>52.821</td>
+            <td>50.640</td>
+            <td>49.446</td>
+        </tr>
+        <tr>
+            <td>Ajustes de valoración</td>
+            <td>(5.458)</td>
+            <td>(3.349)</td>
+            <td>(348)</td>
+        </tr>
+        <tr>
+            <td>Intereses minoritarios</td>
+            <td>8.064</td>
+            <td>8.149</td>
+            <td>2.511</td>
+        </tr>
+        <tr>
+            <td>Total Patrimonio Neto </td>
+            <td>55.428</td>
+            <td>55.440</td>
+            <td>51.610</td>
+        </tr>
+        <tr>
+            <td>Activos intangibles</td>
+            <td>(5.675)</td>
+            <td>(3.901)</td>
+            <td>(1.748)</td>
+        </tr>
+        <tr>
+            <td>Fin. Acciones Propias</td>
+            <td>(82)</td>
+            <td>(95)</td>
+            <td>(124)</td>
+        </tr>
+        <tr>
+            <td>Autocartera sintética</td>
+            <td>(51)</td>
+            <td>(415)</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Deducciones</td>
+            <td>(5.808)</td>
+            <td>(4.411)</td>
+            <td>(1.872)</td>
+        </tr>
+        <tr>
+            <td>Ajustes transitorios CET 1</td>
+            <td>(129)</td>
+            <td>(788)</td>
+            <td>(3.567)</td>
+        </tr>
+        <tr>
+            <td>Plusvalías / minusvalías de la cartera de instrumentos de deuda disponibles para la venta</td>
+            <td>(402)</td>
+            <td>(796)</td>
+            <td>(2.713)</td>
+        </tr>
+        <tr>
+            <td>Plusvalías / minusvalías de la cartera de instrumentos de capital disponible para la venta</td>
+            <td>273</td>
+            <td>8</td>
+            <td>(854)</td>
+        </tr>
+        <tr>
+            <td>Diferencias de perímetro</td>
+            <td>(120)</td>
+            <td>(40)</td>
+            <td>(140)</td>
+        </tr>
+        <tr>
+            <td>Patrimonio no computable a nivel de solvencia</td>
+            <td>(249)</td>
+            <td>(828)</td>
+            <td>(3.707)</td>
+        </tr>
+        <tr>
+            <td>Resto de ajustes y deducciones</td>
+            <td>(2.001)</td>
+            <td>(1.647)</td>
+            <td>(1.414)</td>
+        </tr>
+        <tr>
+            <td>Capital de nivel 1 ordinario (CET 1)</td>
+            <td>47.370</td>
+            <td>48.554</td>
+            <td>44.617</td>
+        </tr>
+        <tr>
+            <td>Capital de nivel 1 adicional antes de los ajustes reglamentarios</td>
+            <td>6.114</td>
+            <td>5.302</td>
+            <td>4.205</td>
+        </tr>
+        <tr>
+            <td>Total de ajustes reglamentarios del capital de nivel 1 adicional</td>
+            <td>(3.401)</td>
+            <td>(5.302)</td>
+            <td>(6.990)</td>
+        </tr>
+        <tr>
+            <td>Capital de nivel 1 (Tier 1)</td>
+            <td>50.083</td>
+            <td>48.554</td>
+            <td>41.831</td>
+        </tr>
+        <tr>
+            <td>Capital de nivel 2 (Tier 2)</td>
+            <td>8.810</td>
+            <td>11.646</td>
+            <td>10.986</td>
+        </tr>
+        <tr>
+            <td>Capital total ( Capital total= Tier 1 + Tier 2)</td>
+            <td>58.893</td>
+            <td>60.200</td>
+            <td>52.817</td>
+        </tr>
+        <tr>
+            <td>Total recursos propios mínimos exigibles </td>
+            <td>37.920</td>
+            <td>38.125</td>
+            <td>28.064</td>
+        </tr>
+    </tbody>
+</table>
 
-(*)   Datos provisionales para diciembre 2016.
+(*) Datos provisionales.
+(**) Datos originalmente reportados en el Informe de Relevancia Prudencial de 2015, sin efectos de reexpresiones.
+
+<table>
+    <thead>
+        <tr>
+            <th>Apalancamiento</th>
+            <th>2016 (*)</th>
+            <th>2015</th>
+            <th>2014</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Capital de nivel 1 (miles de euros) (a)</td>
+            <td>50.083</td>
+            <td>48.554</td>
+            <td>41.832</td>
+        </tr>
+        <tr>
+            <td>Exposición (miles de euros) (b)</td>
+            <td>747.217</td>
+            <td>766.589</td>
+            <td>671.081</td>
+        </tr>
+        <tr>
+            <td>Ratio de apalancamiento (a)/(b)</td>
+            <td>6,70%</td>
+            <td>6,33%</td>
+            <td>6,23%</td>
+        </tr>
+    </tbody>
+</table>
 
 Las variaciones en el importe del capital de nivel 1 ordinario (CET 1) del cuadro anterior se explican principalmente por la generación orgánica de capital en el semestre apoyado en la recurrencia de los resultados y en una eficiente gestión y asignación de capital en línea con los objetivos estratégicos del Grupo.
 
@@ -2858,13 +20785,109 @@ Adicionalmente se produce un efecto negativo en las participaciones minoritarias
 
 Durante el primer semestre del año el Grupo ha completado el nivel de capital adicional de nivel 1 recomendado por la regulación (1,5% de los activos ponderados por riesgo) con la emisión de valores perpetuos eventualmente convertibles en acciones, calificada como instrumentos de capital de nivel 1 adicional (contingent convertible) bajo la normativa de solvencia y que contribuye a que el ratio de capital de nivel 1 (TIER 1) se sitúe en el 12,7%.
 
-
 Finalmente el ratio de capital total se sitúa en el 15,7% recogiendo los efectos comentados anteriormente.
+
 Por la parte de los recursos propios mínimos exigibles el incremento es debido principalmente a la consideración de los nuevos requerimientos prudenciales de capital aplicables a BBVA comentados con anterioridad.
 
 A continuación se presenta una conciliación de los perímetros contables y regulatorios a 31 de diciembre de 2016 (datos provisionales):
 
-IMAGE GOES HERE
+<table>
+    <thead>
+        <tr>
+            <th>Epígrafes de Balance Público</th>
+            <th>Balance Público</th>
+            <th>Entidades aseguradoras e inmobiliarias</th>
+            <th>Entidades multigrupo y resto ajustes</th>
+            <th>Perímetro regulatorio</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Efectivo, saldos en efectivo en bancos centrales y otros depósitos a la vista </td>
+            <td>40.039</td>
+            <td>-</td>
+            <td>59</td>
+            <td>40.098</td>
+        </tr>
+        <tr>
+            <td>Activos financieros mantenidos para negociar</td>
+            <td>74.950</td>
+            <td>(1.117)</td>
+            <td>2.509</td>
+            <td>76.342</td>
+        </tr>
+        <tr>
+            <td>Activos financieros designados a valor razonable con cambios en resultados</td>
+            <td>2.062</td>
+            <td>(2.058)</td>
+            <td>-</td>
+            <td>4</td>
+        </tr>
+        <tr>
+            <td>Activos financieros disponibles para la venta</td>
+            <td>79.221</td>
+            <td>(20.608)</td>
+            <td>25</td>
+            <td>58.638</td>
+        </tr>
+        <tr>
+            <td>Préstamos y partidas a cobrar</td>
+            <td>465.977</td>
+            <td>(1.298)</td>
+            <td>2.010</td>
+            <td>466.689</td>
+        </tr>
+        <tr>
+            <td>Inversiones mantenidas hasta el vencimiento </td>
+            <td>17.696</td>
+            <td>-</td>
+            <td>-</td>
+            <td>17.696</td>
+        </tr>
+        <tr>
+            <td>Cambios del valor razonable de los elementos cubiertos de una cartera con cobertura del riesgo de tipo de interés </td>
+            <td>2.833</td>
+            <td>(124)</td>
+            <td>-</td>
+            <td>2.709</td>
+        </tr>
+        <tr>
+            <td>Derivados - contabilidad de coberturas </td>
+            <td>17</td>
+            <td>-</td>
+            <td>-</td>
+            <td>17</td>
+        </tr>
+        <tr>
+            <td>Activos no corrientes y grupos enajenables de elementos que se han clasificado como mantenidos para la venta</td>
+            <td>765</td>
+            <td>3.716</td>
+            <td>(103)</td>
+            <td>4.378</td>
+        </tr>
+        <tr>
+            <td>Inversiones en dependientes, negocios conjuntos y asociadas </td>
+            <td>3.603</td>
+            <td>(14)</td>
+            <td>(29)</td>
+            <td>3.560</td>
+        </tr>
+        <tr>
+            <td>Otros activos</td>
+            <td>44.693</td>
+            <td>(2.862)</td>
+            <td>2.622</td>
+            <td>44.453</td>
+        </tr>
+        <tr>
+            <td>Total Activo</td>
+            <td>731.856</td>
+            <td>(24.365)</td>
+            <td>7.093</td>
+            <td>714.584</td>
+        </tr>
+    </tbody>
+</table>
 
 ##### Gestión de capital
 
@@ -2882,7 +20905,144 @@ La normativa vigente permite a cada entidad la aplicación de modelos internos, 
 
 La composición del saldo de estos epígrafes de los balances consolidados adjuntos es:
 
-IMAGE GOES HERE
+<table>
+    <thead>
+        <tr>
+            <th>Compromisos y Garantías Concedidas</th>
+            <th>2016</th>
+            <th>2015</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Compromisos de préstamo concedidos</td>
+            <td>107.254</td>
+            <td>123.620</td>
+        </tr>
+        <tr>
+            <td>De los cuales: con impago</td>
+            <td>411</td>
+            <td>446</td>
+        </tr>
+        <tr>
+            <td> Bancos centrales </td>
+            <td>1</td>
+            <td>8</td>
+        </tr>
+        <tr>
+            <td> Administraciones públicas </td>
+            <td>4.354</td>
+            <td>3.823</td>
+        </tr>
+        <tr>
+            <td> Entidades de crédito </td>
+            <td>1.209</td>
+            <td>1.239</td>
+        </tr>
+        <tr>
+            <td> Otras sociedades financieras </td>
+            <td>4.155</td>
+            <td>4.032</td>
+        </tr>
+        <tr>
+            <td> Sociedades no financieras </td>
+            <td>71.710</td>
+            <td>71.583</td>
+        </tr>
+        <tr>
+            <td> Hogares </td>
+            <td>25.824</td>
+            <td>42.934</td>
+        </tr>
+        <tr>
+            <td>Garantías financieras concedidas </td>
+            <td>18.267</td>
+            <td>19.176</td>
+        </tr>
+        <tr>
+            <td>De los cuales: con impago</td>
+            <td>278</td>
+            <td>146</td>
+        </tr>
+        <tr>
+            <td> Bancos centrales </td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td> Administraciones públicas </td>
+            <td>103</td>
+            <td>100</td>
+        </tr>
+        <tr>
+            <td> Entidades de crédito </td>
+            <td>1.553</td>
+            <td>1.483</td>
+        </tr>
+        <tr>
+            <td> Otras sociedades financieras </td>
+            <td>722</td>
+            <td>1.621</td>
+        </tr>
+        <tr>
+            <td> Sociedades no financieras </td>
+            <td>15.354</td>
+            <td>15.626</td>
+        </tr>
+        <tr>
+            <td> Hogares </td>
+            <td>534</td>
+            <td>346</td>
+        </tr>
+        <tr>
+            <td>Otros compromisos y garantías concedidos</td>
+            <td>42.592</td>
+            <td>42.813</td>
+        </tr>
+        <tr>
+            <td>De los cuales: con impago</td>
+            <td>402</td>
+            <td>517</td>
+        </tr>
+        <tr>
+            <td> Bancos centrales </td>
+            <td>12</td>
+            <td>15</td>
+        </tr>
+        <tr>
+            <td> Administraciones públicas </td>
+            <td>372</td>
+            <td>101</td>
+        </tr>
+        <tr>
+            <td> Entidades de crédito </td>
+            <td>9.880</td>
+            <td>9.640</td>
+        </tr>
+        <tr>
+            <td> Otras sociedades financieras </td>
+            <td>4.892</td>
+            <td>5.137</td>
+        </tr>
+        <tr>
+            <td> Sociedades no financieras </td>
+            <td>27.297</td>
+            <td>27.765</td>
+        </tr>
+        <tr>
+            <td> Hogares </td>
+            <td>138</td>
+            <td>156</td>
+        </tr>
+        <tr>
+            <td>Total Compromisos y Garantías Concedidas</td>
+            <td>168.113</td>
+            <td>185.609</td>
+        </tr>
+    </tbody>
+</table>
+
+(*) Las garantías concedidas dudosas ascienden a 680 y 664 millones de euros a 31 de diciembre 2016, 2015, respectivamente. 
 
 Una parte significativa de los anteriores importes llegará a su vencimiento sin que se materialice ninguna obligación de pago para las sociedades consolidadas, por lo que el saldo conjunto de estos compromisos no puede ser considerado como una necesidad futura real de financiación o liquidez a conceder a terceros por el Grupo BBVA.
 
@@ -2898,22 +21058,299 @@ A 31 de diciembre de 2016, 2015 y 2014 no existían activos y pasivos contingent
 
 A continuación se desglosan los compromisos de compra y venta del Grupo BBVA a 31 de diciembre de 2016, 2015 y 2014:
 
-IMAGE GOES HERE
+<table>
+    <thead>
+        <tr>
+            <th>Compromisos de compra-venta</th>
+            <th>Notas</th>
+            <th>2016</th>
+            <th>2015</th>
+            <th>2014</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Instrumentos financieros vendidos con compromisos de post-compra</td>
+            <td>&nbsp;</td>
+            <td>46.562</td>
+            <td>68.401</td>
+            <td>66.326</td>
+        </tr>
+        <tr>
+            <td>Bancos centrales</td>
+            <td>9</td>
+            <td>4.649</td>
+            <td>19.065</td>
+            <td>8.774</td>
+        </tr>
+        <tr>
+            <td>Entidades de crédito</td>
+            <td>22.1</td>
+            <td>28.421</td>
+            <td>26.069</td>
+            <td>32.935</td>
+        </tr>
+        <tr>
+            <td>Administraciones públicas</td>
+            <td>22.2</td>
+            <td>-</td>
+            <td>7.556</td>
+            <td>3.022</td>
+        </tr>
+        <tr>
+            <td>Otros sectores residentes</td>
+            <td>22.2</td>
+            <td>5.271</td>
+            <td>11.092</td>
+            <td>13.306</td>
+        </tr>
+        <tr>
+            <td>No residentes</td>
+            <td>22.2</td>
+            <td>8.221</td>
+            <td>4.619</td>
+            <td>8.289</td>
+        </tr>
+        <tr>
+            <td>Instrumentos financieros comprados con compromisos de post-venta</td>
+            <td>&nbsp;</td>
+            <td>22.921</td>
+            <td>16.935</td>
+            <td>17.639</td>
+        </tr>
+        <tr>
+            <td>Bancos centrales</td>
+            <td>9</td>
+            <td>81</td>
+            <td>149</td>
+            <td>209</td>
+        </tr>
+        <tr>
+            <td>Entidades de crédito</td>
+            <td>13.1</td>
+            <td>15.561</td>
+            <td>11.749</td>
+            <td>10.440</td>
+        </tr>
+        <tr>
+            <td>Administraciones públicas</td>
+            <td>13.2</td>
+            <td>544</td>
+            <td>326</td>
+            <td>378</td>
+        </tr>
+        <tr>
+            <td>Otros sectores residentes</td>
+            <td>13.2</td>
+            <td>3.388</td>
+            <td>3.952</td>
+            <td>5.932</td>
+        </tr>
+        <tr>
+            <td>No residentes</td>
+            <td>13.2</td>
+            <td>3.347</td>
+            <td>758</td>
+            <td>680</td>
+        </tr>
+    </tbody>
+</table>
 
 A continuación se detallan los vencimientos de otras obligaciones de pago futuras, no recogidas en Notas anteriores, con vencimiento posterior a 31 de diciembre de 2016:
 
-IMAGE GOES HERE
+<table>
+    <thead>
+        <tr>
+            <th>Vencimientos de obligaciones de pago futuras</th>
+            <th>Menos de 1 año</th>
+            <th>De 1 a 3 años</th>
+            <th>De 3 a 5 años</th>
+            <th>Más de 5 años</th>
+            <th>Total</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Por arrendamiento financiero</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Por arrendamiento operativo</td>
+            <td>263</td>
+            <td>305</td>
+            <td>321</td>
+            <td>2.397</td>
+            <td>3.286</td>
+        </tr>
+        <tr>
+            <td>Por obligaciones de compra</td>
+            <td>23</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>23</td>
+        </tr>
+        <tr>
+            <td>Proyectos Informáticos</td>
+            <td>2</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>2</td>
+        </tr>
+        <tr>
+            <td>Otros proyectos</td>
+            <td>20</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>20</td>
+        </tr>
+        <tr>
+            <td>Total</td>
+            <td>286</td>
+            <td>305</td>
+            <td>321</td>
+            <td>2.397</td>
+            <td>3.309</td>
+        </tr>
+    </tbody>
+</table>
 
 
 ## 36. Operaciones por cuenta de terceros
 
 A continuación se desglosan las partidas más significativas recogidas en este epígrafe a 31 de diciembre de 2016, 2015 y 2014:
 
-IMAGE GOES HERE
+<table>
+    <thead>
+        <tr>
+            <th>Operaciones por cuenta de terceros. Detalle por conceptos</th>
+            <th>2016</th>
+            <th>2015</th>
+            <th>2014</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Instrumentos financieros confiados por terceros</td>
+            <td>637.761</td>
+            <td>664.911</td>
+            <td>602.791</td>
+        </tr>
+        <tr>
+            <td>Efectos condicionales y otros valores recibidos en comisión de cobro</td>
+            <td>16.054</td>
+            <td>15.064</td>
+            <td>4.438</td>
+        </tr>
+        <tr>
+            <td>Valores recibidos en préstamo </td>
+            <td>3.968</td>
+            <td>4.125</td>
+            <td>3.945</td>
+        </tr>
+        <tr>
+            <td>Total</td>
+            <td>657.783</td>
+            <td>684.100</td>
+            <td>611.174</td>
+        </tr>
+    </tbody>
+</table>
 
 Los recursos de clientes administrados por el Grupo BBVA a 31 de diciembre de 2016, 2015 y 2014, eran los siguientes:
 
-IMAGE GOES HERE
+<table>
+    <thead>
+        <tr>
+            <th>Recursos de clientes por tipología</th>
+            <th>2016</th>
+            <th>2015</th>
+            <th>2014</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Gestión de activos por tipos de clientes (*):</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Inversión colectiva</td>
+            <td>55.037</td>
+            <td>54.419</td>
+            <td>52.782</td>
+        </tr>
+        <tr>
+            <td>Fondos de pensiones</td>
+            <td>33.418</td>
+            <td>31.542</td>
+            <td>27.364</td>
+        </tr>
+        <tr>
+            <td>Carteras de clientes gestionadas </td>
+            <td>40.805</td>
+            <td>42.074</td>
+            <td>35.129</td>
+        </tr>
+        <tr>
+            <td>De los que:</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Carteras gestionadas discrecionalmente</td>
+            <td>18.165</td>
+            <td>19.919</td>
+            <td>17.187</td>
+        </tr>
+        <tr>
+            <td>Otros recursos fuera de balance</td>
+            <td>2.831</td>
+            <td>3.786</td>
+            <td>3.577</td>
+        </tr>
+        <tr>
+            <td>Recursos de clientes distribuidos pero no gestionados por tipos de productos:</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Inversión colectiva</td>
+            <td>3.695</td>
+            <td>4.181</td>
+            <td>3.197</td>
+        </tr>
+        <tr>
+            <td>Productos de seguro</td>
+            <td>39</td>
+            <td>41</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Otros</td>
+            <td>-</td>
+            <td>31</td>
+            <td>30</td>
+        </tr>
+        <tr>
+            <td>Total</td>
+            <td>135.824</td>
+            <td>136.074</td>
+            <td>118.502</td>
+        </tr>
+    </tbody>
+</table>
+
+(*) No incluye saldos procedentes de fondos de titulizaciones.
 
 
 ## 37. Ingresos y gastos por intereses
@@ -2922,94 +21359,1401 @@ IMAGE GOES HERE
 
 A continuación, se detalla el origen de los ingresos y gastos por intereses registrados en las cuentas de pérdidas y ganancias consolidadas adjuntas:
 
-IMAGE GOES HERE
+<table>
+    <thead>
+        <tr>
+            <th>"Ingresos por intereses</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Desglose según su origen"</td>
+            <td>2016</td>
+            <td>2015</td>
+            <td>2014</td>
+        </tr>
+        <tr>
+            <td>Bancos centrales</td>
+            <td>229</td>
+            <td>140</td>
+            <td>132</td>
+        </tr>
+        <tr>
+            <td>Préstamos y anticipos a entidades de crédito </td>
+            <td>217</td>
+            <td>260</td>
+            <td>235</td>
+        </tr>
+        <tr>
+            <td>Préstamos y anticipos a la clientela</td>
+            <td>21.608</td>
+            <td>19.200</td>
+            <td>17.565</td>
+        </tr>
+        <tr>
+            <td>De las Administraciones Públicas</td>
+            <td>408</td>
+            <td>550</td>
+            <td>693</td>
+        </tr>
+        <tr>
+            <td>Sector residente</td>
+            <td>2.983</td>
+            <td>3.360</td>
+            <td>3.754</td>
+        </tr>
+        <tr>
+            <td>Sector no residente</td>
+            <td>18.217</td>
+            <td>15.290</td>
+            <td>13.118</td>
+        </tr>
+        <tr>
+            <td>Valores representativos de deuda</td>
+            <td>4.128</td>
+            <td>3.792</td>
+            <td>3.486</td>
+        </tr>
+        <tr>
+            <td>Activos financieros mantenidos para negociar</td>
+            <td>1.014</td>
+            <td>981</td>
+            <td>1.134</td>
+        </tr>
+        <tr>
+            <td>Activos financieros disponibles para la venta</td>
+            <td>3.114</td>
+            <td>2.810</td>
+            <td>2.352</td>
+        </tr>
+        <tr>
+            <td>Rectificaciones de ingresos con origen en coberturas contables</td>
+            <td>(385)</td>
+            <td>(382)</td>
+            <td>(321)</td>
+        </tr>
+        <tr>
+            <td>Coberturas de los flujos de efectivo(porción efectiva)</td>
+            <td>12</td>
+            <td>47</td>
+            <td>6</td>
+        </tr>
+        <tr>
+            <td>Coberturas de valor razonable</td>
+            <td>(397)</td>
+            <td>(429)</td>
+            <td>(327)</td>
+        </tr>
+        <tr>
+            <td>Actividad de seguros</td>
+            <td>1.219</td>
+            <td>1.152</td>
+            <td>1.199</td>
+        </tr>
+        <tr>
+            <td>Otros ingresos</td>
+            <td>692</td>
+            <td>621</td>
+            <td>542</td>
+        </tr>
+        <tr>
+            <td>Total</td>
+            <td>27.708</td>
+            <td>24.783</td>
+            <td>22.838</td>
+        </tr>
+    </tbody>
+</table>
 
 Los importes originados por derivados de cobertura y reconocidos en el patrimonio neto consolidado durante ambos periodos y los que fueron dados de baja del patrimonio neto consolidado e incluidos en los resultados consolidados en dichos periodos se muestran en los “Estados de ingresos y gastos reconocidos consolidados”.
-
-El siguiente cuadro muestra las rectificaciones de ingresos con origen en coberturas contables, atendiendo al tipo de cobertura:
-
-IMAGE GOES HERE
 
 
 ### 37.2  Gastos por intereses
 
 El desglose del saldo de este capítulo de las cuentas de pérdidas y ganancias consolidadas adjuntas es:
 
-IMAGE GOES HERE
-
-En el siguiente cuadro se muestran las rectificaciones de costes con origen en las coberturas contables, atendiendo al tipo de cobertura:
-
-IMAGE GOES HERE
+<table>
+    <thead>
+        <tr>
+            <th>"Gastos por intereses</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Desglose según su origen"</td>
+            <td>2016</td>
+            <td>2015</td>
+            <td>2014</td>
+        </tr>
+        <tr>
+            <td>Bancos centrales</td>
+            <td>192</td>
+            <td>138</td>
+            <td>62</td>
+        </tr>
+        <tr>
+            <td>Depósitos de entidades de crédito</td>
+            <td>1.367</td>
+            <td>1.186</td>
+            <td>1.012</td>
+        </tr>
+        <tr>
+            <td>Depósitos de la clientela</td>
+            <td>5.766</td>
+            <td>4.340</td>
+            <td>4.246</td>
+        </tr>
+        <tr>
+            <td>Valores representativos de deuda emitidos</td>
+            <td>2.323</td>
+            <td>2.548</td>
+            <td>2.546</td>
+        </tr>
+        <tr>
+            <td>Rectificación de costes con origen en coberturas contables</td>
+            <td>(574)</td>
+            <td>(859)</td>
+            <td>(930)</td>
+        </tr>
+        <tr>
+            <td> Coberturas de los flujos de efectivo(porción efectiva)</td>
+            <td>42</td>
+            <td>(16)</td>
+            <td>(18)</td>
+        </tr>
+        <tr>
+            <td> Coberturas de valor razonable</td>
+            <td>(616)</td>
+            <td>(844)</td>
+            <td>(912)</td>
+        </tr>
+        <tr>
+            <td>Costo imputable a los fondos de pensiones constituidos (Nota 25)</td>
+            <td>96</td>
+            <td>108</td>
+            <td>172</td>
+        </tr>
+        <tr>
+            <td>Actividad de seguros </td>
+            <td>846</td>
+            <td>816</td>
+            <td>912</td>
+        </tr>
+        <tr>
+            <td>Otros gastos</td>
+            <td>634</td>
+            <td>484</td>
+            <td>436</td>
+        </tr>
+        <tr>
+            <td>Total</td>
+            <td>10.648</td>
+            <td>8.761</td>
+            <td>8.456</td>
+        </tr>
+    </tbody>
+</table>
 
 
 ### 37.3  Rendimiento medio de las inversiones y coste medio de la financiación
 
 A continuación se presenta el rendimiento medio de las inversiones en los ejercicios de 2016, 2015 y 2014:
 
-IMAGE GOES HERE
+<table>
+    <thead>
+        <tr>
+            <th>Efectivo, saldos en efectivo en bancos centrales y otros depósitos a la vista </th>
+            <th>26.209 </th>
+            <th>10 </th>
+            <th>0,04 </th>
+            <th>23.542 </th>
+            <th>2 </th>
+            <th>0,01 </th>
+            <th>15.219 </th>
+            <th>4 </th>
+            <th>0,02 </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Cartera de títulos y derivados </td>
+            <td>202.388 </td>
+            <td>5.072 </td>
+            <td>2,51 </td>
+            <td>211.589 </td>
+            <td>4.673 </td>
+            <td>2,21 </td>
+            <td>181.762 </td>
+            <td>4.505 </td>
+            <td>2,48 </td>
+        </tr>
+        <tr>
+            <td>Residentes</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>11.745 </td>
+            <td>132 </td>
+            <td>1,12 </td>
+        </tr>
+        <tr>
+            <td>No residentes</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>22.811 </td>
+            <td>234 </td>
+            <td>1,03 </td>
+        </tr>
+        <tr>
+            <td>Préstamos y anticipos a Bancos Centrales</td>
+            <td>15.326 </td>
+            <td>229 </td>
+            <td>1,50 </td>
+            <td>12.004 </td>
+            <td>140 </td>
+            <td>1,17 </td>
+            <td>11.745 </td>
+            <td>132 </td>
+            <td>1,12 </td>
+        </tr>
+        <tr>
+            <td>Préstamos y anticipos a entidades de crédito </td>
+            <td>28.078 </td>
+            <td>218 </td>
+            <td>0,78 </td>
+            <td>27.171 </td>
+            <td>270 </td>
+            <td>0,99 </td>
+            <td>22.811 </td>
+            <td>234 </td>
+            <td>1,03 </td>
+        </tr>
+        <tr>
+            <td>Préstamos y anticipos a la clientela</td>
+            <td>410.895 </td>
+            <td>21.853 </td>
+            <td>5,32 </td>
+            <td>382.125 </td>
+            <td>19.471 </td>
+            <td>5,10 </td>
+            <td>328.183 </td>
+            <td>17.803 </td>
+            <td>5,42 </td>
+        </tr>
+        <tr>
+            <td>Euros</td>
+            <td>201.967 </td>
+            <td>3.750 </td>
+            <td>1,86 </td>
+            <td>196.987 </td>
+            <td>4.301 </td>
+            <td>2,18 </td>
+            <td>186.965 </td>
+            <td>4.843 </td>
+            <td>2,59 </td>
+        </tr>
+        <tr>
+            <td>Residentes</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>185.139 </td>
+            <td>15.170 </td>
+            <td>8,19 </td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>No residentes</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>49.128 </td>
+            <td>226 </td>
+            <td>0,46 </td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Moneda extranjera</td>
+            <td>208.928 </td>
+            <td>18.104 </td>
+            <td>8,67 </td>
+            <td>185.139 </td>
+            <td>15.170 </td>
+            <td>8,19 </td>
+            <td>141.218 </td>
+            <td>12.960 </td>
+            <td>9,18 </td>
+        </tr>
+        <tr>
+            <td>Residentes</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>No residentes</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Otros activos</td>
+            <td>52.748 </td>
+            <td>325 </td>
+            <td>0,62 </td>
+            <td>49.128 </td>
+            <td>226 </td>
+            <td>0,46 </td>
+            <td>40.686 </td>
+            <td>159 </td>
+            <td>0,39 </td>
+        </tr>
+        <tr>
+            <td>Totales</td>
+            <td>735.645 </td>
+            <td>27.708 </td>
+            <td>3,77 </td>
+            <td>705.559 </td>
+            <td>24.783 </td>
+            <td>3,51 </td>
+            <td>600.407 </td>
+            <td>22.838 </td>
+            <td>3,80</td>
+        </tr>
+    </tbody>
+</table>
 
 En los ejercicios de 2016, 2015 y 2014, el coste medio de las financiaciones fue el siguiente:
 
-IMAGE GOES HERE
+<table>
+    <thead>
+        <tr>
+            <th>Depósitos de entidades de crédito y bancos centrales</th>
+            <th>101.975 </th>
+            <th>1.866 </th>
+            <th>1,83 </th>
+            <th>99.289 </th>
+            <th>1.559 </th>
+            <th>1,57 </th>
+            <th>81.860</th>
+            <th>1.292</th>
+            <th>1,58 </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Depósitos de la clientela</td>
+            <td>398.851 </td>
+            <td>5.944 </td>
+            <td>1,49 </td>
+            <td>366.249 </td>
+            <td>4.390 </td>
+            <td>1,20 </td>
+            <td>307.705</td>
+            <td>4.335</td>
+            <td>1,41 </td>
+        </tr>
+        <tr>
+            <td>Euros</td>
+            <td>195.310 </td>
+            <td>766 </td>
+            <td>0,39 </td>
+            <td>187.721 </td>
+            <td>1.024 </td>
+            <td>0,55 </td>
+            <td>160.946</td>
+            <td>1.725</td>
+            <td>1,07 </td>
+        </tr>
+        <tr>
+            <td>Residentes</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>No residentes</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Moneda extranjera</td>
+            <td>203.541 </td>
+            <td>5.178 </td>
+            <td>2,54 </td>
+            <td>178.528 </td>
+            <td>3.366 </td>
+            <td>1,89 </td>
+            <td>146.759</td>
+            <td>2.610</td>
+            <td>1,78 </td>
+        </tr>
+        <tr>
+            <td>Residentes</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>No residentes</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Valores representativos de deuda emitidos</td>
+            <td>89.876 </td>
+            <td>1.738 </td>
+            <td>1,93 </td>
+            <td>89.672 </td>
+            <td>1.875 </td>
+            <td>2,09 </td>
+            <td>80.132</td>
+            <td>1.831</td>
+            <td>2,29 </td>
+        </tr>
+        <tr>
+            <td>Otros pasivos</td>
+            <td>89.328 </td>
+            <td>1.101 </td>
+            <td>1,23 </td>
+            <td>96.049 </td>
+            <td>936 </td>
+            <td>0,97 </td>
+            <td>83.620</td>
+            <td>998</td>
+            <td>1,19 </td>
+        </tr>
+        <tr>
+            <td>Patrimonio neto</td>
+            <td>55.616 </td>
+            <td>-</td>
+            <td>-</td>
+            <td>54.300 </td>
+            <td>-</td>
+            <td>-</td>
+            <td>47.091</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Totales</td>
+            <td>735.645 </td>
+            <td>10.648 </td>
+            <td>1,45 </td>
+            <td>705.559 </td>
+            <td>8.761 </td>
+            <td>1,24 </td>
+            <td>600.407</td>
+            <td>8.456</td>
+            <td>1,41</td>
+        </tr>
+    </tbody>
+</table>
 
-La variación experimentada en el saldo de los capítulos “Ingresos por intereses” e “Gastos por intereses” de las cuentas de pérdidas y ganancias consolidadas adjuntas viene determinada, además del efecto del tipo de cambio que está implícito, por la variación en los precios (efecto precio) y la variación en el volumen de actividad (efecto volumen), como se desglosa a continuación:
+La variación experimentada en el saldo de los capítulos “Ingresos por intereses” e “Gastos por intereses” de las cuentas de pérdidas y ganancias consolidadas adjuntas viene determinada, además del efecto del tipo de cambio que está implícito, por la variación en los precios (efecto precio) y la variación en el volumen de actividad (efecto volumen), como se desglosa a continuación: 
 
-IMAGE GOES HERE
+<table>
+    <thead>
+        <tr>
+            <th>Efectivo, saldos en efectivo en bancos centrales y otros depósitos a la vista </th>
+            <th>-</th>
+            <th>7 </th>
+            <th>8 </th>
+            <th>2 </th>
+            <th>(4)</th>
+            <th>(1)</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Cartera de títulos y derivados</td>
+            <td>(203)</td>
+            <td>602 </td>
+            <td>399 </td>
+            <td>739 </td>
+            <td>(572)</td>
+            <td>168 </td>
+        </tr>
+        <tr>
+            <td>Préstamos y anticipos a Bancos Centrales</td>
+            <td>39 </td>
+            <td>51 </td>
+            <td>89 </td>
+            <td>3 </td>
+            <td>5 </td>
+            <td>8 </td>
+        </tr>
+        <tr>
+            <td>Préstamos y anticipos a entidades de crédito </td>
+            <td>9 </td>
+            <td>(61)</td>
+            <td>(52)</td>
+            <td>45 </td>
+            <td>(9)</td>
+            <td>36 </td>
+        </tr>
+        <tr>
+            <td>Préstamos y anticipos a la clientela</td>
+            <td>1.466 </td>
+            <td>916 </td>
+            <td>2.382 </td>
+            <td>2.926 </td>
+            <td>(1.258)</td>
+            <td>1.668 </td>
+        </tr>
+        <tr>
+            <td>Euros</td>
+            <td>109 </td>
+            <td>(660)</td>
+            <td>(552)</td>
+            <td>260 </td>
+            <td>(801)</td>
+            <td>(542)</td>
+        </tr>
+        <tr>
+            <td>Moneda extranjera</td>
+            <td>1.949 </td>
+            <td>985 </td>
+            <td>2.934 </td>
+            <td>4.031 </td>
+            <td>(1.821)</td>
+            <td>2.210 </td>
+        </tr>
+        <tr>
+            <td>Otros activos</td>
+            <td>17 </td>
+            <td>82 </td>
+            <td>99 </td>
+            <td>33 </td>
+            <td>34 </td>
+            <td>67 </td>
+        </tr>
+        <tr>
+            <td>Ingresos por intereses</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>2.925 </td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>1.945 </td>
+        </tr>
+        <tr>
+            <td>Depósitos de bancos centrales y entidades de crédito</td>
+            <td>42 </td>
+            <td>265 </td>
+            <td>307 </td>
+            <td>275 </td>
+            <td>(8)</td>
+            <td>267 </td>
+        </tr>
+        <tr>
+            <td>Depósitos de la clientela</td>
+            <td>391 </td>
+            <td>1.162 </td>
+            <td>1.553 </td>
+            <td>825 </td>
+            <td>(769)</td>
+            <td>56 </td>
+        </tr>
+        <tr>
+            <td>Euros </td>
+            <td>41 </td>
+            <td>(300)</td>
+            <td>(258)</td>
+            <td>287 </td>
+            <td>(988)</td>
+            <td>(701)</td>
+        </tr>
+        <tr>
+            <td>Moneda extranjera</td>
+            <td>472 </td>
+            <td>1.340 </td>
+            <td>1.812 </td>
+            <td>565 </td>
+            <td>192 </td>
+            <td>757 </td>
+        </tr>
+        <tr>
+            <td>Valores representativos de deuda emitidos</td>
+            <td>4 </td>
+            <td>(142)</td>
+            <td>(137)</td>
+            <td>218 </td>
+            <td>(174)</td>
+            <td>44 </td>
+        </tr>
+        <tr>
+            <td>Otros pasivos</td>
+            <td>(66)</td>
+            <td>230 </td>
+            <td>165 </td>
+            <td>148 </td>
+            <td>(210)</td>
+            <td>(62)</td>
+        </tr>
+        <tr>
+            <td>Gastos por intereses</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>1.888 </td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>305 </td>
+        </tr>
+        <tr>
+            <td>Margen de intereses</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>1.037</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>1.641</td>
+        </tr>
+    </tbody>
+</table>
+
+(1) El efecto volumen se calcula como el producto del tipo de interés del periodo inicial por la diferencia entre los saldos medios de los dos periodos.
+(2) El efecto precio se calcula como el producto del saldo medio del último periodo por la diferencia entre los tipos de interés de los dos periodos.
 
 
 ## 38. Ingresos por dividendos
 
 Los saldos de este capítulo de las cuentas de pérdidas y ganancias consolidadas adjuntas corresponden a los dividendos de acciones e instrumentos de patrimonio, distintos de los procedentes de las participaciones en entidades valoradas por el método de la participación (ver Nota 39), según el siguiente desglose:
 
-IMAGE GOES HERE
+<table>
+    <thead>
+        <tr>
+            <th>Ingresos por dividendos</th>
+            <th>2016</th>
+            <th>2015</th>
+            <th>2014</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Dividendos procedentes de:</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Activos financieros mantenidos para negociar</td>
+            <td>156</td>
+            <td>144</td>
+            <td>137</td>
+        </tr>
+        <tr>
+            <td>Activos financieros disponibles para la venta</td>
+            <td>307</td>
+            <td>271</td>
+            <td>394</td>
+        </tr>
+        <tr>
+            <td>Otros</td>
+            <td>5</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Total</td>
+            <td>467</td>
+            <td>415</td>
+            <td>531</td>
+        </tr>
+    </tbody>
+</table>
 
 
 ## 39. Resultados de entidades valoradas por el método de la participación
 
 El saldo del epígrafe “Resultados en entidades valoradas por el método de la participación” se situó en 0000 millón de euros en el ejercicio 2016, comparado con los 0000 y 0000 millones de euros registrados en los  ejercicios 2015 y 2014, descendiendo principalmente por la menor aportación del Grupo Garanti con motivo del cambio del método de consolidación comentado anteriormente (ver Nota 3).
 
-IMAGE GOES HERE
+<table>
+    <thead>
+        <tr>
+            <th>Resultados en entidades valoradas por el método de la participación</th>
+            <th>2016</th>
+            <th>2015</th>
+            <th>2014</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>CIFH</td>
+            <td>-</td>
+            <td>-</td>
+            <td>71</td>
+        </tr>
+        <tr>
+            <td>Grupo Garanti</td>
+            <td>-</td>
+            <td>167</td>
+            <td>312</td>
+        </tr>
+        <tr>
+            <td>Metrovacesa, S.A.</td>
+            <td>-</td>
+            <td>(46)</td>
+            <td>(75)</td>
+        </tr>
+        <tr>
+            <td>Resto</td>
+            <td>25</td>
+            <td>53</td>
+            <td>35</td>
+        </tr>
+        <tr>
+            <td>Total</td>
+            <td>25</td>
+            <td>174</td>
+            <td>343</td>
+        </tr>
+    </tbody>
+</table>
 
 
 ## 40. Ingresos por comisiones
 
 El desglose del saldo de este capítulo de las cuentas de pérdidas y ganancias consolidadas adjuntas es:
 
-IMAGE GOES HERE
+<table>
+    <thead>
+        <tr>
+            <th>Ingresos por comisiones</th>
+            <th>2016</th>
+            <th>2015</th>
+            <th>2014</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Tarjetas de credito y débito</td>
+            <td>2.679</td>
+            <td>2.336</td>
+            <td>2.061</td>
+        </tr>
+        <tr>
+            <td>Gestión de activos</td>
+            <td>839</td>
+            <td>686</td>
+            <td>594</td>
+        </tr>
+        <tr>
+            <td>Transferencias, giros y otras ordenes</td>
+            <td>578</td>
+            <td>474</td>
+            <td>329</td>
+        </tr>
+        <tr>
+            <td>Cuentas a la vista</td>
+            <td>469</td>
+            <td>405</td>
+            <td>321</td>
+        </tr>
+        <tr>
+            <td>Riesgos contingentes</td>
+            <td>406</td>
+            <td>360</td>
+            <td>297</td>
+        </tr>
+        <tr>
+            <td>Comisiones por titulos</td>
+            <td>335</td>
+            <td>283</td>
+            <td>274</td>
+        </tr>
+        <tr>
+            <td>Comisiones de disponibilidad</td>
+            <td>237</td>
+            <td>172</td>
+            <td>184</td>
+        </tr>
+        <tr>
+            <td>Cheques</td>
+            <td>207</td>
+            <td>239</td>
+            <td>219</td>
+        </tr>
+        <tr>
+            <td>Por productos de seguros</td>
+            <td>178</td>
+            <td>171</td>
+            <td>79</td>
+        </tr>
+        <tr>
+            <td>Administracion y custodia</td>
+            <td>122</td>
+            <td>314</td>
+            <td>308</td>
+        </tr>
+        <tr>
+            <td>Efectos de cobro</td>
+            <td>52</td>
+            <td>94</td>
+            <td>77</td>
+        </tr>
+        <tr>
+            <td>Otras comisiones</td>
+            <td>701</td>
+            <td>807</td>
+            <td>787</td>
+        </tr>
+        <tr>
+            <td>Total</td>
+            <td>6.804</td>
+            <td>6.340</td>
+            <td>5.530</td>
+        </tr>
+    </tbody>
+</table>
+
+El desglose de los gastos por comisiones de las cuentas de pérdidas y ganancias consolidadas adjuntas es:
+
+<table>
+    <thead>
+        <tr>
+            <th>Gastos por comisiones</th>
+            <th>2016</th>
+            <th>2015</th>
+            <th>2014</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Tarjetas de crédito y débito</td>
+            <td>1.334</td>
+            <td>1.113</td>
+            <td>881</td>
+        </tr>
+        <tr>
+            <td>Transferencias, giros y otras ordenes de pago</td>
+            <td>102</td>
+            <td>92</td>
+            <td>63</td>
+        </tr>
+        <tr>
+            <td>Comisiones por la venta de seguros</td>
+            <td>63</td>
+            <td>69</td>
+            <td>53</td>
+        </tr>
+        <tr>
+            <td>Otras comisiones</td>
+            <td>587</td>
+            <td>454</td>
+            <td>360</td>
+        </tr>
+        <tr>
+            <td>Total </td>
+            <td>2.086</td>
+            <td>1.729</td>
+            <td>1.356</td>
+        </tr>
+    </tbody>
+</table>
 
 
-## 41. Gastos por comisiones
-
-El desglose del saldo de este capítulo de las cuentas de pérdidas y ganancias consolidadas adjuntas es:
-
-IMAGE GOES HERE
-
-## 42. Ganancias o pérdidas por activos y pasivos financieros
+## 41. Ganancias o pérdidas por activos y pasivos financieros y Diferencias de cambio
 
 El desglose de los saldos de estos capítulos de las cuentas de pérdidas y ganancias consolidadas adjuntas, en función del origen de las partidas que lo conforman, es:
 
-IMAGE GOES HERE
+<table>
+    <thead>
+        <tr>
+            <th>Ganancias o pérdidas por activos y pasivos financieros y diferencias de cambio</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Desgloses por epígrafe de balance"</td>
+            <td>2016</td>
+            <td>2015</td>
+            <td>2014</td>
+        </tr>
+        <tr>
+            <td>Ganancias o pérdidas al dar de baja en cuentas activos y pasivos financieros no valorados a valor razonable con cambios en resultados, netas</td>
+            <td>1.375</td>
+            <td>1.055</td>
+            <td>1.439</td>
+        </tr>
+        <tr>
+            <td>Activos financieros disponibles para la venta</td>
+            <td>1.271</td>
+            <td>980</td>
+            <td>1.400</td>
+        </tr>
+        <tr>
+            <td>Préstamos y partidas a cobrar</td>
+            <td>95</td>
+            <td>76</td>
+            <td>31</td>
+        </tr>
+        <tr>
+            <td>Resto</td>
+            <td>10</td>
+            <td>(1)</td>
+            <td>7</td>
+        </tr>
+        <tr>
+            <td>Ganancias o pérdidas por activos y pasivos financieros mantenidos para negociar, netas</td>
+            <td>248</td>
+            <td>(409)</td>
+            <td>11</td>
+        </tr>
+        <tr>
+            <td>Ganancias o pérdidas por activos y pasivos financieros designados a valor razonable con cambios en resultados, netas</td>
+            <td>114</td>
+            <td>126</td>
+            <td>32</td>
+        </tr>
+        <tr>
+            <td>Ganancias o pérdidas resultantes de la contabilidad de coberturas, netas</td>
+            <td>(76)</td>
+            <td>93</td>
+            <td>(47)</td>
+        </tr>
+        <tr>
+            <td>Subtotal Ganancias o perdidas por activos y pasivos financieros</td>
+            <td>1.661</td>
+            <td>865</td>
+            <td>1.435</td>
+        </tr>
+        <tr>
+            <td>Diferencias de cambio</td>
+            <td>472</td>
+            <td>1.165</td>
+            <td>699</td>
+        </tr>
+        <tr>
+            <td>Total</td>
+            <td>2.133</td>
+            <td>2.030</td>
+            <td>2.134</td>
+        </tr>
+    </tbody>
+</table>
 
-Mientras que el desglose, atendiendo a la naturaleza de los instrumentos financieros que dieron lugar a estos saldos, es el siguiente:
+Mientras que el desglose, atendiendo a la naturaleza de los instrumentos financieros que dieron lugar a estos saldos, excluidas las diferencias de cambio, es el siguiente:
 
-IMAGE GOES HERE
+<table>
+    <thead>
+        <tr>
+            <th>Ganancias o pérdidas por activos y pasivos financieros - Desgloses por instrumento</th>
+            <th>2016</th>
+            <th>2015</th>
+            <th>2014</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Valores representativos de deuda</td>
+            <td>906</td>
+            <td>522</td>
+            <td>1.683</td>
+        </tr>
+        <tr>
+            <td>Instrumentos de patrimonio</td>
+            <td>597</td>
+            <td>(414)</td>
+            <td>345</td>
+        </tr>
+        <tr>
+            <td>Préstamos y anticipos a la clientela</td>
+            <td>65</td>
+            <td>88</td>
+            <td>35</td>
+        </tr>
+        <tr>
+            <td>Derivados de negociación y contabilidad de coberturas </td>
+            <td>109</td>
+            <td>561</td>
+            <td>(648)</td>
+        </tr>
+        <tr>
+            <td>Depósitos de la clientela</td>
+            <td>87</td>
+            <td>83</td>
+            <td>(4)</td>
+        </tr>
+        <tr>
+            <td>Resto</td>
+            <td>(103)</td>
+            <td>25</td>
+            <td>24</td>
+        </tr>
+        <tr>
+            <td>Total</td>
+            <td>1.661</td>
+            <td>865</td>
+            <td>1.435</td>
+        </tr>
+    </tbody>
+</table>
 
 El desglose del impacto de los derivados (tanto de negociación como de cobertura) en el saldo de este capítulo de las cuentas de pérdidas y ganancias consolidadas adjuntas es:
 
-IMAGE GOES HERE
+<table>
+    <thead>
+        <tr>
+            <th>Derivados de negociación y contabilidad de coberturas</th>
+            <th>2016</th>
+            <th>2015</th>
+            <th>2014</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Derivados </td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td> Contratos de tipos de interés</td>
+            <td>431</td>
+            <td>666</td>
+            <td>(429)</td>
+        </tr>
+        <tr>
+            <td> Contratos de valores</td>
+            <td>86</td>
+            <td>751</td>
+            <td>34</td>
+        </tr>
+        <tr>
+            <td> Contratos de materias primas</td>
+            <td>(29)</td>
+            <td>(1)</td>
+            <td>(1)</td>
+        </tr>
+        <tr>
+            <td> Contratos de derivados de crédito</td>
+            <td>(118)</td>
+            <td>39</td>
+            <td>76</td>
+        </tr>
+        <tr>
+            <td> Contratos de derivados de tipos de cambio</td>
+            <td>186</td>
+            <td>(1.001)</td>
+            <td>(285)</td>
+        </tr>
+        <tr>
+            <td> Otros contratos</td>
+            <td>(371)</td>
+            <td>15</td>
+            <td>4</td>
+        </tr>
+        <tr>
+            <td>Subtotal</td>
+            <td>185</td>
+            <td>468</td>
+            <td>(601)</td>
+        </tr>
+        <tr>
+            <td>Ineficiencias de la contabilidad de coberturas</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Coberturas de valor razonable</td>
+            <td>(76)</td>
+            <td>80</td>
+            <td>(47)</td>
+        </tr>
+        <tr>
+            <td>Derivado de cobertura</td>
+            <td>(330)</td>
+            <td>(28)</td>
+            <td>(488)</td>
+        </tr>
+        <tr>
+            <td>Elemento cubierto</td>
+            <td>254</td>
+            <td>108</td>
+            <td>441</td>
+        </tr>
+        <tr>
+            <td>Coberturas de flujos de efectivo</td>
+            <td>-</td>
+            <td>13</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Subtotal</td>
+            <td>(76)</td>
+            <td>93</td>
+            <td>(47)</td>
+        </tr>
+        <tr>
+            <td>Total</td>
+            <td>109</td>
+            <td>561</td>
+            <td>(648)</td>
+        </tr>
+    </tbody>
+</table>
 
-Adicionalmente, durante los ejercicios de 2016, 2015 y 2014 se han registrado en el capítulo “Ganancias o pérdidas por activos y pasivos financieros mantenidos para negociar, netas” de las cuentas de pérdidas y ganancias consolidadas, importes netos por 0000 millones de euros y 0000 millones de euros positivos, respectivamente, por operaciones con derivados de tipo de cambio.
+Adicionalmente, durante los ejercicios de 2016, 2015 y 2014 se han registrado en el capítulo “Ganancias o pérdidas por activos y pasivos financieros mantenidos para negociar, netas” de las cuentas de pérdidas y ganancias consolidadas, importes netos por 151 millones de euros positivos, 135 millones de euros positivos y 39 millones de euros positivos, respectivamente, por operaciones con derivados de tipo de cambio.
+
+## 42. Otros Ingresos y Gastos de explotación
+
+El desglose del saldo de los capítulos “Otros ingresos de explotación” de las cuentas de pérdidas y ganancias consolidadas adjuntas es:
+
+<table>
+    <thead>
+        <tr>
+            <th>Otros ingresos de explotación </th>
+            <th>2016</th>
+            <th>2015</th>
+            <th>2014</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Ventas e ingresos por prestación de servicios no financieros</td>
+            <td>882</td>
+            <td>912</td>
+            <td>650</td>
+        </tr>
+        <tr>
+            <td>De los que: Inmobiliarias</td>
+            <td>588</td>
+            <td>668</td>
+            <td>464</td>
+        </tr>
+        <tr>
+            <td>Resto de ingresos de explotación</td>
+            <td>390</td>
+            <td>403</td>
+            <td>309</td>
+        </tr>
+        <tr>
+            <td>De los que: Beneficios netos explotación fincas en renta</td>
+            <td>76</td>
+            <td>90</td>
+            <td>65</td>
+        </tr>
+        <tr>
+            <td>Total</td>
+            <td>1.272</td>
+            <td>1.315</td>
+            <td>959</td>
+        </tr>
+    </tbody>
+</table>
+
+El desglose del saldo del capítulo “Otras gastos de explotación” de las cuentas de pérdidas y ganancias consolidadas adjuntas es:
+
+<table>
+    <thead>
+        <tr>
+            <th>Otros gastos de explotación</th>
+            <th>2016</th>
+            <th>2015</th>
+            <th>2014</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Variación de existencias</td>
+            <td>617</td>
+            <td>678</td>
+            <td>506</td>
+        </tr>
+        <tr>
+            <td>De las que: Inmobiliarias</td>
+            <td>511</td>
+            <td>594</td>
+            <td>448</td>
+        </tr>
+        <tr>
+            <td>Resto de gastos de explotación</td>
+            <td>1.511</td>
+            <td>1.607</td>
+            <td>2.200</td>
+        </tr>
+        <tr>
+            <td>De los que: Fondos Garantía de Depósitos y Resolución </td>
+            <td>723</td>
+            <td>732</td>
+            <td>753</td>
+        </tr>
+        <tr>
+            <td>Total</td>
+            <td>2.128</td>
+            <td>2.285</td>
+            <td>2.706</td>
+        </tr>
+    </tbody>
+</table>
 
 
-## 43. Otros Ingresos y otros Gastos de explotación e ingresos y gastos de activos y pasivos amparados por contratos de seguro o reaseguros
+## 43. Ingresos y gastos de activos y pasivos amparados por contratos de seguro o reaseguros
 
-El desglose del saldo de los capítulos “Otros ingresos de explotación” e “Ingresos de activos amparados por contratos de seguro y reaseguro“ de las cuentas de pérdidas y ganancias consolidadas adjuntas es:
+El desglose del saldo de los capítulos “Ingresos y gastos de activos y pasivos amparados por contratos de seguro o reaseguros” de las cuentas de pérdidas y ganancias consolidadas adjuntas es:
 
-IMAGE GOES HERE
+<table>
+    <thead>
+        <tr>
+            <th>Ingresos y gastos de activos y pasivos amparados por contratos de seguro o reaseguros</th>
+            <th>2016</th>
+            <th>2015</th>
+            <th>2014</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Ingresos de activos amparados por contratos de seguro o reaseguro</td>
+            <td>3.652 </td>
+            <td>3.678 </td>
+            <td>3.622 </td>
+        </tr>
+        <tr>
+            <td>Gastos de pasivos amparados por contratos de seguro o reaseguro</td>
+            <td>(2.545)</td>
+            <td>(2.599)</td>
+            <td>(2.714)</td>
+        </tr>
+        <tr>
+            <td>Total</td>
+            <td>1.107</td>
+            <td>1.080</td>
+            <td>908</td>
+        </tr>
+    </tbody>
+</table>
 
-El desglose del saldo del capítulo “Otras gastos de explotación” y “Gastos de pasivos amparados por contratos de seguros o reaseguros” de las cuentas de pérdidas y ganancias consolidadas adjuntas es:
+La tabla siguiente muestra la aportación de cada producto de seguros a los ingresos netos de gastos del Grupo en los ejercicios 2016, 2015 y 2014:
 
-IMAGE GOES HERE
+<table>
+    <thead>
+        <tr>
+            <th>Ingresos netos por tipo de producto de seguro</th>
+            <th>2016</th>
+            <th>2015</th>
+            <th>2014</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Seguros de vida </td>
+            <td>634</td>
+            <td>670</td>
+            <td>599</td>
+        </tr>
+        <tr>
+            <td>Individual</td>
+            <td>268</td>
+            <td>329</td>
+            <td>272</td>
+        </tr>
+        <tr>
+            <td>Ahorro</td>
+            <td>30</td>
+            <td>80</td>
+            <td>67</td>
+        </tr>
+        <tr>
+            <td>Riesgo</td>
+            <td>238</td>
+            <td>249</td>
+            <td>205</td>
+        </tr>
+        <tr>
+            <td>Colectivos</td>
+            <td>366</td>
+            <td>342</td>
+            <td>327</td>
+        </tr>
+        <tr>
+            <td>Ahorro</td>
+            <td>8</td>
+            <td>22</td>
+            <td>90</td>
+        </tr>
+        <tr>
+            <td>Riesgo</td>
+            <td>357</td>
+            <td>320</td>
+            <td>237</td>
+        </tr>
+        <tr>
+            <td>Seguros no vida</td>
+            <td>474</td>
+            <td>409</td>
+            <td>309</td>
+        </tr>
+        <tr>
+            <td>Hogar</td>
+            <td>131</td>
+            <td>127</td>
+            <td>117</td>
+        </tr>
+        <tr>
+            <td>Resto no vida</td>
+            <td>342</td>
+            <td>283</td>
+            <td>192</td>
+        </tr>
+        <tr>
+            <td>Total </td>
+            <td>1.107</td>
+            <td>1.080</td>
+            <td>908</td>
+        </tr>
+    </tbody>
+</table>
 
 
 ## 44. Gastos de administración
@@ -3018,15 +22762,166 @@ IMAGE GOES HERE
 
 La composición del saldo de este epígrafe de las cuentas de pérdidas y ganancias consolidadas adjuntas es:
 
-IMAGES GOES HERE
+<table>
+    <thead>
+        <tr>
+            <th>Gastos de personal</th>
+            <th>Notas</th>
+            <th>2016</th>
+            <th>2015</th>
+            <th>2014</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Sueldos y salarios</td>
+            <td>&nbsp;</td>
+            <td>5.267</td>
+            <td>4.868</td>
+            <td>4.108</td>
+        </tr>
+        <tr>
+            <td>Seguridad Social</td>
+            <td>&nbsp;</td>
+            <td>784</td>
+            <td>733</td>
+            <td>683</td>
+        </tr>
+        <tr>
+            <td>Contribuciones a fondos de pensiones de aportación definida</td>
+            <td>25</td>
+            <td>87</td>
+            <td>84</td>
+            <td>63</td>
+        </tr>
+        <tr>
+            <td>Dotaciones a planes por pensiones de prestación definida</td>
+            <td>25</td>
+            <td>67</td>
+            <td>57</td>
+            <td>58</td>
+        </tr>
+        <tr>
+            <td>Otros gastos de personal</td>
+            <td>&nbsp;</td>
+            <td>516</td>
+            <td>531</td>
+            <td>498</td>
+        </tr>
+        <tr>
+            <td>Total</td>
+            <td>&nbsp;</td>
+            <td>6.722</td>
+            <td>6.273</td>
+            <td>5.410</td>
+        </tr>
+    </tbody>
+</table>
 
 El desglose del número medio de empleados del Grupo BBVA, distribuido por categorías profesionales y áreas geográficas, en los ejercicios de 2016, 2015 y 2014, es el siguiente:
 
-IMAGE GOES HERE
+<table>
+    <thead>
+        <tr>
+            <th>Gastos de personal</th>
+            <th>Notas</th>
+            <th>2016</th>
+            <th>2015</th>
+            <th>2014</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Sueldos y salarios</td>
+            <td>&nbsp;</td>
+            <td>5.267</td>
+            <td>4.868</td>
+            <td>4.108</td>
+        </tr>
+        <tr>
+            <td>Seguridad Social</td>
+            <td>&nbsp;</td>
+            <td>784</td>
+            <td>733</td>
+            <td>683</td>
+        </tr>
+        <tr>
+            <td>Contribuciones a fondos de pensiones de aportación definida</td>
+            <td>25</td>
+            <td>87</td>
+            <td>84</td>
+            <td>63</td>
+        </tr>
+        <tr>
+            <td>Dotaciones a planes por pensiones de prestación definida</td>
+            <td>25</td>
+            <td>67</td>
+            <td>57</td>
+            <td>58</td>
+        </tr>
+        <tr>
+            <td>Otros gastos de personal</td>
+            <td>&nbsp;</td>
+            <td>516</td>
+            <td>531</td>
+            <td>498</td>
+        </tr>
+        <tr>
+            <td>Total</td>
+            <td>&nbsp;</td>
+            <td>6.722</td>
+            <td>6.273</td>
+            <td>5.410</td>
+        </tr>
+    </tbody>
+</table>
+
+(*) Incrementos motivados por cambios de perímetro (ver Nota 3).
 
 El número de empleados del Grupo BBVA a 31 de diciembre 2016,2015 y 2014, distribuido por categorías y género, era el siguiente:
 
-IMAGE GOES HERE
+<table>
+    <thead>
+        <tr>
+            <th>Equipo Gestor</th>
+            <th>1.331</th>
+            <th>350</th>
+            <th>1.493</th>
+            <th>365</th>
+            <th>1.579</th>
+            <th>358</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Técnicos </td>
+            <td>38.514</td>
+            <td>39.213</td>
+            <td>38.204</td>
+            <td>38.868</td>
+            <td>24.103</td>
+            <td>21.845</td>
+        </tr>
+        <tr>
+            <td>Administrativos</td>
+            <td>22.066</td>
+            <td>33.318</td>
+            <td>23.854</td>
+            <td>35.184</td>
+            <td>25.601</td>
+            <td>35.284</td>
+        </tr>
+        <tr>
+            <td>Total</td>
+            <td>61.911</td>
+            <td>72.881</td>
+            <td>63.551</td>
+            <td>74.417</td>
+            <td>51.283</td>
+            <td>57.487</td>
+        </tr>
+    </tbody>
+</table>
 
 
 #### 44.1.1 Remuneraciones basadas en acciones
@@ -3046,8 +22941,8 @@ Esta política retributiva fue aprobada para los consejeros de BBVA por la Junta
 Las reglas específicas de liquidación y pago de la Retribución Variable Anual de los consejeros ejecutivos y miembros de la Alta Dirección se describen en la Nota 54, y por lo que se refiere al resto del Colectivo Identificado, se aplican las siguientes:
 
 • La Retribución Variable Anual de los miembros del Colectivo Identificado se abonará por partes iguales en efectivo y en acciones de BBVA.
-• El pago del 40% de la Retribución Variable Anual, - 50% en el caso de los consejeros ejecutivos y miembros de la Alta Dirección- tanto en efectivo como en acciones, se diferirá en su totalidad por un periodo de tres años, sometiéndose su devengo y pago al cumplimiento de una serie de indicadores plurianuales relacionados con la evolución de la acción y las métricas fundamentales de control y gestión de los riesgos del Grupo, referidas a su solvencia, liquidez y rentabilidad, que serán calculados a lo largo del periodo de diferimiento (en adelante “Indicadores de Evaluación Plurianual”). Estos Indicadores de Evaluación Plurianual podrán dar lugar a una reducción de la cantidad diferida, pudiendo ésta incluso llegar a ser cero, pero no servirán en ningún supuesto para incrementar dicha retribución diferida.
-• Todas las acciones entregadas conforme a las reglas señaladas serán indisponibles durante un periodo de tiempo determinado desde su entrega, aplicándose esta retención sobre el importe neto de las acciones, una vez descontada la parte necesaria para hacer frente al pago de los impuestos por las acciones recibidas.
+• El pago del 40% de la Retribución Variable Anual, - 50% en el caso de los consejeros ejecutivos y miembros de la Alta Dirección- tanto en efectivo como en acciones, se diferirá en su totalidad por un periodo de tres años, sometiéndose su devengo y pago al cumplimiento de una serie de indicadores plurianuales relacionados con la evolución de la acción y las métricas fundamentales de control y gestión de los riesgos del Grupo, referidas a su solvencia, liquidez y rentabilidad, que serán calculados a lo largo del periodo de diferimiento (en adelante “Indicadores de Evaluación Plurianual”). Estos Indicadores de Evaluación Plurianual podrán dar lugar a una reducción de la cantidad diferida, pudiendo ésta incluso llegar a ser cero, pero no servirán en ningún supuesto para incrementar dicha retribución diferida. 
+• Todas las acciones entregadas conforme a las reglas señaladas serán indisponibles durante un periodo de tiempo determinado desde su entrega, aplicándose esta retención sobre el importe neto de las acciones, una vez descontada la parte necesaria para hacer frente al pago de los impuestos por las acciones recibidas. 
 • Se establece además la prohibición de realizar coberturas tanto por las acciones entregadas indisponibles como por las acciones pendientes de recibirse.
 • Además, se han establecido supuestos que podrán limitar o llegar a impedir, en determinados casos, el abono de la Retribución Variable Anual (cláusulas “malus”) así como la actualización de las partes diferidas.
 • Por último, el componente variable de la remuneración correspondiente a un ejercicio de las personas del Colectivo Identificado quedará limitado a un importe máximo del 100% del componente fijo de la remuneración total, salvo para aquellos casos en los que la Junta General acuerde elevar este límite que, en todo caso, no podrá superar el 200% del componente fijo de la remuneración total.
@@ -3056,7 +22951,7 @@ A estos efectos, la Junta General de Accionistas celebrada el 14 de marzo de 201
 
 De acuerdo al esquema de liquidación y pago explicado anteriormente, durante el primer semestre de 2016 se han entregado al Colectivo Identificado 5.187.750 acciones correspondientes al pago inicial de la parte en acciones de la Retribución Variable Anual del ejercicio 2015.
 
-Asimismo, la política retributiva vigente hasta el año 2014, contaba con un sistema específico de liquidación y pago de la retribución variable para el Colectivo Identificado que establecía el diferimiento por tres años de un porcentaje de la Retribución Variable Anual, abonándose la cantidad diferida por tercios a lo largo de ese periodo.
+Asimismo, la política retributiva vigente hasta el año 2014, contaba con un sistema específico de liquidación y pago de la retribución variable para el Colectivo Identificado que establecía el diferimiento por tres años de un porcentaje de la Retribución Variable Anual, abonándose la cantidad diferida por tercios a lo largo de ese periodo. 
 
 Conforme a este esquema previo, durante el primer semestre de 2016, se han entregado a los beneficiarios miembros del Colectivo Identificado las acciones correspondientes a las partes diferidas de la Retribución Variable Anual en acciones de ejercicios anteriores, y sus correspondientes actualizaciones en efectivo, dando lugar en el primer semestre de 2016 a la entrega de un total de 945.053 acciones correspondientes al primer tercio diferido de la Retribución Variable Anual 2014, y 349.670 euros en concepto de actualización de las acciones entregadas; un total de 438.082 acciones correspondientes al segundo tercio diferido de la Retribución Variable Anual 2013, y 340.828 euros en concepto de actualización; y un total de 502.622 acciones correspondientes al último tercio de la Retribución Variable Anual 2012, y 551.879 euros en concepto de actualización.
 
@@ -3064,7 +22959,7 @@ Igualmente, durante el primer semestre de 2016 se han entregado a los beneficiar
 
 Una vez finalizado el plazo de duración del Plan de Incentivación en Acciones a Largo Plazo 2010-2012 de BBVA Compass, el 31 de diciembre de 2012, dirigido a su Equipo Directivo, se procedió a su liquidación en aplicación de las condiciones establecidas a su inicio.
 
-Para aquellos beneficiarios de este programa miembros del Colectivo Identificado, se acordó aplicar las mismas reglas del sistema de liquidación y pago señaladas anteriormente, con arreglo a la política retributiva anterior a 2015, que establecía el pago de la parte diferida por tercios durante el periodo de diferimiento.
+Para aquellos beneficiarios de este programa miembros del Colectivo Identificado, se acordó aplicar las mismas reglas del sistema de liquidación y pago señaladas anteriormente, con arreglo a la política retributiva anterior a 2015, que establecía el pago de la parte diferida por tercios durante el periodo de diferimiento. 
 
 Así, durante el primer semestre del ejercicio de 2016 se han entregado a los beneficiarios miembros del Colectivo Identificado en BBVA Compass 6.314 acciones, correspondientes al último tercio de la parte diferida de las acciones resultantes de la liquidación del Plan de Incentivación en Acciones a Largo Plazo 2010-2012, y 6.933 euros en concepto de actualización de las acciones entregadas.
 
@@ -3075,52 +22970,457 @@ Adicionalmente, BBVA Compass venía contando dentro de su estructura retributiva
 
 El desglose del saldo de este epígrafe de las cuentas de pérdidas y ganancias consolidadas adjuntas es:
 
-IMAGE GOES HERE
+<table>
+    <thead>
+        <tr>
+            <th>Gastos de administración</th>
+            <th>2016</th>
+            <th>2015</th>
+            <th>2014</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Tecnología y sistemas</td>
+            <td>673</td>
+            <td>625</td>
+            <td>585</td>
+        </tr>
+        <tr>
+            <td>Comunicaciones</td>
+            <td>294</td>
+            <td>281</td>
+            <td>271</td>
+        </tr>
+        <tr>
+            <td>Publicidad</td>
+            <td>398</td>
+            <td>387</td>
+            <td>333</td>
+        </tr>
+        <tr>
+            <td>Inmuebles, instalaciones y material</td>
+            <td>1.080</td>
+            <td>1.030</td>
+            <td>916</td>
+        </tr>
+        <tr>
+            <td>De los que: Gastos alquileres (*)</td>
+            <td>616</td>
+            <td>591</td>
+            <td>461</td>
+        </tr>
+        <tr>
+            <td>Tributos</td>
+            <td>433</td>
+            <td>466</td>
+            <td>418</td>
+        </tr>
+        <tr>
+            <td>Otros gastos de administración</td>
+            <td>1.766</td>
+            <td>1.775</td>
+            <td>1.480</td>
+        </tr>
+        <tr>
+            <td>Total</td>
+            <td>4.644</td>
+            <td>4.563</td>
+            <td>4.004</td>
+        </tr>
+    </tbody>
+</table>
 
 
 ## 45 Amortización
 
 El desglose del saldo de este capítulo de las cuentas de pérdidas y ganancias consolidadas adjuntas es el siguiente:
 
-IMAGE GOES HERE
+<table>
+    <thead>
+        <tr>
+            <th>Amortizaciones del periodo</th>
+            <th>Notas</th>
+            <th>2016</th>
+            <th>2015</th>
+            <th>2014</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Activos tangibles</td>
+            <td>17</td>
+            <td>690</td>
+            <td>641</td>
+            <td>611</td>
+        </tr>
+        <tr>
+            <td> De uso propio</td>
+            <td>&nbsp;</td>
+            <td>667</td>
+            <td>615</td>
+            <td>589</td>
+        </tr>
+        <tr>
+            <td> Inversiones inmobiliarias</td>
+            <td>&nbsp;</td>
+            <td>23</td>
+            <td>25</td>
+            <td>22</td>
+        </tr>
+        <tr>
+            <td>Cedidos en arrendamiento operativo</td>
+            <td>&nbsp;</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Otros activos intangibles</td>
+            <td>18.2</td>
+            <td>735</td>
+            <td>631</td>
+            <td>535</td>
+        </tr>
+        <tr>
+            <td>Total</td>
+            <td>&nbsp;</td>
+            <td>1.426</td>
+            <td>1.272</td>
+            <td>1.145</td>
+        </tr>
+    </tbody>
+</table>
 
 
 ## 46. Provisiones o reversión de provisiones
 
 En los ejercicios de 2016, 2015 y 2014, las dotaciones netas con cargo a este epígrafe de las cuentas de pérdidas y ganancias consolidadas fueron:
 
-IMAGE GOES HERE
+<table>
+    <thead>
+        <tr>
+            <th>Provisiones o reversión de provisiones</th>
+            <th>Notas</th>
+            <th>2016</th>
+            <th>2015</th>
+            <th>2014</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Pensiones y otras obligaciones de prestaciones definidas post-empleo</td>
+            <td>25 </td>
+            <td>332</td>
+            <td>592</td>
+            <td>816</td>
+        </tr>
+        <tr>
+            <td>Otras retribuciones a los empleados a largo plazo</td>
+            <td>&nbsp;</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Compromisos y garantías concedidos</td>
+            <td>&nbsp;</td>
+            <td>56</td>
+            <td>10</td>
+            <td>14</td>
+        </tr>
+        <tr>
+            <td>Cuestiones procesales y litigios por impuestos pendientes</td>
+            <td>24 </td>
+            <td>76</td>
+            <td>(25)</td>
+            <td>94</td>
+        </tr>
+        <tr>
+            <td>Otras provisiones</td>
+            <td>24 </td>
+            <td>722</td>
+            <td>154</td>
+            <td>218</td>
+        </tr>
+        <tr>
+            <td>Total </td>
+            <td>&nbsp;</td>
+            <td>1.186</td>
+            <td>731</td>
+            <td>1.142</td>
+        </tr>
+    </tbody>
+</table>
 
 
 ## 47. Deterioro del valor o reversión del deterioro del valor de activos financieros no valorados a valor razonable con cambios en resultados
 
 A continuación se presentan las pérdidas por deterioro de los activos financieros, desglosadas por la naturaleza de dichos activos, registradas en las cuentas de pérdidas y ganancias consolidadas adjuntas:
 
-IMAGE GOES HERE
+<table>
+    <thead>
+        <tr>
+            <th>Deterioro del valor o reversión del deterioro del valor de activos financieros no valorados a valor razonable con cambios en resultados</th>
+            <th>Notas</th>
+            <th>2016</th>
+            <th>2015</th>
+            <th>2014</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Activos financieros valorados al coste</td>
+            <td>&nbsp;</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Activos financieros disponibles para la venta</td>
+            <td>12</td>
+            <td>202</td>
+            <td>24</td>
+            <td>35</td>
+        </tr>
+        <tr>
+            <td>Valores representativos de deuda</td>
+            <td>&nbsp;</td>
+            <td>157</td>
+            <td>1</td>
+            <td>19</td>
+        </tr>
+        <tr>
+            <td>Instrumentos de patrimonio</td>
+            <td>&nbsp;</td>
+            <td>46</td>
+            <td>23</td>
+            <td>17</td>
+        </tr>
+        <tr>
+            <td>Préstamos y partidas a cobrar</td>
+            <td>7.3.5</td>
+            <td>3.597</td>
+            <td>4.248</td>
+            <td>4.304</td>
+        </tr>
+        <tr>
+            <td>De los que: Recuperación de activos fallidos</td>
+            <td>7.3.5</td>
+            <td>541</td>
+            <td>490</td>
+            <td>443</td>
+        </tr>
+        <tr>
+            <td>Inversiones mantenidas hasta el vencimiento</td>
+            <td>&nbsp;</td>
+            <td>1</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Total </td>
+            <td>&nbsp;</td>
+            <td>3.801</td>
+            <td>4.272</td>
+            <td>4.340</td>
+        </tr>
+    </tbody>
+</table>
 
 
 ## 48. Deterioro del valor o reversión del deterioro del valor de activos no financieros
 
 Seguidamente se presentan las pérdidas por deterioro de los activos no financieros, desglosadas por la naturaleza de dichos activos, registradas en las cuentas de pérdidas y ganancias consolidadas adjuntas:
 
-IMAGE GOES HERE
+<table>
+    <thead>
+        <tr>
+            <th>Deterioro del valor o reversión del deterioro del valor de activos no financieros</th>
+            <th>Notas</th>
+            <th>2016</th>
+            <th>2015</th>
+            <th>2014</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Activos tangibles</td>
+            <td>17</td>
+            <td>143</td>
+            <td>60</td>
+            <td>97</td>
+        </tr>
+        <tr>
+            <td>Activo intangible</td>
+            <td>18.1</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Activos Intangibles</td>
+            <td>18.2</td>
+            <td>3</td>
+            <td>4</td>
+            <td>8</td>
+        </tr>
+        <tr>
+            <td>Activos tangibles de uso propio</td>
+            <td>17</td>
+            <td>53</td>
+            <td>26</td>
+            <td>35</td>
+        </tr>
+        <tr>
+            <td>Inversiones inmobiliarias</td>
+            <td>17</td>
+            <td>90</td>
+            <td>34</td>
+            <td>61</td>
+        </tr>
+        <tr>
+            <td>Existencias</td>
+            <td>20</td>
+            <td>375</td>
+            <td>209</td>
+            <td>192</td>
+        </tr>
+        <tr>
+            <td>Otros</td>
+            <td>&nbsp;</td>
+            <td>375</td>
+            <td>209</td>
+            <td>192</td>
+        </tr>
+        <tr>
+            <td>Total</td>
+            <td>&nbsp;</td>
+            <td>521</td>
+            <td>273</td>
+            <td>297</td>
+        </tr>
+    </tbody>
+</table>
 
 
 ## 49. Ganancias o pérdidas al dar de baja en cuentas activos no financieros y participaciones, netas
 
 El desglose del saldo de este capítulo de las cuentas de pérdidas y ganancias consolidadas adjuntas es:
 
-IMAGE GOES HERE
+<table>
+    <thead>
+        <tr>
+            <th>Ganancias o pérdidas al dar de baja en cuentas activos no financieros y participaciones, netas</th>
+            <th>2016</th>
+            <th>2015</th>
+            <th>2014</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Ganancias:</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Enajenación de participaciones</td>
+            <td>111</td>
+            <td>23</td>
+            <td>28</td>
+        </tr>
+        <tr>
+            <td>Enajenación de activos tangibles y otros</td>
+            <td>64</td>
+            <td>71</td>
+            <td>38</td>
+        </tr>
+        <tr>
+            <td>Pérdidas:</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Enajenación de participaciones</td>
+            <td>(58)</td>
+            <td>(2.222)</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Enajenación de activos tangibles y otros</td>
+            <td>(47)</td>
+            <td>(7)</td>
+            <td>(20)</td>
+        </tr>
+        <tr>
+            <td>Total</td>
+            <td>70</td>
+            <td>(2.135)</td>
+            <td>46</td>
+        </tr>
+    </tbody>
+</table>
 
+En el ejercicio 2015, la línea “Pérdidas – Enajenación de participaciones” recoge, fundamentalmente, la puesta a valor razonable la participación mantenida en el Grupo Garanti por el cambio del método de consolidación (ver Nota 3). 
 
-## 50.  Ganancias o pérdidas procedentes de activos no corrientes y grupos enajenables de elementos clasificados como mantenidos para la venta no admisibles como actividades interrumpidas
+## 50. Ganancias o pérdidas procedentes de activos no corrientes y grupos enajenables de elementos clasificados como mantenidos para la venta no admisibles como actividades interrumpidas
 
 Los principales conceptos incluidos en el saldo de este capítulo de las cuentas de pérdidas y ganancias consolidadas adjuntas son:
 
-IMAGE GOES HERE
+<table>
+    <thead>
+        <tr>
+            <th>Ganancias o pérdidas procedentes de activos no corrientes y grupos enajenables de elementos clasificados como mantenidos para la venta no admisibles como actividades interrumpidas</th>
+            <th>Notas</th>
+            <th>2016</th>
+            <th>2015</th>
+            <th>2014</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Ganancias netas por ventas de inmuebles</td>
+            <td>&nbsp;</td>
+            <td>66</td>
+            <td>97</td>
+            <td>(5)</td>
+        </tr>
+        <tr>
+            <td>Deterioro de activos no corrientes en venta</td>
+            <td>21</td>
+            <td>(136)</td>
+            <td>(285)</td>
+            <td>(406)</td>
+        </tr>
+        <tr>
+            <td>Ganancias (pérdidas) por venta de participaciones clasificadas como activos no corrientes en venta</td>
+            <td>&nbsp;</td>
+            <td>39</td>
+            <td>45</td>
+            <td>(42)</td>
+        </tr>
+        <tr>
+            <td>Ganancias por venta de otros instrumentos de capital clasificados como activos no corrientes en venta (*)</td>
+            <td>&nbsp;</td>
+            <td>-</td>
+            <td>877</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Total</td>
+            <td>&nbsp;</td>
+            <td>(31)</td>
+            <td>734</td>
+            <td>(453)</td>
+        </tr>
+    </tbody>
+</table>
 
+(*) En 2015 Incluye ventas de CNCB (ver Nota 3).
 
-## 51. Estados consolidados de flujos de efectivo
+## 51. Estados consolidados de flujos de efectivo 
 
 Los flujos de efectivo con origen en las actividades de explotación disminuyeron en el ejercicio 2016 en 0000 millones de euros (0000 y 0000 millones de euros de incremento en 2016 y 2015), debido fundamentalmente a la variación de “Préstamos y partidas a cobrar” y “Activos financieros mantenidos para negociar”.
 
@@ -3133,32 +23433,184 @@ Las variaciones en los flujos de efectivo con origen en las actividades de finan
 
 Los honorarios por servicios contratados en el ejercicio 2016 por las sociedades del Grupo BBVA con sus respectivos auditores y otras empresas auditoras, se presentan a continuación:
 
-IMAGE GOES HERE
+<table>
+    <thead>
+        <tr>
+            <th>Honorarios por auditorías realizadas</th>
+            <th>2016</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Auditorías de las sociedades realizadas por las firmas de la organización mundial Deloitte y otros trabajos relacionados con la auditoría (*)</td>
+            <td>26,5</td>
+        </tr>
+        <tr>
+            <td>Otros informes requeridos por la normativa legal y fiscal emanada de los organismos supervisores nacionales de los países en los que el Grupo opera, y realizados por las firmas de la organización mundial Deloitte</td>
+            <td>3,6</td>
+        </tr>
+        <tr>
+            <td>Honorarios por auditorías realizadas por otras firmas</td>
+            <td>0,8</td>
+        </tr>
+    </tbody>
+</table>
+
+(*) Se incluyen los honorarios correspondientes a auditorías estatutarias de cuentas anuales (20,7 millones de euros en 2016).
 
 Adicionalmente, distintas sociedades del Grupo BBVA contrataron en el ejercicio 2016 servicios distintos del de auditoría, según el siguiente detalle:
 
-IMAGE GOES HERE
+<table>
+    <thead>
+        <tr>
+            <th>Otros servicios contratados</th>
+            <th>2016</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Firmas de la organización mundial Deloitte</td>
+            <td>1,1</td>
+        </tr>
+        <tr>
+            <td>Otras firmas</td>
+            <td>30,1</td>
+        </tr>
+    </tbody>
+</table>
 
 Los servicios contratados con los auditores cumplen con los requisitos de independencia recogidos en el texto refundido de la Ley de Auditoría de Cuentas (RD 1/2011), así como en la “Sarbanes-Oxley Act of 2002”, asumida por la “Securities and Exchange Comisión” (“SEC”); por lo que no incluyen la realización de trabajos incompatibles con la función auditora.
 
 
 ## 53. Operaciones con partes vinculadas
 
-BBVA y otras sociedades del Grupo, en su condición de entidades financieras, mantienen operaciones con sus partes vinculadas dentro del curso ordinario de sus negocios. Todas estas operaciones son de escasa relevancia y se realizan en condiciones normales de mercado. En los ejercicios de 2016, 2015 y 2014, se han identificado operaciones con las siguientes partes vinculadas:
+BBVA y otras sociedades del Grupo, en su condición de entidades financieras, mantienen operaciones con sus partes vinculadas dentro del curso ordinario de sus negocios. Todas estas operaciones son de escasa relevancia y se realizan en condiciones normales de mercado. En los ejercicios de 2016, 2015 y 2014, se han identificado operaciones con las siguientes partes vinculadas: 
 
 ### 53.1  Operaciones con accionistas significativos
 
 A 31 de diciembre de 2016, no existían accionistas considerados como significativos (ver Nota 26).
 
-### 53.2 Operaciones con entidades del Grupo BBVA
+### 53.2 Operaciones con entidades del Grupo BBVA 
 
 Los saldos de las principales magnitudes de los balances consolidados adjuntos originados por las transacciones efectuadas por el Grupo BBVA con las entidades asociadas y negocios conjuntos, son los siguientes:
 
-IMAGE GOES HERE
+<table>
+    <thead>
+        <tr>
+            <th>Saldos de balance derivados de operaciones con entidades del Grupo </th>
+            <th>2016</th>
+            <th>2015</th>
+            <th>2014</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Activo:</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Préstamos y anticipos en entidades de crédito</td>
+            <td>69</td>
+            <td>109</td>
+            <td>835</td>
+        </tr>
+        <tr>
+            <td>Préstamos y anticipos a la clientela</td>
+            <td>442</td>
+            <td>710</td>
+            <td>639</td>
+        </tr>
+        <tr>
+            <td>Pasivo:</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Depósitos de entidades de crédito</td>
+            <td>1</td>
+            <td>2</td>
+            <td>144</td>
+        </tr>
+        <tr>
+            <td>Depósitos de la clientela</td>
+            <td>533</td>
+            <td>449</td>
+            <td>332</td>
+        </tr>
+        <tr>
+            <td>Valores representativos de deuda</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Pro-memoria</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Garantías concedidas</td>
+            <td>1.586</td>
+            <td>1.671</td>
+            <td>162</td>
+        </tr>
+        <tr>
+            <td>Compromisos contingentes concedidos</td>
+            <td>42</td>
+            <td>28</td>
+            <td>108</td>
+        </tr>
+    </tbody>
+</table>
 
 Los saldos de las principales magnitudes de las cuentas de pérdidas y ganancias consolidadas adjuntas derivados de las transacciones con las entidades asociadas y negocios conjuntos, son los siguientes:
 
-IMAGE GOES HERE
+<table>
+    <thead>
+        <tr>
+            <th>Saldos de la cuenta de pérdidas y ganancias derivados de operaciones con entidades del Grupo </th>
+            <th>2016</th>
+            <th>2015</th>
+            <th>2014</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Pérdidas y ganancias:</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Ingresos financieros</td>
+            <td>26</td>
+            <td>53</td>
+            <td>55</td>
+        </tr>
+        <tr>
+            <td>Costes financieros</td>
+            <td>1</td>
+            <td>1</td>
+            <td>7</td>
+        </tr>
+        <tr>
+            <td>Ingresos por comisiones</td>
+            <td>5</td>
+            <td>5</td>
+            <td>6</td>
+        </tr>
+        <tr>
+            <td>Gastos por comisiones</td>
+            <td>58</td>
+            <td>55</td>
+            <td>71</td>
+        </tr>
+    </tbody>
+</table>
 
 En los estados financieros consolidados no hay otros efectos significativos con origen en las relaciones mantenidas con estas entidades, salvo: los derivados de la aplicación del criterio de valoración por el método de la participación (ver Nota 2.1); de las pólizas de seguros para cobertura de compromisos por pensiones o similares, que se describen en la Nota 25; y las operaciones de futuro formalizadas por el Grupo BBVA con esas entidades, asociadas y negocios conjuntos.
 
@@ -3171,7 +23623,7 @@ La información sobre retribuciones a los miembros del Consejo de Administració
 
 A 31 de diciembre de 2016, 2015 y 2014 el importe dispuesto de los créditos concedidos por entidades del Grupo a los miembros del Consejo de Administración del Banco ascendía a 0000, 200 y 235 miles de euros respectivamente. El importe dispuesto de los créditos concedidos por entidades del Grupo a los miembros de la Alta Dirección en esas mismas fechas (excluidos los consejeros ejecutivos), ascendía a 0000, 6.641 y 4.614 miles de euros, respectivamente.
 
-A 31 de diciembre de 2016 no se habían concedido créditos a partes vinculadas con los miembros del Consejo de Administración. A 31 de diciembre de 2015 el importe dispuesto de los créditos concedidos a partes vinculadas con los miembros del Consejo de Administración del Banco ascendía a 10.000  miles de euros y a 31 de diciembre de 2014 no se habían concedido créditos a partes vinculadas con los miembros del Consejo de Administración. A 31 de diciembre de 2016, 2015 y 2014, el importe dispuesto de los créditos concedidos a partes vinculadas con los miembros de la Alta Dirección ascendía a 0000, 113 y 291 miles de euros, respectivamente.
+A 31 de diciembre de 2016 no se habían concedido créditos a partes vinculadas con los miembros del Consejo de Administración. A 31 de diciembre de 2015 el importe dispuesto de los créditos concedidos a partes vinculadas con los miembros del Consejo de Administración del Banco ascendía a 10.000  miles de euros y a 31 de diciembre de 2014 no se habían concedido créditos a partes vinculadas con los miembros del Consejo de Administración. A 31 de diciembre de 2016, 2015 y 2014, el importe dispuesto de los créditos concedidos a partes vinculadas con los miembros de la Alta Dirección ascendía a 0000, 113 y 291 miles de euros, respectivamente. 
 
 A 31 de diciembre de 2016, 2015 y 2014, no se habían otorgado avales a ningún miembro del Consejo de Administración.
 
@@ -3182,7 +23634,7 @@ A 31 de diciembre de 2016, 2015 y 2014, el importe dispuesto por operaciones de 
 
 ### 53.4  Operaciones con otras partes vinculadas
 
-Durante los ejercicios 2016, 2015 y 2014, el Grupo no ha realizado operaciones con otras partes vinculadas que no pertenezcan al giro o tráfico ordinario de su actividad, que no se efectúen en condiciones normales de mercado y que no sean de escasa relevancia; entendiendo por tales aquellas cuya información no sea necesaria para expresar la imagen fiel del patrimonio, de la situación financiera y de los resultados, consolidados, del Grupo BBVA.
+Durante los ejercicios 2016, 2015 y 2014, el Grupo no ha realizado operaciones con otras partes vinculadas que no pertenezcan al giro o tráfico ordinario de su actividad, que no se efectúen en condiciones normales de mercado y que no sean de escasa relevancia; entendiendo por tales aquellas cuya información no sea necesaria para expresar la imagen fiel del patrimonio, de la situación financiera y de los resultados, consolidados, del Grupo BBVA. 
 
 
 ## 54. Retribuciones y otras prestaciones al Consejo de Administración y a los miembros de la Alta Dirección del Banco
@@ -3191,7 +23643,170 @@ Durante los ejercicios 2016, 2015 y 2014, el Grupo no ha realizado operaciones c
 
 Las retribuciones satisfechas a los consejeros no ejecutivos miembros del Consejo de Administración durante el ejercicio 2016 son las que se indican a continuación, de manera individualizada y por concepto retributivo:
 
-IMAGE GOES HERE
+<table>
+    <thead>
+        <tr>
+            <th>Retribución de los consejeros no ejecutivos</th>
+            <th>Consejo de Administración</th>
+            <th>Comisión Delegada Permanente</th>
+            <th>Comisión de Auditoría y Cumplimiento</th>
+            <th>Comisión de Riesgos</th>
+            <th>Comisión de Retribuciones </th>
+            <th>Comisión de Nombramientos</th>
+            <th>Comisión de Tecnología y Ciberseguridad</th>
+            <th>Total</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Tomás Alfaro Drake</td>
+            <td>129</td>
+            <td>-</td>
+            <td>71</td>
+            <td>-</td>
+            <td>11</td>
+            <td>102</td>
+            <td>25</td>
+            <td>338</td>
+        </tr>
+        <tr>
+            <td>José Miguel Andrés Torrecillas </td>
+            <td>129</td>
+            <td>-</td>
+            <td>179</td>
+            <td>107</td>
+            <td>-</td>
+            <td>31</td>
+            <td>-</td>
+            <td>445</td>
+        </tr>
+        <tr>
+            <td>José Antonio Fernández Rivero </td>
+            <td>129</td>
+            <td>125</td>
+            <td>-</td>
+            <td>53</td>
+            <td>32</td>
+            <td>10</td>
+            <td>-</td>
+            <td>350</td>
+        </tr>
+        <tr>
+            <td>Belén Garijo López</td>
+            <td>129</td>
+            <td>-</td>
+            <td>71</td>
+            <td>-</td>
+            <td>32</td>
+            <td>-</td>
+            <td>-</td>
+            <td>232</td>
+        </tr>
+        <tr>
+            <td>Sunir Kumar Kapoor (1)</td>
+            <td>107</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>25</td>
+            <td>132</td>
+        </tr>
+        <tr>
+            <td>Carlos Loring Martínez de Irujo</td>
+            <td>129</td>
+            <td>125</td>
+            <td>18</td>
+            <td>80</td>
+            <td>27</td>
+            <td>-</td>
+            <td>-</td>
+            <td>379</td>
+        </tr>
+        <tr>
+            <td>Lourdes Máiz Carro </td>
+            <td>129</td>
+            <td>-</td>
+            <td>71</td>
+            <td>-</td>
+            <td>-</td>
+            <td>31</td>
+            <td>-</td>
+            <td>231</td>
+        </tr>
+        <tr>
+            <td>José Maldonado Ramos</td>
+            <td>129</td>
+            <td>167</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>41</td>
+            <td>-</td>
+            <td>336</td>
+        </tr>
+        <tr>
+            <td>José Luis Palao García-Suelto</td>
+            <td>129</td>
+            <td>-</td>
+            <td>-</td>
+            <td>107</td>
+            <td>32</td>
+            <td>10</td>
+            <td>-</td>
+            <td>278</td>
+        </tr>
+        <tr>
+            <td>Juan Pi Llorens</td>
+            <td>129</td>
+            <td>-</td>
+            <td>54</td>
+            <td>27</td>
+            <td>91</td>
+            <td>-</td>
+            <td>25</td>
+            <td>325</td>
+        </tr>
+        <tr>
+            <td>Susana Rodríguez Vidarte </td>
+            <td>129</td>
+            <td>167</td>
+            <td>-</td>
+            <td>107</td>
+            <td>-</td>
+            <td>41</td>
+            <td>-</td>
+            <td>443</td>
+        </tr>
+        <tr>
+            <td>James Andrew Stott (2)</td>
+            <td>107</td>
+            <td>-</td>
+            <td>-</td>
+            <td>160</td>
+            <td>32</td>
+            <td>-</td>
+            <td>25</td>
+            <td>325</td>
+        </tr>
+        <tr>
+            <td>Total (3)</td>
+            <td>1.502</td>
+            <td>584</td>
+            <td>464</td>
+            <td>642</td>
+            <td>257</td>
+            <td>265</td>
+            <td>100</td>
+            <td>3.813</td>
+        </tr>
+    </tbody>
+</table>
+
+(1) D. Sunir Kumar Kapoor fue nombrado consejero por acuerdo de la Junta General de 11 de marzo de 2016.
+(2) D. James Andrew Stott fue nombrado consejero por acuerdo de la Junta General de 11 de marzo de 2016.
+(3) Incluye los importes por la pertenencia a las distintas comisiones durante el ejercicio 2016. La composición de estas comisiones se modificó a 31 de marzo de 2016. 
 
 Además, los consejeros D. Ramón Bustamante y de la Mora y D. Ignacio Ferrero Jordi, que cesaron como consejeros el 11 de marzo de 2016, percibieron la cantidad total de 70 miles de euros y 85 miles de euros, respectivamente, por su pertenencia al Consejo de Administración y a las distintas comisiones del Consejo.
 
@@ -3207,29 +23822,150 @@ Así, durante el ejercicio 2016 los consejeros ejecutivos han percibido el impor
 • El 50% de la Retribución Variable Anual, tanto en efectivo como en acciones, se diferirá en su totalidad por un periodo de tres años, sometiéndose su devengo y pago al cumplimiento de una serie de indicadores plurianuales.
 • Todas las acciones entregadas conforme a las reglas señaladas serán indisponibles durante un periodo de tiempo determinado desde su entrega, aplicándose esta retención sobre el importe neto de las acciones, una vez descontada la parte necesaria para hacer frente al pago de los impuestos por las acciones recibidas.
 • Se establece además la prohibición de realizar coberturas, tanto por las acciones entregadas indisponibles como por las acciones pendientes de recibirse.
-• Además, se establecen supuestos que podrán limitar o llegar a impedir, en determinados casos, el abono de la Retribución Variable Anual (cláusulas “malus”).
+• Además, se establecen supuestos que podrán limitar o llegar a impedir, en determinados casos, el abono de la Retribución Variable Anual (cláusulas “malus”). 
 • Las partes de la Retribución Variable Anual diferidas serán objeto de actualización en los términos establecidos por el Consejo de Administración.
 
 Igualmente, en aplicación del sistema de liquidación y pago de la Retribución Variable Anual de los ejercicios 2014, 2013 y 2012 conforme a la política aplicable en esos ejercicios, los consejeros ejecutivos han percibido las partes diferidas de la Retribución Variable Anual de dichos ejercicios, cuya entrega correspondía durante el primer trimestre del ejercicio 2016.
 
-De conformidad con lo anterior, las retribuciones satisfechas a los consejeros ejecutivos durante el ejercicio2016 son las que se indican a continuación, de manera individualizada y por concepto retributivo:
+De conformidad con lo anterior, las retribuciones satisfechas a los consejeros ejecutivos durante el ejercicio 2016 son las que se indican a continuación, de manera individualizada y por concepto retributivo:
 
-IMAGE GOES HERE
+<table>
+    <thead>
+        <tr>
+            <th>Retribución de los consejeros ejecutivos </th>
+            <th>Retribución fija</th>
+            <th>Retribución Variable Anual 2015 en efectivo (1)</th>
+            <th>Retribución variable de ejercicios anteriores diferida en efectivo (2)</th>
+            <th>Total efectivo</th>
+            <th>&nbsp;</th>
+            <th>Retribución Variable Anual 2015 en acciones de BBVA (1)</th>
+            <th>Retribución variable de ejercicios anteriores diferida en acciones de BBVA (2)</th>
+            <th>Total acciones </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Presidente</td>
+            <td>1.966</td>
+            <td>897</td>
+            <td>893</td>
+            <td>3.756</td>
+            <td>&nbsp;</td>
+            <td>135.300</td>
+            <td>103.112</td>
+            <td>238.412</td>
+        </tr>
+        <tr>
+            <td>Consejero Delegado (*)</td>
+            <td>1.923</td>
+            <td>530</td>
+            <td>240</td>
+            <td>2.693</td>
+            <td>&nbsp;</td>
+            <td>79.956</td>
+            <td>27.823</td>
+            <td>107.779</td>
+        </tr>
+        <tr>
+            <td>Director de Global Economics, Regulation & Public Affairs ("Director de GERPA")</td>
+            <td>800</td>
+            <td>98</td>
+            <td>47</td>
+            <td>945</td>
+            <td>&nbsp;</td>
+            <td>14.815</td>
+            <td>5.449</td>
+            <td>20.264</td>
+        </tr>
+        <tr>
+            <td>Total </td>
+            <td>4.689</td>
+            <td>1.526</td>
+            <td>1.180</td>
+            <td>7.394</td>
+            <td>&nbsp;</td>
+            <td>230.071</td>
+            <td>136.384</td>
+            <td>366.455</td>
+        </tr>
+    </tbody>
+</table>
+
+(*) La retribución variable satisfecha al Consejero Delegado, que fue designado para dicho cargo el 4 de mayo de 2015, incluye también la percibida como Director de Banca Digital durante el periodo que ocupó ese cargo (4 meses). 
+
+(1) Cantidades correspondientes al 50% de la Retribución Variable Anual 2015.
+
+(2) Cantidades correspondientes a la suma de las partes diferidas de la Retribución Variable Anual de ejercicios anteriores (2014, 2013 y 2012), así como sus correspondientes actualizaciones en efectivo; cuyo pago o entrega se ha realizado en el ejercicio 2016, en aplicación del sistema de liquidación y pago, y cuyo desglose se incluye a continuación:
+
+- Primer tercio de la Retribución Variable Anual diferida del ejercicio 2014
+Los consejeros ejecutivos han percibido por este concepto: 302 miles de euros y 37.392 acciones de BBVA en el caso del Presidente; 95 miles de euros y 11.766 acciones de BBVA en el caso del Consejero Delegado y 30 miles de euros y 3.681 acciones de BBVA en el caso del consejero ejecutivo Director de GERPA.
+- Segundo tercio de la Retribución Variable Anual diferida del ejercicio 2013
+Los consejeros ejecutivos han percibido por este concepto 289 miles de euros y 29.557 acciones de BBVA en el caso del Presidente, 78 miles de euros y 7.937 acciones de BBVA en el caso del Consejero Delegado; y 17 miles de euros y 1.768 acciones de BBVA en el caso del consejero ejecutivo Director de GERPA.
+- Tercer tercio de la Retribución Variable Anual diferida del ejercicio 2012
+El Presidente ha percibido por este concepto 301 miles de euros y 36.163 acciones de BBVA y el Consejero Delegado 68 miles de euros y 8.120 acciones de BBVA.
 
 Los consejeros ejecutivos percibirán, durante el primer trimestre de los dos próximos ejercicios, las cantidades que, en cada caso, les correspondan derivadas de la liquidación de la Retribución Variable Anual diferida de ejercicios anteriores (2014 y 2013), y sujeto a las condiciones establecidas en el sistema de liquidación y pago aplicable.
 
-Asimismo, los consejeros ejecutivos han percibido durante el ejercicio 2016 retribuciones en especie, que incluyen primas por seguros y otras, por un importe total conjunto de 0000 miles de euros, de los cuales 0000 miles de euros corresponden al Presidente; 0000 miles de euros al Consejero Delegado; y 0000 miles de euros al consejero ejecutivo Director de GERPA.
+Asimismo, los consejeros ejecutivos han percibido durante el ejercicio 2016 retribuciones en especie, que incluyen primas por seguros y otras, por un importe total conjunto de 0000 miles de euros, de los cuales 0000 miles de euros corresponden al Presidente; 0000 miles de euros al Consejero Delegado; y 0000 miles de euros al consejero ejecutivo Director de GERPA. 
 
+##### Retribución Variable Anual de los consejeros ejecutivos correspondiente al ejercicio 2016
+
+Una vez cerrado el ejercicio 2016, se ha procedido a determinar la Retribución Variable Anual de los consejeros ejecutivos correspondiente a dicho ejercicio, aplicando las condiciones establecidas a su inicio, tal y como se recogen en la Política de remuneraciones de los consejeros aprobada por la Junta General de 13 de marzo de 2015; de lo que resulta que, durante el primer trimestre de 2017, los consejeros ejecutivos percibirán el 50% de la Retribución Variable Anual correspondiente a 2016, a partes iguales en efectivo y en acciones, lo que supone 734 miles de euros y 114.204 acciones de BBVA en el caso del Presidente; 591 miles de euros y 91.915 acciones de BBVA en el caso del Consejero Delegado; y 89 miles de euros y 13.768 acciones de BBVA en el caso del consejero ejecutivo Director de GERPA.
+
+El 50% restante, en efectivo y en acciones, quedará diferido durante un periodo de tres años y su devengo y pago se someterá al cumplimiento de los indicadores de evaluación plurianual determinados por el Consejo de Administración al inicio del ejercicio. En función del resultado de cada uno de los indicadores a largo plazo durante el periodo de diferimiento y aplicando las escalas de consecución asociadas a cada uno de ellos y sus ponderaciones, tras el periodo de diferimiento se determinará el importe final de la parte diferida de la Retribución Variable Anual, que podrá reducirse, pudiendo incluso llegar a ser cero, sin que en ningún caso el importe de la Retribución Variable Anual diferida pueda incrementarse; de manera que corresponderá percibir como máximo por este concepto durante el primer trimestre de 2020 la cantidad de 734 miles de euros y 114.204 acciones de BBVA en el caso del Presidente; 591 miles de euros y 91.915 acciones de BBVA en el caso del Consejero Delegado; y 89 miles de euros y 13.768 acciones de BBVA en el caso del consejero ejecutivo Director de GERPA, todo ello sujeto a las condiciones de liquidación y pago establecidas en la Política de remuneraciones de los consejeros.
+
+Estas cantidades se encuentran registradas en el epígrafe “Otros pasivos” del balance consolidado a 31 de diciembre de 2016.
 
 ##### Retribución de los miembros de la Alta Dirección percibida en 2016
 
 Las retribuciones satisfechas al conjunto de los miembros de la Alta Dirección de BBVA, excluidos los consejeros ejecutivos, durante el ejercicio 2016 se indican a continuación individualizadas por concepto retributivo:
 
-IMAGE GOES HERE
+<table>
+    <thead>
+        <tr>
+            <th>Retribución de los miembros de la Alta Dirección</th>
+            <th>Retribución fija</th>
+            <th>Retribución Variable Anual 2015 en efectivo (1)</th>
+            <th>Retribución variable de ejercicios anteriores diferida en efectivo (2)</th>
+            <th>Total efectivo</th>
+            <th>&nbsp;</th>
+            <th>Retribución Variable Anual 2015 en acciones de BBVA (1)</th>
+            <th>Retribución variable de ejercicios anteriores diferida en acciones de BBVA (2)</th>
+            <th>Total acciones </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Total Miembros de la Alta Dirección (*)</td>
+            <td>11.115</td>
+            <td>2.457</td>
+            <td>1.343</td>
+            <td>14.915</td>
+            <td>&nbsp;</td>
+            <td>370.505</td>
+            <td>155.746</td>
+            <td>526.251</td>
+        </tr>
+    </tbody>
+</table>
+
+(*) Dentro de este apartado se incluye información agregada relativa a los miembros de la Alta Dirección del Grupo BBVA, excluyendo a los consejeros ejecutivos, que tenían tal condición a 31 de diciembre de 2016 (14 miembros).
+
+(1) Cantidades correspondientes al 50% de la Retribución Variable Anual 2015.
+
+(2) Cantidades correspondientes a la suma de las partes diferidas de la Retribución Variable Anual de ejercicios anteriores (2014, 2013 y 2012), así como sus correspondientes actualizaciones en efectivo; cuyo pago o entrega se ha realizado en el ejercicio 2016 a los miembros de la Alta Dirección que habían generado este derecho, y cuyo desglose se incluye a continuación:
+
+- Primer tercio de la Retribución Variable Anual diferida del ejercicio 2014 
+Importe conjunto de 515 miles de euros y 63.862 acciones de BBVA.
+- Segundo tercio de la Retribución Variable Anual diferida del ejercicio 2013
+Importe conjunto de 434 miles de euros y 44.426 acciones de BBVA.
+- Tercer tercio de la Retribución Variable Anual diferida del ejercicio 2012 
+Importe conjunto de 395 miles de euros y 47.458 acciones de BBVA.
+
 
 El conjunto de los miembros de la Alta Dirección percibirá, durante el primer trimestre de los dos próximos ejercicios, conforme al sistema de liquidación y pago de la retribución variable que resulta de aplicación a cada uno de ellos, las cantidades que, en su caso, les correspondan derivadas de la liquidación de la Retribución Variable Anual diferida de ejercicios anteriores (2014 y 2013), y sujeto a las condiciones establecidas en dicho sistema.
 
-Además, el conjunto de los miembros de la Alta Dirección, excluidos los consejeros ejecutivos, han percibido durante el ejercicio 2016 retribuciones en especie, que incluyen primas por seguros y otras, por importe total conjunto de 0000 miles de euros.
+Además, el conjunto de los miembros de la Alta Dirección, excluidos los consejeros ejecutivos, han percibido durante el ejercicio 2016 retribuciones en especie, que incluyen primas por seguros y otras, por importe total conjunto de 0000 miles de euros. 
 
 
 ##### Sistema de retribución en acciones con entrega diferida para consejeros no ejecutivos
@@ -3242,7 +23978,74 @@ Las acciones serán objeto de entrega, en su caso, a cada beneficiario, en la fe
 
 Las “acciones teóricas” asignadas a los consejeros no ejecutivos beneficiarios del sistema de retribución en acciones con entrega diferida en el ejercicio 2016, correspondientes al 20% de las retribuciones en efectivo totales percibidas por éstos en el ejercicio 2015, son las siguientes:
 
-IMAGE GOES HERE
+<table>
+    <thead>
+        <tr>
+            <th></th>
+            <th>Acciones teóricas asignadas en 2016</th>
+            <th>Acciones teóricas acumuladas a 31 de diciembre de 2016</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Tomás Alfaro Drake</td>
+            <td>11.363</td>
+            <td>62.452</td>
+        </tr>
+        <tr>
+            <td>José Miguel Andrés Torrecillas</td>
+            <td>9.808</td>
+            <td>9.808</td>
+        </tr>
+        <tr>
+            <td>José Antonio Fernández Rivero</td>
+            <td>12.633</td>
+            <td>91.046</td>
+        </tr>
+        <tr>
+            <td>Belén Garijo López</td>
+            <td>6.597</td>
+            <td>19.463</td>
+        </tr>
+        <tr>
+            <td>Carlos Loring Martínez de Irujo</td>
+            <td>10.127</td>
+            <td>74.970</td>
+        </tr>
+        <tr>
+            <td>Lourdes Máiz Carro</td>
+            <td>5.812</td>
+            <td>8.443</td>
+        </tr>
+        <tr>
+            <td>José Maldonado Ramos</td>
+            <td>11.669</td>
+            <td>57.233</td>
+        </tr>
+        <tr>
+            <td>José Luis Palao García-Suelto</td>
+            <td>11.070</td>
+            <td>51.385</td>
+        </tr>
+        <tr>
+            <td>Juan Pi Llorens</td>
+            <td>9.179</td>
+            <td>32.374</td>
+        </tr>
+        <tr>
+            <td>Susana Rodríguez Vidarte</td>
+            <td>14.605</td>
+            <td>78.606</td>
+        </tr>
+        <tr>
+            <td>Total (1)</td>
+            <td>102.863</td>
+            <td>485.780</td>
+        </tr>
+    </tbody>
+</table>
+
+(1) Además, en el ejercicio 2016 se asignaron a D. Ramón Bustamante y de la Mora y a D. Ignacio Ferrero Jordi, que cesaron como consejeros el 11 de marzo de 2016, 8.709 y 11.151 acciones teóricas, respectivamente.
 
 
 ##### Obligaciones contraídas en materia de previsión
@@ -3268,3 +24071,346 @@ En el caso del Consejero Delegado, sus condiciones contractuales en materia de p
 
 
 ## 55. Otra información
+
+### 55.1 Impacto medioambiental
+
+Dadas las actividades a las que se dedica el Grupo BBVA, éste no tiene responsabilidades, gastos, activos ni provisiones o contingencias de naturaleza medioambiental que pudieran ser significativos en relación con el patrimonio, la situación financiera y los resultados del mismo. Por este motivo, a 31 de diciembre de 2016 las Cuentas Anuales consolidadas consolidados adjuntas no presentaban ninguna partida que deba ser incluida en el documento de información medioambiental previsto en la Orden JUS/206/2009, de 28 de enero, y por ello no se incluyen desgloses específicos en los presentes estados financieros respecto a información de cuestiones medioambientales.
+
+
+### 55.2 Requerimientos de información de la Comisión Nacional del Mercado de Valores (C.N.M.V)
+
+#### Dividendos pagados durante el ejercicio
+
+La siguiente tabla recoge los dividendos por acción pagados en efectivo durante los ejercicios 2016, 2015 y 2014 (criterio de caja, con independencia del ejercicio en el que se hayan devengado), pero sin incluir otras retribuciones al accionista como el “Dividendo Opción”. Para un análisis completo de todas las retribuciones entregadas a accionistas durante los ejercicios 2016, 2015 y 2014 ver Nota 4.
+
+<table>
+    <thead>
+        <tr>
+            <th>Acciones ordinarias</th>
+            <th>16%</th>
+            <th>0,08</th>
+            <th>1.028</th>
+            <th>16%</th>
+            <th>0,08</th>
+            <th>504</th>
+            <th>16%</th>
+            <th>0,08</th>
+            <th>471</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Resto de acciones</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Total Dividendos pagados en efectivo</td>
+            <td>16%</td>
+            <td>0,08</td>
+            <td>1.028</td>
+            <td>16%</td>
+            <td>0,08</td>
+            <td>504</td>
+            <td>16%</td>
+            <td>0,08</td>
+            <td>471</td>
+        </tr>
+        <tr>
+            <td>Dividendos con cargo a resultados</td>
+            <td>16%</td>
+            <td>0,08</td>
+            <td>1.028</td>
+            <td>16%</td>
+            <td>0,08</td>
+            <td>504</td>
+            <td>16%</td>
+            <td>0,08</td>
+            <td>471</td>
+        </tr>
+        <tr>
+            <td>Dividendos con cargo a reservas o prima de emisión</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Dividendos en especie</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+    </tbody>
+</table>
+
+(*) Corresponde a dos pagos.
+
+#### Resultados e ingresos ordinarios por segmentos de negocio
+
+El desglose de los resultados consolidados de los ejercicios 2016, 2015 y 2014 por segmentos de negocio, es:
+
+<table>
+    <thead>
+        <tr>
+            <th>Resultados del Grupo por segmentos de negocio</th>
+            <th>2016</th>
+            <th>2015</th>
+            <th>2014</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Actividad bancaria en España</td>
+            <td>912</td>
+            <td>1.085</td>
+            <td>858</td>
+        </tr>
+        <tr>
+            <td>Actividad inmobiliaria en España</td>
+            <td>(595)</td>
+            <td>(496)</td>
+            <td>(901)</td>
+        </tr>
+        <tr>
+            <td>Estados Unidos</td>
+            <td>599</td>
+            <td>371</td>
+            <td>310</td>
+        </tr>
+        <tr>
+            <td>Turquía (2)</td>
+            <td>151</td>
+            <td>75</td>
+            <td>255</td>
+        </tr>
+        <tr>
+            <td>México</td>
+            <td>1.980</td>
+            <td>2.094</td>
+            <td>1.915</td>
+        </tr>
+        <tr>
+            <td>América del Sur</td>
+            <td>771</td>
+            <td>905</td>
+            <td>1.001</td>
+        </tr>
+        <tr>
+            <td>Resto de Eurasia</td>
+            <td>459</td>
+            <td>517</td>
+            <td>428</td>
+        </tr>
+        <tr>
+            <td>Subtotal resultados de áreas de negocio</td>
+            <td>4.276</td>
+            <td>4.551</td>
+            <td>3.867</td>
+        </tr>
+        <tr>
+            <td>Centro Corporativo</td>
+            <td>(801)</td>
+            <td>(1.910)</td>
+            <td>(1.249)</td>
+        </tr>
+        <tr>
+            <td>Resultado atribuible a los propietarios de la dominante</td>
+            <td>3.475</td>
+            <td>2.641</td>
+            <td>2.618</td>
+        </tr>
+        <tr>
+            <td>Resultados no asignados</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Eliminación de resultados internos (entre segmentos)</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Otros resultados (*)</td>
+            <td>1.218</td>
+            <td>686</td>
+            <td>464</td>
+        </tr>
+        <tr>
+            <td>Impuesto sobre beneficios y/o resultado de operaciones interrumpidas</td>
+            <td>(1.699)</td>
+            <td>(1.274)</td>
+            <td>(898)</td>
+        </tr>
+        <tr>
+            <td>Resultado antes de impuestos</td>
+            <td>6.392</td>
+            <td>4.603</td>
+            <td>3.980</td>
+        </tr>
+    </tbody>
+</table>
+
+(*) Resultado atribuido a intereses minoritarios.
+
+El desglose, por áreas de negocio, de los ingresos ordinarios (margen bruto) del Grupo BBVA en los ejercicios 2016, 2015 y 2014 integrados por los ingresos por intereses, los ingresos por dividendos, los ingresos por comisiones, las ganancias o pérdidas por activos y pasivos financieros y otros ingresos de explotación, es:
+
+<table>
+    <thead>
+        <tr>
+            <th>Ingresos ordinarios Grupo por segmentos de negocio</th>
+            <th>2016</th>
+            <th>2015</th>
+            <th>2014</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Actividad bancaria en España</td>
+            <td>6.445</td>
+            <td>6.804</td>
+            <td>6.621</td>
+        </tr>
+        <tr>
+            <td>Actividad inmobiliaria en España</td>
+            <td>(6)</td>
+            <td>(16)</td>
+            <td>(220)</td>
+        </tr>
+        <tr>
+            <td>Turquia (*)</td>
+            <td>4.257</td>
+            <td>2.434</td>
+            <td>944</td>
+        </tr>
+        <tr>
+            <td>Resto de Eurasia</td>
+            <td>491</td>
+            <td>473</td>
+            <td>736</td>
+        </tr>
+        <tr>
+            <td>México</td>
+            <td>6.766</td>
+            <td>7.069</td>
+            <td>6.522</td>
+        </tr>
+        <tr>
+            <td>América del Sur</td>
+            <td>4.054</td>
+            <td>4.477</td>
+            <td>5.191</td>
+        </tr>
+        <tr>
+            <td>Estados Unidos</td>
+            <td>2.706</td>
+            <td>2.652</td>
+            <td>2.137</td>
+        </tr>
+        <tr>
+            <td>Centro Corporativo</td>
+            <td>(60)</td>
+            <td>(212)</td>
+            <td>(575)</td>
+        </tr>
+        <tr>
+            <td>Ajustes y eliminaciones de ingresos ordinarios entre segmentos </td>
+            <td>-</td>
+            <td>(318)</td>
+            <td>(632)</td>
+        </tr>
+        <tr>
+            <td>Total ingresos ordinarios Grupo BBVA</td>
+            <td>24.653</td>
+            <td>23.362</td>
+            <td>20.725</td>
+        </tr>
+    </tbody>
+</table>
+
+(*) La información se presenta bajo criterios de gestión en los ejercicios 2015 y 2014 (ver Nota 6).
+
+#### Ingresos por intereses por áreas geográficas
+
+El desglose del saldo del capítulo “Ingresos por intereses” de las cuentas de pérdidas y ganancias consolidadas adjuntas, por áreas geográficas, es:
+
+<table>
+    <thead>
+        <tr>
+            <th>Ingresos por intereses</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Desglose por áreas geográficas"</td>
+            <td>2016</td>
+            <td>2015</td>
+            <td>2014</td>
+        </tr>
+        <tr>
+            <td>Mercado interior</td>
+            <td>5.962 </td>
+            <td>6.275 </td>
+            <td>7.073 </td>
+        </tr>
+        <tr>
+            <td>Mercado exterior</td>
+            <td>21.745 </td>
+            <td>18.507 </td>
+            <td>15.765 </td>
+        </tr>
+        <tr>
+            <td>Unión Europea</td>
+            <td>291 </td>
+            <td>387 </td>
+            <td>369 </td>
+        </tr>
+        <tr>
+            <td>Otros países OCDE</td>
+            <td>17.026 </td>
+            <td>13.666 </td>
+            <td>9.492 </td>
+        </tr>
+        <tr>
+            <td>Resto de países</td>
+            <td>4.429 </td>
+            <td>4.454 </td>
+            <td>5.904 </td>
+        </tr>
+        <tr>
+            <td>Total</td>
+            <td>27.708 </td>
+            <td>24.783 </td>
+            <td>22.838</td>
+        </tr>
+    </tbody>
+</table>
+
+
+## 56. Hechos posteriores
+
+El día 12 de enero de 2017 se ha realizado el pago en efectivo de una cantidad a cuenta del dividendo del ejercicio 2016, aprobado el día 21 de diciembre de 2016, según se detalla en la Nota 4.
+
+El día 1 de febrero de 2017 se ha anunciado la política de retribución del accionista para el ejercicio 2017 (ver Nota 4).
+
+Desde el 1 de enero de 2017 hasta la fecha de formulación de las Cuentas Anuales consolidadas adjuntas no se han producido otros hechos, no mencionados anteriormente en las notas a las Cuentas Anuales consolidadas adjuntas, que afecten de forma significativa a los resultados del Grupo o a la situación patrimonial del mismo.
