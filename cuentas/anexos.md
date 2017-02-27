@@ -3,7 +3,7 @@ layout: default
 title: Anexos
 lang: es
 submenu: cuentas
-permalink: cuentas/anexos/
+permalink: /cuentas/anexos/
 ---
 
 # Anexos

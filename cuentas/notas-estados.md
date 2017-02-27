@@ -3,7 +3,7 @@ layout: default
 title: Notas de los estados financieros consolidados adjuntos
 lang: es
 submenu: cuentas
-permalink: cuentas/notas-estados-financieros/
+permalink: /cuentas/notas-estados-financieros/
 ---
 
 {% include subir.html %}
