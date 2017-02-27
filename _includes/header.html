@@ -93,9 +93,9 @@
           {% if page.submenu == node.submenu %}
             <li class="menu-item">
             {% if page.url == node.url %}
-              <a href="{{node.url}}" class="active">{{node.title}}</a>
+              <a href="{{site.baseurl}}{{node.url}}" class="active">{{node.title}}</a>
             {% else %}
-              <a href="{{node.url}}">{{node.title}}</a>
+              <a href="{{site.baseurl}}{{node.url}}">{{node.title}}</a>
             {% endif %}
             </li>
           {% endif %}
