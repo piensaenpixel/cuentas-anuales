@@ -716,6 +716,10 @@ A continuación, se muestran los saldos aportados al balance consolidado a 31 de
 <table>
     <thead>
         <tr>
+            <th></th>
+            <th colspan="3">Millones de euros</th>
+        </tr>
+        <tr>
             <th>Balance Diciembre 2016</th>
             <th>Tipo de cambio estimado</th>
             <th>SIMADI publicado</th>
@@ -1005,7 +1009,6 @@ A continuación, se detalla el Índice Nacional de Precios al Consumidor y el í
     <thead>
         <tr>
             <th>Índice de precios al consumidor </th>
-            <th>&nbsp;</th>
             <th>2016 (*)</th>
             <th>2015 (**)</th>
         </tr>
@@ -1013,19 +1016,16 @@ A continuación, se detalla el Índice Nacional de Precios al Consumidor y el í
     <tbody>
         <tr>
             <td>INPC</td>
-            <td>&nbsp;</td>
             <td>9.431,60</td>
             <td>2.357,90</td>
         </tr>
         <tr>
             <td>INPC promedio</td>
-            <td>&nbsp;</td>
             <td>5.847,74</td>
             <td>1.460,50</td>
         </tr>
         <tr>
             <td>Inflación del ejercicio</td>
-            <td>&nbsp;</td>
             <td>300%</td>
             <td>170%</td>
         </tr>
@@ -1176,8 +1176,11 @@ A continuación se muestra la aportación, al activo total del Grupo a 31 de dic
 <table>
     <thead>
         <tr>
+            <th></th>
+            <th colspan="3">Millones de euros</th>
+        </tr>
+        <tr>
             <th>Aportaciones al Activo total Grupo consolidado. Sociedades según su actividad principal</th>
-            <th>&nbsp;</th>
             <th>2016</th>
             <th>2015</th>
             <th>2014</th>
@@ -1186,28 +1189,24 @@ A continuación se muestra la aportación, al activo total del Grupo a 31 de dic
     <tbody>
         <tr>
             <td>Banca y otros servicios financieros</td>
-            <td>&nbsp;</td>
             <td>699.592</td>
             <td>717.981</td>
             <td>601.794</td>
         </tr>
         <tr>
             <td>Seguros y sociedades gestoras de fondos de pensiones</td>
-            <td>&nbsp;</td>
             <td>26.831</td>
             <td>25.741</td>
             <td>23.370</td>
         </tr>
         <tr>
             <td>Otros servicios no financieros</td>
-            <td>&nbsp;</td>
             <td>5.433</td>
             <td>6.133</td>
             <td>6.778</td>
         </tr>
         <tr>
             <td>Total</td>
-            <td>&nbsp;</td>
             <td>731.856</td>
             <td>749.855</td>
             <td>631.942</td>
@@ -1324,15 +1323,16 @@ Los estados contables previsionales formulados de acuerdo con los requisitos leg
 <table>
     <thead>
         <tr>
+            <th></th>
+            <th colspan="2">Millones de euros</th>
+        </tr>
+        <tr>
             <th>Cantidad disponible para reparto de dividendos a cuenta según estado previsional al:</th>
-            <th>"31 mayo</th>
+            <th>31 mayo 2016</th>
+            <th>30 noviembre 2016</th>
         </tr>
     </thead>
     <tbody>
-        <tr>
-            <td> 2016"</td>
-            <td>30 noviembre 2016</td>
-        </tr>
         <tr>
             <td>Beneficio de BBVA, S.A. a la fecha indicada, después de la provisión para el impuesto sobre beneficios</td>
             <td>1.371</td>
@@ -1538,6 +1538,10 @@ El desglose del activo total del Grupo BBVA por segmentos de negocio a 31 de dic
 
 <table>
     <thead>
+        <tr>
+            <th></th>
+            <th colspan="3">Millones de euros</th>
+        </tr>
         <tr>
             <th>Total activos del Grupo por segmentos de negocio</th>
             <th>2016</th>
@@ -2221,6 +2225,10 @@ De acuerdo con la NIIF 7 “Instrumentos financieros: información a revelar”,
 <table>
     <thead>
         <tr>
+            <th colspan="2"></th>
+            <th colspan="3">Millones de euros</th>
+        </tr>
+        <tr>
             <th>Exposición máxima al riesgo de crédito</th>
             <th>Notas</th>
             <th>2016</th>
@@ -2569,6 +2577,10 @@ El detalle por contraparte y por producto de los préstamos y anticipos, neto de
 <table>
     <thead>
         <tr>
+            <th></th>
+            <th colspan="7">Millones de euros</th>
+        </tr>
+        <tr>
             <th>Diciembre 2016</th>
             <th>Bancos centrales</th>
             <th>Administraciones públicas</th>
@@ -2715,6 +2727,10 @@ El detalle por contraparte y por producto de los préstamos y anticipos, neto de
 
 <table>
     <thead>
+        <tr>
+            <th></th>
+            <th colspan="7">Millones de euros</th>
+        </tr>
         <tr>
             <th>Diciembre 2015</th>
             <th>Bancos centrales</th>
@@ -3954,6 +3970,11 @@ A continuación se presenta el desglose de los préstamos y anticipos, dentro de
 <table>
     <thead>
         <tr>
+            <th></th>
+            <th colspan="2">Millones de euros</th>
+            <th></th>
+        </tr>
+        <tr>
             <th>Diciembre 2016</th>
             <th>Dudosos o deteriorados</th>
             <th>Deterioro de valor acumulado o cambios acumulados en el valor razonable debidos al riesgo de crédito</th>
@@ -4110,6 +4131,11 @@ A continuación se presenta el desglose de los préstamos y anticipos, dentro de
 
 <table>
     <thead>
+        <tr>
+            <th></th>
+            <th colspan="2">Millones de euros</th>
+            <th></th>
+        </tr>
         <tr>
             <th>Diciembre 2015</th>
             <th>Dudosos o deteriorados</th>
@@ -4336,6 +4362,10 @@ El movimiento registrado durante 2016, 2015 y 2014 en los activos financieros da
 <table>
     <thead>
         <tr>
+            <th></th>
+            <th colspan="3">Millones de euros</th>
+        </tr>
+        <tr>
             <th>Movimientos de activos financieros deteriorados dados de baja de balance (Fallidos)</th>
             <th>2016</th>
             <th>2015</th>
@@ -4427,6 +4457,10 @@ A continuación se presentan los movimientos producidos durante 2016 y 2015 en l
 
 <table>
     <thead>
+        <tr>
+            <th></th>
+            <th colspan="8">Millones de euros</th>
+        </tr>
         <tr>
             <th>Diciembre 2016</th>
             <th>Saldo de apertura</th>
@@ -4808,6 +4842,10 @@ A continuación se presentan los movimientos producidos durante 2016 y 2015 en l
 
 <table>
     <thead>
+        <tr>
+            <th></th>
+            <th colspan="8">Millones de euros</th>
+        </tr>
         <tr>
             <th>Diciembre 2015</th>
             <th>Saldo de apertura</th>
@@ -5365,6 +5403,10 @@ A 31 de diciembre de 2016, 2015 y 2014 el saldo de VaR fue de 0000, 24 y 25 mill
 <table>
     <thead>
         <tr>
+            <th></th>
+            <th colspan="6">Millones de euros</th>
+        </tr>
+        <tr>
             <th>VaR por factores de riesgo</th>
             <th>Riesgo de interés y spread</th>
             <th>Riesgo de cambio</th>
@@ -5566,6 +5608,10 @@ A continuación se muestra el impacto esperado del stress test en la cuenta de r
 
 <table>
     <thead>
+        <tr>
+            <th></th>
+            <th colspan="8">Millones de Euros</th>
+        </tr>
         <tr>
             <th></th>
             <th>Europa</th>
@@ -6861,31 +6907,37 @@ A 31 de diciembre de 2016 y 2015, el conjunto de los pasivos financieros emitido
             <td>Activos comprometidos / garantías recibidas y pasivos asociados"</td>
             <td>Pasivos cubiertos, pasivos contingentes o títulos cedidos</td>
             <td>Activos, garantías recibidas y autocartera emitida, excepto cédulas hipotecarias y bonos titulizados comprometidos</td>
+            <td>-</td>
         </tr>
         <tr>
             <td>Valor en libros de dichos pasivos fuentes de pignoración</td>
             <td>155.999</td>
             <td>180.735</td>
+            <td>-</td>
         </tr>
         <tr>
             <td>Derivados</td>
             <td>10.683</td>
             <td>11.962</td>
+            <td>-</td>
         </tr>
         <tr>
             <td>Depositos</td>
             <td>106.884</td>
             <td>118.951</td>
+            <td>-</td>
         </tr>
         <tr>
             <td>Emisiones</td>
             <td>35.257</td>
             <td>43.206</td>
+            <td>-</td>
         </tr>
         <tr>
             <td>Otras fuentes de pignoración</td>
             <td>3.175</td>
             <td>6.616</td>
+            <td>-</td>
         </tr>
     </tbody>
 </table>
@@ -8258,17 +8310,39 @@ Los instrumentos financieros que fueron traspasados entre los distintos niveles 
 <table>
     <thead>
         <tr>
-            <th>Activo</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
+            <th></th>
+            <th></th>
+            <th colspan="6">Millones de euros</th>
+        </tr>
+        <tr>
+            <th></th>
+            <th>DE:</th>
+            <th colspan="2">Nivel I</th>
+            <th colspan="2">Nivel 2</th>
+            <th colspan="2">Nivel 3</th>
+        </tr>
+        <tr>
+            <th>Traspasos de niveles</th>
+            <th>A:</th>
+            <th>Nivel 2</th>
+            <th>Nivel 3</th>
+            <th>Nivel 1</th>
+            <th>Nivel 3</th>
+            <th>Nivel 1</th>
+            <th>Nivel 2</th>
         </tr>
     </thead>
     <tbody>
+        <tr>
+            <td>Activo</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
         <tr>
             <td>Activos financieros mantenidos para negociar</td>
             <td>&nbsp;</td>
@@ -8347,14 +8421,30 @@ A 31 de diciembre 2016, el efecto en los resultados y en el patrimonio neto, con
 <table>
     <thead>
         <tr>
-            <th>ACTIVOS-</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
+            <th></th>
+            <th colspan="4">Millones de euros</th>
+        </tr>
+        <tr>
+            <th></th>
+            <th colspan="2">Impacto potencial en la cuenta de resultados consolidada</th>
+            <th colspan="2">Impacto potencial en ajustes por valoración consolidados</th>
+        </tr>
+        <tr>
+            <th>Instrumentos financieros Nivel 3 Análisis de sensibilidad</th>
+            <th>Hipótesis más favorables</th>
+            <th>Hipótesis menos favorables</th>
+            <th>Hipótesis más favorables</th>
+            <th>Hipótesis menos favorables</th>
         </tr>
     </thead>
     <tbody>
+        <tr>
+            <td>ACTIVOS-</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
         <tr>
             <td>Activos financieros mantenidos para negociar</td>
             <td>17</td>
@@ -8440,20 +8530,45 @@ La siguiente tabla presenta el valor razonable de los principales instrumentos f
 <table>
     <thead>
         <tr>
-            <th>ACTIVOS-</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
+            <th></th>
+            <th></th>
+            <th colspan="9">Millones de euros</th>
+        </tr>
+        <tr>
+            <th></th>
+            <th></th>
+            <th colspan="3">2016</th>
+            <th colspan="3">2015</th>
+            <th colspan="3">2014</th>
+        </tr>
+        <tr>
+            <th>Valor Razonable de instrumentos financieros registrados a valorados a coste amortizado por niveles</th>
+            <th>Notas</th>
+            <th>Nivel 1</th>
+            <th>Nivel 2</th>
+            <th>Nivel 3</th>
+            <th>Nivel 1</th>
+            <th>Nivel 2</th>
+            <th>Nivel 3</th>
+            <th>Nivel 1</th>
+            <th>Nivel 2</th>
+            <th>Nivel 3</th>
         </tr>
     </thead>
     <tbody>
+        <tr>
+            <td>ACTIVOS-</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
         <tr>
             <td>Efectivo, saldos en efectivo en bancos centrales y otros depósitos a la vista</td>
             <td>9</td>
@@ -8527,17 +8642,37 @@ A continuación se presentan los principales métodos de valoración, hipótesis
 <table>
     <thead>
         <tr>
-            <th>Nivel 2</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
+            <th>Instrumentos Financieros</th>
+            <th>Valor razonable (Millones de euros)</th>
+            <th>Principales técnicas de valoración</th>
+            <th>Principales hipótesis</th>
+            <th>Principales inputs utilizados</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td>Préstamos y partidas a cobrar</td>
+            <td>Nivel 2</td>
             <td>&nbsp;</td>
-            <td>"Método del valor presente</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Préstamos y partidas a cobrar. Valores representativos de deuda</td>
+            <td>10.991</td>
+            <td>Método del valor presente (Descuento de flujos de caja futuros)</td>
+            <td>-</td>
+            <td>
+               - Diferencial de crédito<br/>
+               - Tipos de interés"
+            </td>
+        </tr>
+        <tr>
+            <td>Nivel 3</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
         </tr>
         <tr>
             <td>(Descuento de flujos de caja futuros)</td>
@@ -8672,6 +8807,10 @@ A continuación se presenta el detalle de las ventas realizadas de los instrumen
 <table>
     <thead>
         <tr>
+            <th></th>
+            <th colspan="3">Millones de euros</th>
+        </tr>
+        <tr>
             <th>Ventas de instrumentos a coste</th>
             <th>2016</th>
             <th>2015</th>
@@ -8747,20 +8886,45 @@ A continuación presentamos por jerarquía de mediciones de valor razonable, la 
 <table>
     <thead>
         <tr>
-            <th>Activos no corrientes y grupos enajenables de elementos mantenidos para la venta</th>
-            <th>21</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
+            <th></th>
+            <th></th>
+            <th colspan="9">Milliones of Euros</th>
+        </tr>
+        <tr>
+            <th></th>
+            <th></th>
+            <th colspan="3">2016</th>
+            <th colspan="3">2015</th>
+            <th colspan="3">2014</th>
+        </tr>
+        <tr>
+            <th>Valor razonable de los activos no corrientes  y grupos  enajenables de elementos que se han clasificado  como mantenidos para la venta  y existencias por niveles</th>
+            <th>Notas</th>
+            <th>Nivel 2</th>
+            <th>Nivel 3</th>
+            <th>Total</th>
+            <th>Nivel 2</th>
+            <th>Nivel 3</th>
+            <th>Total</th>
+            <th>Nivel 2</th>
+            <th>Nivel 3</th>
+            <th>Total</th>
         </tr>
     </thead>
     <tbody>
+        <tr>
+            <td>Activos no corrientes y grupos enajenables de elementos mantenidos para la venta</td>
+            <td>21</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
         <tr>
             <td>Viviendas</td>
             <td>&nbsp;</td>
@@ -8891,6 +9055,10 @@ La composición del saldo de los capítulos “Efectivo, saldos en efectivo en b
 <table>
     <thead>
         <tr>
+            <th></th>
+            <th colspan="3">Millones de euros</th>
+        </tr>
+        <tr>
             <th>Efectivo, saldos en efectivo en bancos centrales y otros depósitos a la vista</th>
             <th>2016</th>
             <th>2015</th>
@@ -8928,7 +9096,16 @@ La composición del saldo de los capítulos “Efectivo, saldos en efectivo en b
 <table>
     <thead>
         <tr>
-            <th>"Pasivos financieros a coste amortizado</th>
+            <th></th>
+            <th></th>
+            <th colspan="3">Millones de euros</th>
+        </tr>
+        <tr>
+            <th>Pasivos financieros a coste amortizado</th>
+            <th>Notas</th>
+            <th>2016</th>
+            <th>2015</th>
+            <th>2014</th>
         </tr>
     </thead>
     <tbody>
@@ -8980,6 +9157,10 @@ La composición del saldo de estos capítulos de los balances consolidados adjun
 
 <table>
     <thead>
+        <tr>
+            <th></th>
+            <th colspan="3">Millones de euros</th>
+        </tr>
         <tr>
             <th>Activos y pasivos financieros mantenidos para negociar</th>
             <th>2016</th>
@@ -9059,7 +9240,14 @@ El desglose del saldo, por tipo de emisor, de este epígrafe de los balances con
 <table>
     <thead>
         <tr>
-            <th>"Activos financieros mantenidos para negociar</th>
+            <th></th>
+            <th colspan="3">Millones de euros</th>
+        </tr>
+        <tr>
+            <th>Activos financieros  mantenidos  para negociar Valores representativos de deuda por emisor</th>
+            <th>2016</th>
+            <th>2015</th>
+            <th>2014</th>
         </tr>
     </thead>
     <tbody>
@@ -9121,7 +9309,14 @@ La composición del saldo de este epígrafe de los balances consolidados adjunto
 <table>
     <thead>
         <tr>
+            <th></th>
+            <th colspan="3">Millones de euros</th>
+        </tr>
+        <tr>
             <th>Activos financieros mantenidos para negociar</th>
+            <th>2016</th>
+            <th>2015</th>
+            <th>2014</th>
         </tr>
     </thead>
     <tbody>
@@ -9197,6 +9392,10 @@ A continuación se presenta un desglose, por tipo de riesgo y tipo de producto o
 
 <table>
     <thead>
+        <tr>
+            <th></th>
+            <th colspan="3">Millones de euros</th>
+        </tr>
         <tr>
             <th>Derivados por tipo de riesgo y por tipo de producto o mercado - Diciembre 2016</th>
             <th>Activos</th>
@@ -9367,6 +9566,10 @@ A continuación se presenta un desglose, por tipo de riesgo y tipo de producto o
 <table>
     <thead>
         <tr>
+            <th></th>
+            <th colspan="3">Millones de euros</th>
+        </tr>
+        <tr>
             <th>Derivados por tipo de riesgo y por tipo de producto o mercado - Diciembre 2015</th>
             <th>Activos</th>
             <th>Pasivos</th>
@@ -9535,6 +9738,10 @@ A continuación se presenta un desglose, por tipo de riesgo y tipo de producto o
 
 <table>
     <thead>
+        <tr>
+            <th></th>
+            <th colspan="3">Millones de euros</th>
+        </tr>
         <tr>
             <th>Derivados por tipo de riesgo y por tipo de producto o mercado - Diciembre 2014</th>
             <th>Activos</th>
@@ -9710,6 +9917,10 @@ La composición del saldo de estos capítulos de los balances consolidados adjun
 <table>
     <thead>
         <tr>
+            <th></th>
+            <th colspan="3">Millones de euros</th>
+        </tr>
+        <tr>
             <th>Activos y pasivos financieros designados a varlor razonable con cambios en resultados</th>
             <th>2016</th>
             <th>2015</th>
@@ -9812,6 +10023,10 @@ La composición del saldo de este capítulo de los balances consolidados adjunto
 <table>
     <thead>
         <tr>
+            <th></th>
+            <th colspan="3">Millones de euros</th>
+        </tr>
+        <tr>
             <th>Activos financieros disponibles para la venta</th>
             <th>2016</th>
             <th>2015</th>
@@ -9874,23 +10089,18 @@ El desglose del saldo del epígrafe “Valores representativos de deuda” de lo
 <table>
     <thead>
         <tr>
-            <th>"Activos financieros disponibles para la venta </th>
+            <th></th>
+            <th colspan="4">Millones de euros</th>
+        </tr>
+        <tr>
+            <th>Activos financieros disponibles para la venta Valores representativos de deuda Diciembre 2016</th>
+            <th>Coste amortizado (*)</th>
+            <th>Plusvalías no realizadas</th>
+            <th>Minusvalías no realizadas</th>
+            <th>Valor razonable</th>
         </tr>
     </thead>
     <tbody>
-        <tr>
-            <td>Valores representativos de deuda</td>
-        </tr>
-        <tr>
-            <td>Diciembre 2016 "</td>
-            <td>Coste amortizado (*)</td>
-            <td>Plusvalías no realizadas</td>
-            <td>Minusvalías no realizadas </td>
-            <td>"Valor</td>
-        </tr>
-        <tr>
-            <td>razonable"</td>
-        </tr>
         <tr>
             <td>Valores españoles</td>
             <td>&nbsp;</td>
@@ -10151,23 +10361,18 @@ El desglose del saldo del epígrafe “Valores representativos de deuda” de lo
 <table>
     <thead>
         <tr>
-            <th>"Activos financieros disponibles para la venta </th>
+            <th></th>
+            <th colspan="4">Millones de euros</th>
+        </tr>
+        <tr>
+            <th>Activos financieros disponibles para la venta Valores representativos de deuda Diciembre 2015</th>
+            <th>Coste amortizado (*)</th>
+            <th>Plusvalías no realizadas</th>
+            <th>Minusvalías no realizadas</th>
+            <th>Valor razonable</th>
         </tr>
     </thead>
     <tbody>
-        <tr>
-            <td>Valores representativos de deuda</td>
-        </tr>
-        <tr>
-            <td>Diciembre 2015 "</td>
-            <td>Coste amortizado (*)</td>
-            <td>Plusvalías no realizadas</td>
-            <td>Minusvalías no realizadas </td>
-            <td>"Valor</td>
-        </tr>
-        <tr>
-            <td>razonable"</td>
-        </tr>
         <tr>
             <td>Valores españoles</td>
             <td>&nbsp;</td>
@@ -10428,23 +10633,18 @@ El desglose del saldo del epígrafe “Valores representativos de deuda” de lo
 <table>
     <thead>
         <tr>
-            <th>"Activos financieros disponibles para la venta </th>
+            <th></th>
+            <th colspan="4">Millones de euros</th>
+        </tr>
+        <tr>
+            <th>Activos financieros disponibles para la venta Valores representativos de deuda Diciembre 2014</th>
+            <th>Coste amortizado (*)</th>
+            <th>Plusvalías no realizadas</th>
+            <th>Minusvalías no realizadas</th>
+            <th>Valor razonable</th>
         </tr>
     </thead>
     <tbody>
-        <tr>
-            <td>Valores representativos de deuda</td>
-        </tr>
-        <tr>
-            <td>Diciembre 2014 "</td>
-            <td>Coste Amortizado (*)</td>
-            <td>Plusvalías no realizadas </td>
-            <td>Minusvalías no realizadas </td>
-            <td>"Valor </td>
-        </tr>
-        <tr>
-            <td>en libros"</td>
-        </tr>
         <tr>
             <td>Valores españoles</td>
             <td>&nbsp;</td>
@@ -10665,16 +10865,31 @@ A 31 de diciembre 2016, 2015 y 2014 la distribución, atendiendo a la calidad cr
 <table>
     <thead>
         <tr>
-            <th>AAA</th>
-            <th>4.922</th>
-            <th>6,6%</th>
-            <th>1.842</th>
-            <th>1,7%</th>
-            <th>1.459</th>
-            <th>1,7%</th>
+            <th></th>
+            <th colspan="2">Diciembre 2016</th>
+            <th colspan="2">Diciembre 2015</th>
+            <th colspan="2">Diciembre 2014</th>
+        </tr>
+        <tr>
+            <th>Activos financieros disponibles para la venta Valores representativos de deuda por rating</th>
+            <th>Valor razonable (Millones de euros)</th>
+            <th>%</th>
+            <th>Valor razonable (Millones de euros)</th>
+            <th>%</th>
+            <th>Valor razonable (Millones de euros)</th>
+            <th>%</th>
         </tr>
     </thead>
     <tbody>
+        <tr>
+            <td>AAA</td>
+            <td>4.922</td>
+            <td>6,6%</td>
+            <td>1.842</td>
+            <td>1,7%</td>
+            <td>1.459</td>
+            <td>1,7%</td>
+        </tr>
         <tr>
             <td>AA+</td>
             <td>11.172</td>
@@ -10793,23 +11008,18 @@ El desglose del saldo del epígrafe “Instrumentos de patrimonio” de los bala
 <table>
     <thead>
         <tr>
-            <th>"Activos financieros disponibles para la venta</th>
+            <th></th>
+            <th colspan="4">Millones de euros</th>
+        </tr>
+        <tr>
+            <th>Activos financieros disponibles para la venta Instrumentos de patrimonio Diciembre 2016</th>
+            <th>Coste amortizado</th>
+            <th>Plusvalías no realizadas</th>
+            <th>Minusvalías no realizadas</th>
+            <th>Valor razonable</th>
         </tr>
     </thead>
     <tbody>
-        <tr>
-            <td>Instrumentos de patrimonio </td>
-        </tr>
-        <tr>
-            <td>Diciembre 2016"</td>
-            <td>Coste amortizado</td>
-            <td>Plusvalías no realizadas </td>
-            <td>Minusvalías no realizadas </td>
-            <td>"Valor </td>
-        </tr>
-        <tr>
-            <td>razonable"</td>
-        </tr>
         <tr>
             <td>Instrumentos de patrimonio cotizados</td>
             <td>&nbsp;</td>
@@ -10825,14 +11035,14 @@ El desglose del saldo del epígrafe “Instrumentos de patrimonio” de los bala
             <td>2.763</td>
         </tr>
         <tr>
-            <td> Entidades de crédito</td>
+            <td>Entidades de crédito</td>
             <td>-</td>
             <td>-</td>
             <td>-</td>
             <td>-</td>
         </tr>
         <tr>
-            <td> Otras entidades</td>
+            <td>Otras entidades</td>
             <td>3.690</td>
             <td>17</td>
             <td>(944)</td>
@@ -10963,23 +11173,18 @@ El desglose del saldo del epígrafe “Instrumentos de patrimonio” de los bala
 <table>
     <thead>
         <tr>
-            <th>Activos financieros disponibles para la venta</th>
+            <th></th>
+            <th colspan="4">Millones de euros</th>
+        </tr>
+        <tr>
+            <th>Activos financieros disponibles para la venta Instrumentos de patrimonio Diciembre 2015</th>
+            <th>Coste amortizado</th>
+            <th>Plusvalías no realizadas</th>
+            <th>Minusvalías no realizadas</th>
+            <th>Valor razonable</th>
         </tr>
     </thead>
     <tbody>
-        <tr>
-            <td>Instrumentos de patrimonio </td>
-        </tr>
-        <tr>
-            <td>Diciembre 2015"</td>
-            <td>Coste amortizado</td>
-            <td>Plusvalías no realizadas </td>
-            <td>Minusvalías no realizadas </td>
-            <td>"Valor </td>
-        </tr>
-        <tr>
-            <td>razonable"</td>
-        </tr>
         <tr>
             <td>Instrumentos de patrimonio cotizados</td>
             <td>&nbsp;</td>
@@ -11133,23 +11338,18 @@ El desglose del saldo del epígrafe “Instrumentos de patrimonio” de los bala
 <table>
     <thead>
         <tr>
-            <th>"Activos financieros disponibles para la venta</th>
+            <th></th>
+            <th colspan="4">Millones de euros</th>
+        </tr>
+        <tr>
+            <th>Activos financieros disponibles para la venta Instrumentos de patrimonio Diciembre 2014</th>
+            <th>Coste amortizado</th>
+            <th>Plusvalías no realizadas</th>
+            <th>Minusvalías no realizadas</th>
+            <th>Valor razonable</th>
         </tr>
     </thead>
     <tbody>
-        <tr>
-            <td>Instrumentos de patrimonio </td>
-        </tr>
-        <tr>
-            <td>Diciembre 2014"</td>
-            <td>Coste amortizado</td>
-            <td>Plusvalías no realizadas </td>
-            <td>Minusvalías no realizadas</td>
-            <td>"Valor </td>
-        </tr>
-        <tr>
-            <td>razonable"</td>
-        </tr>
         <tr>
             <td>Instrumentos de patrimonio cotizados</td>
             <td>&nbsp;</td>
@@ -11307,16 +11507,17 @@ El movimiento de las plusvalías/minusvalías (netas de impuestos) registradas e
 <table>
     <thead>
         <tr>
-            <th>"Otro resultado global acumulado - Elementos que pueden reclasificarse en resultados - </th>
+            <th></th>
+            <th colspan="3">Millones de euros</th>
+        </tr>
+        <tr>
+            <th>Otro resultado global acumulado - Elementos que pueden reclasificarse en resultados - Activos financieros disponibles para la venta</th>
+            <th>2016</th>
+            <th>2015</th>
+            <th>2014</th>
         </tr>
     </thead>
     <tbody>
-        <tr>
-            <td>Activos financieros disponibles para la venta"</td>
-            <td>2016</td>
-            <td>2015</td>
-            <td>2014</td>
-        </tr>
         <tr>
             <td>Saldo inicial</td>
             <td>1.674</td>
@@ -11390,6 +11591,11 @@ La composición del saldo de este capítulo de los balances consolidados adjunto
 <table>
     <thead>
         <tr>
+            <th></th>
+            <th></th>
+            <th colspan="3">Millones de euros</th>
+        </tr>
+        <tr>
             <th>Préstamos y partidas a cobrar</th>
             <th>Notas</th>
             <th>2016</th>
@@ -11443,6 +11649,11 @@ La composición del saldo de este epígrafe de los balances consolidados adjunto
 
 <table>
     <thead>
+        <tr>
+            <th></th>
+            <th></th>
+            <th colspan="3">Millones de euros</th>
+        </tr>
         <tr>
             <th>Préstamos y anticipos en Bancos Centrales y Entidades de Crédito</th>
             <th>Notas</th>
@@ -11539,6 +11750,11 @@ La composición del saldo de este epígrafe de los balances consolidados adjunto
 
 <table>
     <thead>
+        <tr>
+            <th></th>
+            <th></th>
+            <th colspan="3">Millones de euros</th>
+        </tr>
         <tr>
             <th>Préstamos y anticipos a la clientela</th>
             <th>Notas</th>
@@ -11719,6 +11935,10 @@ El epígrafe “Préstamos y partidas a cobrar - Préstamos y anticipos a la cli
 <table>
     <thead>
         <tr>
+            <th></th>
+            <th colspan="3">Millones de euros</th>
+        </tr>
+        <tr>
             <th>Distribución de contratos de arrendamiento financiero</th>
             <th>2016</th>
             <th>2015</th>
@@ -11757,6 +11977,10 @@ El epígrafe “Préstamos y partidas a cobrar - Préstamos y anticipos a la cli
 
 <table>
     <thead>
+        <tr>
+            <th></th>
+            <th colspan="3">Millones de euros</th>
+        </tr>
         <tr>
             <th>Préstamos titulizados</th>
             <th>2016</th>
@@ -11831,6 +12055,11 @@ La composición del saldo de este epígrafe de los balances consolidados adjunto
 <table>
     <thead>
         <tr>
+            <th></th>
+            <th></th>
+            <th colspan="3">Millones de euros</th>
+        </tr>
+        <tr>
             <th>Valores representativos de deuda</th>
             <th>Notas</th>
             <th>2016</th>
@@ -11891,18 +12120,32 @@ A continuación se muestra información sobre los valores razonables y los valor
 <table>
     <thead>
         <tr>
-            <th>BBVA S.A.</th>
-            <th>&nbsp;</th>
-            <th>862</th>
-            <th>862</th>
-            <th>844</th>
-            <th>863</th>
+            <th></th>
+            <th colspan="4">Millones de euros</th>
+        </tr>
+        <tr>
+            <th></th>
+            <th colspan="2">A fecha de reclasificación</th>
+            <th colspan="2">A 31 de diciembre 2016</th>
+        </tr>
+        <tr>
+            <th>Valores representativos de deuda reclasificados a "Préstamos y partidas a cobrar" desde "Disponible para la venta"</th>
+            <th>Valor en libros</th>
+            <th>Valor razonable</th>
+            <th>Valor en libros</th>
+            <th>Valor razonable</th>
         </tr>
     </thead>
     <tbody>
         <tr>
+            <td>BBVA S.A.</td>
+            <td>862</td>
+            <td>862</td>
+            <td>844</td>
+            <td>863</td>
+        </tr>
+        <tr>
             <td>Total</td>
-            <td>&nbsp;</td>
             <td>862</td>
             <td>862</td>
             <td>844</td>
@@ -11916,20 +12159,31 @@ La siguiente tabla muestra el importe registrado en la cuenta de pérdidas y gan
 <table>
     <thead>
         <tr>
-            <th>BBVA S.A.</th>
-            <th>&nbsp;</th>
-            <th>22</th>
-            <th>&nbsp;</th>
-            <th>22</th>
-            <th>(5)</th>
+            <th></th>
+            <th colspan="3">Millones de euros</th>
+        </tr>
+        <tr>
+            <th></th>
+            <th colspan="1">Registrado en</th>
+            <th colspan="2">Impactos de no haber reclasificado</th>
+        </tr>
+        <tr>
+            <th>Efecto en cuenta de pérdidas y ganancias y patrimonio neto</th>
+            <th>Cuenta de pérdidas y ganancias</th>
+            <th>Cuenta de pérdidas y ganancias</th>
+            <th>Patrimonio neto "Ajustes por valoración"</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td>Total</td>
-            <td>&nbsp;</td>
+            <td>BBVA S.A.</td>
             <td>22</td>
-            <td>&nbsp;</td>
+            <td>22</td>
+            <td>(5)</td>
+        </tr>
+        <tr>
+            <td>Total</td>
+            <td>22</td>
             <td>22</td>
             <td>(5)</td>
         </tr>
@@ -11943,14 +12197,15 @@ La composición del saldo de este capítulo de los balances consolidados adjunto
 <table>
     <thead>
         <tr>
-            <th>"Inversiones mantenidas hasta el vencimiento (*)</th>
+            <th></th>
+            <th colspan="1">Millones de euros</th>
+        </tr>
+        <tr>
+            <th>Inversiones mantenidas hasta el vencimiento (*) Valores representativos de deuda</th>
+            <th>2016</th>
         </tr>
     </thead>
     <tbody>
-        <tr>
-            <td>Valores representativos de deuda "</td>
-            <td>2016</td>
-        </tr>
         <tr>
             <td>Valores españoles</td>
             <td>&nbsp;</td>
@@ -12057,82 +12312,78 @@ A 31 de diciembre 2016, la distribución, atendiendo a la calidad crediticia (ra
 <table>
     <thead>
         <tr>
-            <th>AAA</th>
-            <th>&nbsp;</th>
-            <th>-</th>
-            <th>-</th>
+            <th></th>
+            <th colspan="2">Diciembre  2016</th>
+        </tr>
+        <tr>
+            <th>Inversiones mantenidas hasta el vencimiento Valores representativos de deuda por rating</th>
+            <th>Saldo contable (Millones de euros)</th>
+            <th>%</th>
         </tr>
     </thead>
     <tbody>
         <tr>
+            <td>AAA</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
             <td>AA+</td>
-            <td>&nbsp;</td>
             <td>-</td>
             <td>-</td>
         </tr>
         <tr>
             <td>AA</td>
-            <td>&nbsp;</td>
             <td>43</td>
             <td>0,2%</td>
         </tr>
         <tr>
             <td>AA-</td>
-            <td>&nbsp;</td>
             <td>134</td>
             <td>0,8%</td>
         </tr>
         <tr>
             <td>A+</td>
-            <td>&nbsp;</td>
             <td>-</td>
             <td>-</td>
         </tr>
         <tr>
             <td>A</td>
-            <td>&nbsp;</td>
             <td>-</td>
             <td>-</td>
         </tr>
         <tr>
             <td>A-</td>
-            <td>&nbsp;</td>
             <td>-</td>
             <td>-</td>
         </tr>
         <tr>
             <td>BBB+</td>
-            <td>&nbsp;</td>
             <td>10.472</td>
             <td>59,2%</td>
         </tr>
         <tr>
             <td>BBB</td>
-            <td>&nbsp;</td>
             <td>591</td>
             <td>3,3%</td>
         </tr>
         <tr>
             <td>BBB-</td>
-            <td>&nbsp;</td>
             <td>5.187</td>
             <td>29,3%</td>
         </tr>
         <tr>
             <td>Con rating igual o inferior a BB+</td>
-            <td>&nbsp;</td>
             <td>-</td>
             <td>-</td>
         </tr>
         <tr>
             <td>Sin clasificar </td>
-            <td>&nbsp;</td>
             <td>1.270</td>
             <td>7,2%</td>
         </tr>
         <tr>
             <td>Total</td>
-            <td>&nbsp;</td>
             <td>17.696</td>
             <td>100%</td>
         </tr>
@@ -12144,14 +12395,30 @@ A continuación se muestra información sobre los valores razonables y los valor
 <table>
     <thead>
         <tr>
-            <th>BBVA S.A.</th>
-            <th>11.162</th>
-            <th>11.162</th>
-            <th>9.589</th>
-            <th>9.635</th>
+            <th></th>
+            <th colspan="4">Millones de euros</th>
+        </tr>
+        <tr>
+            <th></th>
+            <th colspan="2">A fecha de reclasificación</th>
+            <th colspan="2">A 31 de Diciembre 2016 (*)</th>
+        </tr>
+        <tr>
+            <th>Valores representativos de deuda reclasificados a "Inversiones mantenidas hasta el vencimiento"</th>
+            <th>Valor en libros</th>
+            <th>Valor razonable</th>
+            <th>Valor en libros</th>
+            <th>Valor razonable</th>
         </tr>
     </thead>
     <tbody>
+        <tr>
+            <td>BBVA S.A.</td>
+            <td>11.162</td>
+            <td>11.162</td>
+            <td>9.589</td>
+            <td>9.635</td>
+        </tr>
         <tr>
             <td>TURKIYE GARANTI BANKASI A.S</td>
             <td>6.488</td>
@@ -12176,24 +12443,36 @@ La siguiente tabla muestra el importe registrado en la cuenta de pérdidas y gan
 <table>
     <thead>
         <tr>
-            <th>BBVA S.A.</th>
-            <th>&nbsp;</th>
-            <th>230</th>
-            <th>230</th>
-            <th>(86)</th>
+            <th></th>
+            <th colspan="3">Millones de euros</th>
+        </tr>
+        <tr>
+            <th></th>
+            <th colspan="1">Registrado en</th>
+            <th colspan="2">Impactos de no haber reclasificado</th>
+        </tr>
+        <tr>
+            <th>Efecto en cuenta de pérdidas y ganancias y patrimonio neto</th>
+            <th>Cuenta de pérdidas y ganancias</th>
+            <th>Cuenta de pérdidas y ganancias</th>
+            <th>Patrimonio neto "Otro resultado global acumulado"</th>
         </tr>
     </thead>
     <tbody>
         <tr>
+            <td>BBVA S.A.</td>
+            <td>230</td>
+            <td>230</td>
+            <td>(86)</td>
+        </tr>
+        <tr>
             <td>TURKIYE GARANTI BANKASI A.S</td>
-            <td>&nbsp;</td>
             <td>326</td>
             <td>326</td>
             <td>(225)</td>
         </tr>
         <tr>
             <td>Total</td>
-            <td>&nbsp;</td>
             <td>557</td>
             <td>557</td>
             <td>(311)</td>
@@ -12208,6 +12487,10 @@ Los saldos de estos capítulos de los balances consolidados adjuntos son:
 
 <table>
     <thead>
+        <tr>
+            <th></th>
+            <th colspan="3">Millones de euros</th>
+        </tr>
         <tr>
             <th>Derivados - Contabilidad de coberturas y Cambios del valor razonable de los elementos cubiertos de una cartera con cobertura del riesgo de tipo de interés</th>
             <th>2016</th>
@@ -12272,19 +12555,17 @@ A continuación se presenta un desglose, por productos y tipo de mercado, del va
 <table>
     <thead>
         <tr>
-            <th>"Derivados - Contabilidad de coberturas-</th>
+            <th></th>
+            <th colspan="3">Millones de euros</th>
+        </tr>
+        <tr>
+            <th>Derivados – Contabilidad de coberturas- Desglose por tipos de riesgo y tipos de cobertura Diciembre 2016</th>
+            <th>Activo</th>
+            <th>Pasivo</th>
+            <th>Importe nocional - Total coberturas</th>
         </tr>
     </thead>
     <tbody>
-        <tr>
-            <td>Desglose por tipos de riesgo y tipos de cobertura</td>
-        </tr>
-        <tr>
-            <td>Diciembre 2016"</td>
-            <td>Activo</td>
-            <td>Pasivo</td>
-            <td>Importe nocional - Total coberturas</td>
-        </tr>
         <tr>
             <td>Tipo de interés</td>
             <td>1.154</td>
@@ -12567,19 +12848,17 @@ A continuación se presenta un desglose, por productos y tipo de mercado, del va
 <table>
     <thead>
         <tr>
-            <th>"Derivados - Contabilidad de coberturas-</th>
+            <th></th>
+            <th colspan="3">Millones de euros</th>
+        </tr>
+        <tr>
+            <th>Derivados – Contabilidad de coberturas- Desglose por tipos de riesgo y tipos de cobertura Diciembre 2015</th>
+            <th>Activo</th>
+            <th>Pasivo</th>
+            <th>Importe nocional - Total coberturas</th>
         </tr>
     </thead>
     <tbody>
-        <tr>
-            <td>Desglose por tipos de riesgo y tipos de cobertura</td>
-        </tr>
-        <tr>
-            <td>Diciembre 2015"</td>
-            <td>Activo</td>
-            <td>Pasivo</td>
-            <td>Importe nocional - Total coberturas</td>
-        </tr>
         <tr>
             <td>Tipo de interés</td>
             <td>1.660</td>
@@ -12880,19 +13159,17 @@ A continuación se presenta un desglose, por productos y tipo de mercado, del va
 <table>
     <thead>
         <tr>
-            <th>Derivados - Contabilidad de coberturas-</th>
+            <th></th>
+            <th colspan="3">Millones de euros</th>
+        </tr>
+        <tr>
+            <th>Derivados – Contabilidad de coberturas- Desglose por tipos de riesgo y tipos de cobertura Diciembre 2014</th>
+            <th>Activo</th>
+            <th>Pasivo</th>
+            <th>Importe nocional - Total coberturas</th>
         </tr>
     </thead>
     <tbody>
-        <tr>
-            <td>Desglose por tipos de riesgo y tipos de cobertura</td>
-        </tr>
-        <tr>
-            <td>Diciembre 2014"</td>
-            <td>Activo</td>
-            <td>Pasivo</td>
-            <td>Importe nocional - Total coberturas</td>
-        </tr>
         <tr>
             <td>Tipo de interés</td>
             <td>2.174</td>
@@ -13177,6 +13454,10 @@ A continuación se presentan los flujos de caja previstos en los próximos años
 <table>
     <thead>
         <tr>
+            <th></th>
+            <th colspan="5">Millones de euros</th>
+        </tr>
+        <tr>
             <th>Flujos de efectivo del elemento de cobertura</th>
             <th>3 meses o menos</th>
             <th>Entre 3 meses y 1 año</th>
@@ -13221,16 +13502,17 @@ El desglose del saldo del capítulo “Inversiones en negocios conjuntos y asoci
 <table>
     <thead>
         <tr>
-            <th>"Asociadas y negocios conjuntos</th>
+            <th></th>
+            <th colspan="3">Millones de euros</th>
+        </tr>
+        <tr>
+            <th>Asociadas y negocios conjuntos. Desglose por entidades</th>
+            <th>2016</th>
+            <th>2015</th>
+            <th>2014</th>
         </tr>
     </thead>
     <tbody>
-        <tr>
-            <td>Desglose por entidades "</td>
-            <td>2016</td>
-            <td>2015</td>
-            <td>2014</td>
-        </tr>
         <tr>
             <td>Negocios conjuntos</td>
             <td>&nbsp;</td>
@@ -13342,16 +13624,17 @@ Los movimientos que han tenido lugar durante los ejercicios 2016, 2015 y 2014, e
 <table>
     <thead>
         <tr>
-            <th>Entidades asociadas y negocios conjuntos</th>
+            <th></th>
+            <th colspan="3">Millones de euros</th>
+        </tr>
+        <tr>
+            <th>Entidades asociadas y negocios conjuntos. Movimientos del ejercicio</th>
+            <th>2016</th>
+            <th>2015</th>
+            <th>2014</th>
         </tr>
     </thead>
     <tbody>
-        <tr>
-            <td>Movimientos del ejercicio"</td>
-            <td>2016</td>
-            <td>2015</td>
-            <td>2014</td>
-        </tr>
         <tr>
             <td>Saldo inicial</td>
             <td>879</td>
@@ -13427,17 +13710,39 @@ La composición del saldo de este capítulo de los balances consolidados adjunto
 <table>
     <thead>
         <tr>
-            <th>Coste -</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
+            <th></th>
+            <th colspan="7">Millones de euros</th>
+        </tr>
+        <tr>
+            <th></th>
+            <th colspan="3">De uso propio</th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>Activos tangibles: Composición y movimientos del ejercicio 2016</th>
+            <th>Terrenos y edificios</th>
+            <th>Obras en curso</th>
+            <th>Mobiliario, instalaciones y vehículos</th>
+            <th>Total inmovilizado de uso propio</th>
+            <th>Inversiones inmobiliarias</th>
+            <th>Cedidos en arrendamiento operativo</th>
+            <th>Total</th>
         </tr>
     </thead>
     <tbody>
+        <tr>
+            <td>Coste -</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
         <tr>
             <td>Saldo inicial</td>
             <td>5.858</td>
@@ -13753,6 +14058,32 @@ La composición del saldo de este capítulo de los balances consolidados adjunto
 
 <table>
     <thead>
+    <thead>
+        <tr>
+            <th></th>
+            <th colspan="7">Millones de euros</th>
+        </tr>
+        <tr>
+            <th></th>
+            <th colspan="3">De uso propio</th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>Activos tangibles: Composición y movimientos del ejercicio 2015</th>
+            <th>Terrenos y edificios</th>
+            <th>Obras en curso</th>
+            <th>Mobiliario, instalaciones y vehículos</th>
+            <th>Total inmovilizado de uso propio</th>
+            <th>Inversiones inmobiliarias</th>
+            <th>Cedidos en arrendamiento operativo</th>
+            <th>Total</th>
+        </tr>
+    </thead>
+    </thead>
+    <tbody>
         <tr>
             <th>Coste -</th>
             <th>&nbsp;</th>
@@ -13763,8 +14094,6 @@ La composición del saldo de este capítulo de los balances consolidados adjunto
             <th>&nbsp;</th>
             <th>&nbsp;</th>
         </tr>
-    </thead>
-    <tbody>
         <tr>
             <td>Saldo inicial</td>
             <td>4.168</td>
@@ -14081,17 +14410,39 @@ La composición del saldo de este capítulo de los balances consolidados adjunto
 <table>
     <thead>
         <tr>
-            <th>Coste -</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
+            <th></th>
+            <th colspan="7">Millones de euros</th>
+        </tr>
+        <tr>
+            <th></th>
+            <th colspan="3">De uso propio</th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>Activos tangibles: Composición y movimientos del ejercicio 2016</th>
+            <th>Terrenos y edificios</th>
+            <th>Obras en curso</th>
+            <th>Mobiliario, instalaciones y vehículos</th>
+            <th>Total inmovilizado de uso propio</th>
+            <th>Inversiones inmobiliarias</th>
+            <th>Cedidos en arrendamiento operativo</th>
+            <th>Total</th>
         </tr>
     </thead>
     <tbody>
+        <tr>
+            <td>Coste -</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
         <tr>
             <td>Saldo inicial</td>
             <td>3.980</td>
@@ -14415,6 +14766,10 @@ La actividad principal del Grupo se realiza a través de una red de oficinas, lo
 <table>
     <thead>
         <tr>
+            <th></th>
+            <th colspan="3">Número de oficinas</th>
+        </tr>
+        <tr>
             <th>Oficinas por área geográfica</th>
             <th>2016</th>
             <th>2015</th>
@@ -14472,6 +14827,10 @@ A continuación se presenta el desglose del valor neto contable de los activos t
 <table>
     <thead>
         <tr>
+            <th></th>
+            <th colspan="3">Millones de euros</th>
+        </tr>
+        <tr>
             <th>Activos tangibles por sociedades españolas y extranjeras. Valores netos contables</th>
             <th>2016</th>
             <th>2015</th>
@@ -14509,22 +14868,20 @@ La composición del saldo y el movimiento de este epígrafe de los balances cons
 <table>
     <thead>
         <tr>
+            <th></th>
+            <th colspan="6">Millones de euros</th>
+        </tr>
+        <tr>
             <th>Fondo de comercio. Detalle por UGEs y movimientos del ejercicio 2016</th>
-            <th>"Saldo</th>
+            <th>Saldo inicial</th>
+            <th>Adiciones</th>
+            <th>Diferencias de cambio</th>
+            <th>Deterioros</th>
+            <th>Otros</th>
+            <th>Saldo final</th>
         </tr>
     </thead>
     <tbody>
-        <tr>
-            <td>inicial"</td>
-            <td>Adiciones </td>
-            <td>Diferencias de cambio</td>
-            <td>Deterioros</td>
-            <td>Otros</td>
-            <td>"Saldo</td>
-        </tr>
-        <tr>
-            <td>final"</td>
-        </tr>
         <tr>
             <td>Estados Unidos </td>
             <td>5.328 </td>
@@ -14596,19 +14953,20 @@ La variación del saldo de este epígrafe en 2016 se debe principalmente a la ad
 <table>
     <thead>
         <tr>
+            <th></th>
+            <th colspan="6">Millones de euros</th>
+        </tr>
+        <tr>
             <th>Fondo de comercio. Detalle por UGEs y movimientos del ejercicio 2015</th>
-            <th>Balance at the Beginning </th>
-            <th>Additions </th>
-            <th>"Exchange</th>
+            <th>Saldo inicial</th>
+            <th>Adiciones</th>
+            <th>Diferencias de cambio</th>
+            <th>Deterioros</th>
+            <th>Otros</th>
+            <th>Saldo final</th>
         </tr>
     </thead>
     <tbody>
-        <tr>
-            <td>Difference"</td>
-            <td>Impairment</td>
-            <td>Rest</td>
-            <td>Balance at the End </td>
-        </tr>
         <tr>
             <td>Estados Unidos </td>
             <td>4.767 </td>
@@ -14680,19 +15038,20 @@ La variación del saldo de este epígrafe en 2015 se debe principalmente a la ad
 <table>
     <thead>
         <tr>
+            <th></th>
+            <th colspan="6">Millones de euros</th>
+        </tr>
+        <tr>
             <th>Fondo de comercio. Detalle por UGEs y movimientos del ejercicio 2014</th>
-            <th>Balance at the Beginning </th>
-            <th>Additions </th>
-            <th>"Exchange</th>
+            <th>Saldo inicial</th>
+            <th>Adiciones</th>
+            <th>Diferencias de cambio</th>
+            <th>Deterioros</th>
+            <th>Otros</th>
+            <th>Saldo final</th>
         </tr>
     </thead>
     <tbody>
-        <tr>
-            <td>Difference"</td>
-            <td>Impairment</td>
-            <td>Rest</td>
-            <td>Balance at the End </td>
-        </tr>
         <tr>
             <td>Estados Unidos </td>
             <td>4.133 </td>
@@ -14809,6 +15168,10 @@ Las hipótesis que tienen más peso y cuya volatilidad podría afectar más en l
 <table>
     <thead>
         <tr>
+            <th></th>
+            <th colspan="2">Millones de euros</th>
+        </tr>
+        <tr>
             <th>Análisis de sensibilidad para las principales hipótesis</th>
             <th>Incremento de 50 p.b. (*)</th>
             <th>Decremento de 50 p.b. (*)</th>
@@ -14847,6 +15210,10 @@ A continuación se muestra el detalle del valor en libros de los activos y pasiv
 
 <table>
     <thead>
+        <tr>
+            <th></th>
+            <th colspan="2">Millones de euros</th>
+        </tr>
         <tr>
             <th>Valoración y cálculo del fondo de comercio</th>
             <th>Valor en libros</th>
@@ -15003,6 +15370,10 @@ A continuación se muestra el detalle del valor en libros de los activos y pasiv
 <table>
     <thead>
         <tr>
+            <th></th>
+            <th colspan="2">Millones de euros</th>
+        </tr>
+        <tr>
             <th>Valoración y cálculo del fondo de comercio de Garanti Bank</th>
             <th>Valor en libros</th>
             <th>Valor razonable</th>
@@ -15144,6 +15515,10 @@ Las hipótesis que tienen más peso y cuya volatilidad podría afectar más en l
 <table>
     <thead>
         <tr>
+            <th></th>
+            <th colspan="2">Milones de euros</th>
+        </tr>
+        <tr>
             <th>Análisis de sensibilidad para las principales hipótesis</th>
             <th>Incremento de 50 p.b.</th>
             <th>Decremento de 50 p.b.</th>
@@ -15196,16 +15571,35 @@ A continuación se presenta la conciliación entre el gasto por el Impuesto sobr
 <table>
     <thead>
         <tr>
-            <th>Ganancias o pérdidas antes de impuestos</th>
-            <th>6.392</th>
-            <th>&nbsp;</th>
-            <th>4.603</th>
-            <th>&nbsp;</th>
-            <th>3.980</th>
-            <th>&nbsp;</th>
+            <th></th>
+            <th colspan="6">Millones de euros</th>
+        </tr>
+        <tr>
+            <th></th>
+            <th colspan="2">2016</th>
+            <th colspan="2">2015</th>
+            <th colspan="2">2014</th>
+        </tr>
+        <tr>
+            <th>Conciliación de la tributación al tipo del Impuesto sobre Sociedades españolas con el gasto fiscal registrado en el período</th>
+            <th>Importe</th>
+            <th>Tasa efectiva</th>
+            <th>Importe</th>
+            <th>Tasa efectiva</th>
+            <th>Importe</th>
+            <th>Tasa efectiva</th>
         </tr>
     </thead>
     <tbody>
+        <tr>
+            <td>Ganancias o pérdidas antes de impuestos</td>
+            <td>6.392</td>
+            <td>&nbsp;</td>
+            <td>4.603</td>
+            <td>&nbsp;</td>
+            <td>3.980</td>
+            <td>&nbsp;</td>
+        </tr>
         <tr>
             <td>Procedente de operaciones continuadas</td>
             <td>6.392</td>
@@ -15369,6 +15763,10 @@ El tipo fiscal efectivo para el Grupo durante los ejercicios 2016, 2015 y 2014, 
 <table>
     <thead>
         <tr>
+            <th></th>
+            <th colspan="3">Millones de euros</th>
+        </tr>
+        <tr>
             <th>Tipo fiscal efectivo</th>
             <th>2016</th>
             <th>2015</th>
@@ -15427,6 +15825,10 @@ Independientemente de los impuestos sobre beneficios registrados en las cuentas 
 
 <table>
     <thead>
+        <tr>
+            <th></th>
+            <th colspan="3">Millones de euros</th>
+        </tr>
         <tr>
             <th>Impuesto repercutido en patrimonio neto</th>
             <th>2016</th>
@@ -15498,6 +15900,10 @@ Dentro del saldo del epígrafe “Activos por impuestos” de los balances conso
 
 <table>
     <thead>
+        <tr>
+            <th></th>
+            <th colspan="3">Millones de euros</th>
+        </tr>
         <tr>
             <th>Activos y pasivos por impuestos</th>
             <th>2016</th>
@@ -15618,16 +16024,35 @@ Los movimientos más significativos producidos en los ejercicios 2016, 2015 y 20
 <table>
     <thead>
         <tr>
-            <th>Saldo inicial</th>
-            <th>15.878</th>
-            <th>3.418</th>
-            <th>10.391</th>
-            <th>3.177</th>
-            <th>9.202</th>
-            <th>1.537</th>
+            <th></th>
+            <th colspan="6">Millones de euros</th>
+        </tr>
+        <tr>
+            <th></th>
+            <th colspan="2">2016</th>
+            <th colspan="2">2015</th>
+            <th colspan="2">2014</th>
+        </tr>
+        <tr>
+            <th>Activos y pasivos por impuestos diferidos Movimientos interanuales</th>
+            <th>Activos diferidos</th>
+            <th>Pasivos diferidos</th>
+            <th>Activos diferidos</th>
+            <th>Pasivos diferidos</th>
+            <th>Activos diferidos</th>
+            <th>Pasivos diferidos</th>
         </tr>
     </thead>
     <tbody>
+        <tr>
+            <td>Saldo inicial</td>
+            <td>15.878</td>
+            <td>3.418</td>
+            <td>10.391</td>
+            <td>3.177</td>
+            <td>9.202</td>
+            <td>1.537</td>
+        </tr>
         <tr>
             <td>Pensiones</td>
             <td>168</td>
@@ -15719,6 +16144,10 @@ De los activos por impuestos diferidos contenidos en la tabla anterior, el detal
 <table>
     <thead>
         <tr>
+            <th></th>
+            <th colspan="3">Millones de euros</th>
+        </tr>
+        <tr>
             <th>Activos por impuestos garantizados</th>
             <th>2016</th>
             <th>2015</th>
@@ -15766,16 +16195,17 @@ La composición del saldo de estos capítulos de los balances consolidados adjun
 <table>
     <thead>
         <tr>
-            <th>"Otros activos y pasivos.</th>
+            <th></th>
+            <th colspan="3">Millones de euros</th>
+        </tr>
+        <tr>
+            <th>Otros activos y pasivos. Desglose por naturaleza</th>
+            <th>2016</th>
+            <th>2015</th>
+            <th>2014</th>
         </tr>
     </thead>
     <tbody>
-        <tr>
-            <td>Desglose por naturaleza"</td>
-            <td>2016</td>
-            <td>2015</td>
-            <td>2014</td>
-        </tr>
         <tr>
             <td>Activos-</td>
             <td>&nbsp;</td>
@@ -15892,6 +16322,10 @@ El epígrafe "Existencias" del detalle anterior incluye el valor neto contable d
 <table>
     <thead>
         <tr>
+            <th></th>
+            <th colspan="3">Millones de euros</th>
+        </tr>
+        <tr>
             <th>Movimientos de los Activos inmobiliarios adquiridos a clientes en dificultad</th>
             <th>2016</th>
             <th>2015</th>
@@ -15966,16 +16400,17 @@ El desglose del saldo del capítulo “Activos no corrientes y grupos enajenable
 <table>
     <thead>
         <tr>
-            <th>Activos no corrientes y grupos enajenables de elementos que se han clasificado como mantenidos para la venta</th>
+            <th></th>
+            <th colspan="3">Millones de euros</th>
+        </tr>
+        <tr>
+            <th>Activos no corrientes y grupos enajenables de elementos que se han clasificado como mantenidos para la venta. Desglose por conceptos</th>
+            <th>2016</th>
+            <th>2015</th>
+            <th>2014</th>
         </tr>
     </thead>
     <tbody>
-        <tr>
-            <td>Desglose por conceptos"</td>
-            <td>2016</td>
-            <td>2015</td>
-            <td>2014</td>
-        </tr>
         <tr>
             <td>Adjudicaciones o recuperaciones por impagos</td>
             <td>4.225</td>
@@ -16054,16 +16489,38 @@ Los movimientos de los saldos de este capítulo en los ejercicios 2016, 2015 y 2
 <table>
     <thead>
         <tr>
-            <th>Coste (1)</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
+            <th></th>
+            <th></th>
+            <th colspan="5">Millones de euros</th>
+        </tr>
+        <tr>
+            <th></th>
+            <th></th>
+            <th colspan="2">Activos adjudicados </th>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>Activos no corrientes y grupos enajenables de elementos que se han clasificado como mantenidos para la venta. Movimientos en el ejercicio 2016</th>
+            <th>Notas</th>
+            <th>Adjudicados</th>
+            <th>Bienes recuperados de arrendamientos financieros</th>
+            <th>Otros activos procedente de inmovilizado material (*)</th>
+            <th>Sociedades en proceso de venta</th>
+            <th>Total</th>
         </tr>
     </thead>
     <tbody>
+        <tr>
+            <td>Coste (1)</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
         <tr>
             <td>Saldo inicial</td>
             <td>&nbsp;</td>
@@ -16207,16 +16664,38 @@ Los movimientos de los saldos de este capítulo en los ejercicios 2016, 2015 y 2
 <table>
     <thead>
         <tr>
-            <th>Coste (1)</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
+            <th></th>
+            <th></th>
+            <th colspan="5">Millones de euros</th>
+        </tr>
+        <tr>
+            <th></th>
+            <th></th>
+            <th colspan="2">Activos adjudicados </th>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>Activos no corrientes y grupos enajenables de elementos que se han clasificado como mantenidos para la venta. Movimientos en el ejercicio 2015</th>
+            <th>Notas</th>
+            <th>Adjudicados</th>
+            <th>Bienes recuperados de arrendamientos financieros</th>
+            <th>Otros activos procedente de inmovilizado material (*)</th>
+            <th>Sociedades en proceso de venta</th>
+            <th>Total</th>
         </tr>
     </thead>
     <tbody>
+        <tr>
+            <td>Coste (1)</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
         <tr>
             <td>Saldo inicial</td>
             <td>&nbsp;</td>
@@ -16361,16 +16840,38 @@ Los movimientos de los saldos de este capítulo en los ejercicios 2016, 2015 y 2
 <table>
     <thead>
         <tr>
-            <th>Coste (1)</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
+            <th></th>
+            <th></th>
+            <th colspan="5">Millones de euros</th>
+        </tr>
+        <tr>
+            <th></th>
+            <th></th>
+            <th colspan="2">Activos adjudicados </th>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>Activos no corrientes y grupos enajenables de elementos que se han clasificado como mantenidos para la venta. Movimientos en el ejercicio 2014</th>
+            <th>Notas</th>
+            <th>Adjudicados</th>
+            <th>Bienes recuperados de arrendamientos financieros</th>
+            <th>Otros activos procedente de inmovilizado material (*)</th>
+            <th>Sociedades en proceso de venta</th>
+            <th>Total</th>
         </tr>
     </thead>
     <tbody>
+        <tr>
+            <td>Coste (1)</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
         <tr>
             <td>Saldo inicial</td>
             <td>&nbsp;</td>
@@ -16520,6 +17021,11 @@ La composición del saldo de este capítulo de los balances consolidados adjunto
 <table>
     <thead>
         <tr>
+            <th></th>
+            <th></th>
+            <th colspan="3">Millones de euros</th>
+        </tr>
+        <tr>
             <th>Pasivos financieros a coste amortizado</th>
             <th>Notas</th>
             <th>2016</th>
@@ -16586,6 +17092,11 @@ El desglose del saldo de este epígrafe de los balances consolidados adjuntos, p
 
 <table>
     <thead>
+        <tr>
+            <th></th>
+            <th></th>
+            <th colspan="3">Millones de euros</th>
+        </tr>
         <tr>
             <th>Depósitos de entidades de crédito</th>
             <th>Notas</th>
@@ -16659,20 +17170,18 @@ El desglose del saldo de este epígrafe de los balances consolidados adjuntos, p
 <table>
     <thead>
         <tr>
-            <th>"Depósitos de Entidades de crédito </th>
+            <th></th>
+            <th colspan="4">Millones de euros</th>
+        </tr>
+        <tr>
+            <th>Depósitos de Entidades de crédito. Diciembre 2016</th>
+            <th>A la vista y otros</th>
+            <th>Plazo</th>
+            <th>Cesión temporal de activos</th>
+            <th>Total</th>
         </tr>
     </thead>
     <tbody>
-        <tr>
-            <td>Diciembre 2016"</td>
-            <td>"A la vista</td>
-        </tr>
-        <tr>
-            <td> y otros"</td>
-            <td>Plazo</td>
-            <td>Cesión temporal de activos</td>
-            <td>Total</td>
-        </tr>
         <tr>
             <td>España</td>
             <td>956</td>
@@ -16735,20 +17244,18 @@ El desglose del saldo de este epígrafe de los balances consolidados adjuntos, p
 <table>
     <thead>
         <tr>
-            <th>"Depósitos de entidades de crédito </th>
+            <th></th>
+            <th colspan="4">Millones de euros</th>
+        </tr>
+        <tr>
+            <th>Depósitos de Entidades de crédito. Diciembre 2015</th>
+            <th>A la vista y otros</th>
+            <th>Plazo</th>
+            <th>Cesión temporal de activos</th>
+            <th>Total</th>
         </tr>
     </thead>
     <tbody>
-        <tr>
-            <td>Diciembre 2015"</td>
-            <td>"A la vista</td>
-        </tr>
-        <tr>
-            <td> y otros"</td>
-            <td>Plazo</td>
-            <td>Cesión temporal de activos</td>
-            <td>Total</td>
-        </tr>
         <tr>
             <td>España</td>
             <td>951</td>
@@ -16811,20 +17318,18 @@ El desglose del saldo de este epígrafe de los balances consolidados adjuntos, p
 <table>
     <thead>
         <tr>
-            <th>"Depósitos a entidades de crédito </th>
+            <th></th>
+            <th colspan="4">Millones de euros</th>
+        </tr>
+        <tr>
+            <th>Depósitos de Entidades de crédito. Diciembre 2014</th>
+            <th>A la vista y otros</th>
+            <th>Plazo</th>
+            <th>Cesión temporal de activos</th>
+            <th>Total</th>
         </tr>
     </thead>
     <tbody>
-        <tr>
-            <td>Diciembre 2014"</td>
-            <td>"A la vista</td>
-        </tr>
-        <tr>
-            <td> y otros"</td>
-            <td>Plazo</td>
-            <td>Cesión temporal de activos</td>
-            <td>Total</td>
-        </tr>
         <tr>
             <td>España</td>
             <td>1.327</td>
@@ -16891,6 +17396,11 @@ La composición del saldo de este epígrafe de los balances consolidados adjunto
 
 <table>
     <thead>
+        <tr>
+            <th></th>
+            <th></th>
+            <th colspan="3">Millones de euros</th>
+        </tr>
         <tr>
             <th>Depósitos de la clientela</th>
             <th>Notas</th>
@@ -17027,20 +17537,18 @@ La composición del saldo de este epígrafe de los balances consolidados adjunto
 <table>
     <thead>
         <tr>
-            <th>"Depósitos de la clientela</th>
+            <th></th>
+            <th colspan="4">Millones de euros</th>
+        </tr>
+        <tr>
+            <th>Depósitos de la clientela. Diciembre 2016</th>
+            <th>A la vista y otros</th>
+            <th>Plazo</th>
+            <th>Cesión temporal de activos</th>
+            <th>Total</th>
         </tr>
     </thead>
     <tbody>
-        <tr>
-            <td>Diciembre 2016"</td>
-            <td>"A la vista</td>
-        </tr>
-        <tr>
-            <td> y otros"</td>
-            <td>Plazo</td>
-            <td>Cesión temporal de activos</td>
-            <td>Total</td>
-        </tr>
         <tr>
             <td>España</td>
             <td>102.730</td>
@@ -17103,20 +17611,18 @@ La composición del saldo de este epígrafe de los balances consolidados adjunto
 <table>
     <thead>
         <tr>
-            <th>"Depósitos a la clientela</th>
+            <th></th>
+            <th colspan="4">Millones de euros</th>
+        </tr>
+        <tr>
+            <th>Depósitos de la clientela. Diciembre 2015</th>
+            <th>A la vista y otros</th>
+            <th>Plazo</th>
+            <th>Cesión temporal de activos</th>
+            <th>Total</th>
         </tr>
     </thead>
     <tbody>
-        <tr>
-            <td>Diciembre 2015"</td>
-            <td>"A la vista</td>
-        </tr>
-        <tr>
-            <td> y otros"</td>
-            <td>Plazo</td>
-            <td>Cesión temporal de activos</td>
-            <td>Total</td>
-        </tr>
         <tr>
             <td>España</td>
             <td>86.564</td>
@@ -17179,20 +17685,18 @@ La composición del saldo de este epígrafe de los balances consolidados adjunto
 <table>
     <thead>
         <tr>
-            <th>"Depósitos de la clientela</th>
+            <th></th>
+            <th colspan="4">Millones de euros</th>
+        </tr>
+        <tr>
+            <th>Depósitos de la clientela. Diciembre 2014</th>
+            <th>A la vista y otros</th>
+            <th>Plazo</th>
+            <th>Cesión temporal de activos</th>
+            <th>Total</th>
         </tr>
     </thead>
     <tbody>
-        <tr>
-            <td>Diciembre 2014"</td>
-            <td>"A la vista</td>
-        </tr>
-        <tr>
-            <td> y otros"</td>
-            <td>Plazo</td>
-            <td>Cesión temporal de activos</td>
-            <td>Total</td>
-        </tr>
         <tr>
             <td>España</td>
             <td>43.732</td>
@@ -17252,6 +17756,10 @@ La composición del saldo de esta cuenta, por tipos de instrumentos financieros 
 
 <table>
     <thead>
+        <tr>
+            <th></th>
+            <th colspan="3">Millones de euros</th>
+        </tr>
         <tr>
             <th>Valores representativos de deuda emitidos</th>
             <th>2016</th>
@@ -17499,6 +18007,10 @@ El desglose, por sociedades emisoras, del saldo de esta cuenta de los balances c
 <table>
     <thead>
         <tr>
+            <th></th>
+            <th colspan="3">Millones de euros</th>
+        </tr>
+        <tr>
             <th>Participaciones preferentes por sociedades emisoras</th>
             <th>2016</th>
             <th>2015</th>
@@ -17571,6 +18083,10 @@ El desglose del saldo de este epígrafe de los balances consolidados adjuntos es
 <table>
     <thead>
         <tr>
+            <th></th>
+            <th colspan="3">Millones de euros</th>
+        </tr>
+        <tr>
             <th>Otros pasivos financieros</th>
             <th>2016</th>
             <th>2015</th>
@@ -17631,9 +18147,13 @@ El desglose del saldo de este capítulo de los balances consolidados adjuntos es
 <table>
     <thead>
         <tr>
+            <th></th>
+            <th colspan="3">Millones de euros</th>
+        </tr>
+        <tr>
             <th>Provisiones técnicas por tipo de producto de seguro</th>
-            <th> 2016</th>
-            <th> 2015</th>
+            <th>2016</th>
+            <th>2015</th>
             <th>2014</th>
         </tr>
     </thead>
@@ -17718,6 +18238,10 @@ A continuación se detallan los flujos de dichos pasivos amparados por contratos
 <table>
     <thead>
         <tr>
+            <th></th>
+            <th colspan="5">Millones de euros</th>
+        </tr>
+        <tr>
             <th>Vencimientos residuales</th>
             <th>Menos de 1 año</th>
             <th>De 1 a 3 años</th>
@@ -17745,12 +18269,22 @@ La siguiente tabla muestra los supuestos clave para el cálculo de las provision
 <table>
     <thead>
         <tr>
-            <th>Seguros de vida riesgo individual (1)</th>
-            <th>"GKMF80 PASEM/95%PASEM Hombre</th>
+            <th></th>
+            <th colspan="2">Tabla mortalidad</th>
+            <th colspan="2">Tipo de interés medio técnico</th>
+        </tr>
+        <tr>
+            <th>Provisiones Matemáticas</th>
+            <th>España</th>
+            <th>México</th>
+            <th>España</th>
+            <th>México</th>
         </tr>
     </thead>
     <tbody>
         <tr>
+            <td>Seguros de vida riesgo individual (1)</td>
+            <td>"GKMF80 PASEM/95%PASEM Hombre</td>
             <td>Tablas propias"</td>
             <td>Tabla de la Comision Nacional de Seguros y Fianzas 2000-individual</td>
             <td>1,15%-3,00%</td>
@@ -17775,6 +18309,11 @@ La composición del saldo de este epígrafe de los balances consolidados adjunto
 
 <table>
     <thead>
+        <tr>
+            <th></th>
+            <th></th>
+            <th colspan="3">Millones de euros</th>
+        </tr>
         <tr>
             <th>Provisiones. Desglose por conceptos</th>
             <th>Notas</th>
@@ -17841,17 +18380,19 @@ A continuación se muestra el movimiento que se ha producido durante los ejercic
 <table>
     <thead>
         <tr>
-            <th>"Fondos para pensiones y obligaciones similares.</th>
+            <th></th>
+            <th></th>
+            <th colspan="3">Millones de euros</th>
+        </tr>
+        <tr>
+            <th>Fondos para pensiones y obligaciones similares. Movimientos del periodo</th>
+            <th>Notas</th>
+            <th>2016</th>
+            <th>2015</th>
+            <th>2014</th>
         </tr>
     </thead>
     <tbody>
-        <tr>
-            <td>Movimientos del periodo"</td>
-            <td>Notas</td>
-            <td>2016</td>
-            <td>2015</td>
-            <td>2014</td>
-        </tr>
         <tr>
             <td>Saldo inicial</td>
             <td>&nbsp;</td>
@@ -17945,6 +18486,10 @@ A continuación se muestra el movimiento que se ha producido durante los ejercic
 <table>
     <thead>
         <tr>
+            <th></th>
+            <th colspan="3">Millones de euros</th>
+        </tr>
+        <tr>
             <th>Provisiones para impuestos, contingencias legales y otras provisiones. Movimientos del periodo</th>
             <th>2016</th>
             <th>2015</th>
@@ -18033,6 +18578,10 @@ El desglose de los pasivos registrados en los balances consolidados a 31 de dici
 <table>
     <thead>
         <tr>
+            <th></th>
+            <th colspan="3">Millones de euros</th>
+        </tr>
+        <tr>
             <th>Pasivo (activo) neto en balance</th>
             <th>2016</th>
             <th>2015</th>
@@ -18107,6 +18656,11 @@ A continuación se presentan los costes registrados por compromisos post-empleo 
 
 <table>
     <thead>
+        <tr>
+            <th></th>
+            <th></th>
+            <th colspan="3">Millones de euros</th>
+        </tr>
         <tr>
             <th>Efectos en cuentas de pérdidas y ganancias consolidadas</th>
             <th>Notas</th>
@@ -18210,6 +18764,11 @@ A continuación se presentan los costes registrados por compromisos post-empleo 
 <table>
     <thead>
         <tr>
+            <th></th>
+            <th></th>
+            <th colspan="3">Millones de euros</th>
+        </tr>
+        <tr>
             <th>Efectos en patrimonio neto</th>
             <th>Notas</th>
             <th>2016</th>
@@ -18249,19 +18808,41 @@ Los compromisos incluidos en estos planes corresponden a personal jubilado o pre
 <table>
     <thead>
         <tr>
-            <th>Saldo inicial</th>
-            <th>9.184</th>
-            <th>3.124</th>
-            <th>6.060</th>
-            <th>8.622</th>
-            <th>2.937</th>
-            <th>5.685</th>
-            <th>7.714</th>
-            <th>2.375</th>
-            <th>5.337</th>
+            <th></th>
+            <th colspan="9">Millones de euros</th>
+        </tr>
+        <tr>
+            <th></th>
+            <th colspan="3">2016</th>
+            <th colspan="3">2015</th>
+            <th colspan="3">2014</th>
+        </tr>
+        <tr>
+            <th>Compromisos de prestación definida</th>
+            <th>Obligación prestación definida</th>
+            <th>Activos del plan</th>
+            <th>Obligación (activo) neto</th>
+            <th>Obligación prestación definida</th>
+            <th>Activos del plan</th>
+            <th>Obligación (activo) neto</th>
+            <th>Obligación prestación definida</th>
+            <th>Activos del plan</th>
+            <th>Obligación (activo) neto</th>
         </tr>
     </thead>
     <tbody>
+        <tr>
+            <td>Saldo inicial</td>
+            <td>9.184</td>
+            <td>3.124</td>
+            <td>6.060</td>
+            <td>8.622</td>
+            <td>2.937</td>
+            <td>5.685</td>
+            <td>7.714</td>
+            <td>2.375</td>
+            <td>5.337</td>
+        </tr>
         <tr>
             <td>Coste de servicios corriente</td>
             <td>67</td>
@@ -18531,21 +19112,41 @@ La siguiente tabla recoge las principales hipótesis actuariales utilizadas en l
 <table>
     <thead>
         <tr>
-            <th>Tipo de descuento</th>
-            <th>1,50%</th>
-            <th>9,95%</th>
-            <th>4,04%</th>
-            <th>11,50%</th>
-            <th>2,00%</th>
-            <th>9,30%</th>
-            <th>4,30%</th>
-            <th>10,30%</th>
-            <th>2,25%</th>
-            <th>8,75%</th>
-            <th>3,97%</th>
+          <td></td>
+          <td colspan="4">2016</td>
+          <td colspan="4">2016</td>
+          <td colspan="3">2016</td>
+        </tr>
+        <tr>
+            <th>Hipótesis actuariales</th>
+            <th>España</th>
+            <th>México</th>
+            <th>Estados Unidos</th>
+            <th>Turquía</th>
+            <th>España</th>
+            <th>México</th>
+            <th>Estados Unidos</th>
+            <th>Turquía</th>
+            <th>España</th>
+            <th>México</th>
+            <th>Estados Unidos</th>
         </tr>
     </thead>
     <tbody>
+        <tr>
+            <td>Tipo de descuento</td>
+            <td>1,50%</td>
+            <td>9,95%</td>
+            <td>4,04%</td>
+            <td>11,50%</td>
+            <td>2,00%</td>
+            <td>9,30%</td>
+            <td>4,30%</td>
+            <td>10,30%</td>
+            <td>2,25%</td>
+            <td>8,75%</td>
+            <td>3,97%</td>
+        </tr>
         <tr>
             <td>Tasa de crecimiento de salarios</td>
             <td>1,50%</td>
@@ -18616,15 +19217,34 @@ Las variaciones de las principales hipótesis pueden afectar al cálculo de los 
 <table>
     <thead>
         <tr>
-            <th>Tipo de descuento</th>
-            <th>50</th>
-            <th>(367)</th>
-            <th>401</th>
-            <th>(357)</th>
-            <th>391</th>
+            <th></th>
+            <th></th>
+            <th colspan="4">Millones de euros</th>
+        </tr>
+        <tr>
+            <th></th>
+            <th></th>
+            <th colspan="2">2016</th>
+            <th colspan="2">2015</th>
+        </tr>
+        <tr>
+            <th>Análisis de sensibilidad</th>
+            <th>Variación en puntos básicos</th>
+            <th>Incremento</th>
+            <th>Decremento</th>
+            <th>Incremento</th>
+            <th>Decremento</th>
         </tr>
     </thead>
     <tbody>
+        <tr>
+            <td>Tipo de descuento</td>
+            <td>50</td>
+            <td>(367)</td>
+            <td>401</td>
+            <td>(357)</td>
+            <td>391</td>
+        </tr>
         <tr>
             <td>Tasa de crecimiento de salarios</td>
             <td>50</td>
@@ -18677,15 +19297,31 @@ El movimiento de las obligaciones y los activos afectos a planes de prestación 
 <table>
     <thead>
         <tr>
-            <th>Saldo inicial</th>
-            <th>6.109</th>
-            <th>(79)</th>
-            <th>35</th>
-            <th>97</th>
-            <th>24</th>
+            <th></th>
+            <th colspan="5">Millones de euros</th>
+        </tr>
+        <tr>
+            <th></th>
+            <th colspan="5">Obligación (activo) neto</th>
+        </tr>
+        <tr>
+            <th>Compromisos post-empleo  2016</th>
+            <th>España</th>
+            <th>México</th>
+            <th>Estados Unidos</th>
+            <th>Turquía</th>
+            <th>Resto</th>
         </tr>
     </thead>
     <tbody>
+        <tr>
+            <td>Saldo inicial</td>
+            <td>6.109</td>
+            <td>(79)</td>
+            <td>35</td>
+            <td>97</td>
+            <td>24</td>
+        </tr>
         <tr>
             <td>Coste de servicios corriente</td>
             <td>10</td>
@@ -18820,15 +19456,31 @@ El movimiento de las obligaciones y los activos afectos a planes de prestación 
 <table>
     <thead>
         <tr>
-            <th>Saldo inicial</th>
-            <th>380</th>
-            <th>596</th>
-            <th>329</th>
-            <th>337</th>
-            <th>333</th>
+            <th></th>
+            <th colspan="5">Millones de euros</th>
+        </tr>
+        <tr>
+            <th></th>
+            <th colspan="5">Activos del plan</th>
+        </tr>
+        <tr>
+            <th>Compromisos post-empleo  2016</th>
+            <th>España</th>
+            <th>México</th>
+            <th>Estados Unidos</th>
+            <th>Turquía</th>
+            <th>Resto</th>
         </tr>
     </thead>
     <tbody>
+        <tr>
+            <td>Saldo inicial</td>
+            <td>380</td>
+            <td>596</td>
+            <td>329</td>
+            <td>337</td>
+            <td>333</td>
+        </tr>
         <tr>
             <td>Coste de servicios corriente</td>
             <td>-</td>
@@ -18963,15 +19615,31 @@ El movimiento de las obligaciones y los activos afectos a planes de prestación 
 <table>
     <thead>
         <tr>
-            <th>Saldo inicial</th>
-            <th>6.109</th>
-            <th>(79)</th>
-            <th>35</th>
-            <th>97</th>
-            <th>24</th>
+            <th></th>
+            <th colspan="5">Millones de euros</th>
+        </tr>
+        <tr>
+            <th></th>
+            <th colspan="5">Obligación (activo) neto</th>
+        </tr>
+        <tr>
+            <th>Compromisos post-empleo  2016</th>
+            <th>España</th>
+            <th>México</th>
+            <th>Estados Unidos</th>
+            <th>Turquía</th>
+            <th>Resto</th>
         </tr>
     </thead>
     <tbody>
+        <tr>
+            <td>Saldo inicial</td>
+            <td>6.109</td>
+            <td>(79)</td>
+            <td>35</td>
+            <td>97</td>
+            <td>24</td>
+        </tr>
         <tr>
             <td>Coste de servicios corriente</td>
             <td>10</td>
@@ -19111,19 +19779,40 @@ El movimiento neto de los compromisos para los ejercicios 2015 y 2014 es el sigu
 <table>
     <thead>
         <tr>
-            <th>Saldo inicial</th>
-            <th>5.830</th>
-            <th>(94)</th>
-            <th>38</th>
-            <th> -</th>
-            <th>69</th>
-            <th>5.395</th>
-            <th>(38)</th>
-            <th>32</th>
-            <th>76</th>
+            <th></th>
+            <th colspan="9">Millones de euros</th>
+        </tr>
+        <tr>
+            <th></th>
+            <th colspan="5">2015: Obligación (activo) neto</th>
+            <th colspan="4">2014: Obligación (activo) neto</th>
+        </tr>
+        <tr>
+            <th>Compromisos post-empleo</th>
+            <th>España</th>
+            <th>México</th>
+            <th>Estados Unidos</th>
+            <th>Turquía</th>
+            <th>Resto</th>
+            <th>España</th>
+            <th>México</th>
+            <th>Estados Unidos</th>
+            <th>Resto</th>
         </tr>
     </thead>
     <tbody>
+        <tr>
+            <td>Saldo inicial</td>
+            <td>5.830</td>
+            <td>(94)</td>
+            <td>38</td>
+            <td> -</td>
+            <td>69</td>
+            <td>5.395</td>
+            <td>(38)</td>
+            <td>32</td>
+            <td>76</td>
+        </tr>
         <tr>
             <td>Coste de servicios corriente</td>
             <td>9</td>
@@ -19384,19 +20073,53 @@ El movimiento de los compromisos médicos para los ejercicios 2016, 2015 y 2014 
 <table>
     <thead>
         <tr>
-            <th>Coste de servicios corriente</th>
-            <th>24</th>
-            <th>-</th>
-            <th>24</th>
-            <th>31</th>
-            <th>-</th>
-            <th>31</th>
-            <th>23</th>
-            <th>-</th>
-            <th>23</th>
+            <th></th>
+            <th colspan="9">Millones de euros</th>
+        </tr>
+        <tr>
+            <th></th>
+            <th colspan="3">2016</th>
+            <th colspan="3">2015</th>
+            <th colspan="3">2014</th>
+        </tr>
+        <tr>
+            <th>Compromisos médicos</th>
+            <th>Obligación prestación definida</th>
+            <th>Activos del plan</th>
+            <th>Obligación (activo) neto</th>
+            <th>Obligación prestación definida</th>
+            <th>Activos del plan</th>
+            <th>Obligación (activo) neto</th>
+            <th>Obligación prestación definida</th>
+            <th>Activos del plan</th>
+            <th>Obligación (activo) neto</th>
         </tr>
     </thead>
     <tbody>
+        <tr>
+            <td>Saldo inicial</td>
+            <td>1.022</td>
+            <td>1.149</td>
+            <td>(127)</td>
+            <td>1.083</td>
+            <td>1.240</td>
+            <td>(157)</td>
+            <td>811</td>
+            <td>938</td>
+            <td>(128)</td>
+        </tr>
+        <tr>
+            <td>Coste de servicios corriente</td>
+            <td>24</td>
+            <td>-</td>
+            <td>24</td>
+            <td>31</td>
+            <td>-</td>
+            <td>31</td>
+            <td>23</td>
+            <td>-</td>
+            <td>23</td>
+        </tr>
         <tr>
             <td>Gastos o ingresos por intereses</td>
             <td>86</td>
@@ -19596,8 +20319,11 @@ La estimación de pago de las distintas prestaciones para el conjunto de socieda
 <table>
     <thead>
         <tr>
+            <th></th>
+            <th colspan="6">Millones de euros</th>
+        </tr>
+        <tr>
             <th>Prestaciones esperadas a pagar</th>
-            <th>&nbsp;</th>
             <th>2017</th>
             <th>2018</th>
             <th>2019</th>
@@ -19609,7 +20335,6 @@ La estimación de pago de las distintas prestaciones para el conjunto de socieda
     <tbody>
         <tr>
             <td>Compromisos en España</td>
-            <td>&nbsp;</td>
             <td>820</td>
             <td>736</td>
             <td>652</td>
@@ -19619,7 +20344,6 @@ La estimación de pago de las distintas prestaciones para el conjunto de socieda
         </tr>
         <tr>
             <td>Compromisos en México</td>
-            <td>&nbsp;</td>
             <td>79</td>
             <td>80</td>
             <td>84</td>
@@ -19629,7 +20353,6 @@ La estimación de pago de las distintas prestaciones para el conjunto de socieda
         </tr>
         <tr>
             <td>Compromisos en Estados Unidos</td>
-            <td>&nbsp;</td>
             <td>17</td>
             <td>18</td>
             <td>18</td>
@@ -19639,7 +20362,6 @@ La estimación de pago de las distintas prestaciones para el conjunto de socieda
         </tr>
         <tr>
             <td>Compromisos en Turquía</td>
-            <td>&nbsp;</td>
             <td>25</td>
             <td>15</td>
             <td>16</td>
@@ -19649,7 +20371,6 @@ La estimación de pago de las distintas prestaciones para el conjunto de socieda
         </tr>
         <tr>
             <td>Total</td>
-            <td>&nbsp;</td>
             <td>941</td>
             <td>849</td>
             <td>770</td>
@@ -19678,6 +20399,10 @@ En el cuadro adjunto se detalla la composición por categoría de activos manten
 
 <table>
     <thead>
+        <tr>
+            <th></th>
+            <th colspan="1">Millones de euros</th>
+        </tr>
         <tr>
             <th>Composición de los activos de los planes</th>
             <th>2016</th>
@@ -19770,6 +20495,10 @@ El siguiente cuadro desglosa para a 31 de diciembre de 2016 la inversión en mer
 <table>
     <thead>
         <tr>
+            <th></th>
+            <th colspan="1">Millones de euros</th>
+        </tr>
+        <tr>
             <th>Inversión en mercados cotizados</th>
             <th>2016</th>
         </tr>
@@ -19835,13 +20564,10 @@ Los movimientos del capítulo “Capital” de los balances consolidados adjunto
         <tr>
             <th>Aumentos de Capital</th>
             <th>Nº de acciones</th>
-            <th>"Capital</th>
+            <th>Capital (Millones de euros)</th>
         </tr>
     </thead>
     <tbody>
-        <tr>
-            <td>(Millones de euros)"</td>
-        </tr>
         <tr>
             <td>Saldo a 31 Diciembre 2014</td>
             <td>6.171.338.995</td>
@@ -19928,17 +20654,19 @@ La composición del saldo de estos capítulos de los balances consolidados adjun
 <table>
     <thead>
         <tr>
-            <th>"Ganacias acumuladas, Reservas de revaloración y Otras reservas</th>
+            <th></th>
+            <th></th>
+            <th colspan="3">Millones de euros</th>
+        </tr>
+        <tr>
+            <th>Ganacias acumuladas, Reservas de revaloración y Otras reservas. Desglose por conceptos</th>
+            <th>Notas</th>
+            <th>2016</th>
+            <th>2015</th>
+            <th>2014</th>
         </tr>
     </thead>
     <tbody>
-        <tr>
-            <td>Desglose por conceptos"</td>
-            <td>Notas</td>
-            <td>2016</td>
-            <td>2015</td>
-            <td>2014</td>
-        </tr>
         <tr>
             <td>Reserva legal</td>
             <td>28.1</td>
@@ -20007,16 +20735,17 @@ A 31 de diciembre de 2016, 2015 y 2014, el Banco tenía registradas las siguient
 <table>
     <thead>
         <tr>
-            <th>"Reservas indisponibles</th>
+            <th></th>
+            <th>Millones de euros</th>
+        </tr>
+        <tr>
+            <th>Reservas indisponibles. Desglose por conceptos</th>
+            <th>2016</th>
+            <th>2015</th>
+            <th>2014</th>
         </tr>
     </thead>
     <tbody>
-        <tr>
-            <td>Desglose por conceptos"</td>
-            <td>2016</td>
-            <td>2015</td>
-            <td>2014</td>
-        </tr>
         <tr>
             <td>Reserva indisponible por capital amortizado</td>
             <td>88</td>
@@ -20058,16 +20787,17 @@ El desglose de los epígrafes “Ganancias acumuladas, Reservas de revalorizaci�
 <table>
     <thead>
         <tr>
-            <th>"Reservas</th>
+            <th></th>
+            <th>Millones de euros</th>
+        </tr>
+        <tr>
+            <th>Reservas. Desglose por conceptos</th>
+            <th>2016</th>
+            <th>2015</th>
+            <th>2014</th>
         </tr>
     </thead>
     <tbody>
-        <tr>
-            <td>Desglose por conceptos"</td>
-            <td>2016</td>
-            <td>2015</td>
-            <td>2014</td>
-        </tr>
         <tr>
             <td>Ganancias acumuladas y Reservas de revalorización</td>
             <td>&nbsp;</td>
@@ -20302,16 +21032,31 @@ Durante los ejercicios 2016,  2015 y 2014, las sociedades del Grupo realizaron l
 <table>
     <thead>
         <tr>
-            <th>Saldo inicial </th>
-            <th>38.917.665</th>
-            <th>309</th>
-            <th>41.510.698</th>
-            <th>350</th>
-            <th>6.876.770</th>
-            <th>66</th>
+            <th></th>
+            <th colspan="2">2016</th>
+            <th colspan="2">2015</th>
+            <th colspan="2">2014</th>
+        </tr>
+        <tr>
+            <th>Acciones propias</th>
+            <th>Nº de acciones</th>
+            <th>Millones de euros</th>
+            <th>Nº de acciones</th>
+            <th>Millones de euros</th>
+            <th>Nº de acciones</th>
+            <th>Millones de euros</th>
         </tr>
     </thead>
     <tbody>
+        <tr>
+            <td>Saldo inicial </td>
+            <td>38.917.665</td>
+            <td>309</td>
+            <td>41.510.698</td>
+            <td>350</td>
+            <td>6.876.770</td>
+            <td>66</td>
+        </tr>
         <tr>
             <td> + Compras</td>
             <td>379.850.939</td>
@@ -20431,18 +21176,38 @@ Los porcentajes de las acciones mantenidas en la autocartera del Grupo durante l
 <table>
     <thead>
         <tr>
-            <th>% de acciones en autocartera</th>
-            <th>0,081%</th>
-            <th>0,756%</th>
-            <th>0,110%</th>
-            <th>0,000%</th>
-            <th>0,806%</th>
-            <th>0,613%</th>
-            <th>0,000%</th>
-            <th>0,699%</th>
-            <th>0,672%</th>
+            <th></th>
+            <th colspan="3">2016</th>
+            <th colspan="3">2015</th>
+            <th colspan="3">2014</th>
+        </tr>
+        <tr>
+            <th>Autocartera</th>
+            <th>Mínimo</th>
+            <th>Máximo</th>
+            <th>Cierre</th>
+            <th>Mínimo</th>
+            <th>Máximo</th>
+            <th>Cierre</th>
+            <th>Mínimo</th>
+            <th>Máximo</th>
+            <th>Cierre</th>
         </tr>
     </thead>
+    <tbody>
+        <tr>
+            <td>% de acciones en autocartera</td>
+            <td>0,081%</td>
+            <td>0,756%</td>
+            <td>0,110%</td>
+            <td>0,000%</td>
+            <td>0,806%</td>
+            <td>0,613%</td>
+            <td>0,000%</td>
+            <td>0,699%</td>
+            <td>0,672%</td>
+        </tr>
+    </tbody>
 </table>
 
 A 31 de diciembre de 2016, 2015 y 2014, el número de acciones de BBVA aceptadas en concepto de garantía de las financiaciones concedidas por el Grupo, era:
@@ -20519,16 +21284,17 @@ La composición del saldo de este capítulo de los balances consolidados adjunto
 <table>
     <thead>
         <tr>
-            <th>"Otro resultado global acumulado</th>
+            <th></th>
+            <th colspan="3">Millones de euros</th>
+        </tr>
+        <tr>
+            <th>Otro resultado global acumulado. Desglose por conceptos</th>
+            <th>2016</th>
+            <th>2015</th>
+            <th>2014</th>
         </tr>
     </thead>
     <tbody>
-        <tr>
-            <td>Desglose por conceptos"</td>
-            <td>2016</td>
-            <td>2015</td>
-            <td>2014</td>
-        </tr>
         <tr>
             <td>Elementos que no se reclasificarán en resultados</td>
             <td>(1.095)</td>
@@ -20622,6 +21388,10 @@ El detalle, por grupos de sociedades consolidadas, del saldo del capítulo “Re
 <table>
     <thead>
         <tr>
+            <th></th>
+            <th colspan="3">Millones de euros</th>
+        </tr>
+        <tr>
             <th>Intereses minoritarios. Desglose por subgrupos</th>
             <th>2016</th>
             <th>2015</th>
@@ -20685,12 +21455,19 @@ Seguidamente se detallan, por grupos de sociedades consolidadas, los importes re
 <table>
     <thead>
         <tr>
-            <th>"Atribuible a intereses minoritarios (participaciones no dominantes)</th>
+            <th></th>
+            <th colspan="3">Millones de euros</th>
+        </tr>
+        <tr>
+            <th>Atribuible a intereses minoritarios (participaciones no dominantes)</th>
+            <th>2016</th>
+            <th>2015</th>
+            <th>2014</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td>Desglose por subgrupos"</td>
+            <td>Desglose por subgrupos</td>
             <td>2016</td>
             <td>2015</td>
             <td>2014</td>
@@ -20773,6 +21550,10 @@ A continuación se muestran, los recursos propios del Grupo, calculados con el p
 
 <table>
     <thead>
+        <tr>
+            <th></th>
+            <th colspan="3">Millones de euros</th>
+        </tr>
         <tr>
             <th>Recursos propios Computables</th>
             <th>Diciembre 2016 (*)</th>
@@ -20958,6 +21739,10 @@ A continuación se muestran, los recursos propios del Grupo, calculados con el p
 <table>
     <thead>
         <tr>
+            <th></th>
+            <th colspan="3">Millones de euros</th>
+        </tr>
+        <tr>
             <th>Apalancamiento</th>
             <th>2016 (*)</th>
             <th>2015</th>
@@ -21000,6 +21785,10 @@ A continuación se presenta una conciliación de los perímetros contables y reg
 
 <table>
     <thead>
+        <tr>
+            <th></th>
+            <th colspan="4">Millones de euros</th>
+        </tr>
         <tr>
             <th>Epígrafes de Balance Público</th>
             <th>Balance Público</th>
@@ -21114,6 +21903,10 @@ La composición del saldo de estos epígrafes de los balances consolidados adjun
 
 <table>
     <thead>
+        <tr>
+            <th></th>
+            <th colspan="2">Millones de euros</th>
+        </tr>
         <tr>
             <th>Compromisos y Garantías Concedidas</th>
             <th>2016</th>
@@ -21268,6 +22061,11 @@ A continuación se desglosan los compromisos de compra y venta del Grupo BBVA a 
 <table>
     <thead>
         <tr>
+            <th></th>
+            <th></th>
+            <th colspan="3">Millones de euros</th>
+        </tr>
+        <tr>
             <th>Compromisos de compra-venta</th>
             <th>Notas</th>
             <th>2016</th>
@@ -21368,6 +22166,10 @@ A continuación se detallan los vencimientos de otras obligaciones de pago futur
 <table>
     <thead>
         <tr>
+            <th></th>
+            <th colspan="5">Millones de euros</th>
+        </tr>
+        <tr>
             <th>Vencimientos de obligaciones de pago futuras</th>
             <th>Menos de 1 año</th>
             <th>De 1 a 3 años</th>
@@ -21435,6 +22237,10 @@ A continuación se desglosan las partidas más significativas recogidas en este 
 
 <table>
     <thead>
+         <tr>
+            <th></th>
+            <th colspan="3">Millones de euros</th>
+        </tr>
         <tr>
             <th>Operaciones por cuenta de terceros. Detalle por conceptos</th>
             <th>2016</th>
@@ -21474,6 +22280,10 @@ Los recursos de clientes administrados por el Grupo BBVA a 31 de diciembre de 20
 
 <table>
     <thead>
+        <tr>
+            <th></th>
+            <th colspan="3">Millones de euros</th>
+        </tr>
         <tr>
             <th>Recursos de clientes por tipología</th>
             <th>2016</th>
@@ -21569,16 +22379,17 @@ A continuación, se detalla el origen de los ingresos y gastos por intereses reg
 <table>
     <thead>
         <tr>
-            <th>"Ingresos por intereses</th>
+            <th></th>
+            <th colspan="3">Millones de euros</th>
+        </tr>
+        <tr>
+            <th>Ingresos por intereses. Desglose según su origen</th>
+            <th>2016</th>
+            <th>2015</th>
+            <th>2014</th>
         </tr>
     </thead>
     <tbody>
-        <tr>
-            <td>Desglose según su origen"</td>
-            <td>2016</td>
-            <td>2015</td>
-            <td>2014</td>
-        </tr>
         <tr>
             <td>Bancos centrales</td>
             <td>229</td>
@@ -21682,16 +22493,17 @@ El desglose del saldo de este capítulo de las cuentas de pérdidas y ganancias 
 <table>
     <thead>
         <tr>
-            <th>"Gastos por intereses</th>
+            <th></th>
+            <th colspan="3">Millones de euros</th>
+        </tr>
+        <tr>
+            <th>Gastos por intereses. Desglose según su origen</th>
+            <th>2016</th>
+            <th>2015</th>
+            <th>2014</th>
         </tr>
     </thead>
     <tbody>
-        <tr>
-            <td>Desglose según su origen"</td>
-            <td>2016</td>
-            <td>2015</td>
-            <td>2014</td>
-        </tr>
         <tr>
             <td>Bancos centrales</td>
             <td>192</td>
@@ -21769,19 +22581,41 @@ A continuación se presenta el rendimiento medio de las inversiones en los ejerc
 <table>
     <thead>
         <tr>
-            <th>Efectivo, saldos en efectivo en bancos centrales y otros depósitos a la vista </th>
-            <th>26.209 </th>
-            <th>10 </th>
-            <th>0,04 </th>
-            <th>23.542 </th>
-            <th>2 </th>
-            <th>0,01 </th>
-            <th>15.219 </th>
-            <th>4 </th>
-            <th>0,02 </th>
+            <th></th>
+            <th colspan="9">Millones de euros</th>
+        </tr>
+        <tr>
+            <th></th>
+            <th colspan="3">2016</th>
+            <th colspan="3">2015</th>
+            <th colspan="3">2014</th>
+        </tr>
+        <tr>
+            <th>Activo</th>
+            <th>Saldos medios</th>
+            <th>Ingresos por intereses</th>
+            <th>Tipos medios(%)</th>
+            <th>Saldos medios</th>
+            <th>Ingresos por intereses</th>
+            <th>Tipos medios(%)</th>
+            <th>Saldos medios</th>
+            <th>Ingresos por intereses</th>
+            <th>Tipos medios(%)</th>
         </tr>
     </thead>
     <tbody>
+        <tr>
+            <td>Efectivo, saldos en efectivo en bancos centrales y otros depósitos a la vista </td>
+            <td>26.209 </td>
+            <td>10 </td>
+            <td>0,04 </td>
+            <td>23.542 </td>
+            <td>2 </td>
+            <td>0,01 </td>
+            <td>15.219 </td>
+            <td>4 </td>
+            <td>0,02 </td>
+        </tr>
         <tr>
             <td>Cartera de títulos y derivados </td>
             <td>202.388 </td>
@@ -21958,19 +22792,41 @@ En los ejercicios de 2016, 2015 y 2014, el coste medio de las financiaciones fue
 <table>
     <thead>
         <tr>
-            <th>Depósitos de entidades de crédito y bancos centrales</th>
-            <th>101.975 </th>
-            <th>1.866 </th>
-            <th>1,83 </th>
-            <th>99.289 </th>
-            <th>1.559 </th>
-            <th>1,57 </th>
-            <th>81.860</th>
-            <th>1.292</th>
-            <th>1,58 </th>
+            <th></th>
+            <th colspan="9">Millones de euros</th>
+        </tr>
+        <tr>
+            <th></th>
+            <th colspan="3">2016</th>
+            <th colspan="3">2015</th>
+            <th colspan="3">2014</th>
+        </tr>
+        <tr>
+            <th>Pasivo</th>
+            <th>Saldos medios</th>
+            <th>Ingresos por intereses</th>
+            <th>Tipos medios(%)</th>
+            <th>Saldos medios</th>
+            <th>Ingresos por intereses</th>
+            <th>Tipos medios(%)</th>
+            <th>Saldos medios</th>
+            <th>Ingresos por intereses</th>
+            <th>Tipos medios(%)</th>
         </tr>
     </thead>
     <tbody>
+        <tr>
+            <td>Depósitos de entidades de crédito y bancos centrales</td>
+            <td>101.975 </td>
+            <td>1.866 </td>
+            <td>1,83 </td>
+            <td>99.289 </td>
+            <td>1.559 </td>
+            <td>1,57 </td>
+            <td>81.860</td>
+            <td>1.292</td>
+            <td>1,58 </td>
+        </tr>
         <tr>
             <td>Depósitos de la clientela</td>
             <td>398.851 </td>
@@ -22111,16 +22967,34 @@ La variación experimentada en el saldo de los capítulos “Ingresos por intere
 <table>
     <thead>
         <tr>
-            <th>Efectivo, saldos en efectivo en bancos centrales y otros depósitos a la vista </th>
-            <th>-</th>
-            <th>7 </th>
-            <th>8 </th>
-            <th>2 </th>
-            <th>(4)</th>
-            <th>(1)</th>
+            <th></th>
+            <th colspan="6">Millones de euros</th>
+        </tr>
+        <tr>
+            <th></th>
+            <th colspan="3"> 2016 /  2015</th>
+            <th colspan="3"> 2015 /  2014</th>
+        </tr>
+        <tr>
+            <th>Ingresos y gastos por intereses. Variación de saldos</th>
+            <th>Efecto volumen (1)</th>
+            <th>Efecto precio (2)</th>
+            <th>Efecto total</th>
+            <th>Efecto volumen (1)</th>
+            <th>Efecto precio (2)</th>
+            <th>Efecto total</th>
         </tr>
     </thead>
     <tbody>
+        <tr>
+            <td>Efectivo, saldos en efectivo en bancos centrales y otros depósitos a la vista </td>
+            <td>-</td>
+            <td>7 </td>
+            <td>8 </td>
+            <td>2 </td>
+            <td>(4)</td>
+            <td>(1)</td>
+        </tr>
         <tr>
             <td>Cartera de títulos y derivados</td>
             <td>(203)</td>
@@ -22279,6 +23153,10 @@ Los saldos de este capítulo de las cuentas de pérdidas y ganancias consolidada
 <table>
     <thead>
         <tr>
+            <th></th>
+            <th colspan="3">Millones de euros</th>
+        </tr>
+        <tr>
             <th>Ingresos por dividendos</th>
             <th>2016</th>
             <th>2015</th>
@@ -22327,6 +23205,10 @@ El saldo del epígrafe “Resultados en entidades valoradas por el método de la
 <table>
     <thead>
         <tr>
+            <th></th>
+            <th colspan="3">Millones de euros</th>
+        </tr>
+        <tr>
             <th>Resultados en entidades valoradas por el método de la participación</th>
             <th>2016</th>
             <th>2015</th>
@@ -22374,6 +23256,10 @@ El desglose del saldo de este capítulo de las cuentas de pérdidas y ganancias 
 
 <table>
     <thead>
+        <tr>
+            <th></th>
+            <th colspan="3">Millones de euros</th>
+        </tr>
         <tr>
             <th>Ingresos por comisiones</th>
             <th>2016</th>
@@ -22468,6 +23354,10 @@ El desglose de los gastos por comisiones de las cuentas de pérdidas y ganancias
 <table>
     <thead>
         <tr>
+            <th></th>
+            <th colspan="3">Millones de euros</th>
+        </tr>
+        <tr>
             <th>Gastos por comisiones</th>
             <th>2016</th>
             <th>2015</th>
@@ -22516,16 +23406,17 @@ El desglose de los saldos de estos capítulos de las cuentas de pérdidas y gana
 <table>
     <thead>
         <tr>
-            <th>Ganancias o pérdidas por activos y pasivos financieros y diferencias de cambio</th>
+            <th></th>
+            <th colspan="3">Millones de euros</th>
+        </tr>
+        <tr>
+            <th>Ganancias o pérdidas por activos y pasivos financieros y diferencias de cambio. Desgloses por epígrafe de balance</th>
+            <th>2016</th>
+            <th>2015</th>
+            <th>2014</th>
         </tr>
     </thead>
     <tbody>
-        <tr>
-            <td>Desgloses por epígrafe de balance"</td>
-            <td>2016</td>
-            <td>2015</td>
-            <td>2014</td>
-        </tr>
         <tr>
             <td>Ganancias o pérdidas al dar de baja en cuentas activos y pasivos financieros no valorados a valor razonable con cambios en resultados, netas</td>
             <td>1.375</td>
@@ -22594,6 +23485,10 @@ Mientras que el desglose, atendiendo a la naturaleza de los instrumentos financi
 <table>
     <thead>
         <tr>
+            <th></th>
+            <th colspan="3">Millones de euros</th>
+        </tr>
+        <tr>
             <th>Ganancias o pérdidas por activos y pasivos financieros - Desgloses por instrumento</th>
             <th>2016</th>
             <th>2015</th>
@@ -22650,6 +23545,10 @@ El desglose del impacto de los derivados (tanto de negociación como de cobertur
 
 <table>
     <thead>
+        <tr>
+            <th></th>
+            <th colspan="3">Millones de euros</th>
+        </tr>
         <tr>
             <th>Derivados de negociación y contabilidad de coberturas</th>
             <th>2016</th>
@@ -22760,6 +23659,10 @@ El desglose del saldo de los capítulos “Otros ingresos de explotación” de 
 <table>
     <thead>
         <tr>
+            <th></th>
+            <th colspan="3">Millones de euros</th>
+        </tr>
+        <tr>
             <th>Otros ingresos de explotación </th>
             <th>2016</th>
             <th>2015</th>
@@ -22804,6 +23707,10 @@ El desglose del saldo del capítulo “Otras gastos de explotación” de las cu
 
 <table>
     <thead>
+        <tr>
+            <th></th>
+            <th colspan="3">Millones de euros</th>
+        </tr>
         <tr>
             <th>Otros gastos de explotación</th>
             <th>2016</th>
@@ -22852,6 +23759,10 @@ El desglose del saldo de los capítulos “Ingresos y gastos de activos y pasivo
 
 <table>
     <thead>
+        <tr>
+            <th></th>
+            <th colspan="3">Millones de euros</th>
+        </tr>
         <tr>
             <th>Ingresos y gastos de activos y pasivos amparados por contratos de seguro o reaseguros</th>
             <th>2016</th>
@@ -22972,6 +23883,10 @@ La composición del saldo de este epígrafe de las cuentas de pérdidas y gananc
 <table>
     <thead>
         <tr>
+            <th></th>
+            <th colspan="3">Millones de euros</th>
+        </tr>
+        <tr>
             <th>Gastos de personal</th>
             <th>Notas</th>
             <th>2016</th>
@@ -23029,6 +23944,10 @@ El desglose del número medio de empleados del Grupo BBVA, distribuido por categ
 
 <table>
     <thead>
+        <tr>
+            <th></th>
+            <th colspan="3">Número medio de empleados</th>
+        </tr>
         <tr>
             <th>Gastos de personal</th>
             <th>Notas</th>
@@ -23090,16 +24009,31 @@ El número de empleados del Grupo BBVA a 31 de diciembre 2016,2015 y 2014, distr
 <table>
     <thead>
         <tr>
-            <th>Equipo Gestor</th>
-            <th>1.331</th>
-            <th>350</th>
-            <th>1.493</th>
-            <th>365</th>
-            <th>1.579</th>
-            <th>358</th>
+            <th></th>
+            <th colspan="2">2016</th>
+            <th colspan="2">2015</th>
+            <th colspan="2">2014</th>
+        </tr>
+        <tr>
+            <th>Número de empleados al cierre por categoría profesional y género</th>
+            <th>Hombres</th>
+            <th>Mujeres</th>
+            <th>Hombres</th>
+            <th>Mujeres</th>
+            <th>Hombres</th>
+            <th>Mujeres</th>
         </tr>
     </thead>
     <tbody>
+        <tr>
+            <td>Equipo Gestor</td>
+            <td>1.331</td>
+            <td>350</td>
+            <td>1.493</td>
+            <td>365</td>
+            <td>1.579</td>
+            <td>358</td>
+        </tr>
         <tr>
             <td>Técnicos </td>
             <td>38.514</td>
@@ -23180,6 +24114,10 @@ El desglose del saldo de este epígrafe de las cuentas de pérdidas y ganancias 
 <table>
     <thead>
         <tr>
+            <th></th>
+            <th colspan="3">Millones de euros</th>
+        </tr>
+        <tr>
             <th>Gastos de administración</th>
             <th>2016</th>
             <th>2015</th>
@@ -23246,6 +24184,11 @@ El desglose del saldo de este capítulo de las cuentas de pérdidas y ganancias 
 <table>
     <thead>
         <tr>
+            <th></th>
+            <th></th>
+            <th colspan="3">Millones de euros</th>
+        </tr>
+        <tr>
             <th>Amortizaciones del periodo</th>
             <th>Notas</th>
             <th>2016</th>
@@ -23307,6 +24250,11 @@ En los ejercicios de 2016, 2015 y 2014, las dotaciones netas con cargo a este ep
 <table>
     <thead>
         <tr>
+            <th></th>
+            <th></th>
+            <th colspan="3">Millones de euros</th>
+        </tr>
+        <tr>
             <th>Provisiones o reversión de provisiones</th>
             <th>Notas</th>
             <th>2016</th>
@@ -23367,6 +24315,11 @@ A continuación se presentan las pérdidas por deterioro de los activos financie
 
 <table>
     <thead>
+        <tr>
+            <th></th>
+            <th></th>
+            <th colspan="3">Millones de euros</th>
+        </tr>
         <tr>
             <th>Deterioro del valor o reversión del deterioro del valor de activos financieros no valorados a valor razonable con cambios en resultados</th>
             <th>Notas</th>
@@ -23443,6 +24396,11 @@ Seguidamente se presentan las pérdidas por deterioro de los activos no financie
 <table>
     <thead>
         <tr>
+            <th></th>
+            <th></th>
+            <th colspan="3">Millones de euros</th>
+        </tr>
+        <tr>
             <th>Deterioro del valor o reversión del deterioro del valor de activos no financieros</th>
             <th>Notas</th>
             <th>2016</th>
@@ -23518,6 +24476,10 @@ El desglose del saldo de este capítulo de las cuentas de pérdidas y ganancias 
 <table>
     <thead>
         <tr>
+            <th></th>
+            <th colspan="3">Millones de euros</th>
+        </tr>
+        <tr>
             <th>Ganancias o pérdidas al dar de baja en cuentas activos no financieros y participaciones, netas</th>
             <th>2016</th>
             <th>2015</th>
@@ -23578,6 +24540,12 @@ Los principales conceptos incluidos en el saldo de este capítulo de las cuentas
 
 <table>
     <thead>
+        <tr>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th colspan="3">Millones de euros</th>
+        </tr>
         <tr>
             <th>Ganancias o pérdidas procedentes de activos no corrientes y grupos enajenables de elementos clasificados como mantenidos para la venta no admisibles como actividades interrumpidas</th>
             <th>Notas</th>
@@ -23643,6 +24611,10 @@ Los honorarios por servicios contratados en el ejercicio 2016 por las sociedades
 <table>
     <thead>
         <tr>
+            <th></th>
+            <th colspan="1">Millones de euros</th>
+        </tr>
+        <tr>
             <th>Honorarios por auditorías realizadas</th>
             <th>2016</th>
         </tr>
@@ -23669,6 +24641,10 @@ Adicionalmente, distintas sociedades del Grupo BBVA contrataron en el ejercicio 
 
 <table>
     <thead>
+        <tr>
+            <th></th>
+            <th colspan="1">Millones de euros</th>
+        </tr>
         <tr>
             <th>Otros servicios contratados</th>
             <th>2016</th>
@@ -23703,6 +24679,10 @@ Los saldos de las principales magnitudes de los balances consolidados adjuntos o
 
 <table>
     <thead>
+        <tr>
+            <th></th>
+            <th colspan="3">Millones de euros</th>
+        </tr>
         <tr>
             <th>Saldos de balance derivados de operaciones con entidades del Grupo </th>
             <th>2016</th>
@@ -23779,6 +24759,10 @@ Los saldos de las principales magnitudes de las cuentas de pérdidas y ganancias
 <table>
     <thead>
         <tr>
+            <th></th>
+            <th colspan="3">Millones de euros</th>
+        </tr>
+        <tr>
             <th>Saldos de la cuenta de pérdidas y ganancias derivados de operaciones con entidades del Grupo </th>
             <th>2016</th>
             <th>2015</th>
@@ -23852,6 +24836,10 @@ Las retribuciones satisfechas a los consejeros no ejecutivos miembros del Consej
 
 <table>
     <thead>
+        <tr>
+            <th></th>
+            <th colspan="8">Miles de euros</th>
+        </tr>
         <tr>
             <th>Retribución de los consejeros no ejecutivos</th>
             <th>Consejo de Administración</th>
@@ -24039,6 +25027,10 @@ De conformidad con lo anterior, las retribuciones satisfechas a los consejeros e
 <table>
     <thead>
         <tr>
+            <th></th>
+            <th colspan="7">Miles de euros</th>
+        </tr>
+        <tr>
             <th>Retribución de los consejeros ejecutivos </th>
             <th>Retribución fija</th>
             <th>Retribución Variable Anual 2015 en efectivo (1)</th>
@@ -24129,6 +25121,10 @@ Las retribuciones satisfechas al conjunto de los miembros de la Alta Dirección 
 
 <table>
     <thead>
+        <tr>
+            <th></th>
+            <th colspan="7">Miles de euros</th>
+        </tr>
         <tr>
             <th>Retribución de los miembros de la Alta Dirección</th>
             <th>Retribución fija</th>
@@ -24293,19 +25289,37 @@ La siguiente tabla recoge los dividendos por acción pagados en efectivo durante
 <table>
     <thead>
         <tr>
-            <th>Acciones ordinarias</th>
-            <th>16%</th>
-            <th>0,08</th>
-            <th>1.028</th>
-            <th>16%</th>
-            <th>0,08</th>
-            <th>504</th>
-            <th>16%</th>
-            <th>0,08</th>
-            <th>471</th>
+            <th></th>
+            <th colspan="3">2016 (*)</th>
+            <th colspan="3">2015</th>
+            <th colspan="3">2014</th>
+        </tr>
+        <tr>
+            <th>Dividendos pagados. (Sin incluir "Dividendo Opción")</th>
+            <th>% sobre Nominal</th>
+            <th>Euros por acción</th>
+            <th>Importe (millones de euros)</th>
+            <th>% sobre Nominal</th>
+            <th>Euros por acción</th>
+            <th>Importe (millones de euros)</th>
+            <th>% sobre Nominal</th>
+            <th>Euros por acción</th>
+            <th>Importe (millones de euros)</th>
         </tr>
     </thead>
     <tbody>
+        <tr>
+            <td>Acciones ordinarias</td>
+            <td>16%</td>
+            <td>0,08</td>
+            <td>1.028</td>
+            <td>16%</td>
+            <td>0,08</td>
+            <td>504</td>
+            <td>16%</td>
+            <td>0,08</td>
+            <td>471</td>
+        </tr>
         <tr>
             <td>Resto de acciones</td>
             <td>-</td>
@@ -24377,6 +25391,10 @@ El desglose de los resultados consolidados de los ejercicios 2016, 2015 y 2014 p
 
 <table>
     <thead>
+        <tr>
+            <th></th>
+            <th colspan="3">Millones de euros</th>
+        </tr>
         <tr>
             <th>Resultados del Grupo por segmentos de negocio</th>
             <th>2016</th>
@@ -24484,6 +25502,10 @@ El desglose, por áreas de negocio, de los ingresos ordinarios (margen bruto) de
 
 <table>
     <thead>
+        <tr>
+            <th></th>
+            <th colspan="3">Millones de euros</th>
+        </tr>
         <tr>
             <th>Ingresos ordinarios Grupo por segmentos de negocio</th>
             <th>2016</th>
