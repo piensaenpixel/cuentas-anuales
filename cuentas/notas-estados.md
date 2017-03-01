@@ -688,7 +688,7 @@ Las transacciones en moneda extranjera realizadas por las entidades consolidadas
 Las diferencias de cambio que se producen al convertir los saldos denominados en moneda extranjera a la moneda funcional de las entidades consolidadas se registran, generalmente, en el capítulo “Diferencias de cambio (neto)” de las cuentas de pérdidas y ganancias consolidadas. No obstante, las diferencias de cambio surgidas en las partidas no monetarias valoradas por su valor razonable contra patrimonio, se ajustan con contrapartida en el patrimonio neto (epígrafe “Otro resultado global acumulado - Elementos que pueden reclasificarse en resultados - Conversión de divisas” de los balances consolidados).
 
 
-####### Conversión a euros de las monedas funcionales
+#######Conversión a euros de las monedas funcionales
 
 Los saldos de los estados financieros de las entidades consolidadas (o valoradas por el método de la participación) cuya moneda funcional es distinta del euro se convierten a euros de la siguiente forma:
 
@@ -1619,20 +1619,41 @@ A continuación se presenta un detalle del beneficio atribuido y de los principa
 <table>
     <thead>
         <tr>
-            <th>2016</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
+            <th></th>
+            <th colspan="10">Millones de euros</th>
+        </tr>
+        <tr>
+            <th></th>
+            <th colspan="10">Áreas de negocio</th>
+        </tr>
+        <tr>
+            <th>Principales margenes y resultados por segmentos de negocio</th>
+            <th>Grupo BBVA</th>
+            <th>Actividad bancaria en España</th>
+            <th>Actividad inmobiliaria en España</th>
+            <th>Estados Unidos</th>
+            <th>Turquía</th>
+            <th>México</th>
+            <th>América del Sur</th>
+            <th>Resto Eurasia</th>
+            <th>Centro Corporativo</th>
+            <th>Ajustes (3)</th>
         </tr>
     </thead>
     <tbody>
+        <tr>
+            <td>2016</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
         <tr>
             <td>Margen de intereses</td>
             <td>17.059 </td>
@@ -1992,23 +2013,7 @@ Asimismo, las métricas fundamentales plasman en términos cuantitativos los pri
         </tr>
         <tr>
             <td>&nbsp;</td>
-            <td>&nbsp;</td>
-        </tr>
-        <tr>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-        </tr>
-        <tr>
-            <td>&nbsp;</td>
             <td>Solvencia Regulatoria: CET1 Fully Loaded</td>
-        </tr>
-        <tr>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-        </tr>
-        <tr>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
         </tr>
         <tr>
             <td>Liquidez y Financiación</td>
@@ -2016,23 +2021,7 @@ Asimismo, las métricas fundamentales plasman en términos cuantitativos los pri
         </tr>
         <tr>
             <td>&nbsp;</td>
-            <td>&nbsp;</td>
-        </tr>
-        <tr>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-        </tr>
-        <tr>
-            <td>&nbsp;</td>
             <td>Liquidity Coverage Ratio (LCR)</td>
-        </tr>
-        <tr>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-        </tr>
-        <tr>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
         </tr>
         <tr>
             <td>Recurrencia de ingresos y rentabilidad</td>
@@ -2040,35 +2029,11 @@ Asimismo, las métricas fundamentales plasman en términos cuantitativos los pri
         </tr>
         <tr>
             <td>&nbsp;</td>
-            <td>&nbsp;</td>
-        </tr>
-        <tr>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-        </tr>
-        <tr>
-            <td>&nbsp;</td>
             <td>Coste de riesgo</td>
         </tr>
         <tr>
             <td>&nbsp;</td>
-            <td>&nbsp;</td>
-        </tr>
-        <tr>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-        </tr>
-        <tr>
-            <td>&nbsp;</td>
             <td>Return on Equity (ROE)</td>
-        </tr>
-        <tr>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-        </tr>
-        <tr>
-            <td>&nbsp;</td>
-            <td></td>
         </tr>
     </tbody>
 </table>
@@ -2953,14 +2918,26 @@ A continuación, se presenta la escala reducida utilizada para clasificar los ri
 <table>
     <thead>
         <tr>
-            <th>AAA</th>
-            <th>AAA</th>
-            <th>1</th>
-            <th>-</th>
-            <th>2</th>
+            <th>Ratings externos</th>
+            <th>Ratings internos</th>
+            <th colspan="3">"Probabilidad de incumplimiento (en puntos básicos)"</th>
+        </tr>
+        <tr>
+            <th>Escala Standard&Poor's</th>
+            <th>Escala reducida (22 grupos)</th>
+            <th>Medio</th>
+            <th>Mínimo desde >=</th>
+            <th>Máximo</th>
         </tr>
     </thead>
     <tbody>
+        <tr>
+            <td>AAA</td>
+            <td>AAA</td>
+            <td>1</td>
+            <td>-</td>
+            <td>2</td>
+        </tr>
         <tr>
             <td>AA+</td>
             <td>AA+</td>
@@ -3118,18 +3095,30 @@ Seguidamente se presenta la distribución, por ratings internos, de la exposici�
 <table>
     <thead>
         <tr>
-            <th>AAA/AA+/AA/AA-</th>
-            <th>&nbsp;</th>
-            <th>35.430</th>
-            <th>11,84%</th>
-            <th>27.913</th>
-            <th>9,17%</th>
+            <th></th>
+            <th colspan="2">Diciembre 2016</th>
+            <th colspan="2">Diciembre 2015</th>
         </tr>
+        <tr>
+            <th>"Distribución del riesgo de crédito según rating interno"</th>
+            <th>"Importe (millones de euros)"</th>
+            <th>%</th>
+            <th>"Importe (millones de euros)"</th>
+            <th>%</th>
+        </tr>
+
     </thead>
     <tbody>
+  
+        <tr>
+            <td>AAA/AA+/AA/AA-</td>
+            <td>35.430</td>
+            <td>11,84%</td>
+            <td>27.913</td>
+            <td>9,17%</td>
+        </tr>
         <tr>
             <td>A+/A/A-</td>
-            <td>&nbsp;</td>
             <td>58.702</td>
             <td>19,62%</td>
             <td>62.798</td>
@@ -3137,7 +3126,6 @@ Seguidamente se presenta la distribución, por ratings internos, de la exposici�
         </tr>
         <tr>
             <td>BBB+</td>
-            <td>&nbsp;</td>
             <td>43.962</td>
             <td>14,69%</td>
             <td>43.432</td>
@@ -3145,7 +3133,6 @@ Seguidamente se presenta la distribución, por ratings internos, de la exposici�
         </tr>
         <tr>
             <td>BBB</td>
-            <td>&nbsp;</td>
             <td>27.388</td>
             <td>9,15%</td>
             <td>28.612</td>
@@ -3153,7 +3140,6 @@ Seguidamente se presenta la distribución, por ratings internos, de la exposici�
         </tr>
         <tr>
             <td>BBB-</td>
-            <td>&nbsp;</td>
             <td>41.713</td>
             <td>13,94%</td>
             <td>40.821</td>
@@ -3161,7 +3147,6 @@ Seguidamente se presenta la distribución, por ratings internos, de la exposici�
         </tr>
         <tr>
             <td>BB+</td>
-            <td>&nbsp;</td>
             <td>32.694</td>
             <td>10,92%</td>
             <td>28.355</td>
@@ -3169,7 +3154,6 @@ Seguidamente se presenta la distribución, por ratings internos, de la exposici�
         </tr>
         <tr>
             <td>BB</td>
-            <td>&nbsp;</td>
             <td>19.653</td>
             <td>6,57%</td>
             <td>23.008</td>
@@ -3177,7 +3161,6 @@ Seguidamente se presenta la distribución, por ratings internos, de la exposici�
         </tr>
         <tr>
             <td>BB-</td>
-            <td>&nbsp;</td>
             <td>13.664</td>
             <td>4,57%</td>
             <td>12.548</td>
@@ -3185,7 +3168,6 @@ Seguidamente se presenta la distribución, por ratings internos, de la exposici�
         </tr>
         <tr>
             <td>B+</td>
-            <td>&nbsp;</td>
             <td>10.366</td>
             <td>3,46%</td>
             <td>8.597</td>
@@ -3193,7 +3175,6 @@ Seguidamente se presenta la distribución, por ratings internos, de la exposici�
         </tr>
         <tr>
             <td>B</td>
-            <td>&nbsp;</td>
             <td>4.857</td>
             <td>1,62%</td>
             <td>5.731</td>
@@ -3201,7 +3182,6 @@ Seguidamente se presenta la distribución, por ratings internos, de la exposici�
         </tr>
         <tr>
             <td>B-</td>
-            <td>&nbsp;</td>
             <td>3.687</td>
             <td>1,23%</td>
             <td>3.998</td>
@@ -3209,7 +3189,6 @@ Seguidamente se presenta la distribución, por ratings internos, de la exposici�
         </tr>
         <tr>
             <td>CCC/CC</td>
-            <td>&nbsp;</td>
             <td>7.149</td>
             <td>2,39%</td>
             <td>18.488</td>
@@ -3217,7 +3196,6 @@ Seguidamente se presenta la distribución, por ratings internos, de la exposici�
         </tr>
         <tr>
             <td>Total</td>
-            <td>&nbsp;</td>
             <td>299.264</td>
             <td>100,00%</td>
             <td>304.300</td>
@@ -3233,22 +3211,53 @@ Las siguientes tablas muestran un detalle por contraparte y por producto de los 
 <table>
     <thead>
         <tr>
-            <th>Valores representativos de deuda</th>
-            <th>-</th>
-            <th>-</th>
-            <th>-</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>272</th>
-            <th>128</th>
-            <th>(120)</th>
-            <th>(24)</th>
-            <th>(46)</th>
-            <th>(1)</th>
+            <th colspan="13">Millones de euros</th>
+        </tr>
+        <tr>
+            <th></th>
+            <th colspan="3">Vencidos pero cuyo valor no se ha deteriorado</th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>Diciembre 2016</th>
+            <th><= 30 días</th>
+            <th>> 30 días <= 60 días</th>
+            <th>> 60 días <= 90 días</th>
+            <th>> 90 días <= 180 días</th>
+            <th>> 180 días <= 1 año</th>
+            <th>> 1 año</th>
+            <th>Activos deteriorados</th>
+            <th>Importe neto en libros de los activos cuyo valor se ha deteriorado</th>
+            <th>Correcciones de valor específicas para activos financieros valorados individualmente</th>
+            <th>Correciones de valor específicas para activos financieros valorados colectivamente</th>
+            <th>Correciones de valor colectivas para pérdidas incurridas pero no comunicadas</th>
+            <th>Fallidos acumulados</th>
         </tr>
     </thead>
     <tbody>
+        <tr>
+            <td>Valores representativos de deuda</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>272</td>
+            <td>128</td>
+            <td>(120)</td>
+            <td>(24)</td>
+            <td>(46)</td>
+            <td>(1)</td>
+        </tr>
         <tr>
             <td>Préstamos y anticipos</td>
             <td>3.384</td>
@@ -3572,22 +3581,54 @@ Las siguientes tablas muestran un detalle por contraparte y por producto de los 
 <table>
     <thead>
         <tr>
-            <th>Valores representativos de deuda</th>
-            <th>-</th>
-            <th>-</th>
-            <th>-</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>81</th>
-            <th>46</th>
-            <th>(21)</th>
-            <th>(14)</th>
-            <th>(113)</th>
-            <th>-</th>
+            <th colspan="13">Millones de euros</th>
+        </tr>
+        <tr>
+            <th></th>
+            <th colspan="3">Vencidos pero cuyo valor no se ha deteriorado</th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>Diciembre 2015</th>
+            <th><= 30 días</th>
+            <th>> 30 días <= 60 días</th>
+            <th>> 60 días <= 90 días</th>
+            <th>> 90 días <= 180 días</th>
+            <th>> 180 días <= 1 año</th>
+            <th>> 1 año</th>
+            <th>Activos deteriorados</th>
+            <th>Importe neto en libros de los activos cuyo valor se ha deteriorado</th>
+            <th>Correcciones de valor específicas para activos financieros valorados individualmente</th>
+            <th>Correciones de valor específicas para activos financieros valorados colectivamente</th>
+            <th>Correciones de valor colectivas para pérdidas incurridas pero no comunicadas</th>
+            <th>Fallidos acumulados</th>
         </tr>
     </thead>
+
     <tbody>
+        <tr>
+            <td>Valores representativos de deuda</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>81</td>
+            <td>46</td>
+            <td>(21)</td>
+            <td>(14)</td>
+            <td>(113)</td>
+            <td>-</td>
+        </tr>
         <tr>
             <td>Préstamos y anticipos</td>
             <td>3.445</td>
@@ -4231,16 +4272,17 @@ El movimiento durante 2016, 2015 y 2014 de los activos financieros y garantías 
 <table>
     <thead>
         <tr>
-            <th>"Movimientos de riesgos dudosos o deteriorados</th>
+            <th></th>
+            <th colspan="3">Millones de euros</th>
+        </tr>
+        <tr>
+            <th>Movimientos de riesgos dudosos o deteriorados. Activos financieros y garantías concedidas</th>
+            <th>2016</th>
+            <th>2015</th>
+            <th>2015</th>
         </tr>
     </thead>
     <tbody>
-        <tr>
-            <td>Activos financieros y garantías concedidas"</td>
-            <td>2016</td>
-            <td>2015</td>
-            <td>2014</td>
-        </tr>
         <tr>
             <td>Saldo inicial</td>
             <td>26.103</td>
@@ -5212,18 +5254,31 @@ La mayor parte de las partidas del balance consolidado del Grupo consolidado que
 <table>
     <thead>
         <tr>
-            <th>Activos sujetos a riesgo de mercado</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
+            <th colspan="5">Millones de euros </th>
+        </tr>
+        <tr>
+            <th></th>
+            <th colspan="2">Diciembre 2016</th>
+            <th colspan="2">Diciembre 2015</th>
+        </tr>
+        <tr>
+            <th>Partidas del balance consolidado del Grupo sujetas a riesgo de mercado</th>
+            <th>Principales métricas de riesgo de mercado - VaR</th>
+            <th>Principales métricas de riesgo de mercado - Otros*</th>
+            <th>Principales métricas de riesgo de mercado - VaR</th>
+            <th>Principales métricas de riesgo de mercado - Otros*</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td> Cartera de negociación</td>
+            <td>Activos sujetos a riesgo de mercado</td>
             <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td> Cartera de negociación</td>
             <td>64.623</td>
             <td>1.480</td>
             <td>64.370</td>
@@ -5231,7 +5286,6 @@ La mayor parte de las partidas del balance consolidado del Grupo consolidado que
         </tr>
         <tr>
             <td> Activos financieros disponibles para la venta</td>
-            <td>&nbsp;</td>
             <td>7.119</td>
             <td>28.771</td>
             <td>8.234</td>
@@ -5239,7 +5293,6 @@ La mayor parte de las partidas del balance consolidado del Grupo consolidado que
         </tr>
         <tr>
             <td> 'De los que: Instrumentos de capital</td>
-            <td>&nbsp;</td>
             <td>-</td>
             <td>3.559</td>
             <td>-</td>
@@ -5247,7 +5300,6 @@ La mayor parte de las partidas del balance consolidado del Grupo consolidado que
         </tr>
         <tr>
             <td> Derivados de cobertura</td>
-            <td>&nbsp;</td>
             <td>1.041</td>
             <td>1.415</td>
             <td>528</td>
@@ -5259,11 +5311,9 @@ La mayor parte de las partidas del balance consolidado del Grupo consolidado que
             <td>&nbsp;</td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
-            <td>&nbsp;</td>
         </tr>
         <tr>
             <td> Cartera de negociación</td>
-            <td>&nbsp;</td>
             <td>47.491</td>
             <td>2.223</td>
             <td>42.550</td>
@@ -5271,7 +5321,6 @@ La mayor parte de las partidas del balance consolidado del Grupo consolidado que
         </tr>
         <tr>
             <td> Derivados de cobertura</td>
-            <td>&nbsp;</td>
             <td>1.305</td>
             <td>689</td>
             <td>1.128</td>
@@ -5567,18 +5616,29 @@ A continuación se presentan los niveles medios de riesgo de interés, en térmi
 <table>
     <thead>
         <tr>
-            <th>Europa (***)</th>
-            <th>&nbsp;</th>
-            <th>14,12%</th>
-            <th>(7,09%)</th>
-            <th>4,90%</th>
-            <th>(3,62%)</th>
+            <th></th>
+            <th colspan="2">Impacto margen de intereses (*)</th>
+            <th colspan="2">Impacto valor económico (**) </th>
+        </tr>
+        <tr>
+            <th>Análisis sensibilidad al tipo de interés
+Diciembre 2016</th>
+            <th>Incremento de 100 puntos básicos</th>
+            <th>Decremento de 100 puntos básicos</th>
+            <th>Incremento de 100 puntos básicos</th>
+            <th>Decremento de 100 puntos básicos</th>
         </tr>
     </thead>
     <tbody>
         <tr>
+            <td>Europa (***)</td>
+            <td>14,12%</td>
+            <td>(7,09%)</td>
+            <td>4,90%</td>
+            <td>(3,62%)</td>
+        </tr>
+        <tr>
             <td>México</td>
-            <td>&nbsp;</td>
             <td>2,13%</td>
             <td>(2,02%)</td>
             <td>(2,42%)</td>
@@ -5586,7 +5646,6 @@ A continuación se presentan los niveles medios de riesgo de interés, en térmi
         </tr>
         <tr>
             <td>Estados Unidos</td>
-            <td>&nbsp;</td>
             <td>8,91%</td>
             <td>(8,30%)</td>
             <td>0,41%</td>
@@ -5594,7 +5653,6 @@ A continuación se presentan los niveles medios de riesgo de interés, en térmi
         </tr>
         <tr>
             <td>Turquía</td>
-            <td>&nbsp;</td>
             <td>(6,64%)</td>
             <td>4,64%</td>
             <td>(2,78%)</td>
@@ -5602,7 +5660,6 @@ A continuación se presentan los niveles medios de riesgo de interés, en térmi
         </tr>
         <tr>
             <td>América del Sur</td>
-            <td>&nbsp;</td>
             <td>2,40%</td>
             <td>(2,41%)</td>
             <td>(2,82%)</td>
@@ -5610,7 +5667,6 @@ A continuación se presentan los niveles medios de riesgo de interés, en térmi
         </tr>
         <tr>
             <td>GRUPO BBVA</td>
-            <td>&nbsp;</td>
             <td>4,15%</td>
             <td>(2,89%)</td>
             <td>2,69%</td>
@@ -5674,17 +5730,39 @@ A continuación se presenta a 31 de diciembre de 2016 y 2015 un resumen del efec
 <table>
     <thead>
         <tr>
-            <th>Derivados de negociación y de cobertura</th>
-            <th>10, 15</th>
-            <th>59.374</th>
-            <th>13.587</th>
-            <th>45.788</th>
-            <th>32.146</th>
-            <th>6.571</th>
-            <th>7.070</th>
+            <th colspan="8">Millones de Euros</th>
+        </tr>
+        <tr>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th colspan="2">Importe bruto no compensado en balance (D)  </th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>Diciembre 2016</th>
+            <th>Notas</th>
+            <th>Importe bruto reconocido (A)</th>
+            <th>Importe compensado en balance (B)</th>
+            <th>Importe neto presentado en balance (C=A-B)</th>
+            <th>Importe relativo a instrumentos financieros reconocidos</th>
+            <th>Colaterales (Incluyendo efectivo)</th>
+            <th>Importe neto (E=C-D)</th>
         </tr>
     </thead>
     <tbody>
+        <tr>
+            <td>Derivados de negociación y de cobertura</td>
+            <td>10, 15</td>
+            <td>59.374</td>
+            <td>13.587</td>
+            <td>45.788</td>
+            <td>32.146</td>
+            <td>6.571</td>
+            <td>7.070</td>
+        </tr>
         <tr>
             <td>Adquisición temporal de activos y similares</td>
             <td>35 </td>
@@ -5741,17 +5819,39 @@ A continuación se presenta a 31 de diciembre de 2016 y 2015 un resumen del efec
 <table>
     <thead>
         <tr>
-            <th>Derivados de negociación y de cobertura</th>
-            <th>10, 15</th>
-            <th>52.244</th>
-            <th>7.805</th>
-            <th>44.439</th>
-            <th>30.350</th>
-            <th>5.493</th>
-            <th>8.597</th>
+            <th colspan="8">Millones de Euros</th>
+        </tr>
+        <tr>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th colspan="2">Importe bruto no compensado en balance (D)  </th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>Diciembre 2015</th>
+            <th>Notas</th>
+            <th>Importe bruto reconocido (A)</th>
+            <th>Importe compensado en balance (B)</th>
+            <th>Importe neto presentado en balance (C=A-B)</th>
+            <th>Importe relativo a instrumentos financieros reconocidos</th>
+            <th>Colaterales (Incluyendo efectivo)</th>
+            <th>Importe neto (E=C-D)</th>
         </tr>
     </thead>
     <tbody>
+        <tr>
+            <td>Derivados de negociación y de cobertura</td>
+            <td>10, 15</td>
+            <td>52.244</td>
+            <td>7.805</td>
+            <td>44.439</td>
+            <td>30.350</td>
+            <td>5.493</td>
+            <td>8.597</td>
+        </tr>
         <tr>
             <td>Adquisición temporal de activos y similares</td>
             <td>35 </td>
@@ -5820,12 +5920,21 @@ Con la finalidad de establecer los niveles objetivo (máximos) de LtSCD en cada 
 <table>
     <thead>
         <tr>
-            <th>Grupo (media ponderada)</th>
-            <th>113%</th>
-            <th>116%</th>
+            <th></th>
+            <th colspan="2">LtSCD por UGL</th>
+        </tr>
+        <tr>
+            <th></th>
+            <th>Diciembre 2016</th>
+            <th>Diciembre 2015</th>
         </tr>
     </thead>
     <tbody>
+        <tr>
+            <td>Grupo (media ponderada)</td>
+            <td>113%</td>
+            <td>116%</td>
+        </tr>
         <tr>
             <td>Eurozona</td>
             <td>113%</td>
@@ -5862,6 +5971,9 @@ Cada entidad mantiene un fondo de liquidez a nivel individual, tanto Banco Bilba
 
 <table>
     <thead>
+        <tr>
+            <th colspan="6">Millones de euros</th>
+        </tr>
         <tr>
             <th>Diciembre 2016</th>
             <th>BBVA Eurozona (1)</th>
@@ -5951,6 +6063,9 @@ Cada entidad mantiene un fondo de liquidez a nivel individual, tanto Banco Bilba
 
 <table>
     <thead>
+        <tr>
+            <th colspan="6">Millones de euros</th>
+        </tr>
         <tr>
             <th>Diciembre 2015</th>
             <th>BBVA Eurozona (1)</th>
@@ -6054,24 +6169,24 @@ Basado en la información prudencial supervisora, a continuación se presenta un
 <table>
     <thead>
         <tr>
-            <th>Diciembre 2016</th>
+            <th colspan="12">Millones de euros</th>
+        </tr>
+        <tr>
+            <th>Diciembre 2016 Entradas - Vencimientos residuales contractuales</th>
+            <th>A la Vista</th>
+            <th>Hasta un mes</th>
+            <th>Más de un mes y hasta tres meses</th>
+            <th>Más de tres meses y hasta seis meses</th>
+            <th>Más de seis meses y hasta nueve meses</th>
+            <th>Más de nueve meses hasta un año</th>
+            <th>Más de un año y hasta dos años</th>
+            <th>Más de dos años y hasta tres años</th>
+            <th>Más de tres años y hasta cinco años</th>
+            <th>Más de cinco años</th>
+            <th>Total</th>
         </tr>
     </thead>
     <tbody>
-        <tr>
-            <td>Entradas - Vencimientos residuales contractuales"</td>
-            <td>A la Vista</td>
-            <td>Hasta un mes</td>
-            <td>Más de un mes y hasta tres meses</td>
-            <td>Más de tres meses y hasta seis meses</td>
-            <td>Más de seis meses y hasta nueve meses</td>
-            <td>Más de nueve meses hasta un año</td>
-            <td>Más de un año y hasta dos años</td>
-            <td>Más de dos años y hasta tres años</td>
-            <td>Más de tres años y hasta cinco años</td>
-            <td>Más de cinco años</td>
-            <td>Total</td>
-        </tr>
         <tr>
             <td>Efectivo, saldos en efectivo en bancos centrales y otros depósitos a la vista </td>
             <td>23.191</td>
@@ -6162,24 +6277,24 @@ Basado en la información prudencial supervisora, a continuación se presenta un
 <table>
     <thead>
         <tr>
-            <th>Diciembre 2016 </th>
+            <th colspan="12">Millones de euros</th>
+        </tr>
+        <tr>
+            <th>Diciembre 2016 Salidas - Vencimientos residuales contractuales</th>
+            <th>A la Vista</th>
+            <th>Hasta un mes</th>
+            <th>Más de un mes y hasta tres meses</th>
+            <th>Más de tres meses y hasta seis meses</th>
+            <th>Más de seis meses y hasta nueve meses</th>
+            <th>Más de nueve meses hasta un año</th>
+            <th>Más de un año y hasta dos años</th>
+            <th>Más de dos años y hasta tres años</th>
+            <th>Más de tres años y hasta cinco años</th>
+            <th>Más de cinco años</th>
+            <th>Total</th>
         </tr>
     </thead>
     <tbody>
-        <tr>
-            <td>Salidas - Vencimientos residuales contractuales"</td>
-            <td>A la Vista</td>
-            <td>Hasta un mes</td>
-            <td>Más de un mes y hasta tres meses</td>
-            <td>Más de tres meses y hasta seis meses</td>
-            <td>Más de seis meses y hasta nueve meses</td>
-            <td>Más de nueve meses hasta un año</td>
-            <td>Más de un año y hasta dos años</td>
-            <td>Más de dos años y hasta tres años</td>
-            <td>Más de tres años y hasta cinco años</td>
-            <td>Más de cinco años</td>
-            <td>Total</td>
-        </tr>
         <tr>
             <td>Emisiones y Certificados de Deposito</td>
             <td>419</td>
@@ -6270,24 +6385,24 @@ Basado en la información prudencial supervisora, a continuación se presenta un
 <table>
     <thead>
         <tr>
-            <th>Diciembre 2015</th>
+            <th colspan="12">Millones de euros</th>
+        </tr>
+        <tr>
+            <th>Diciembre 2015 Entradas - Vencimientos residuales contractuales</th>
+            <th>A la Vista</th>
+            <th>Hasta un mes</th>
+            <th>Más de un mes y hasta tres meses</th>
+            <th>Más de tres meses y hasta seis meses</th>
+            <th>Más de seis meses y hasta nueve meses</th>
+            <th>Más de nueve meses hasta un año</th>
+            <th>Más de un año y hasta dos años</th>
+            <th>Más de dos años y hasta tres años</th>
+            <th>Más de tres años y hasta cinco años</th>
+            <th>Más de cinco años</th>
+            <th>Total</th>
         </tr>
     </thead>
     <tbody>
-        <tr>
-            <td>Entradas - Vencimientos residuales contractuales"</td>
-            <td>A la Vista</td>
-            <td>Hasta un mes</td>
-            <td>Más de un mes y hasta tres meses</td>
-            <td>Más de tres meses y hasta seis meses</td>
-            <td>Más de seis meses y hasta nueve meses</td>
-            <td>Más de nueve meses hasta un año</td>
-            <td>Más de un año y hasta dos años</td>
-            <td>Más de dos años y hasta tres años</td>
-            <td>Más de tres años y hasta cinco años</td>
-            <td>Más de cinco años</td>
-            <td>Total</td>
-        </tr>
         <tr>
             <td>Efectivo, saldos en efectivo en bancos centrales y otros depósitos a la vista </td>
             <td>34.796</td>
@@ -6378,24 +6493,24 @@ Basado en la información prudencial supervisora, a continuación se presenta un
 <table>
     <thead>
         <tr>
-            <th>Diciembre 2015</th>
+            <th colspan="12">Millones de euros</th>
+        </tr>
+        <tr>
+            <th>Diciembre 2015 Entradas - Vencimientos residuales contractuales</th>
+            <th>A la Vista</th>
+            <th>Hasta un mes</th>
+            <th>Más de un mes y hasta tres meses</th>
+            <th>Más de tres meses y hasta seis meses</th>
+            <th>Más de seis meses y hasta nueve meses</th>
+            <th>Más de nueve meses hasta un año</th>
+            <th>Más de un año y hasta dos años</th>
+            <th>Más de dos años y hasta tres años</th>
+            <th>Más de tres años y hasta cinco años</th>
+            <th>Más de cinco años</th>
+            <th>Total</th>
         </tr>
     </thead>
     <tbody>
-        <tr>
-            <td>Salidas - Vencimientos residuales contractuales"</td>
-            <td>A la Vista</td>
-            <td>Hasta un mes</td>
-            <td>Más de un mes y hasta tres meses</td>
-            <td>Más de tres meses y hasta seis meses</td>
-            <td>Más de seis meses y hasta nueve meses</td>
-            <td>Más de nueve meses hasta un año</td>
-            <td>Más de un año y hasta dos años</td>
-            <td>Más de dos años y hasta tres años</td>
-            <td>Más de tres años y hasta cinco años</td>
-            <td>Más de cinco años</td>
-            <td>Total</td>
-        </tr>
         <tr>
             <td>Emisiones y Certificados de Deposito</td>
             <td>7</td>
@@ -6498,14 +6613,28 @@ Los activos que a 31 de diciembre de 2016 y 2015 se encuentran comprometidos (ap
 <table>
     <thead>
         <tr>
-            <th>Instrumentos de patrimonio</th>
-            <th>2.214</th>
-            <th>2.214</th>
-            <th>9.022</th>
-            <th>9.022</th>
+            <th colspan="5">Millones de euros</th>
+        </tr>
+        <tr>
+            <th></th>
+            <th colspan="4">Activos comprometidos</th>
+        </tr>
+        <tr>
+            <th>Diciembre 2016</th>
+            <th>Valor en libros de activos comprometidos</th>
+            <th>Valor de mercado de activos comprometidos</th>
+            <th>Valor en libros de activos no comprometidos</th>
+            <th>Valor de mercado de activos no comprometidos</th>
         </tr>
     </thead>
     <tbody>
+        <tr>
+            <td>Instrumentos de patrimonio</td>
+            <td>2.214</td>
+            <td>2.214</td>
+            <td>9.022</td>
+            <td>9.022</td>
+        </tr>
         <tr>
             <td>Valores representativos de deuda</td>
             <td>40.114</td>
@@ -6526,14 +6655,28 @@ Los activos que a 31 de diciembre de 2016 y 2015 se encuentran comprometidos (ap
 <table>
     <thead>
         <tr>
-            <th>Instrumentos de patrimonio</th>
-            <th>2.680</th>
-            <th>2.680</th>
-            <th>9.046</th>
-            <th>9.046</th>
+            <th colspan="5">Millones de euros</th>
+        </tr>
+        <tr>
+            <th></th>
+            <th colspan="4">Activos comprometidos</th>
+        </tr>
+        <tr>
+            <th>Diciembre 2016</th>
+            <th>Valor en libros de activos comprometidos</th>
+            <th>Valor de mercado de activos comprometidos</th>
+            <th>Valor en libros de activos no comprometidos</th>
+            <th>Valor de mercado de activos no comprometidos</th>
         </tr>
     </thead>
     <tbody>
+        <tr>
+            <td>Instrumentos de patrimonio</td>
+            <td>2.680</td>
+            <td>2.680</td>
+            <td>9.046</td>
+            <td>9.046</td>
+        </tr>
         <tr>
             <td>Valores representativos de deuda</td>
             <td>56.155</td>
@@ -6558,16 +6701,17 @@ A 31 de diciembre de 2016 y 2015, los colaterales recibidos principalmente por l
 <table>
     <thead>
         <tr>
-            <th>Diciembre 2016 </th>
+            <th></th>
+            <th colspan="3">Millones de euros</th>
+        </tr>
+        <tr>
+            <th>Diciembre 2016 Garantías recibidas</th>
+            <th>Valor razonable de garantías recibidas comprometidas o autocartera emitida</th>
+            <th>Valor razonable de garantías recibidas o autocartera emitida disponible para comprometer</th>
+            <th>Valor razonable de garantías recibidas o autocartera emitida no disponible para comprometer</th>
         </tr>
     </thead>
     <tbody>
-        <tr>
-            <td>Garantías recibidas"</td>
-            <td>Valor razonable de garantías recibidas comprometidas o autocartera emitida</td>
-            <td>Valor razonable de garantías recibidas o autocartera emitida disponible para comprometer</td>
-            <td>Valor razonable de garantías recibidas o autocartera emitida no disponible para comprometer</td>
-        </tr>
         <tr>
             <td>Garantías recibidas</td>
             <td>19.921</td>
@@ -6604,16 +6748,17 @@ A 31 de diciembre de 2016 y 2015, los colaterales recibidos principalmente por l
 <table>
     <thead>
         <tr>
-            <th>Diciembre 2015 </th>
+            <th></th>
+            <th colspan="3">Millones de euros</th>
+        </tr>
+        <tr>
+            <th>Diciembre 2015 Garantías recibidas</th>
+            <th>Valor razonable de garantías recibidas comprometidas o autocartera emitida</th>
+            <th>Valor razonable de garantías recibidas o autocartera emitida disponible para comprometer</th>
+            <th>Valor razonable de garantías recibidas o autocartera emitida no disponible para comprometer</th>
         </tr>
     </thead>
     <tbody>
-        <tr>
-            <td>Garantías recibidas"</td>
-            <td>Valor razonable de garantías recibidas comprometidas o autocartera emitida</td>
-            <td>Valor razonable de garantías recibidas o autocartera emitida disponible para comprometer</td>
-            <td>Valor razonable de garantías recibidas o autocartera emitida no disponible para comprometer</td>
-        </tr>
         <tr>
             <td>Garantías recibidas</td>
             <td>21.532</td>
@@ -6654,39 +6799,46 @@ A 31 de diciembre de 2016 y 2015, el conjunto de los pasivos financieros emitido
 <table>
     <thead>
         <tr>
-            <th>Diciembre 2016 </th>
+            <th></th>
+            <th colspan="3">Millones de euros</th>
+        </tr>
+        <tr>
+            <th>Diciembre 2016 Garantías recibidas</th>
+            <th>Valor razonable de garantías recibidas comprometidas o autocartera emitida</th>
+            <th>Valor razonable de garantías recibidas o autocartera emitida disponible para comprometer</th>
+            <th>Valor razonable de garantías recibidas o autocartera emitida no disponible para comprometer</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td>Activos comprometidos / garantías recibidas y pasivos asociados"</td>
-            <td>Pasivos cubiertos, pasivos contingentes o títulos cedidos</td>
-            <td>Activos, garantías recibidas y autocartera emitida, excepto cédulas hipotecarias y bonos titulizados comprometidos</td>
-        </tr>
-        <tr>
             <td>Valor en libros de dichos pasivos fuentes de pignoración</td>
             <td>134.387</td>
             <td>153.632</td>
+            <td>-</td>
         </tr>
         <tr>
             <td>Derivados</td>
             <td>9.304</td>
             <td>9.794</td>
+            <td>-</td>
         </tr>
         <tr>
             <td>Depositos</td>
             <td>96.137</td>
             <td>108.268</td>
+            <td>-</td>
         </tr>
         <tr>
             <td>Emisiones</td>
             <td>28.946</td>
             <td>35.569</td>
+            <td>-</td>
         </tr>
         <tr>
             <td>Otras fuentes de pignoración</td>
             <td>-</td>
             <td>2.594</td>
+            <td>-</td>
         </tr>
     </tbody>
 </table>
@@ -6694,7 +6846,14 @@ A 31 de diciembre de 2016 y 2015, el conjunto de los pasivos financieros emitido
 <table>
     <thead>
         <tr>
-            <th>Diciembre 2015 </th>
+            <th></th>
+            <th colspan="3">Millones de euros</th>
+        </tr>
+        <tr>
+            <th>Diciembre 2015 Garantías recibidas</th>
+            <th>Valor razonable de garantías recibidas comprometidas o autocartera emitida</th>
+            <th>Valor razonable de garantías recibidas o autocartera emitida disponible para comprometer</th>
+            <th>Valor razonable de garantías recibidas o autocartera emitida no disponible para comprometer</th>
         </tr>
     </thead>
     <tbody>
@@ -6903,17 +7062,37 @@ A continuación se presenta el valor razonable de los instrumentos financieros d
 <table>
     <thead>
         <tr>
-            <th>ACTIVOS-</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
+            <th colspan="8">Millones de euros</th>
+        </tr>
+        <tr>
+            <th></th>
+            <th></th>
+            <th colspan="2">2016</th>
+            <th colspan="2">2015</th>
+            <th colspan="2">2014</th>
+        </tr>
+        <tr>
+            <th>Valor razonable y valor en libros</th>
+            <th>Notas</th>
+            <th>Valor en libros</th>
+            <th>Valor razonable</th>
+            <th>Valor en libros</th>
+            <th>Valor razonable</th>
+            <th>Valor en libros</th>
+            <th>Valor razonable</th>
         </tr>
     </thead>
     <tbody>
+        <tr>
+            <td>ACTIVOS-</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
         <tr>
             <td>Efectivo, saldos en efectivo en bancos centrales y otros depósitos a la vista</td>
             <td>9</td>
@@ -7047,17 +7226,27 @@ La siguiente tabla presenta los principales instrumentos financieros registrados
 <table>
     <thead>
         <tr>
-            <th>ACTIVOS-</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
+            <th colspan="11">Millones de euros</th>
+        </tr>
+        <tr>
+            <th></th>
+            <th></th>
+            <th colspan="3">2016</th>
+            <th colspan="3">2015</th>
+            <th colspan="3">2014</th>
+        </tr>
+        <tr>
+            <th>Instrumentos financieros registrados a valor razonable por niveles</th>
+            <th>Notas</th>
+            <th>Nivel 1</th>
+            <th>Nivel 2</th>
+            <th>Nivel 3</th>
+            <th>Nivel 1</th>
+            <th>Nivel 2</th>
+            <th>Nivel 3</th>
+            <th>Nivel 1</th>
+            <th>Nivel 2</th>
+            <th>Nivel 3</th>
         </tr>
     </thead>
     <tbody>
@@ -7923,13 +8112,20 @@ Las principales técnicas utilizadas para la valoración de los principales inst
 • El valor actual neto (método del valor presente): este modelo utiliza los flujos futuros de caja de cada instrumento, que vienen establecidos en los diferentes contratos, y los descuenta para calcular su valor actual. Este modelo suele incluir muchos parámetros observables en mercado, si bien también puede incluir parámetros no observables directamente en mercado, como los que se describen a continuación:
 
 - Diferencial de crédito: el diferencial de crédito representa la diferencia en el rendimiento de un instrumento y la tasa de referencia, reflejando el rendimiento adicional que un participante en el mercado demandaría para tomar el riesgo de crédito de ese instrumento. Por tanto, el diferencial de crédito de un instrumento forma parte de la tasa de descuento que se utiliza para calcular el valor presente de los flujos futuros de caja.
+
 - Tasa de recuperación: se define cómo el porcentaje de capital e intereses que se recupera de un instrumento de deuda que ha sido impagado.
-• Precios comparables (precios activos similares): se utilizan precios de instrumentos comparables, índices de referencia o benchmark de mercado para calcular su rendimiento desde el precio de entrada o su valoración actual realizando ajustes posteriores para tomar en cuenta diferencias que puede haber entre el activo valorado y el que se toma como referencia. También se puede simplemente asumir que el precio de un instrumento equivale al del otro.
-• Net asset value: representa el valor total de los activos y pasivos de un fondo y es publicado por la entidad gestora del mismo.
-• Cópula gaussiana: en los instrumentos de crédito dependientes de varias referencias, la función de densidad conjunta a integrar para valorarlos se construye mediante una cópula gaussiana que relaciona las densidades marginales mediante una distribución normal, que suele extraerse de la matriz de correlaciones de los eventos de default que se aproxima por la de los CDS de los emisores.
-• Black 76: variante del modelo Black Scholes cuya principal aplicación es la valoración de Opciones de Bonos, Caps/ floors y Swaptions de los modelos directamente el comportamiento del Forward y no el propio Spot. 
-• Heston: el modelo, que normalmente se aplica opciones de renta variable, presume un comportamiento estocástico de la volatilidad. Según éste, la volatilidad sigue un proceso que revierte a un nivel de largo plazo y está correlacionado con el que sigue el subyacente. Frente a los modelos de volatilidad local, en los que la volatilidad evoluciona determinísticamente, el modelo de Heston es más flexible, permitiendo que sea similar al observado en el corto plazo hoy.
-• Libor market model: este modelo presume que la dinámica de la curva de tipos de interés se puede modelar en base al proceso conjunto de los forwards que la componen. La matriz de correlaciones se parametriza bajo la hipótesis de que la correlación entre dos forwards cualesquiera decrece a una tasa instantánea constante, beta, en la medida en que disten sus respectivos vencimientos. El input “Volatilidad de impago” es la parte volátil del factor dinámico del modelo. El marco multifactorial del modelo lo hace ideal para la valoración de instrumentos sensibles a la pendiente o curvatura.
+
+  • Precios comparables (precios activos similares): se utilizan precios de instrumentos comparables, índices de referencia o benchmark de mercado para calcular su rendimiento desde el precio de entrada o su valoración actual realizando ajustes posteriores para tomar en cuenta diferencias que puede haber entre el activo valorado y el que se toma como referencia. También se puede simplemente asumir que el precio de un instrumento equivale al del otro.
+
+  • Net asset value: representa el valor total de los activos y pasivos de un fondo y es publicado por la entidad gestora del mismo.
+
+  • Cópula gaussiana: en los instrumentos de crédito dependientes de varias referencias, la función de densidad conjunta a integrar para valorarlos se construye mediante una cópula gaussiana que relaciona las densidades marginales mediante una distribución normal, que suele extraerse de la matriz de correlaciones de los eventos de default que se aproxima por la de los CDS de los emisores.
+
+  • Black 76: variante del modelo Black Scholes cuya principal aplicación es la valoración de Opciones de Bonos, Caps/ floors y Swaptions de los modelos directamente el comportamiento del Forward y no el propio Spot. 
+
+  • Heston: el modelo, que normalmente se aplica opciones de renta variable, presume un comportamiento estocástico de la volatilidad. Según éste, la volatilidad sigue un proceso que revierte a un nivel de largo plazo y está correlacionado con el que sigue el subyacente. Frente a los modelos de volatilidad local, en los que la volatilidad evoluciona determinísticamente, el modelo de Heston es más flexible, permitiendo que sea similar al observado en el corto plazo hoy.
+
+  • Libor market model: este modelo presume que la dinámica de la curva de tipos de interés se puede modelar en base al proceso conjunto de los forwards que la componen. La matriz de correlaciones se parametriza bajo la hipótesis de que la correlación entre dos forwards cualesquiera decrece a una tasa instantánea constante, beta, en la medida en que disten sus respectivos vencimientos. El input “Volatilidad de impago” es la parte volátil del factor dinámico del modelo. El marco multifactorial del modelo lo hace ideal para la valoración de instrumentos sensibles a la pendiente o curvatura.
 
 
 ##### Ajustes a la valoración por riesgo de incumplimiento 
@@ -7951,20 +8147,37 @@ El movimiento de los saldos de los activos y pasivos financieros clasificados en
 <table>
     <thead>
         <tr>
-            <th>Saldo inicial</th>
-            <th>&nbsp;</th>
-            <th>463</th>
-            <th>182</th>
-            <th>601</th>
-            <th>98</th>
-            <th>881</th>
-            <th>52</th>
+            <th></th>
+            <th colspan="6">Millones de euros</th>
+        </tr>
+        <tr>
+            <th></th>
+            <th colspan="2">2016</th>
+            <th colspan="2">2015</th>
+            <th colspan="2">2014</th>
+        </tr>
+        <tr>
+            <th>Instrumentos financieros Nivel 3. Movimientos en el ejercicio</th>
+            <th>Activo</th>
+            <th>Pasivo</th>
+            <th>Activo</th>
+            <th>Pasivo</th>
+            <th>Activo</th>
+            <th>Pasivo</th>
         </tr>
     </thead>
     <tbody>
         <tr>
+            <td>Saldo inicial</td>
+            <td>463</td>
+            <td>182</td>
+            <td>601</td>
+            <td>98</td>
+            <td>881</td>
+            <td>52</td>
+        </tr>
+        <tr>
             <td>Incorporaciones al Grupo</td>
-            <td>&nbsp;</td>
             <td>-</td>
             <td>-</td>
             <td>148</td>
@@ -7974,7 +8187,6 @@ El movimiento de los saldos de los activos y pasivos financieros clasificados en
         </tr>
         <tr>
             <td>Cambios en el valor razonable registrados en pérdidas y ganancias (*)</td>
-            <td>&nbsp;</td>
             <td>33</td>
             <td>(86)</td>
             <td>124</td>
@@ -7984,7 +8196,6 @@ El movimiento de los saldos de los activos y pasivos financieros clasificados en
         </tr>
         <tr>
             <td>Cambios en el valor razonable no registrados en resultados</td>
-            <td>&nbsp;</td>
             <td>(81)</td>
             <td>(3)</td>
             <td>27</td>
@@ -7994,7 +8205,6 @@ El movimiento de los saldos de los activos y pasivos financieros clasificados en
         </tr>
         <tr>
             <td>Compras, ventas y liquidaciones (**)</td>
-            <td>&nbsp;</td>
             <td>438</td>
             <td>(25)</td>
             <td>(510)</td>
@@ -8004,7 +8214,6 @@ El movimiento de los saldos de los activos y pasivos financieros clasificados en
         </tr>
         <tr>
             <td>Entradas/(salidas) netas en Nivel 3</td>
-            <td>&nbsp;</td>
             <td>16</td>
             <td>-</td>
             <td>145</td>
@@ -8014,7 +8223,6 @@ El movimiento de los saldos de los activos y pasivos financieros clasificados en
         </tr>
         <tr>
             <td>Diferencias de cambio y otros</td>
-            <td>&nbsp;</td>
             <td>(47)</td>
             <td>49</td>
             <td>(71)</td>
@@ -8024,7 +8232,6 @@ El movimiento de los saldos de los activos y pasivos financieros clasificados en
         </tr>
         <tr>
             <td>Saldo final</td>
-            <td>&nbsp;</td>
             <td>822</td>
             <td>116</td>
             <td>463</td>
@@ -20084,7 +20291,7 @@ El desglose de los epígrafes “Ganancias acumuladas, Reservas de revalorizaci�
             <td>20.937</td>
         </tr>
     </tbody>
-
+</table>
 A efectos de la asignación de las reservas y pérdidas de ejercicios anteriores a las sociedades consolidadas y a la matriz, se han considerado, entre otros, las transferencias de reservas generadas por los dividendos pagados y las transacciones efectuadas entre dichas sociedades en el ejercicio en que las mismas tuvieron lugar.
 
 
@@ -20235,7 +20442,7 @@ Los porcentajes de las acciones mantenidas en la autocartera del Grupo durante l
             <th>0,699%</th>
             <th>0,672%</th>
         </tr>
-        </tbody>
+    </thead>
 </table>
 
 A 31 de diciembre de 2016, 2015 y 2014, el número de acciones de BBVA aceptadas en concepto de garantía de las financiaciones concedidas por el Grupo, era:

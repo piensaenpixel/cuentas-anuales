@@ -210,16 +210,19 @@ span.highlight {
     text-align: left;
   }
 
-  th {
-    border-bottom: 2px solid $tableborder;
+ th {
     border-left: 2px solid $tableborder;
-    color: $dark;
+    border-right: 2px solid $tableborder;
+    color: $white;
     font-family: 'BentonMedium';
     font-size: 15px;
     line-height: 26px;
     padding: 25px 20px;
     text-align: center;
+    background: $green;
+    &.hover {
 
+    }
     @media (max-width: $mobile) {
       padding: 10px;
     }
@@ -229,9 +232,14 @@ span.highlight {
     }
   }
 
+  th[colspan]{
+   border-bottom: 2px solid #fff;
+  }
+
   .hover {
     @include transition(background, 300ms);
-    background: $lightgrey;
+    background: rgba($green, 0.10);
+    color: $dark;
   }
 
 
