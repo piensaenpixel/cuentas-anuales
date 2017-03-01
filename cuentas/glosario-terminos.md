@@ -12,13 +12,13 @@ permalink: /cuentas/glosario/
 
 **Acciones propias:** Incluye el importe de los instrumentos de capital propios en poder de la entidad.
 
-**Activos financieros deteriorados: ** Un activo financiero se considera deteriorado y, por tanto, se corrige su valor en libros para reflejar el efecto de dicho deterioro, cuando existe una evidencia objetiva de que se han producido eventos que dan lugar a:
+**Activos financieros deteriorados:** Un activo financiero se considera deteriorado y, por tanto, se corrige su valor en libros para reflejar el efecto de dicho deterioro, cuando existe una evidencia objetiva de que se han producido eventos que dan lugar a:
 <ul><li>a) En el caso de instrumentos de deuda (créditos y valores representativos de deuda), un impacto negativo en los flujos de efectivo futuros que se estimaron en el momento de formalizarse la transacción.</li>
 <li>b) En el caso de instrumentos de patrimonio, que no pueda recuperarse su valor en libros.</li></ul>
 
 **Activos financieros disponibles para la venta:** Los valores representativos de deuda no calificados como inversiones mantenidas hasta el vencimiento o a valor razonable con cambios en con cambios en resultados, y los instrumentos de patrimonio de entidades que no sean dependientes, asociadas o negocios conjuntos de la entidad y que no se hayan incluido en la categoría de a valor razonable con cambios en resultados.
 
-**Activos no corrientes y grupos enajenables de elementos que se han clasificado como mantenidos para la venta: ** Un activo no corriente, o un grupo enajenable, cuyo valor en libros se pretende recuperar, fundamentalmente, a través de su venta, en lugar de mediante su uso continuado y cumpla los siguientes requisitos: 
+**Activos no corrientes y grupos enajenables de elementos que se han clasificado como mantenidos para la venta:** Un activo no corriente, o un grupo enajenable, cuyo valor en libros se pretende recuperar, fundamentalmente, a través de su venta, en lugar de mediante su uso continuado y cumpla los siguientes requisitos: 
 <ul><li>a) Que esté disponible para su venta inmediata en el estado y forma existentes a la fecha del balance de acuerdo con la costumbre y condiciones habituales para la venta de estos activos.</li>
 <li>b) Que su venta se considere altamente probable.</li></ul>
 
@@ -81,7 +81,7 @@ Se incluyen en estos capítulos, tanto la inversión como los depósitos de clie
 
 **Capital de nivel 2 (T2):** Incluye: subordinadas, participaciones preferentes, la genérica computable e intereses minoritarios.
 
-** Capital económico:** Métodos o prácticas que permiten a los bancos evaluar riesgos y asignar capital para cubrir los efectos económicos de las actividades de riesgo.
+**Capital económico:** Métodos o prácticas que permiten a los bancos evaluar riesgos y asignar capital para cubrir los efectos económicos de las actividades de riesgo.
 
 **Cédulas hipotecarias:** Activo financiero o título de renta fija que se emite con la garantía de la cartera de préstamos hipotecarios de la entidad de crédito emisora.
 
@@ -97,11 +97,11 @@ Se incluyen en estos capítulos, tanto la inversión como los depósitos de clie
 
 **Comisiones:** Los ingresos y gastos en concepto de comisiones y honorarios asimilados se reconocen en la cuenta de resultados consolidados con criterios distintos según sea su naturaleza. Los más significativos son:
 
-    - Los vinculados a activos y pasivos financieros designados a valor razonable con cambios en resultados, se reconocen en el momento de su cobro.
+- Los vinculados a activos y pasivos financieros designados a valor razonable con cambios en resultados, se reconocen en el momento de su cobro.
 
-    - Los que tienen su origen en transacciones o servicios que se prolongan a lo largo del tiempo, se reconocen durante la vida de tales transacciones o servicios.
+- Los que tienen su origen en transacciones o servicios que se prolongan a lo largo del tiempo, se reconocen durante la vida de tales transacciones o servicios.
 
-    - Los que responden a un acto singular, cuando se produce el acto que los origina.
+- Los que responden a un acto singular, cuando se produce el acto que los origina.
 
 Compromisos contingentes concedidos Son obligaciones posibles de la entidad, surgidas como consecuencia de sucesos pasados, cuya existencia está condicionada a que ocurran, o no, uno o más eventos futuros independientes de la voluntad de la entidad y que podrían dar lugar al reconocimiento de activos financieros.
 
@@ -207,11 +207,15 @@ La suma de las variaciones registradas en el capítulo “Otro resultado  global
 
 Usualmente, la existencia de influencia significativa por parte de una entidad se evidencia a través de una o varias de las siguientes vías:
 
-    a) representación en el consejo de administración, u órgano de dirección equivalente de la entidad participada;
-    b) participación en los procesos de fijación de políticas, entre los que se incluyen las decisiones sobre dividendos y otra distribuciones;
-    c) transacciones de importancia relativa entre la entidad y la participada;
-    d) intercambio de personal directivo; o    
-    e) suministro de información técnica esencial.
+- a) representación en el consejo de administración, u órgano de dirección equivalente de la entidad participada;
+
+- b) participación en los procesos de fijación de políticas, entre los que se incluyen las decisiones sobre dividendos y otra distribuciones;
+
+- c) transacciones de importancia relativa entre la entidad y la participada;
+
+- d) intercambio de personal directivo; o    
+
+- e) suministro de información técnica esencial.
 
 **Ingresos por dividendos:** Incluye los dividendos y retribuciones de instrumentos de capital cobrados o anunciados en el ejercicio, que correspondan a beneficios generados por las entidades participadas con posterioridad a la adquisición de la participación. Los rendimientos se registrarán por su importe bruto, sin deducir, en su caso, las retenciones de impuestos realizadas en origen.
 
@@ -235,11 +239,15 @@ Usualmente, la existencia de influencia significativa por parte de una entidad s
 
 **Operación conjunta:** Acuerdo conjunto en el que las partes que poseen el control conjunto del acuerdo ostentan derechos sobre los activos de este y tienen obligaciones por sus pasivos. Un operador conjunto deberá reconocer los elementos siguientes en relación con su participación en una operación conjunta:
 
-    a) sus activos, incluida la parte que le corresponda de los activos de titularidad conjunta;
-    b) sus pasivos, incluida la parte que le corresponda de los pasivos contraídos de forma conjunta;
-    c) los ingresos obtenidos de la venta de su parte de la producción derivada de la operación conjunta;
-    d) su parte de los ingresos obtenidos de la venta de la producción derivada de la operación conjunta; y
-    e) sus gastos, incluida la parte que le corresponda de los gastos conjuntos.
+- a) sus activos, incluida la parte que le corresponda de los activos de titularidad conjunta;
+
+- b) sus pasivos, incluida la parte que le corresponda de los pasivos contraídos de forma conjunta;
+
+- c) los ingresos obtenidos de la venta de su parte de la producción derivada de la operación conjunta;
+
+- d) su parte de los ingresos obtenidos de la venta de la producción derivada de la operación conjunta; y
+
+- e) sus gastos, incluida la parte que le corresponda de los gastos conjuntos.
 
 Un operador conjunto contabilizará los activos, pasivos, ingresos y gastos relacionados con su participación en una operación conjunta de acuerdo con las NIIF aplicables a los activos, pasivos, ingresos y gastos específicos de que se trate.
 
@@ -318,8 +326,9 @@ Value at Risk (VaR) Es la variable básica para medir y controlar el riesgo de m
 
 Las cifras de VaR se estiman siguiendo dos metodologías:   
 
-    a) VaR sin alisado, que equipondera la información diaria de los últimos dos años transcurridos. Actualmente ésta es la metodología oficial de medición de riesgos de mercado de cara al seguimiento y control de límites de riesgo.
-    b) VaR con alisado, que da mayor peso a la información más reciente de los mercados. Es una medición complementaria a la anterior.
+- a) VaR sin alisado, que equipondera la información diaria de los últimos dos años transcurridos. Actualmente ésta es la metodología oficial de medición de riesgos de mercado de cara al seguimiento y control de límites de riesgo.
+
+- b) VaR con alisado, que da mayor peso a la información más reciente de los mercados. Es una medición complementaria a la anterior.
 
 El VaR con alisado se adapta con mayor rapidez a los cambios en las condiciones de los mercados financieros, mientras que el VaR sin alisado es una medida, en general, más estable que tenderá a superar al VaR con alisado cuando predomine la tendencia a menor volatilidad en los mercados y tenderá a ser inferior en los momentos en que se produzcan repuntes en la incertidumbre reinante en los mismos.
 
