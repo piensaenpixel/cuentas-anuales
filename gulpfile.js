@@ -156,6 +156,27 @@ function adjustLink () {
   });
 }
 
+function fixLink () {
+  let replacement;
+  let needle = /(href=['"])([\s]?)([^'"\s]+)([\s]?)(['"])/g;
+
+  return through.obj((file, enc, cb) => {
+    replacement = '$1' + '$3' + '$5';
+
+    if (file.isNull()) {
+      return cb(null, file);
+    }
+
+    if (file.isStream()) {
+      file.contents = file.contents.pipe(replace(needle, replacement));
+    } else if (file.isBuffer()) {
+      file.contents = new Buffer(String(file.contents).replace(needle, replacement));
+    }
+
+    return cb(null, file);
+  });
+}
+
 gulp.task('wadus', () => {
   gulp.src('_site/stylesheets/**/*')
     .pipe(gulp.dest('_deliver/stylesheets'));
@@ -167,6 +188,7 @@ gulp.task('wadus', () => {
     .pipe(gulp.dest('_deliver/javascripts'));
 
   return gulp.src('_site/**/*.html')
+    .pipe(fixLink())
     .pipe(adjustPath('/stylesheets/main.css'))
     .pipe(adjustPath('/javascripts/main.js'))
     .pipe(adjustPath('/images'))

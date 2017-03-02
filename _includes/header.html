@@ -10,7 +10,7 @@
           {% if forloop.index == 1 %}
             {% for language in site.languages %}
               {% if language != lang %}
-                <a href="{% if language == site.default_lang %}{{site.baseurl}}{{page.url}}{% else %}{{site.baseurl}}/{{language}}{{page.url}}{% endif %}">
+                <a href="{% if language == site.default_lang %} {{site.baseurl}}{{page.url}} {% else %} {{site.baseurl}}/{{language}}{{page.url}} {% endif %}">
                   {{ site.data[lang].header.options[0].title }}
                 </a>
               {% endif %}
