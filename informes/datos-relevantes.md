@@ -23,7 +23,7 @@ permalink: informe-de-gestion/datos-relevantes/
         </tr>
     </thead>
     <tbody>
-        <tr>
+        <tr class="b2">
             <td>Balance (millones de euros)</td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
@@ -72,7 +72,7 @@ permalink: informe-de-gestion/datos-relevantes/
             <td>55.282</td>
             <td>51.609</td>
         </tr>
-        <tr>
+        <tr class="b2">
             <td>Cuenta de resultados (millones de euros)</td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
@@ -114,7 +114,7 @@ permalink: informe-de-gestion/datos-relevantes/
             <td>2.642</td>
             <td>2.618</td>
         </tr>
-        <tr>
+        <tr class="b2">
             <td>La acción y ratios bursátiles</td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
@@ -170,7 +170,7 @@ permalink: informe-de-gestion/datos-relevantes/
             <td>5,5</td>
             <td>4,2</td>
         </tr>
-        <tr>
+        <tr class="b2">
             <td>Ratios relevantes (%)</td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
@@ -233,7 +233,7 @@ permalink: informe-de-gestion/datos-relevantes/
             <td>74</td>
             <td>64</td>
         </tr>
-        <tr>
+        <tr class="b2">
             <td>Ratios de capital (%) (3)</td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
@@ -261,7 +261,7 @@ permalink: informe-de-gestion/datos-relevantes/
             <td>15,0</td>
             <td>15,1</td>
         </tr>
-        <tr>
+        <tr class="b2">
             <td>Información adicional</td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
@@ -299,7 +299,10 @@ permalink: informe-de-gestion/datos-relevantes/
     </tbody>
 </table>
 
-*Nota general: desde el tercer trimestre de 2015, la participación total en Garanti se consolida por el método de integración global. Para períodos anteriores, la información financiera contenida en este documento se presenta integrándola en la proporción correspondiente al porcentaje de participación que el Grupo tenía hasta entonces (25,01%).
+**Nota general: desde el tercer trimestre de 2015, la participación total en Garanti se consolida por el método de integración global. Para períodos anteriores, la información financiera contenida en este documento se presenta integrándola en la proporción correspondiente al porcentaje de participación que el Grupo tenía hasta entonces (25,01%)**.
+
 (1) Ajustado por remuneración de instrumentos de capital de nivel 1 adicional.
+
 (2) Los ratios ROE y ROTE incluyen, en el denominador, los fondos propios medios del Grupo, pero no tienen en cuenta otra partida del patrimonio neto, denominada “Otro resultado global acumulado”, cuyo importe, en saldos medios, es –2.248 millones de euros en 2014, –1.139 millones en 2015 y –4.492 millones en 2016.
+
 (3) Los ratios de capital están calculados bajo la normativa CRD IV de Basilea III, en la cual se aplica un faseado del 60% para 2016 y un 40% para 2015.

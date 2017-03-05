@@ -2374,14 +2374,14 @@ Las Notas 1 a 56 y los Anexos I a XIV adjuntos forman parte integrante del estad
             <td>23.101</td>
             <td>(6.188)</td>
         </tr>
-        <tr>
+        <tr class="b">
             <td>1. Resultado del periodo</td>
             <td>&nbsp;</td>
             <td>4.693</td>
             <td>3.328</td>
             <td>3.082</td>
         </tr>
-        <tr>
+        <tr class="b">
             <td>2. Ajustes para obtener los flujos de efectivo de las actividades de explotación:</td>
             <td>&nbsp;</td>
             <td>6.784</td>
@@ -2402,7 +2402,7 @@ Las Notas 1 a 56 y los Anexos I a XIV adjuntos forman parte integrante del estad
             <td>17.055</td>
             <td>7.170</td>
         </tr>
-        <tr>
+        <tr class="b">
             <td>3. Aumento/Disminución neto de los activos de explotación </td>
             <td>&nbsp;</td>
             <td>(4.428)</td>
@@ -2444,7 +2444,7 @@ Las Notas 1 a 56 y los Anexos I a XIV adjuntos forman parte integrante del estad
             <td>(844)</td>
             <td>(966)</td>
         </tr>
-        <tr>
+        <tr class="b">
             <td>4. Aumento/Disminución neto de los pasivos de explotación </td>
             <td>&nbsp;</td>
             <td>1.273</td>
@@ -2479,21 +2479,21 @@ Las Notas 1 a 56 y los Anexos I a XIV adjuntos forman parte integrante del estad
             <td>(3.393)</td>
             <td>931</td>
         </tr>
-        <tr>
+        <tr class="b">
             <td>5. Cobros/Pagos por impuesto sobre beneficios</td>
             <td>&nbsp;</td>
             <td>(1.699)</td>
             <td>(1.274)</td>
             <td>(898)</td>
         </tr>
-        <tr>
+        <tr class="b">
             <td>B) FLUJOS DE EFECTIVO DE LAS ACTIVIDADES DE INVERSIÓN (1 + 2)</td>
             <td><a href="#">51</a></td>
             <td>(560)</td>
             <td>(4.411)</td>
             <td>(1.151)</td>
         </tr>
-        <tr>
+        <tr class="b">
             <td>1. Pagos</td>
             <td>&nbsp;</td>
             <td>(3.978)</td>
@@ -2549,7 +2549,7 @@ Las Notas 1 a 56 y los Anexos I a XIV adjuntos forman parte integrante del estad
             <td>-</td>
             <td>-</td>
         </tr>
-        <tr>
+        <tr class="b">
             <td>2. Cobros</td>
             <td>&nbsp;</td>
             <td>3.418</td>
@@ -2605,14 +2605,14 @@ Las Notas 1 a 56 y los Anexos I a XIV adjuntos forman parte integrante del estad
             <td>86</td>
             <td>-</td>
         </tr>
-        <tr>
+        <tr class="b">
             <td>C) FLUJOS DE EFECTIVO DE LAS ACTIVIDADES DE FINANCIACIÓN (1 + 2)</td>
             <td><a href="#">51</a></td>
             <td>(1.113)</td>
             <td>127</td>
             <td>3.157</td>
         </tr>
-        <tr>
+        <tr class="b">
             <td>1. Pagos</td>
             <td>&nbsp;</td>
             <td>(4.335)</td>
@@ -2654,7 +2654,7 @@ Las Notas 1 a 56 y los Anexos I a XIV adjuntos forman parte integrante del estad
             <td>(146)</td>
             <td>(313)</td>
         </tr>
-        <tr>
+        <tr class="b">
             <td>2. Cobros</td>
             <td>&nbsp;</td>
             <td>3.222</td>
@@ -2689,28 +2689,28 @@ Las Notas 1 a 56 y los Anexos I a XIV adjuntos forman parte integrante del estad
             <td>-</td>
             <td>-</td>
         </tr>
-        <tr>
+        <tr class="b">
             <td>D) EFECTO DE LAS VARIACIONES DE LOS TIPOS DE CAMBIO </td>
             <td>&nbsp;</td>
             <td>(3.463)</td>
             <td>(6.781)</td>
             <td>725</td>
         </tr>
-        <tr>
+        <tr class="b">
             <td>E) AUMENTO/(DISMINUCIÓN) NETO DEL EFECTIVO Y EQUIVALENTES (A + B + C + D)</td>
             <td>&nbsp;</td>
             <td>1.489</td>
             <td>12.036</td>
             <td>(3.457)</td>
         </tr>
-        <tr>
+        <tr class="b">
             <td>F) EFECTIVO Y EQUIVALENTES AL INICIO DEL EJERCICIO</td>
             <td>&nbsp;</td>
             <td>43.466</td>
             <td>31.430</td>
             <td>34.887</td>
         </tr>
-        <tr>
+        <tr class="b">
             <td>G) EFECTIVO Y EQUIVALENTES AL FINAL DEL EJERCICIO (E + F)</td>
             <td>&nbsp;</td>
             <td>44.955</td>
@@ -2719,9 +2719,15 @@ Las Notas 1 a 56 y los Anexos I a XIV adjuntos forman parte integrante del estad
         </tr>
     </tbody>
 </table>
+[Descargar tabla](#)
 
-<table>
+<table class="l">
     <thead>
+        <tr class="m">
+            <th></th>
+            <th></th>
+            <th>Millones de euros</th>
+        </tr>
         <tr class>
             <th>COMPONENTES DEL EFECTIVO Y EQUIVALENTES AL FINAL DEL PERIODO</th>
             <th>Notas</th>
@@ -2759,7 +2765,7 @@ Las Notas 1 a 56 y los Anexos I a XIV adjuntos forman parte integrante del estad
             <td>-</td>
             <td>-</td>
         </tr>
-        <tr>
+        <tr class="b">
             <td>TOTAL EFECTIVO Y EQUIVALENTES AL FINAL DEL EJERCICIO</td>
             <td><a href="#">9,13</a></td>
             <td>44.955</td>
@@ -2768,7 +2774,8 @@ Las Notas 1 a 56 y los Anexos I a XIV adjuntos forman parte integrante del estad
         </tr>
     </tbody>
 </table>
+[Descargar tabla](#)
 
 (*) Se presentan, única y exclusivamente, a efectos comparativos (Nota 1.3).
 
-Las Notas 1 a 55 y los Anexos I a XIV adjuntos forman parte integrante del estado de flujos de efectivo consolidados generados en el ejercicio anual terminado el 31 de diciembre de 2016.
+Las Notas 1 a 56 y los Anexos I a XIV adjuntos forman parte integrante del estado de flujos de efectivo consolidados generados en el ejercicio anual terminado el 31 de diciembre de 2016.
