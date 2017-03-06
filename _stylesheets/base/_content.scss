@@ -160,6 +160,26 @@ span.highlight {
     list-style-type: disc;
     margin-bottom: 32px;
     margin-left: 36px;
+    ul {
+      color: $txtgrey;
+      font-size: 15px;
+      line-height: 26px;
+      list-style-type: circle;
+      margin-bottom: 32px;
+      margin-left: 18px;
+      > li {
+        margin-bottom: 8px;
+        p {
+          margin-bottom: 8px;
+        }
+      }
+    }
+    > li {
+      margin-bottom: 32px;
+      p {
+        margin-bottom: 8px;
+      }
+    }
   }
 
   > ol {
@@ -171,9 +191,13 @@ span.highlight {
   }
 
   table {
-    border: 2px solid $tableborder;
+    &.l {
+      width: calc(100% + 180px);
+    }
     width: 100%;
     margin-bottom: 20px;
+    border-bottom: 2px solid $tableborder;
+
     @media (max-width: $mobile) {
       border-right: 0;
       border-left: 0;
@@ -182,28 +206,63 @@ span.highlight {
     + h2 {
       padding-top: 80px;
     }
+    .b {
+      font-weight: bold;
+    }
+    .b2{
+      font-weight: bold;
+      td {
+        background: #f5f5f5;
+      }
+    }
+
   }
+
 
   td {
     border-left: 2px solid $tableborder;
     color: $txtgrey;
     font-family: 'BentonBook';
-    font-size: 15px;
-    line-height: 26px;
-    padding: 15px 20px;
+    font-size: 13px;
+    line-height: 16px;
+    padding: 8px 16px;
     vertical-align: top;
     text-align: right;
+
+    &.s {
+      padding-left: 32px;
+    }
+    &.s2 {
+      padding-left: 44px;
+    }
+
     @media (max-width: $mobile) {
       padding: 10px;
     }
 
     &:first-child {
-      border-left: 0;
+      width: 300px;
+      border-left: 2px solid $tableborder;
+    }
+
+    &:last-child {
+      border-right: 2px solid $tableborder;
     }
 
     &:last-child {
       text-align: center;
     }
+  }
+
+  tr.s td:first-child {
+    padding-left: 32px;
+  }
+
+  tr.s2 td:first-child {
+    padding-left: 44px;
+  }
+  tr.s3 td:first-child {
+    padding-left: 52px;
   }
 
   tr td:first-child {
@@ -215,9 +274,9 @@ span.highlight {
     border-right: 2px solid $tableborder;
     color: $white;
     font-family: 'BentonMedium';
-    font-size: 15px;
-    line-height: 26px;
-    padding: 25px 20px;
+    font-size: 13px;
+    line-height: 16px;
+    padding: 16px;
     text-align: center;
     background: $green;
     &.hover {
@@ -229,6 +288,16 @@ span.highlight {
     &:first-child {
       border-left: 0;
       text-align: left;
+    }
+  }
+
+  .m th {
+    background: none;
+    padding: 8px 0;
+    color: #000;
+    border: 0;
+    &[colspan] {
+      border: 0;
     }
   }
 
