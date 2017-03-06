@@ -24343,13 +24343,13 @@ El desglose del número medio de empleados del Grupo BBVA, distribuido por cate
             <td>Administradoras de fondos de pensiones</td>
             <td>335</td>
             <td>332</td>
-            <td>278/td>
+            <td>278</td>
         </tr>
         <tr>
             <td>Otras sociedades no bancarias</td>
             <td>16.307</td>
             <td>17.337</td>
-            <td>16.695/td>
+            <td>16.695</td>
         </tr>
         <tr class="b2">
             <td>Total</td>
