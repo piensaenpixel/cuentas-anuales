@@ -24349,7 +24349,7 @@ El desglose del número medio de empleados del Grupo BBVA, distribuido por cate
             <td>Otras sociedades no bancarias</td>
             <td>16.307</td>
             <td>17.337</td>
-            <td>16.695/td>
+            <td>16.695</td>
         </tr>
         <tr class="b2">
             <td>Total</td>
