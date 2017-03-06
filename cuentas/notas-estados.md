@@ -36,8 +36,6 @@ Las Cuentas Anuales consolidadas del Grupo BBVA se presentan de acuerdo con lo e
 
 Las Cuentas Anuales consolidadas del Grupo BBVA correspondientes al ejercicio anual terminado el 31 de diciembre de 2016, han sido formuladas por los Administradores del Banco (en la reunión de su Consejo de Administración celebrada el 9 de febrero de 2017) aplicando los criterios de consolidación y los principios y políticas contables y criterios de valoración descritos en la Nota 2, de forma que muestran la imagen fiel del patrimonio consolidado y de la situación financiera consolidada del Grupo a 31 de diciembre de 2016 y de los resultados consolidados de sus operaciones y de sus flujos de efectivo consolidados generados durante el ejercicio anual terminado en esa fecha.
 
-Dichas Cuentas Anuales consolidadas han sido elaboradas a partir de los registros de contabilidad mantenidos por el Banco y por cada una de las restantes entidades integradas en el Grupo, e incluyen los ajustes y reclasificaciones necesarios para homogeneizar las políticas contables y criterios de valoración aplicados por el Grupo (ver Nota 2.2).
-
 Dichas Cuentas Anuales consolidadas han sido elaboradas a partir de los registros de contabilidad mantenidos por el Banco y por cada una de las restantes entidades integradas en el Grupo, e incluyen los ajustes y reclasificaciones necesarios para homogeneizar las políticas contables y criterios de valoración aplicados por el Grupo (ver Nota 2.2).
 
 No existe ningún principio contable o criterio de valoración de aplicación obligatoria que, teniendo un efecto significativo en las Cuentas Anuales consolidadas, haya dejado de aplicarse en su elaboración.
@@ -174,13 +172,14 @@ A efectos de su consolidación, y siguiendo los criterios establecidos por las 
 
   Con el objeto de determinar si existe control sobre una entidad estructurada y, por tanto, si se debe consolidar en el Grupo, se analizan los derechos contractuales existentes distintos de los derechos de voto. Para ello, se considera el diseño y propósito de cada entidad así como, entre otros, los siguientes factores:
 
-- Evidencia de la habilidad práctica para dirigir las actividades relevantes de la entidad de acuerdo con sus necesidades específicas de negocio (incluyendo las decisiones que pueden surgir sólo en circunstancias particulares).
 
-  – Posible existencia de relaciones especiales con la entidad.
+  - Evidencia de la habilidad práctica para dirigir las actividades relevantes de la entidad de acuerdo con sus necesidades específicas de negocio (incluyendo las decisiones que pueden surgir sólo en circunstancias particulares).
 
-  – Compromisos implícitos o explícitos del Grupo para respaldar a la entidad.
+  - Posible existencia de relaciones especiales con la entidad.
 
-  – Si el Grupo tiene la capacidad de utilizar su poder sobre la entidad para influir en el importe de los rendimientos a los que se encuentra expuesto.
+  - Compromisos implícitos o explícitos del Grupo para respaldar a la entidad.
+
+  - Si el Grupo tiene la capacidad de utilizar su poder sobre la entidad para influir en el importe de los rendimientos a los que se encuentra expuesto.
 
   Se producen casos en los que el Grupo tiene una exposición alta a los rendimientos variables existentes y mantiene el poder de decisión sobre la entidad, bien de forma directa o a través de un agente.
 
@@ -262,7 +261,6 @@ Las variaciones que se producen con posterioridad a la designación de la cober
 
 - En las coberturas de inversiones netas en negocios en el extranjero, las diferencias de valoración surgidas en la parte de cobertura eficaz de los elementos de cobertura se registran transitoriamente en el epígrafe “Otro resultado global acumulado - Elementos que pueden reclasificarse en resultados - En las coberturas de inversiones netas en negocios en el extranjero, las diferencias de valoración surgidas en la parte de cobertura eficaz de los elementos de cobertura se registran transitoriamente en el epígrafe “Otro resultado global acumulado - Elementos que pueden reclasificarse en resultados
 
-- Cobertura de inversiones netas en negocios en el extranjero (porción efectiva)” de los balances consolidados, con contrapartida en los epígrafes “Derivados - contabilidad de coberturas” del activo o el pasivo del balance consolidado, según corresponda. Dichas diferencias en valoración se reconocerán en el capítulo “Diferencias de cambio (neto)” de la cuenta de pérdidas y ganancias consolidada en el momento en que la inversión en el extranjero se enajene o cause baja de balance.
 
 ###### Otros instrumentos financieros
 
@@ -369,15 +367,15 @@ El importe del deterioro de los instrumentos de patrimonio se determina en funci
 
 - Instrumentos de patrimonio disponibles para la venta, valorados a valor razonable: Cuando existe una evidencia objetiva de que las diferencias negativas surgidas en la valoración de estos activos tienen su origen en un deterioro de los mismos, dejan de registrarse en “Otro resultado global acumulado - Elementos que pueden reclasificarse en resultados - Activos financieros disponibles para la venta” y se registran en la cuenta de pérdidas y ganancias consolidada. Con carácter general, el Grupo considera que hay una evidencia objetiva de deterioro de los instrumentos de patrimonio clasificados como disponibles para la venta cuando, de manera sostenida, han existido minusvalías latentes significativas debidas a una caída de cotización de al menos el 40% o prolongada durante más de 18 meses.
 
-Para la aplicación de estas evidencias de deterioro, el Grupo tiene en cuenta la volatilidad que muestra cada título individualmente en su cotización, para determinar si es un porcentaje recuperable mediante su venta en el mercado, pudiendo existir otros umbrales diferentes para determinados títulos o sectores específicos.
+  Para la aplicación de estas evidencias de deterioro, el Grupo tiene en cuenta la volatilidad que muestra cada título individualmente en su cotización, para determinar si es un porcentaje recuperable mediante su venta en el mercado, pudiendo existir otros umbrales diferentes para determinados títulos o sectores específicos.
 
-Adicionalmente, para inversiones individualmente significativas, el Grupo tiene como política contrastar la valoración de los títulos más significativos con valoraciones realizadas por expertos independientes
+  Adicionalmente, para inversiones individualmente significativas, el Grupo tiene como política contrastar la valoración de los títulos más significativos con valoraciones realizadas por expertos independientes
 
-Cualquier recuperación de pérdidas por deterioro previamente registradas correspondientes a instrumentos de patrimonio clasificados como disponibles para la venta, no se reconoce en la cuenta de pérdidas y ganancias consolidada, sino que se reconoce en el epígrafe “Otro resultado global acumulado - Elementos que pueden reclasificarse en resultados - Activos financieros disponibles para la venta” de los balances consolidados (ver Nota 30).
+  Cualquier recuperación de pérdidas por deterioro previamente registradas correspondientes a instrumentos de patrimonio clasificados como disponibles para la venta, no se reconoce en la cuenta de pérdidas y ganancias consolidada, sino que se reconoce en el epígrafe “Otro resultado global acumulado - Elementos que pueden reclasificarse en resultados - Activos financieros disponibles para la venta” de los balances consolidados (ver Nota 30).
 
 - Instrumentos de patrimonio valorados a coste: El deterioro del valor de los instrumentos de patrimonio valorados a su coste de adquisición equivalen a la diferencia positiva entre su valor en libros y el valor actual de los flujos de efectivo futuros esperados, actualizados al tipo de rentabilidad de mercado para otros valores similares. Para su determinación, salvo mejor evidencia, se considera el patrimonio neto de la entidad participada (excepto otros resultados globales acumulados debidos a coberturas por flujos de efectivo) que se deduce del último balance aprobado, consolidado en su caso, corregido por las plusvalías tácitas existentes en la fecha de valoración.
 
-Las pérdidas por deterioro se registran en la cuenta de pérdidas y ganancias consolidada del ejercicio en el que se manifiestan, minorando directamente el coste del instrumento. Estas pérdidas sólo pueden recuperarse posteriormente en el caso de venta de dichos activos
+  Las pérdidas por deterioro se registran en la cuenta de pérdidas y ganancias consolidada del ejercicio en el que se manifiestan, minorando directamente el coste del instrumento. Estas pérdidas sólo pueden recuperarse posteriormente en el caso de venta de dichos activos
 
 
 #### 2.2.2 Transferencias y bajas del balance de activos y pasivos financieros
@@ -849,6 +847,7 @@ A continuación, se muestran los saldos aportados al balance consolidado a 31 d
         </tr>
     </tbody>
 </table>
+[Descargar tabla](#)
 
 <table>
     <thead>
@@ -867,36 +866,6 @@ A continuación, se muestran los saldos aportados al balance consolidado a 31 d
             <td>172</td>
         </tr>
         <tr>
-            <td>Rendimiento de instrumentos de capital</td>
-            <td>0</td>
-            <td>-</td>
-            <td>-</td>
-        </tr>
-        <tr>
-            <td>Resultados de entidades valoradas por el método de la participación</td>
-            <td>(3)</td>
-            <td>(7)</td>
-            <td>(4)</td>
-        </tr>
-        <tr>
-            <td>Comisiones netas</td>
-            <td>15</td>
-            <td>41</td>
-            <td>26</td>
-        </tr>
-        <tr>
-            <td>Resultados de operaciones financieras (neto) y diferencias de cambio (neto)</td>
-            <td>0</td>
-            <td>0</td>
-            <td>0</td>
-        </tr>
-        <tr>
-            <td>Otros productos y cargas de explotación</td>
-            <td>(64)</td>
-            <td>(171)</td>
-            <td>(107)</td>
-        </tr>
-        <tr>
             <td class="b">MARGEN BRUTO</td>
             <td>52</td>
             <td>139</td>
@@ -909,58 +878,10 @@ A continuación, se muestran los saldos aportados al balance consolidado a 31 d
             <td>91</td>
         </tr>
         <tr>
-            <td>Gastos de administración</td>
-            <td>46</td>
-            <td>124</td>
-            <td>77</td>
-        </tr>
-        <tr>
-            <td>Gastos de personal</td>
-            <td>17</td>
-            <td>46</td>
-            <td>29</td>
-        </tr>
-        <tr>
-            <td>Otros gastos generales de administración</td>
-            <td>29</td>
-            <td>78</td>
-            <td>49</td>
-        </tr>
-        <tr>
-            <td>Amortización</td>
-            <td>8</td>
-            <td>22</td>
-            <td>14</td>
-        </tr>
-        <tr>
             <td class="b">MARGEN NETO</td>
             <td>(3)</td>
             <td>(7)</td>
             <td>(5)</td>
-        </tr>
-        <tr>
-            <td>Pérdidas por deterioro de activos financieros (neto)</td>
-            <td>12</td>
-            <td>32</td>
-            <td>20</td>
-        </tr>
-        <tr>
-            <td>Dotaciones a provisiones (neto)</td>
-            <td>(45)</td>
-            <td>(119)</td>
-            <td>(75)</td>
-        </tr>
-        <tr>
-            <td>RESULTADO DE LA ACTIVIDAD DE EXPLOTACIÓN</td>
-            <td>30</td>
-            <td>80</td>
-            <td>50</td>
-        </tr>
-        <tr>
-            <td>Otros resultados</td>
-            <td>1</td>
-            <td>2</td>
-            <td>1</td>
         </tr>
         <tr>
             <td class="b">GANANCIAS O PÉRDIDAS ANTES DE IMPUESTOS PROCEDENTES DE LAS ACTIVIDADES CONTINUADAS</td>
@@ -973,18 +894,6 @@ A continuación, se muestran los saldos aportados al balance consolidado a 31 d
             <td>38</td>
             <td>100</td>
             <td>63</td>
-        </tr>
-        <tr>
-            <td class="b">RESULTADO DEL EJERCICIO PROCEDENTE DE OPERACIONES CONTINUADAS</td>
-            <td>(7)</td>
-            <td>(19)</td>
-            <td>(12)</td>
-        </tr>
-        <tr>
-            <td>Resultado de operaciones interrumpidas (neto)</td>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
         </tr>
         <tr>
             <td class="b">RESULTADO DEL EJERCICIO</td>
@@ -2423,7 +2332,7 @@ BBVA considera la cultura de riesgos como un elemento esencial para la consolida
 
 - Formación: tiene el objetivo principal de difundir y asentar el modelo de gestión de riesgos en la organización, asegurando unos estándares en capacidades y conocimientos de los distintos intervinientes en los procesos de gestión de riesgos.
 
-La formación bien definida e implantada asegura la mejora continua de las capacidades y conocimientos de los profesionales del Grupo y en particular del área de GRM, y se instrumenta según cuatro vertientes que pretenden desarrollar cada una de las necesidades del colectivo GRM, a través de la profundización en conocimientos o habilidades de distintas materias como son: finanzas y riesgos, herramientas y tecnología, dirección y habilidades, e idiomas.
+  La formación bien definida e implantada asegura la mejora continua de las capacidades y conocimientos de los profesionales del Grupo y en particular del área de GRM, y se instrumenta según cuatro vertientes que pretenden desarrollar cada una de las necesidades del colectivo GRM, a través de la profundización en conocimientos o habilidades de distintas materias como son: finanzas y riesgos, herramientas y tecnología, dirección y habilidades, e idiomas.
 
 - Motivación: ámbito donde se persigue que los incentivos de los equipos de la función de riesgos apoyen la estrategia de gestión de los mismos, los valores y la cultura de la función en todos los niveles. Incluye la compensación, y todos aquellos otros elementos relacionados con la motivación - clima laboral, etc.,- que contribuyan a la consecución de los objetivos del Modelo.
 
@@ -2461,7 +2370,7 @@ En este contexto, existen una serie de riesgos emergentes que podrían afectar 
   En este sentido, la diversificación geográfica del Grupo es una pieza clave para lograr un alto nivel de recurrencia de ingresos, a pesar de las condiciones del entorno y de los ciclos económicos de las economías en las que opera.
 
 
-• Riesgos regulatorios y reputacionales
+- Riesgos regulatorios y reputacionales
 
   - Las entidades financieras están expuestas a un entorno regulatorio complejo y cambiante por parte de gobiernos y reguladores, que puede influir en su capacidad de crecimiento y en el desarrollo de determinados negocios, en mayores requerimientos de liquidez y capital y en la obtención de menores ratios de rentabilidad. El Grupo realiza una vigilancia constante de los cambios en el marco regulatorio, que le permite anticiparse y adaptarse a los mismos con suficiente antelación, adoptando las mejores prácticas y los criterios más eficientes y rigurosos en su implementación.
 
@@ -2660,8 +2569,8 @@ De acuerdo con la NIIF 7 “Instrumentos financieros: información a revelar”
             <td>5.262</td>
             <td>7.370</td>
         </tr>
-        <tr>
-            <td class="b">Préstamos y partidas a cobrar</td>
+        <tr class="b">
+            <td>Préstamos y partidas a cobrar</td>
             <td>&nbsp;</td>
             <td>482.011</td>
             <td>490.580</td>
@@ -3250,154 +3159,154 @@ A continuación, se presenta la escala reducida utilizada para clasificar los r
     <tbody>
         <tr>
             <td>AAA</td>
-            <td>AAA</td>
+            <td class="left">AAA</td>
             <td>1</td>
             <td>-</td>
             <td>2</td>
         </tr>
         <tr>
             <td>AA+</td>
-            <td>AA+</td>
+            <td class="left">AA+</td>
             <td>2</td>
             <td>2</td>
             <td>3</td>
         </tr>
         <tr>
             <td>AA</td>
-            <td>AA</td>
+            <td class="left">AA</td>
             <td>3</td>
             <td>3</td>
             <td>4</td>
         </tr>
         <tr>
             <td>AA-</td>
-            <td>AA-</td>
+            <td class="left">AA-</td>
             <td>4</td>
             <td>4</td>
             <td>5</td>
         </tr>
         <tr>
             <td>A+</td>
-            <td>A+</td>
+            <td class="left">A+</td>
             <td>5</td>
             <td>5</td>
             <td>6</td>
         </tr>
         <tr>
             <td>A</td>
-            <td>A</td>
+            <td class="left">A</td>
             <td>8</td>
             <td>6</td>
             <td>9</td>
         </tr>
         <tr>
             <td>A-</td>
-            <td>A-</td>
+            <td class="left">A-</td>
             <td>10</td>
             <td>9</td>
             <td>11</td>
         </tr>
         <tr>
             <td>BBB+</td>
-            <td>BBB+</td>
+            <td class="left">BBB+</td>
             <td>14</td>
             <td>11</td>
             <td>17</td>
         </tr>
         <tr>
             <td>BBB</td>
-            <td>BBB</td>
+            <td class="left">BBB</td>
             <td>20</td>
             <td>17</td>
             <td>24</td>
         </tr>
         <tr>
             <td>BBB-</td>
-            <td>BBB-</td>
+            <td class="left">BBB-</td>
             <td>31</td>
             <td>24</td>
             <td>39</td>
         </tr>
         <tr>
             <td>BB+</td>
-            <td>BB+</td>
+            <td class="left">BB+</td>
             <td>51</td>
             <td>39</td>
             <td>67</td>
         </tr>
         <tr>
             <td>BB</td>
-            <td>BB</td>
+            <td class="left">BB</td>
             <td>88</td>
             <td>67</td>
             <td>116</td>
         </tr>
         <tr>
             <td>BB-</td>
-            <td>BB-</td>
+            <td class="left">BB-</td>
             <td>150</td>
             <td>116</td>
             <td>194</td>
         </tr>
         <tr>
             <td>B+</td>
-            <td>B+</td>
+            <td class="left">B+</td>
             <td>255</td>
             <td>194</td>
             <td>335</td>
         </tr>
         <tr>
             <td>B</td>
-            <td>B</td>
+            <td class="left">B</td>
             <td>441</td>
             <td>335</td>
             <td>581</td>
         </tr>
         <tr>
             <td>B-</td>
-            <td>B-</td>
+            <td class="left">B-</td>
             <td>785</td>
             <td>581</td>
             <td>1.061</td>
         </tr>
         <tr>
             <td>CCC+</td>
-            <td>CCC+</td>
+            <td class="left">CCC+</td>
             <td>1.191</td>
             <td>1.061</td>
             <td>1.336</td>
         </tr>
         <tr>
             <td>CCC</td>
-            <td>CCC</td>
+            <td class="left">CCC</td>
             <td>1.500</td>
             <td>1.336</td>
             <td>1.684</td>
         </tr>
         <tr>
             <td>CCC-</td>
-            <td>CCC-</td>
+            <td class="left">CCC-</td>
             <td>1.890</td>
             <td>1.684</td>
             <td>2.121</td>
         </tr>
         <tr>
             <td>CC+</td>
-            <td>CC+</td>
+            <td class="left">CC+</td>
             <td>2.381</td>
             <td>2.121</td>
             <td>2.673</td>
         </tr>
         <tr>
             <td>CC</td>
-            <td>CC</td>
+            <td class="left">CC</td>
             <td>3.000</td>
             <td>2.673</td>
             <td>3.367</td>
         </tr>
         <tr>
             <td>CC-</td>
-            <td>CC-</td>
+            <td class="left">CC-</td>
             <td>3.780</td>
             <td>3.367</td>
             <td>4.243</td>
@@ -3530,14 +3439,12 @@ Las siguientes tablas muestran un detalle por contraparte y por producto de los 
 <table class="l">
     <thead>
         <tr class="m">
-            <th colspan="13">Millones de euros</th>
+            <th></th>
+            <th colspan="9">Millones de euros</th>
         </tr>
         <tr>
             <th></th>
             <th colspan="3">Vencidos pero cuyo valor no se ha deteriorado</th>
-            <th></th>
-            <th></th>
-            <th></th>
             <th></th>
             <th></th>
             <th></th>
@@ -3550,9 +3457,6 @@ Las siguientes tablas muestran un detalle por contraparte y por producto de los 
             <th><= 30 días</th>
             <th>> 30 días <= 60 días</th>
             <th>> 60 días <= 90 días</th>
-            <th>> 90 días <= 180 días</th>
-            <th>> 180 días <= 1 año</th>
-            <th>> 1 año</th>
             <th>Activos deteriorados</th>
             <th>Importe neto en libros de los activos cuyo valor se ha deteriorado</th>
             <th>Correcciones de valor específicas para activos financieros valorados individualmente</th>
@@ -3567,9 +3471,6 @@ Las siguientes tablas muestran un detalle por contraparte y por producto de los 
             <td>-</td>
             <td>-</td>
             <td>-</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
             <td>272</td>
             <td>128</td>
             <td>(120)</td>
@@ -3582,9 +3483,6 @@ Las siguientes tablas muestran un detalle por contraparte y por producto de los 
             <td>3.384</td>
             <td>696</td>
             <td>735</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
             <td>22.925</td>
             <td>12.133</td>
             <td>(3.084)</td>
@@ -3597,9 +3495,6 @@ Las siguientes tablas muestran un detalle por contraparte y por producto de los 
             <td>-</td>
             <td>-</td>
             <td>-</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
             <td>-</td>
             <td>-</td>
             <td>-</td>
@@ -3612,9 +3507,6 @@ Las siguientes tablas muestran un detalle por contraparte y por producto de los 
             <td>66</td>
             <td>-</td>
             <td>2</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
             <td>295</td>
             <td>256</td>
             <td>(19)</td>
@@ -3627,9 +3519,6 @@ Las siguientes tablas muestran un detalle por contraparte y por producto de los 
             <td>3</td>
             <td>-</td>
             <td>82</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
             <td>10</td>
             <td>3</td>
             <td>-</td>
@@ -3642,9 +3531,6 @@ Las siguientes tablas muestran un detalle por contraparte y por producto de los 
             <td>4</td>
             <td>7</td>
             <td>21</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
             <td>34</td>
             <td>8</td>
             <td>(6)</td>
@@ -3657,9 +3543,6 @@ Las siguientes tablas muestran un detalle por contraparte y por producto de los 
             <td>968</td>
             <td>209</td>
             <td>204</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
             <td>13.786</td>
             <td>6.383</td>
             <td>(2.602)</td>
@@ -3672,9 +3555,6 @@ Las siguientes tablas muestran un detalle por contraparte y por producto de los 
             <td>2.343</td>
             <td>479</td>
             <td>426</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
             <td>8.801</td>
             <td>5.483</td>
             <td>(458)</td>
@@ -3687,9 +3567,6 @@ Las siguientes tablas muestran un detalle por contraparte y por producto de los 
             <td>3.384</td>
             <td>696</td>
             <td>735</td>
-            <td>0</td>
-            <td>0</td>
-            <td>0</td>
             <td>23.197</td>
             <td>12.261</td>
             <td>(3.204)</td>
@@ -3708,18 +3585,12 @@ Las siguientes tablas muestran un detalle por contraparte y por producto de los 
             <td>&nbsp;</td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
         </tr>
         <tr>
             <td>A la vista y con breve plazo de preaviso (cuenta corriente)</td>
             <td>79</td>
             <td>15</td>
             <td>29</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
             <td>562</td>
             <td>249</td>
             <td>(70)</td>
@@ -3732,9 +3603,6 @@ Las siguientes tablas muestran un detalle por contraparte y por producto de los 
             <td>377</td>
             <td>88</td>
             <td>124</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
             <td>643</td>
             <td>114</td>
             <td>(11)</td>
@@ -3747,9 +3615,6 @@ Las siguientes tablas muestran un detalle por contraparte y por producto de los 
             <td>51</td>
             <td>15</td>
             <td>13</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
             <td>424</td>
             <td>87</td>
             <td>(67)</td>
@@ -3762,9 +3627,6 @@ Las siguientes tablas muestran un detalle por contraparte y por producto de los 
             <td>188</td>
             <td>107</td>
             <td>59</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
             <td>516</td>
             <td>252</td>
             <td>(18)</td>
@@ -3777,9 +3639,6 @@ Las siguientes tablas muestran un detalle por contraparte y por producto de los 
             <td>-</td>
             <td>-</td>
             <td>82</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
             <td>1</td>
             <td>-</td>
             <td>-</td>
@@ -3792,9 +3651,6 @@ Las siguientes tablas muestran un detalle por contraparte y por producto de los 
             <td>2.685</td>
             <td>469</td>
             <td>407</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
             <td>20.765</td>
             <td>11.429</td>
             <td>(2.909)</td>
@@ -3807,9 +3663,6 @@ Las siguientes tablas muestran un detalle por contraparte y por producto de los 
             <td>5</td>
             <td>-</td>
             <td>21</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
             <td>14</td>
             <td>2</td>
             <td>(10)</td>
@@ -3822,9 +3675,6 @@ Las siguientes tablas muestran un detalle por contraparte y por producto de los 
             <td>1.202</td>
             <td>265</td>
             <td>254</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
             <td>16.526</td>
             <td>9.008</td>
             <td>(1.256)</td>
@@ -3837,9 +3687,6 @@ Las siguientes tablas muestran un detalle por contraparte y por producto de los 
             <td>593</td>
             <td>124</td>
             <td>47</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
             <td>1.129</td>
             <td>656</td>
             <td>(93)</td>
@@ -3852,9 +3699,6 @@ Las siguientes tablas muestran un detalle por contraparte y por producto de los 
             <td>1.186</td>
             <td>227</td>
             <td>269</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
             <td>1.622</td>
             <td>455</td>
             <td>(145)</td>
@@ -3867,9 +3711,6 @@ Las siguientes tablas muestran un detalle por contraparte y por producto de los 
             <td>883</td>
             <td>194</td>
             <td>105</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
             <td>6.094</td>
             <td>4.546</td>
             <td>(140)</td>
@@ -3882,9 +3723,6 @@ Las siguientes tablas muestran un detalle por contraparte y por producto de los 
             <td>138</td>
             <td>-</td>
             <td>0</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
             <td>253</td>
             <td>105</td>
             <td>(76)</td>
@@ -6303,6 +6141,26 @@ Como primer eje de gestión, el comportamiento objetivo del Grupo, en término
 
 A lo largo de 2016 el nivel de LCR para el Grupo BBVA se ha mantenido por encima del 100%. A nivel europeo el ratio LCR entró en vigor el 1 de octubre de 2015, con un nivel de exigencia inicial del 60%, y un faseado hasta el 100% en 2018.
 
+El LtSCD mide la relación entre la inversión crediticia neta y los recursos estables de clientes. Esta métrica tiene
+como objetivo preservar una estructura de financiación estable en el medio plazo de cada una de las UGL que
+componen el Grupo BBVA, teniendo en cuenta que el mantenimiento de un adecuado volumen de recursos
+estables de clientes es clave para alcanzar un perfil sólido de liquidez.
+
+Se consideran recursos estables de clientes la financiación captada y gestionada por las UGLs entre sus clientes
+objetivo. Estos recursos se caracterizan por su baja sensibilidad a alteraciones en los mercados y por su
+comportamiento poco volátil en saldos agregados por operativa, como consecuencia de la vinculación del cliente
+con la unidad. Los recursos estables se obtienen aplicando a cada segmento de cliente identificado un haircut
+determinado por el análisis de estabilidad de saldos a través del que se valoran distintos aspectos (concentración,
+estabilidad, grado de vinculación). La base principal de los recursos estables está formada por depósitos de
+clientes minoristas y empresas.
+
+Con la finalidad de establecer los niveles objetivo (máximos) de LtSCD en cada UGL y proporcionar una referencia
+de estructura de financiación óptima en términos de apetito de riesgo, la unidad corporativa de Riesgos
+Estructurales de GRM identifica y evalúa las variables económicas y financieras que condicionan las estructuras de
+financiación en las diferentes geografías. El comportamiento de los indicadores refleja que se mantiene robustez
+en la estructura de financiación durante 2016, en el sentido de que todas las UGLs mantienen niveles de
+autofinanciación con recursos estables de clientes por encima de lo exigido.
+
 <table>
     <thead>
         <tr>
@@ -7065,7 +6923,7 @@ Los activos que a 31 de diciembre de 2016 y 2015 se encuentran comprometidos (ap
             <th colspan="4">Activos comprometidos</th>
         </tr>
         <tr>
-            <th>Diciembre 2016</th>
+            <th>Diciembre 2015</th>
             <th>Valor en libros de activos comprometidos</th>
             <th>Valor de mercado de activos comprometidos</th>
             <th>Valor en libros de activos no comprometidos</th>
@@ -7337,7 +7195,7 @@ Estos principios reflejan la visión que el Grupo BBVA tiene del riesgo operaci
 
 Con independencia de la adopción de todas las medidas y controles posibles para evitar o disminuir tanto la frecuencia como la severidad de los eventos de RO, BBVA asegura en todo momento el capital suficiente para hacer frente a las pérdidas esperadas o inesperadas que puedan suceder.
 
-### Concentración de riesgos
+### 7.7 Concentración de riesgos
 
 #### Políticas sobre concentración de riesgos
 
@@ -7362,6 +7220,15 @@ La identificación, medición, control y seguimiento del riesgo asociado a las
 Además, el Área de Riesgo-país realiza un seguimiento continuo de los países, con objeto de adaptar sus políticas de riesgo y de mitigación a los cambios macroeconómicos y políticos que potencialmente puedan ocurrir. Asimismo, actualiza regularmente sus ratings internos y perspectivas sobre los países. La metodología de asignación de rating internos está fundamentada en la valoración de parámetros tanto cuantitativos como cualitativos que están en línea con los utilizados por otros actores significativos como entes multilaterales (Fondo Monetario Internacional – en adelante “FMI” – y el Banco Mundial), agencias de rating o compañías de crédito a la exportación.
 
 Para información adicional sobre riesgo soberano en Europa véase el Anexo XII.
+
+#### Métodos de valoración y deterioro
+
+Los métodos de valoración utilizados para valorar los instrumentos que presentan riesgo soberano son los
+mismos que los utilizados para otros instrumentos que forman parte de las mismas carteras y se detallan en la
+Nota 8.
+
+En concreto, el valor razonable de los valores representativos de deuda soberana de los países europeos se ha
+considerado equivalente a su valor de cotización en mercados activos (Nivel 1 tal y como se define en la Nota 8).
 
 #### Concentración de riesgos en el sector promotor e inmobiliario en España
 
@@ -7408,7 +7275,7 @@ La política aplicada en la gestión de estos activos depende del tipo de acti
 
 - Respecto a los suelos, donde el riesgo del suelo rústico no es significativo, la gestión se simplifica. La gestión urbanística y el control de liquidez para acometer los gastos de urbanización también son objeto de especial seguimiento.
 
-- Para información cuantitativa sobre la concentración de riesgos en el sector promotor e inmobiliario en España véase el Anexo XII.
+Para información cuantitativa sobre la concentración de riesgos en el sector promotor e inmobiliario en España véase el Anexo XII.
 
 ## 8. Valor razonable
 
@@ -8256,12 +8123,14 @@ A continuación se presenta la información cuantitativa de los inputs no obse
         <tr>
             <td>Intrumentos de patrimonio</td>
             <td>Valor actual neto</td>
-            <td colspan="5">Rango demasiado amplio para ser relevante</td>
+            <td></td>
+            <td colspan="4" style="text-align: center;">Rango demasiado amplio para ser relevante</td>
         </tr>
         <tr>
             <td>&nbsp;</td>
             <td>Precios comparables</td>
-            <td colspan="5">Rango demasiado amplio para ser relevante</td>
+            <td></td>
+            <td colspan="4" style="text-align: center;">Rango demasiado amplio para ser relevante</td>
         </tr>
         <tr>
             <td>Opciones de crédito</td>
@@ -14600,7 +14469,7 @@ La composición del saldo de este capítulo de los balances consolidados adjun
             <th></th>
         </tr>
         <tr>
-            <th>Activos tangibles: Composición y movimientos del ejercicio 2016</th>
+            <th>Activos tangibles: Composición y movimientos del ejercicio 2014</th>
             <th>Terrenos y edificios</th>
             <th>Obras en curso</th>
             <th>Mobiliario, instalaciones y vehículos</th>
@@ -15722,7 +15591,7 @@ La composición del saldo de este capítulo de los balances consolidados adjun
             <th></th>
             <th colspan="2">Millones de euros</th>
         </tr>
-        <tr class="tableizer-firstrow">
+        <tr>
             <th>Otros activos intangibles</th>
             <th>2016</th>
             <th>2015</th>
@@ -15730,12 +15599,6 @@ La composición del saldo de este capítulo de los balances consolidados adjun
         </tr>
     </thead>
     <tbody>
-        <tr>
-            <td>Otros activos intangibles</td>
-            <td>2016</td>
-            <td>2015</td>
-            <td>2014</td>
-        </tr>
         <tr>
             <td>Gastos de adquisición de aplicaciones informáticas</td>
             <td>1.877</td>
@@ -16181,7 +16044,7 @@ Dentro del saldo del epígrafe “Activos por impuestos” de los balances cons
     </thead>
     <tbody>
         <tr class="b">
-            <td>Activos por impuestos-</td>
+            <td>Activos por impuestos</td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
@@ -16247,7 +16110,7 @@ Dentro del saldo del epígrafe “Activos por impuestos” de los balances cons
             <td>12.426</td>
         </tr>
         <tr class="b">
-            <td>Pasivos por impuestos-</td>
+            <td>Pasivos por impuestos</td>
             <td>-</td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
@@ -16407,7 +16270,7 @@ Los movimientos más significativos producidos en los ejercicios 2016, 2015 y 2
 </table>
 [Descargar tabla](#)
 
-(*)   Incorporación de Catalunya Bank S.A. en 2015
+(*) Incorporación de Catalunya Bank S.A. en 2015
 
 Respecto a la variación de activos y pasivos por impuestos diferidos contenido en el cuadro anterior es conveniente señalar lo siguiente:
 
@@ -18976,7 +18839,7 @@ El desglose de los pasivos registrados en los balances consolidados a 31 de dici
 
 (***) Registrados en el epígrafe "Provisiones- Pensiones y otras obligaciones de prestaciones definidas post-empleo" de los balances consolidados (ver Nota 24).
 
-(****) Registrados en el epígrafe "Provisiones- Otras retribuciones a los empleados a largo plazo" de los balances consolidados.
+<p>(****) Registrados en el epígrafe "Provisiones- Otras retribuciones a los empleados a largo plazo" de los balances consolidados.</p>
 
 A continuación se presentan los costes registrados por compromisos en las cuentas de pérdidas y ganancias consolidadas de los ejercicios 2016, 2015 y 2014:
 
@@ -19446,8 +19309,8 @@ La siguiente tabla recoge las principales hipótesis actuariales utilizadas en 
         <tr>
           <th></th>
           <th colspan="4">2016</th>
-          <th colspan="4">2016</th>
-          <th colspan="3">2016</th>
+          <th colspan="4">2015</th>
+          <th colspan="3">2014</th>
         </tr>
         <tr>
             <th>Hipótesis actuariales</th>
@@ -20435,7 +20298,7 @@ En el ejercicio 2016 como consecuencia de la desvinculación del Grupo de algun
 
 ##### Compromisos por gastos médicos
 
-En el ejercicio 2016 como consecuencia de la desvinculación del Grupo de algunos miembros de la Alta Dirección, se han satisfecho indemnizaciones por importe total conjunto de 1.788 miles de euros, que se han registrado como Otros Gastos de Personal (ver Nota 44).
+El movimiento de los compromisos médicos para los ejercicios 2016, 2015 y 2014 se detalla a continuación:
 
 <table class="l">
     <thead>
@@ -20791,44 +20654,12 @@ En el cuadro adjunto se detalla la composición por categoría de activos mant
             <td>2.150</td>
         </tr>
         <tr>
-            <td>Bonos nacionales</td>
-            <td>&nbsp;</td>
-        </tr>
-        <tr>
-            <td>Deuda Pública Mexicana</td>
-            <td>&nbsp;</td>
-        </tr>
-        <tr>
-            <td>Deuda Pública Estados Unidos</td>
-            <td>&nbsp;</td>
-        </tr>
-        <tr>
-            <td>Bonos de resto de países</td>
-            <td>&nbsp;</td>
-        </tr>
-        <tr>
-            <td>Bonos indexados</td>
-            <td>&nbsp;</td>
-        </tr>
-        <tr>
             <td>Inmuebles y bienes</td>
             <td>1</td>
         </tr>
         <tr>
-            <td>Derivados</td>
-            <td>&nbsp;</td>
-        </tr>
-        <tr>
             <td>Fondos de inversión</td>
             <td>1</td>
-        </tr>
-        <tr>
-            <td>Valores garantizados por activos</td>
-            <td>&nbsp;</td>
-        </tr>
-        <tr>
-            <td>Deuda estructurada</td>
-            <td>&nbsp;</td>
         </tr>
         <tr>
             <td>Contratos de seguros</td>
@@ -20841,10 +20672,6 @@ En el cuadro adjunto se detalla la composición por categoría de activos mant
         <tr class="b2">
             <td>Total</td>
             <td>2.317</td>
-        </tr>
-        <tr class="s">
-            <td>De los que:</td>
-            <td>&nbsp;</td>
         </tr>
         <tr class="s2">
             <td>Cuentas bancarias en BBVA</td>
@@ -24393,7 +24220,7 @@ El desglose del número medio de empleados del Grupo BBVA, distribuido por cate
 
 (*) Incrementos motivados por cambios de perímetro (ver Nota 3).
 
-El número de empleados del Grupo BBVA a 31 de diciembre 2016,2015 y 2014, distribuido por categorías y género, era el siguiente:
+El número de empleados del Grupo BBVA a 31 de diciembre 2016,2015 y 2014, distribuido por categorías y género, era el siguiente:
 
 <table class="l">
     <thead>
@@ -24455,44 +24282,43 @@ El número de empleados del Grupo BBVA a 31 de diciembre 2016,2015 y 2014, dist
 
 #### 44.1.1 Remuneraciones basadas en acciones
 
-Los importes registrados en el capítulo “Gastos de personal - Otros gastos de personal” de las cuentas de pérdidas y ganancias consolidadas de los ejercicios de 2016, 2015 y 2014, correspondientes a los planes de remuneraciones basadas en acciones en vigor en cada ejercicio, han ascendido a 57, 38 y 68 millones de euros, respectivamente. Dichos importes se registraron con contrapartida en el epígrafe “Fondos propios - Otros elementos de patrimonio neto” de los balances consolidados adjuntos, neto del correspondiente efecto fiscal.
+Los importes registrados en el capítulo “Gastos de personal - Otros gastos de personal” de las cuentas de pérdidas y ganancias consolidadas de los ejercicios de 2016, 2015 y 2014, correspondientes a los planes de remuneraciones basadas en acciones en vigor en cada ejercicio, han ascendido a 57, 38 y 68 millones de euros, respectivamente. Dichos importes se registraron con contrapartida en el epígrafe “Fondos propios – Otros elementos de patrimonio neto” de los balances consolidados adjuntos, neto del correspondiente efecto fiscal.
 
-A continuación se describen las características de los planes de remuneraciones basados en acciones del Grupo.
+A continuación se describen las características de los planes de remuneraciones basados en acciones del Grupo.
 
 ###### Sistema de Retribución Variable en Acciones
 
-La retribución variable anual en BBVA aplicable a toda la plantilla consiste en un único incentivo en efectivo que se otorga de forma anual, vinculado a la consecución de objetivos previamente establecidos y a una gestión prudente de los riesgos, basada en el diseño de incentivos que se ajustan a los intereses a largo plazo de la entidad, teniendo en cuenta riesgos actuales y futuros (en adelante, la “Retribución Variable Anual”).
+La retribución variable anual en BBVA aplicable a toda la plantilla consiste en un único incentivo en efectivo que se otorga de forma anual, vinculado a la consecución de objetivos previamente establecidos y a una gestión prudente de los riesgos, basada en el diseño de incentivos que se ajustan a los intereses a largo plazo de la entidad, teniendo en cuenta riesgos actuales y futuros (en adelante, la “Retribución Variable Anual”).
 
-No obstante lo anterior, la política retributiva del Grupo BBVA, en vigor desde el año 2015, cuenta con un sistema específico de liquidación y pago de la Retribución Variable Anual aplicable a aquellos empleados y directivos, incluyendo a los consejeros ejecutivos y miembros de la Alta Dirección, cuyas actividades profesionales pueden incidir de manera significativa en el perfil de riesgo del Grupo, o realizan funciones de control (en adelante, “Colectivo Identificado”), que incluye, entre otros, el pago en acciones de parte de su Retribución Variable Anual.
+No obstante lo anterior, la política retributiva del Grupo BBVA, en vigor desde el año 2015, cuenta con un sistema específico de liquidación y pago de la Retribución Variable Anual aplicable a aquellos empleados y directivos, incluyendo a los consejeros ejecutivos y miembros de la Alta Dirección, cuyas actividades profesionales pueden incidir de manera significativa en el perfil de riesgo del Grupo, o realizan funciones de control (en adelante, “Colectivo Identificado”), que incluye, entre otros, el pago en acciones de parte de su Retribución Variable Anual.
 
-Esta política retributiva fue aprobada para los consejeros de BBVA por la Junta General de Accionistas celebrada el 13 de marzo de 2015.
+Esta política retributiva fue aprobada para los consejeros de BBVA por la Junta General de Accionistas celebrada el 13 de marzo de 2015.
 
-Las reglas específicas de liquidación y pago de la Retribución Variable Anual de los consejeros ejecutivos y miembros de la Alta Dirección se describen en la Nota 54, y por lo que se refiere al resto del Colectivo Identificado, se aplican las siguientes:
+Las reglas específicas de liquidación y pago de la Retribución Variable Anual de los consejeros ejecutivos y miembros de la Alta Dirección se describen en la Nota 54, y por lo que se refiere al resto del Colectivo Identificado, se aplican las siguientes:
 
-- La Retribución Variable Anual de los miembros del Colectivo Identificado se abonará por partes iguales en efectivo y en acciones de BBVA.
+- La Retribución Variable Anual de los miembros del Colectivo Identificado se abonará por partes iguales en efectivo y en acciones de BBVA.
 
-- El pago del 40% de la Retribución Variable Anual, - 50% en el caso de los consejeros ejecutivos y miembros de la Alta Dirección- tanto en efectivo como en acciones, se diferirá en su totalidad por un periodo de tres años, sometiéndose su devengo y pago al cumplimiento de una serie de indicadores plurianuales relacionados con la evolución de la acción y las métricas fundamentales de control y gestión de los riesgos del Grupo, referidas a su solvencia, liquidez y rentabilidad, que serán calculados a lo largo del periodo de diferimiento (en adelante “Indicadores de Evaluación Plurianual”). Estos Indicadores de Evaluación Plurianual podrán dar lugar a una reducción de la cantidad diferida, pudiendo ésta incluso llegar a ser cero, pero no servirán en ningún supuesto para incrementar dicha retribución diferida.
+-  El pago del 40% de la Retribución Variable Anual, - 50% en el caso de los consejeros ejecutivos y miembros de la Alta Dirección- tanto en efectivo como en acciones, se diferirá en su totalidad por un periodo de tres años, sometiéndose su devengo y pago al cumplimiento de una serie de indicadores plurianuales relacionados con la evolución de la acción y las métricas fundamentales de control y gestión de los riesgos del Grupo, referidas a su solvencia, liquidez y rentabilidad, que serán calculados a lo largo del periodo de diferimiento (en adelante “Indicadores de Evaluación Plurianual”). Estos Indicadores de Evaluación Plurianual podrán dar lugar a una reducción de la cantidad diferida, pudiendo ésta incluso llegar a ser cero, pero no servirán en ningún supuesto para incrementar dicha retribución diferida.
 
-- Todas las acciones entregadas conforme a las reglas señaladas serán indisponibles durante un periodo de tiempo determinado desde su entrega, aplicándose esta retención sobre el importe neto de las acciones, una vez descontada la parte necesaria para hacer frente al pago de los impuestos por las acciones recibidas.
+- Todas las acciones entregadas conforme a las reglas señaladas serán indisponibles durante un periodo de tiempo determinado desde su entrega, aplicándose esta retención sobre el importe neto de las acciones, una vez descontada la parte necesaria para hacer frente al pago de los impuestos por las acciones recibidas.
 
-- Se establece además la prohibición de realizar coberturas tanto por las acciones entregadas indisponibles como por las acciones pendientes de recibirse.
+- Se establece además la prohibición de realizar coberturas tanto por las acciones entregadas indisponibles como por las acciones pendientes de recibirse.
 
-- Además, se han establecido supuestos que podrán limitar o llegar a impedir, en determinados casos, el abono de la Retribución Variable Anual (cláusulas “malus”) así como la actualización de las partes diferidas.
+- Además, se han establecido supuestos que podrán limitar o llegar a impedir, en determinados casos, el abono de la Retribución Variable Anual (cláusulas “malus”) así como la actualización de las partes diferidas.
 
-- Por último, el componente variable de la remuneración correspondiente a un ejercicio de las personas del Colectivo Identificado quedará limitado a un importe máximo del 100% del componente fijo de la remuneración total, salvo para aquellos casos en los que la Junta General acuerde elevar este límite que, en todo caso, no podrá superar el 200% del componente fijo de la remuneración total.
+- Por último, el componente variable de la remuneración correspondiente a un ejercicio de las personas del Colectivo Identificado quedará limitado a un importe máximo del 100% del componente fijo de la remuneración total, salvo para aquellos casos en los que la Junta General acuerde elevar este límite que, en todo caso, no podrá superar el 200% del componente fijo de la remuneración total.
 
-A estos efectos, la Junta General de Accionistas celebrada el 14 de marzo de 2014 aprobó, de conformidad con la legislación aplicable, la aplicación del nivel máximo de remuneración variable de hasta el 200% de la remuneración fija para un determinado colectivo de empleados cuyas actividades profesionales tienen incidencia significativa en el perfil de riesgo del Grupo o realizan funciones de control. Adicionalmente, la Junta General de Accionistas celebrada el 13 de marzo de 2015, aprobó la ampliación de dicho colectivo de empleados cuya remuneración variable pudiera alcanzar hasta el 200% del componente fijo de la remuneración total, todo ello según el Informe de Recomendaciones emitido por el Consejo de Administración de BBVA con fecha 3 de febrero de 2015.
+A estos efectos, la Junta General de Accionistas celebrada el 14 de marzo de 2014 aprobó, de conformidad con la legislación aplicable, la aplicación del nivel máximo de remuneración variable de hasta el 200% de la remuneración fija para un determinado colectivo de empleados cuyas actividades profesionales tienen incidencia significativa en el perfil de riesgo del Grupo o realizan funciones de control. Adicionalmente, la Junta General de Accionistas celebrada el 13 de marzo de 2015, aprobó la ampliación de dicho colectivo de empleados cuya remuneración variable pudiera alcanzar hasta el 200% del componente fijo de la remuneración total, todo ello según el Informe de Recomendaciones emitido por el Consejo de Administración de BBVA con fecha 3 de febrero de 2015.
 
-De acuerdo al esquema de liquidación y pago explicado anteriormente, durante el ejercicio 2016 se han entregado al Colectivo Identificado 5.187.750 acciones correspondientes al pago inicial de la parte en acciones de la Retribución Variable Anual del ejercicio 2015.
+De acuerdo al esquema de liquidación y pago explicado anteriormente, durante el ejercicio 2016 se han entregado al Colectivo Identificado 5.187.750 acciones correspondientes al pago inicial de la parte en acciones de la Retribución Variable Anual del ejercicio 2015.
 
-Asimismo, la política retributiva vigente hasta el año 2014, contaba con un sistema específico de liquidación y pago de la retribución variable para el Colectivo Identificado que establecía el diferimiento por tres años de un porcentaje de la Retribución Variable Anual, abonándose la cantidad diferida por tercios a lo largo de ese periodo.
+Asimismo, la política retributiva vigente hasta el año 2014, contaba con un sistema específico de liquidación y pago de la retribución variable para el Colectivo Identificado que establecía el diferimiento por tres años de un porcentaje de la Retribución Variable Anual, abonándose la cantidad diferida por tercios a lo largo de ese periodo.
 
 Conforme a este esquema previo, en el ejercicio 2016, se han entregado a los beneficiarios miembros del Colectivo Identificado las acciones correspondientes a las partes diferidas de la Retribución Variable Anual en acciones de ejercicios anteriores, y sus correspondientes actualizaciones en efectivo, dando lugar en 2016 a la entrega de un total de 945.053 acciones correspondientes al primer tercio diferido de la Retribución Variable Anual 2014, y 349.670 euros en concepto de actualización de las acciones entregadas; un total de 438.082 acciones correspondientes al segundo tercio diferido de la Retribución Variable Anual 2013, y 340.828 euros en concepto de actualización; y un total de 502.622 acciones correspondientes al último tercio de la Retribución Variable Anual 2012, y 551.879 euros en concepto de actualización.
 
 Igualmente, durante el ejercicio 2016 se han entregado a los beneficiarios miembros del Colectivo Identificado las acciones correspondientes a programas de incentivación a largo plazo en Estados Unidos, tal y como se indica a continuación:
 
 Una vez finalizado el plazo de duración del Plan de Incentivación en Acciones a Largo Plazo 2010-2012 de BBVA Compass, el 31 de diciembre de 2012, dirigido a su Equipo Directivo, se procedió a su liquidación en aplicación de las condiciones establecidas a su inicio.
-
 
 Para aquellos beneficiarios de este programa miembros del Colectivo Identificado, se acordó aplicar las mismas reglas del sistema de liquidación y pago señaladas anteriormente, con arreglo a la política retributiva anterior a 2015, que establecía el pago de la parte diferida por tercios durante el periodo de diferimiento.
 

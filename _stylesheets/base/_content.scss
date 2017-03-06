@@ -256,6 +256,9 @@ span.highlight {
     padding: 8px 16px;
     vertical-align: top;
     text-align: right;
+    &.left {
+      text-align: left;
+    }
 
     &.s {
       padding-left: 32px;
