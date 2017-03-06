@@ -215,7 +215,35 @@ span.highlight {
         background: #f5f5f5;
       }
     }
-
+    ul {
+        color: $txtgrey;
+        font-size: 15px;
+        line-height: 26px;
+        list-style-type: disc;
+        margin-bottom: 8px;
+        margin-left: 36px;
+        text-align: left;
+        ul {
+          color: $txtgrey;
+          font-size: 15px;
+          line-height: 26px;
+          list-style-type: circle;
+          margin-bottom: 32px;
+          margin-left: 18px;
+          > li {
+            margin-bottom: 8px;
+            p {
+              margin-bottom: 8px;
+            }
+          }
+        }
+        > li {
+          margin-bottom: 32px;
+          p {
+            margin-bottom: 8px;
+          }
+        }
+      }
   }
 
 
