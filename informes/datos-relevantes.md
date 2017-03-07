@@ -8,9 +8,11 @@ permalink: informe-de-gestion/datos-relevantes/
 ---
 
 
-# Datos relevantes del Grupo BBVA
+# Datos relevantes
 
-### Cifras consolidadas
+### Datos relevantes del Grupo BBVA
+
+### (Cifras consolidadas)
 
 <table>
     <thead>

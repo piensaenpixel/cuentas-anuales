@@ -56,7 +56,7 @@ volatilidad de los mercados.
 
 ### Entorno macroeconómico y sectorial
 
-En los mercados financieros se ha producido
+En los **mercados** financieros se ha producido
 una reducción de la aversión al riesgo tras las
 elecciones de Estados Unidos, dejando de lado
 las incertidumbres políticas que todavía persisten
@@ -95,19 +95,19 @@ indicadores relevantes de gestión.
 Continúa el contexto de mercado en términos de
 presión en márgenes (tipos de interés negativos
 en Europa) y exceso de liquidez. En esta
-coyuntura, el crédito a la clientela bruto termina
+coyuntura, el **crédito** a la clientela bruto termina
 el ejercicio ligeramente por debajo del dato del
 año anterior (–1,2%). Sobresale el crecimiento a
 doble dígito de México, frente a las disminuciones
 de Europa y Asia.
 
-Mejora de la tasa de mora en el último trimestre
+Mejora de la **tasa de mora** en el último trimestre
 del año. A 31-12-2016 cierra en el 1,0%. Por su
-parte, la cobertura acaba en el 79% (1,4% y 83%,
+parte, la **cobertura** acaba en el 79% (1,4% y 83%,
 respectivamente, a 31-9-2016 y 1,4% y 86% a
 31-12-2015).
 
-Reducción del retroceso de los depósitos de
+Reducción del retroceso de los **depósitos** de
 clientes en gestión mostrado en los nueve
 primeros meses de 2016. En este sentido, a cierre
 de año se sitúan un 5,3% por debajo de la cifra
@@ -457,7 +457,7 @@ embargo, su buen desempeño en España (+9,4%).
 
 ### Resultados
 
-CIB registra un beneficio atribuido acumulado al
+CIB registra un **beneficio** atribuido acumulado al
 cierre del año 2016 de 861 millones de euros, de
 los que 116 se obtuvieron en el primer trimestre,
 206 en el segundo, 236 en el tercero y 304 en el
@@ -466,7 +466,7 @@ ejercicio para este agregado. Lo más relevante
 de la cuenta de resultados de CIB se resume a
 continuación:
 
-- Margen bruto del cuarto trimestre del año
+- **Margen bruto** del cuarto trimestre del año
 por encima del trimestre anterior (+14,0%),
 fruto de la buena gestión de la volatilidad
 de los mercados por los equipos de Global
@@ -480,7 +480,7 @@ especialmente en Europa.
 
     Una de las acciones que se puso en marcha
 en CIB para combatir esta situación de
-mercado fue el plan “Deep Blue”, que desde
+mercado fue el plan **“Deep Blue”**, que desde
 su lanzamiento ha evolucionado de una
 manera muy positiva. Se trata de una iniciativa
 transversal que involucra, en las visitas a
@@ -508,7 +508,7 @@ de aseguramiento por importe de 40.000
 millones de euros, sobre los cuales se está
 realizando un seguimiento recurrente. 
 
-    La unidad de Global Markets ha registrado un
+    La unidad de **Global Markets** ha registrado un
 comportamiento sobresaliente, especialmente
 en el cuarto trimestre de 2016, generando un
 margen bruto un 35,8% superior al del tercer
@@ -519,7 +519,7 @@ de interés en ambas geografías. En términos
 acumulados, el margen bruto de la unidad
 asciende un 4,0% en los últimos doce meses.
 
-    Por lo que respecta a Corporate Finance,
+    Por lo que respecta a **Corporate Finance**,
 la parte final del año ha estado marcada
 por la poca actividad del mercado primario
 en España y la incertidumbre política en
@@ -542,21 +542,21 @@ en 2016, según los rankings elaborados por
 Thomson Reuters, Mergermarket, Dealogic y
 Bloomberg.
 
-- Los gastos de explotación acumulados
+- Los **gastos de explotación** acumulados
 se incrementan un 6,1% con respecto a los
 de 2015. Las claves principales han sido el
 crecimiento de los costes de tecnología
 asociados al plan de inversiones.
 
 - Por último, importante esfuerzo realizado en el
-año en dotaciones a pérdidas por deterioro
-de activos financieros, principalmente
-fruto de las bajadas de rating que, sobre
+año en dotaciones a **pérdidas por deterioro
+de activos financieros**, principalmente
+fruto de las bajadas de *rating* que, sobre
 todo durante el primer trimestre de 2016,
 han sufrido ciertas compañías en Estados
-Unidos que operan en los sectores de energy
-(exploration & production) y metals & mining
-(basic materials). Esto es básicamente lo que
+Unidos que operan en los sectores de *energy
+(exploration & production)* y *metals & mining
+(basic materials)*. Esto es básicamente lo que
 explica el incremento de esta rúbrica en los
 últimos doce meses.
 
@@ -575,7 +575,7 @@ a la integración por el método de la participación en la cuenta de pérdidas 
 resultado de operaciones corporativas de la cuenta de gestión
 de 2015 incorpora las plusvalías procedentes de las distintas
 operaciones de venta equivalentes a un 6,34% de la participación
-del Grupo BBVA en CNCB, el badwill generado por la operación
+del Grupo BBVA en CNCB, el *badwill* generado por la operación
 de CX, el efecto de la puesta a valor razonable de la participación
 inicial del 25,01% en Garanti y el impacto procedente de la venta
 de la participación del 29,68% en CIFH. En la cuenta de pérdidas
@@ -588,7 +588,7 @@ resultado de las actividades continuadas.
     <thead>
         <tr class="m">
             <th></th>
-            <th colspan="6>Millones de euros</th>
+            <th colspan="6">Millones de euros</th>
         </tr>
         <tr>
             <th></th>
