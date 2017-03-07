@@ -208,6 +208,9 @@ gulp.task('wadus', () => {
   gulp.src('_site/stylesheets/**/*')
     .pipe(gulp.dest('_deliver/stylesheets'));
 
+  gulp.src('_site/**/*.json')
+    .pipe(gulp.dest('_deliver'));
+
   gulp.src('_site/images/**/*')
     .pipe(gulp.dest('_deliver/images'));
 
