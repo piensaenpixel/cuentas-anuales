@@ -12,9 +12,9 @@ permalink: informe-de-gestion/introduccion/
 
 ## Introducción
 
-BBVA es un grupo financiero global, fundado en 1857, con una visión centrada en el cliente. Está presente en 35 países. Tiene una posición sólida en España, es la primera entidad financiera de México; cuenta con franquicias líderes en América del Sur y la región del sunbelt en Estados Unidos; y es el primer accionista del banco turco Garanti. Su negocio diversificado está enfocado a mercados de alto crecimiento y concibe la tecnología como una ventaja competitiva clave.
+BBVA es un grupo financiero global, fundado en 1857, con una visión centrada en el cliente. Está presente en **35 países**. Tiene una posición sólida en España, es la primera entidad financiera de México; cuenta con franquicias líderes en América del Sur y la región del sunbelt en Estados Unidos; y es el primer accionista del banco turco Garanti. Su negocio diversificado está enfocado a mercados de alto crecimiento y concibe la tecnología como una ventaja competitiva clave.
 
-BBVA cuenta con un modelo de banca responsable basado en la búsqueda de una rentabilidad ajustada a los principios éticos, el cumplimiento de la legalidad, las buenas prácticas y la creación de valor a largo plazo para todos sus grupos de interés.
+BBVA cuenta con un modelo de **banca responsable** basado en la búsqueda de una rentabilidad ajustada a los principios éticos, el cumplimiento de la legalidad, las buenas prácticas y la creación de valor a largo plazo para todos sus grupos de interés.
 
 ### Estrategia
 
@@ -32,7 +32,7 @@ La digitalización está impactando en la industria financiera, ya que permite
 
 Por una parte, la irrupción del **móvil** ha provocado cambios en el modelo de distribución. Se ha convertido en el principal canal de contacto.
 
-Por otra parte, los nuevos **desarrollos tecnológicos** (big data, inteligencia artificial, Blockchain, cloud, procesamiento de datos, biometría, etc.) están suponiendo un gran avance en la mejora de la experiencia de cliente.
+Por otra parte, los nuevos **desarrollos tecnológicos** (_big data_, inteligencia artificial, Blockchain, _cloud_, procesamiento de datos, biometría, etc.) están suponiendo un gran avance en la mejora de la experiencia de cliente.
 
 Las nuevas tecnologías fomentan la democratización de los servicios financieros, en el sentido de que todo el mundo va a poder acceder a mejores y más sofisticados servicios, hasta ahora únicamente disponibles para los segmentos de alto valor.
 

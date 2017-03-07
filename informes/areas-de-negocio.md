@@ -19,29 +19,29 @@ muestra un resumen de la cuenta de resultados y del balance,
 cifras de actividad y los ratios más significativos de cada una de
 ellas.
 
-En el año 2016, la estructura de reporting de las áreas de negocio
+En el año 2016, la **estructura de _reporting_** de las áreas de negocio
 del Grupo BBVA sigue siendo básicamente la misma que la del
 ejercicio 2015:
 
-- Actividad bancaria en España incluye, al igual que en
+- **Actividad bancaria en España** incluye, al igual que en
 ejercicios precedentes, las unidades en España de Red
 Minorista, Banca de Empresas y Corporaciones (BEC),
 Corporate & Investment Banking (CIB), BBVA Seguros y Asset
 Management. También incorpora las carteras, financiación y
 posiciones estructurales de tipo de interés del balance euro.
 
-- Actividad inmobiliaria en España gestiona, de manera
+- **Actividad inmobiliaria en España** gestiona, de manera
 especializada, los activos inmobiliarios (excluidos los inmuebles
 de uso propio) en España, entre los que se incluyen: los
 inmuebles adjudicados, tanto los procedentes de hipotecas
 residenciales como de origen promotor; así como el negocio
 crediticio promotor.
 
-- Estados Unidos incorpora los negocios que el Grupo desarrolla
+- **Estados Unidos** incorpora los negocios que el Grupo desarrolla
 en este país a través del grupo BBVA Compass y la oficina de
 BBVA en Nueva York.
 
-- Turquía incluye la actividad del Grupo Garanti. La
+- **Turquía** incluye la actividad del Grupo Garanti. La
 participación de BBVA en Garanti, que desde el tercer
 trimestre de 2015 asciende al 39,9%, se incorpora en los
 estados financieros del Grupo desde esa fecha por el método
@@ -55,13 +55,13 @@ en Garanti como si hubiese sido incorporada por el método
 de la integración global desde el 1 de enero de 2015 (Turquía
 en términos homogéneos).
 
-- México aglutina todos los negocios bancarios, los inmobiliarios
+- **México** aglutina todos los negocios bancarios, los inmobiliarios
 y los de seguros efectuados por el Grupo en este país.
 
-- América del Sur incluye fundamentalmente la la actividad
+- **América del Sur** incluye fundamentalmente la la actividad
 bancaria y de seguros que BBVA desarrolla en la región.
 
-- Resto de Eurasia incorpora la actividad llevada a cabo en
+- **Resto de Eurasia** incorpora la actividad llevada a cabo en
 el resto de Europa y Asia, es decir, los negocios minoristas y
 mayoristas desarrollados por el Grupo en la zona.
 
@@ -71,7 +71,7 @@ complemento que recoge eliminaciones e imputaciones no
 asignadas a las unidades que componen las áreas anteriormente
 descritas.
 
-Por último, el Centro Corporativo es un agregado que contiene
+Por último, el **Centro Corporativo** es un agregado que contiene
 todo aquello no repartido entre las áreas de negocio por
 corresponder básicamente a la función de holding del Grupo.
 Aglutina: los costes de las unidades centrales que tienen una función
@@ -85,8 +85,8 @@ fondos por compromisos con empleados; fondos de comercio y
 otros intangibles. Adicionalmente, también recoge el resultado de las
 operaciones corporativas efectuadas por el Grupo en 2015.
 
-Además de este desglose geográfico, se proporciona información
-complementaria del conjunto de los negocios mayoristas,
+Además de este desglose geográfico, se proporciona **información
+complementaria** del conjunto de los negocios mayoristas,
 Corporate & Investment Banking (CIB), desarrollados por BBVA
 en todas las geografías donde opera. Por las características de los
 clientes a los que atiende, el tipo de productos que ofrece y los
@@ -95,10 +95,10 @@ mejor comprensión del Grupo.
 
 Finalmente, cabe mencionar que, como viene siendo habitual, en
 el caso de las áreas de América, en Turquía y en CIB, además de
-las tasas de variación a tipos de cambio corrientes, se incluyen las
+las tasas de variación a **tipos de cambio** corrientes, se incluyen las
 resultantes de aplicar tipos de cambio constantes.
 
-Para la elaboración de la información por áreas se parte de las
+Para la elaboración de la **información por áreas** se parte de las
 unidades de mínimo nivel y/o sociedades jurídicas que componen
 el Grupo y se asignan a las distintas áreas en función de la
 geografía en la que desarrollan su actividad.
@@ -512,10 +512,10 @@ geografía en la que desarrollan su actividad.
 [Descargar tabla](#)
 
 Una vez definida la composición de cada área de negocio, se
-aplican determinados criterios de gestión, entre los que por su
+aplican determinados **criterios de gestión**, entre los que por su
 relevancia destacan los siguientes:
 
-- Rentabilidad ajustada al riesgo. El cálculo de la rentabilidad
+- **Rentabilidad ajustada al riesgo**. El cálculo de la rentabilidad
 ajustada al riesgo a nivel de operación, cliente, producto,
 segmento, unidad y/o área de negocio se sustenta en el
 CER, que se basa en el concepto de pérdida inesperada con
@@ -528,7 +528,7 @@ utilizando modelos internos que se han definido siguiendo las
 pautas y requisitos establecidos en el acuerdo de capital de
 Basilea III.
 
-- Precios internos de transferencia. El Grupo BBVA está dotado
+- **Precios internos de transferencia**. El Grupo BBVA está dotado
 de un sistema de precios de transferencia cuyos principios
 generales son de aplicación en las diferentes entidades, áreas
 de negocio y unidades del Banco. En cada geografía, para el cálculo del margen de intereses de sus negocios, se establecen
@@ -542,13 +542,13 @@ de los mercados financieros. Adicionalmente, existen acuerdos
 de reparto de resultados entre unidades generadoras de
 producto y unidades de distribución.
 
-- Asignación de gastos de explotación. Se imputan a las áreas
+- **Asignación de gastos de explotación**. Se imputan a las áreas
 tanto los gastos directos como los indirectos, exceptuando
 aquellos en los que no existe una vinculación estrecha y definida
 con los negocios por tener un marcado carácter corporativo o
 institucional para el conjunto del Grupo.
 
-- Venta cruzada. En determinadas ocasiones se realizan
+- **Venta cruzada**. En determinadas ocasiones se realizan
 ajustes para eliminar ciertas duplicidades que, por motivos de
 incentivación de la venta cruzada entre negocios, se hallan
 registradas en los resultados de dos o más unidades.
@@ -779,14 +779,14 @@ financieros.
 
 ### Entorno macroeconómico y social
 
-La economía española ha avanzado un 0,7%
+La **economía** española ha avanzado un 0,7%
 en el tercer trimestre de 2016, lo que supone
 que se mantiene la estabilización del ritmo de
 expansión de la actividad a tasas interanuales
 del +3,2%. Continúa la solidez de la demanda
 doméstica.
 
-En el sistema financiero español continúa el
+En el **sistema financiero** español continúa el
 proceso de desapalancamiento de familias
 y empresas, aunque a menor ritmo que en
 años anteriores. Con datos a octubre de 2016,
@@ -818,7 +818,7 @@ prácticamente la misma cifra de un año antes.
 
 ### Actividad
 
-El crédito bruto a la clientela decrece, en
+El **crédito** bruto a la clientela decrece, en
 términos interanuales, un 3,7%; comportamiento
 muy ligado a la disminución de las carteras
 hipotecaria y de administraciones públicas y
@@ -833,12 +833,12 @@ períodos anteriores, –4,0% interanual) y del 36,2%
 en consumo (cartera cuyo volumen final muestra
 una subida del 18,0% a 31-12-2016).
 
-En calidad crediticia continúa la reducción de
+En **calidad crediticia** continúa la reducción de
 la tasa de mora: –12 puntos básicos en el último
 trimestre y –86 puntos en los últimos doce meses. En cuanto a la cobertura, cierra el ejercicio
 por encima del 53%.
 
-Los depósitos de clientes en gestión crecen
+Los **depósitos de clientes en gestión crecen
 en 2016 (+2,5% en términos interanuales), muy
 influenciados por el buen comportamiento de
 las cuentas corrientes y de ahorro (+21,8%). Por
@@ -846,7 +846,7 @@ su parte, los saldos del plazo retroceden un
 14,4% como consecuencia de la bajada de la
 remuneración de este tipo de depósitos.
 
-Finalmente, los recursos fuera de balance
+Finalmente, los **recursos fuera de balance**
 presentan un crecimiento interanual del 3,0%, con
 especial incidencia en el avance experimentado
 en el cuarto trimestre (+2,6% frente al trimestre
@@ -1180,17 +1180,17 @@ minorista (reducción del coste de los
 depósitos) como mayorista. Lo anterior, unido
 a un menor volumen de créditos, explica el
 descenso interanual del 2,9% que se produce
-en el margen de intereses acumulado a 2016,
+en el **margen de intereses** acumulado a 2016,
 a pesar de que en el último trimestre sube
 ligeramente (+0,3%).
 
 - En un entorno complejo como el acaecido
-en 2016, las comisiones retroceden un 6,5%,
+en 2016, las **comisiones** retroceden un 6,5%,
 trayectoria muy ligada a la evolución de los
 mercados y a la menor actividad existente en
 valores y en banca de inversión.
 
-- La aportación de los ROF es inferior a la de
+- La aportación de los **ROF** es inferior a la de
 2015, debido, principalmente, a unas menores
 ventas de carteras COAP. Cabe resaltar el
 buen comportamiento de la unidad de Global
@@ -1200,7 +1200,7 @@ de disminución interanual de esta partida sea inferior a la presentada en el ac
 tercer trimestre de 2016.
 
 - La comparativa interanual de la partida de
-otros ingresos netos presenta un incremento
+**otros ingresos netos** presenta un incremento
 del 48,6%, en parte debido al desempeño
 positivo de la actividad de seguros en
 los últimos doce meses y a una menor
@@ -1214,7 +1214,7 @@ de Depósitos, registrada en el cuarto trimestre,
 está en línea con la efectuada en el mismo
 período del año anterior.
 
-- Los gastos de explotación disminuyen en el
+- Los **gastos de explotación** disminuyen en el
 cuarto trimestre un 2,4%, fruto de las sinergias
 generadas en la integración operativa de CX.
 Estas sinergias se consolidarán y serán más
@@ -1225,15 +1225,15 @@ a la inclusión de CX, en abril de 2015, y a los
 costes de integración relacionados.
 
 - La mejora continuada de la calidad crediticia
-se traduce en unas pérdidas por deterioro
-de activos financieros más reducidas (–42,7%
+se traduce en unas **pérdidas por deterioro
+de activos financieros** más reducidas (–42,7%
 interanual), por lo que el coste de riesgo
 acumulado a diciembre si sitúa en el 0,32%
 lo que supone una reducción de 39 puntos
 básicos con respecto al del año anterior.
 
-- La partida de dotaciones a provisiones y
-otros resultados presenta, en el acumulado
+- La partida de **dotaciones a provisiones y
+otros resultados** presenta, en el acumulado
 a 2016, un ascenso interanual del 68,6%,
 debido fundamentalmente a que, en el
 cuarto trimestre de 2016, se ha dotado una
@@ -1244,7 +1244,7 @@ millones de euros netos de impuestos). Esta
 partida también incluyelos costes derivados
 del proceso de transformación.
 
-Con todo ello, el beneficio atribuido generado
+Con todo ello, el **beneficio** atribuido generado
 por la actividad bancaria en España en 2016 se
 sitúa en 912 millones de euros, lo que supone una
 reducción interanual del 16,0%. Sin tener en cuenta
@@ -1269,7 +1269,7 @@ mercado hipotecario.
 Según la última información disponible del
 Consejo General del Notariado, de noviembre de
 2016, en los once primeros meses del año se han
-vendido 408.973 viviendas, lo que supone un
+vendido 408.973 **viviendas**, lo que supone un
 incremento interanual del 12,9%; una evolución
 que ha estado algo por encima de la previsión
 de BBVA Research, que estimaba inicialmente un
@@ -1278,7 +1278,7 @@ entorno del 10%.
 
 Con respecto a las últimas cifras publicadas por
 el Instituto Nacional de Estadística (INE), en el
-tercer trimestre de 2016, el precio de la vivienda
+tercer trimestre de 2016, el **precio** de la vivienda
 ha crecido a un ritmo interanual del 4,0%. Se trata
 de una tasa similar a la del trimestre precedente
 (+3,9%), con lo que se pone freno a la tendencia
@@ -1288,7 +1288,7 @@ interanual del precio de la vivienda nueva (+7,3%)
 ha sido muy superior al de la vivienda usada
 (+3,5%).
 
-El mercado hipotecario conserva su dinamismo
+El **mercado hipotecario** conserva su dinamismo
 gracias al incremento de las ventas en un
 contexto de bajo coste de la financiación, ya
 que los tipos de interés siguen en mínimos.
@@ -1303,7 +1303,7 @@ por lo que acumulan en los once primeros meses
 de 2016 un avance del 21,5% con respecto al dato
 del mismo período del año anterior.
 
-Los datos relativos a la actividad constructora
+Los datos relativos a la **actividad constructora**
 indican que los visados de vivienda de obra
 nueva aprobados en los diez primeros meses
 del año son un 33,2% más elevados que los del
@@ -1421,7 +1421,7 @@ mismo período de 2015.
 ### Actividad
 
 BBVA continúa con su estrategia de reducción
-de la exposición neta al sector inmobiliario en
+de la **exposición neta** al sector inmobiliario en
 España, tanto al segmento promotor (crédito
 a promotores más adjudicados derivados de dichos créditos) como a los activos inmobiliarios
 adjudicados procedentes de créditos hipotecarios
@@ -1435,19 +1435,19 @@ de septiembre disminuye un 7,0%.
 
 La exposición inmobiliaria total, incluyendo el
 crédito promotor vivo, los adjudicados y otros
-activos, refleja una tasa de cobertura del 53% al
+activos, refleja una tasa de **cobertura** del 53% al
 cierre del cuarto trimestre de 2016, lo que supone
 una mejoría de 3,2 puntos porcentuales en
 comparación con la del 31-12-2015 y de 2,1 puntos
 porcentuales frente al dato del 30-9-2016.
 
-Los saldos dudosos de crédito vuelven a
+Los **saldos dudosos** de crédito vuelven a
 disminuir en el cuarto trimestre y, por tanto, en los
 últimos doce meses, con unas entradas en mora
 reducidas durante el período y una cobertura que
 se sitúa en el 57%.
 
-En cuanto a las ventas de activos inmobiliarios,
+En cuanto a las **ventas** de activos inmobiliarios,
 en el último trimestre totalizan 3.340 unidades,
 con un precio total de venta de 340 millones
 de euros. En el acumulado del año, las
@@ -1461,7 +1461,7 @@ balance de la Entidad.
 
 ### Resultados
 
-Esta área de negocio presenta un resultado
+Esta área de negocio presenta un **resultado**
 negativo acumulado en 2016 de 595 millones
 de euros, lo que compara con una pérdida de
 496 millones del ejercicio previo. Durante el
@@ -2110,7 +2110,7 @@ disminución de la exposición neta.
 
 ### Entorno macroeconómico y sectorial
 
-El PIB estadounidense ha crecido algo más del 3%,
+El **PIB** estadounidense ha crecido algo más del 3%,
 en términos anualizados, en el tercer trimestre de
 2016, tras una primera mitad de año relativamente
 débil (en el entorno del 1% anualizado, en
@@ -2126,7 +2126,7 @@ empresariales y el ajuste en el sector energético y
 minero continuarán pesando sobre las decisiones
 de las empresas.
 
-Por lo que respecta al mercado de divisas, la
+Por lo que respecta al mercado de **divisas**, la
 incertidumbre tras las elecciones presidenciales
 estadounidenses y el proceso de normalización
 de la FED han revertido la depreciación que el
@@ -2139,7 +2139,7 @@ ante la gradual normalización de la FED y
 el mantenimiento de la política monetaria
 acomodaticia en la zona euro.
 
-En cuanto al sistema financiero, sigue mostrando
+En cuanto al **sistema financiero**, sigue mostrando
 una evolución favorable en términos generales, a
 pesar del entorno de bajos tipos de interés. La tasa
 de mora del sector mantiene su tendencia a la baja
@@ -2164,7 +2164,7 @@ de cambio corriente, se pueden observar en
 las tablas adjuntas de estados financieros e
 indicadores relevantes de gestión.
 
-El crédito bruto a la clientela en Estados Unidos
+El **crédito** bruto a la clientela en Estados Unidos
 en 2016 continúa con la senda de moderación
 mostrada desde la segunda mitad de 2015 como consecuencia de dos razones complementarias;
 por un la lado, la estrategia del área, que se centra
@@ -2180,7 +2180,7 @@ principalmente en los préstamos con garantía
 real y en tarjetas al segmento de grandes
 empresas y negocios.
 
-En cuanto a calidad crediticia de la cartera, la
+En cuanto a **calidad crediticia** de la cartera, la
 tasa de mora al cierre de 2016 se sitúa en el
 1,5%, lo cual supone una mejora con respecto
 al dato del 30-9-2016 (1,7%). Por su parte, la
@@ -2189,10 +2189,10 @@ finales de septiembre). BBVA en Estados Unidos
 mantiene una política conservadora y prudente
 de concesión de préstamos y requerimiento de
 colaterales a compañías del sector energy. Así, la
-cartera de exploration & production representa el
+cartera de _exploration & production_ representa el
 2,9% del portafolio total de BBVA Compass.
 
-Por lo que respecta a los depósitos de clientes en
+Por lo que respecta a los **depósitos** de clientes en
 gestión, registran una mejor evolución en la última
 parte del ejercicio (+1,8% en el cuarto trimestre),
 lo cual sitúa su crecimiento interanual en el 1,7%.
@@ -2205,7 +2205,7 @@ mientras que el plazo retrocede un 7,8%.
 
 ### Resultados
 
-El beneficio atribuido de Estados Unidos en el
+El **beneficio** atribuido de Estados Unidos en el
 ejercicio 2016 alcanza los 459 millones de euros.
 Sobresale el favorable comportamiento de esta área, especialmente en la última parte del ejercicio,
 período en el que el beneficio avanza un 29,7% en
@@ -2214,20 +2214,20 @@ contribuye a que la tasa de disminución interanual
 del acumulado del año se reduzca hasta el 11,5%.
 Adicionalmente, lo más relevante es:
 
-- Mejora el buen comportamiento del margen
-de intereses, que en el acumulado sube
+- Mejora el buen comportamiento del **margen
+de intereses**, que en el acumulado sube
 un 7,6% en términos interanuales, debido
 fundamentalmente a la subida de tipos y
 a una buena defensa del diferencial de la
 clientela.
 
-- Las comisiones registran un incremento
+- Las **comisiones** registran un incremento
 del 3,2% en el ejercicio, gracias a la favorable
 evolución de las de gestión de activos,
 tarjetas de crédito y transferencias de dinero,
 fundamentalmente.
 
-- Los ROF disminuyen un 23,9% con respecto
+- Los **ROF** disminuyen un 23,9% con respecto
 a los del año anterior como consecuencia de
 la difícil coyuntura que se está viviendo en los
 mercados y del menor importe procedente de
@@ -2235,14 +2235,14 @@ ventas de carteras COAP en comparación con
 el registrado en 2015.
 
 - Moderación de la tasa de aumento de los
-gastos de explotación, que se sitúa en el +1,7%
+**gastos de explotación**, que se sitúa en el +1,7%
 interanual.
 
-- Por último, las pérdidas por deterioro de
-activos financieros crecen un 55,8% fruto,
+- Por último, las **pérdidas por deterioro de
+activos financieros** crecen un 55,8% fruto,
 principalmente, de la subida de las dotaciones
 tras el impacto del deterioro del sector de
-energy ocurrida en el primer trimestre del
+_energy_ ocurrida en el primer trimestre del
 año. En los trimestres siguientes se han ido
 reduciendo paulatinamente. Así, el coste de
 riesgo del área acumulado en 2016 alcanza el
@@ -2301,8 +2301,8 @@ avance de los depósitos.
 
 ### Entorno macroeconómico y sectorial
 
-Tras la significativa desaceleración del crecimiento
-económico de Turquía durante la primera mitad
+Tras la significativa desaceleración del **crecimiento
+económico** de Turquía durante la primera mitad
 del año 2016, el PIB se ha contraído en el tercer
 trimestre un 1,8% en términos anualizados. En
 cuanto a la inflación, ha vuelto a aumentar a
@@ -2313,12 +2313,12 @@ doméstica. Y esta tendencia al alza es probable
 que continúe impulsada por la depreciación de la
 lira turca y el aumento de los precios de la energía.
 
-El CBRT ha subido ligeramente los tipos de
-interés en noviembre de 2016 y enero de 2017,
+El CBRT ha subido ligeramente los **tipos de
+interés** en noviembre de 2016 y enero de 2017,
 interrumpiendo así la reducción, desde marzo de
 2016, de la parte alta de la banda de tipos de interés.
 
-El sector financiero turco mantiene la tendencia
+El **sector financiero** turco mantiene la tendencia
 de los últimos trimestres. El crecimiento interanual
 del crédito, ajustado del efecto de la depreciación
 de la lira turca, alcanza el 10,4% según los últimos
@@ -2362,7 +2362,7 @@ tipo de cambio constante. Estas tasas, junto con las de variación a
 tipo de cambio corriente, se pueden observar en las tablas adjuntas
 de estados financieros e indicadores relevantes de gestión.
 
-El crecimiento interanual del crédito a la clientela bruto del área
+El crecimiento interanual del **crédito** a la clientela bruto del área
 se acelera en el último trimestre del año y se sitúa, a 31-12-2016,
 un 17,1% por encima del saldo existente a 31-12-2015. Este impulso
 proviene de los préstamos en lira turca, más rentables y sobre los
@@ -2383,7 +2383,7 @@ Garanti Bank finaliza el ejercicio con una variación interanual del
 compensada por el ya comentado incremento de la financiación a
 empresas en lira turca.
 
-Por lo que respecta a la calidad crediticia del área, los principales
+Por lo que respecta a la **calidad crediticia** del área, los principales
 indicadores de riesgo registran un mejor desempeño que en
 trimestres previos, comportándose también por encima de la
 media del sector. La tasa de mora disminuye hasta el 2,7%, desde
@@ -2392,7 +2392,7 @@ de los saldos dudosos derivada de las ventas de cartera. Por su
 parte, la tasa de cobertura se sitúa en el 124% (frente al 125% del
 cierre de septiembre de 2016 y el 129% del 31-12-2015).
 
-El crecimiento de los depósitos de clientes en gestión también
+El crecimiento de los **depósitos** de clientes en gestión también
 se acelera en el último trimestre del año en el área, hasta situarse
 un 4,6% por encima del saldo existente a 30-9-2016 (+14,6%
 en términos interanuales), con un incremento de los recursos
@@ -2738,21 +2738,21 @@ plazo (+14,6%).
 
 ### Resultados
 
-Turquía genera un beneficio atribuido en 2016 de 599 millones de
+Turquía genera un **beneficio** atribuido en 2016 de 599 millones de
 euros; es decir, un 40,5% más que en 2015. El resultado del cuarto
 trimestre supera en un 4,2% al del trimestre anterior. Estas son las
 dinámicas que explican la cuenta:
 
-- Positiva evolución del margen de intereses, que en 2016
+- Positiva evolución del **margen de intereses**, que en 2016
 presenta un crecimiento interanual del 10,6% por los efectos
 positivos derivados del abaratamiento de las fuentes de financiación (política monetaria del CBRT y abaratamiento del
-coste de los swaps) y de la defensa del diferencial de la clientela
+coste de los _swaps_) y de la defensa del diferencial de la clientela
 (vía gestión del coste del pasivo), junto con un mayor volumen
 de actividad (principalmente de los préstamos en lira turca
 y aumento de la proporción de los recursos de menor coste
 dentro del total de depósitos de clientes en gestión).
 
-- Favorable comportamiento de las comisiones, que se
+- Favorable comportamiento de las **comisiones**, que se
 incrementan un 7,8% en términos interanuales. Cabe destacar
 el impacto positivo de la bajada de la provisión constituida
 por las millas pagadas a Turkish Airlines, ante el menor precio
@@ -2766,7 +2766,7 @@ administración de cuentas impuesta por el Consejo de Estado
 turco en enero de 2016.
 
 - El último trimestre del año ha resultado negativo en términos
-de ROF, lo cual se explica principalmente por la evolución de
+de **ROF**, lo cual se explica principalmente por la evolución de
 la lira turca, que ha provocado unas pérdidas por diferencias
 de cambio que no han sido compensadas por el resto de
 partidas. Aun así, los resultados por esta línea alcanzan en
@@ -2780,7 +2780,7 @@ que resaltar que durante 2015, los ROF se vieron afectados
 negativamente por el entorno de volatilidad de los mercados
 mayoristas.
 
-- La variación interanual de los gastos de explotación se sitúa
+- La variación interanual de los **gastos de explotación** se sitúa
 en el +7,8%, en línea con la inflación. La disciplina en el control
 de costes compensa parcialmente los impactos negativos de la
 depreciación de la lira turca sobre los costes denominados en
@@ -2788,15 +2788,15 @@ moneda extranjera, los mayores costes derivados de la inversión
 en renovación, modernización y digitalización de canales
 tradicionales y el aumento del salario mínimo obligatorio en un
 30% desde enero de 2016. De esta manera, el área logra mejorar
-el ratio de eficiencia hasta el 40,8%, desde el 47,7% de 2015.
+el ratio de **eficiencia** hasta el 40,8%, desde el 47,7% de 2015.
 
-- Las pérdidas por deterioro de activos financieros se sitúan
+- Las **pérdidas por deterioro de activos financieros** se sitúan
 en 2016 en 520 millones de euros, es decir, un 7,8% por debajo
 de las de 2015. En el cuarto trimestre, la reducción es del 62,4%.
 Resultado de lo anterior, el coste de riesgo del área disminuye
 hasta el 0,87%, desde el 1,05% a 30-9-2016 (1,11% en 2015).
 
-- Finalmente, en dotación a provisiones y otros resultados se
+- Finalmente, en **dotación a provisiones y otros resultados** se
 registra, fundamentalmente, un mayor importe por riesgos y
 compromisos contingentes y una plusvalía, de 8 millones de
 euros, por la venta de la filial de Moscú.
@@ -3276,7 +3276,7 @@ euros, por la venta de la filial de Moscú.
 
 ### Entorno macroeconómico y sectorial
 
-El PIB de México se ha desacelerado en los
+El **PIB** de México se ha desacelerado en los
 tres primeros trimestres de 2016, debido
 principalmente a la reducción de la inversión
 desde el segundo trimestre. Lo anterior también
@@ -3292,8 +3292,8 @@ la confianza en un entorno de menor creación de
 empleo y contención de los salarios reales.
 
 El Banco Central Mexicano (Banxico) ha
-continuado con la senda de subidas de tipos de
-interés desde finales de 2015 (alrededor de 50
+continuado con la senda de subidas de **tipos de
+interés** desde finales de 2015 (alrededor de 50
 puntos básicos en cada uno de los tres primeros
 trimestres y 100 puntos básicos en el último)
 hasta situarlos en el 5,75% en diciembre. Y las
@@ -3303,7 +3303,7 @@ al alza sobre la inflación y anclar las expectativas
 ante la depreciación del peso mexicano frente al
 dólar (–13,1% interanual en 2016 frente al euro).
 
-En cuanto al sistema financiero mexicano, los
+En cuanto al **sistema financiero** mexicano, los
 niveles de solvencia y calidad de activos se
 mantienen holgados. El índice de capitalización
 aumenta ligeramente hasta el 15,2% y la tasa de
@@ -3332,7 +3332,7 @@ las tablas adjuntas de estados financieros e
 indicadores relevantes de gestión.
 
 Al cierre de 2016, BBVA en México sigue
-registrando un buen comportamiento de la inversión crediticia, que crece un 12,9% en términos interanuales.
+registrando un buen comportamiento de la **inversión** crediticia, que crece un 12,9% en términos interanuales.
 Con ello, BBVA Bancomer mantiene su posición de liderazgo, con
 una cuota de mercado del 23,5% en cartera vigente (de acuerdo
 con la información local de la CNBV del cierre de noviembre de
@@ -3340,7 +3340,7 @@ con la información local de la CNBV del cierre de noviembre de
 
 Según cifras de finales de año, el peso entre las carteras
 mayorista y minorista se iguala, representando cada una de ellas
-aproximadamente el 50% del total. La cartera mayorista avanza
+aproximadamente el 50% del total. La **cartera mayorista** avanza
 un 16,1% en términos interanuales. Dentro de ella destaca el
 comportamiento favorable de los préstamos empresariales, que
 incluyen los créditos a clientes corporativos y empresas medianas
@@ -3350,7 +3350,7 @@ vivienda continúan con una tendencia positiva por sexto trimestre
 consecutivo y muestran un ascenso interanual del 34,2% (+11,6% en
 el cuarto trimestre).
 
-La cartera minorista presenta un incremento del 10,8% desde
+La **cartera minorista** presenta un incremento del 10,8% desde
 finales de 2015 y del 1,9% durante los últimos tres meses. Este
 portafolio sigue impulsado por los créditos a pymes y los préstamos
 al consumo, que suben un 18,7% y un 16,5%, respectivamente.
@@ -3366,12 +3366,12 @@ impactando en el crecimiento del saldo, que registra un menor
 dinamismo que el de otros segmentos minoristas (+6,4% en los
 últimos doce meses).
 
-En términos de calidad de activos, la tónica sigue siendo de
+En términos de **calidad de activos**, la tónica sigue siendo de
 estabilidad de los principales indicadores de riesgo, acorde a las
 expectativas. En este sentido, las tasas de mora y cobertura cierran
 el mes de diciembre en el 2,3% y 127%, respectivamente.
 
-Los recursos totales de clientes (depósitos de clientes en gestión,
+Los **recursos** totales de clientes (depósitos de clientes en gestión,
 fondos de inversión, fondos de pensiones y otros recursos
 fuera de balance) muestran un crecimiento interanual del 8,4%
 (+0,4% en el último trimestre). En todos los productos se observa
@@ -3384,45 +3384,45 @@ tasa de aumento interanual hasta el +2,0%.
 
 ### Resultados
 
-BBVA en México alcanza un beneficio atribuido acumulado a
+BBVA en México alcanza un **beneficio** atribuido acumulado a
 diciembre de 2016 de 1.980 millones de euros, cifra que refleja un
 incremento interanual del 11,0% y que se apoya en:
 
-- Ascenso del 11,6% del margen de intereses, impulsado
+- Ascenso del 11,6% del **margen de intereses**, impulsado
 principalmente por los mayores volúmenes de actividad.
 
-- Buen desempeño de las comisiones, que presentan un
+- Buen desempeño de las **comisiones**, que presentan un
 aumento interanual del 10,2%, apoyado en un mayor volumen
 de las transacciones con clientes de tarjetas de crédito y en las
 comisiones procedentes de banca electrónica.
 
-- Crecimiento de los ROF (+31,8%) gracias al buen desempeño de
+- Crecimiento de los **ROF** (+31,8%) gracias al buen desempeño de
 la unidad de Global Markets, sobre todo en la última parte del
 ejercicio.
 
-- Comportamiento positivo en la línea de otros ingresos netos
+- Comportamiento positivo en la línea de **otros ingresos netos**
 (+16,0%), fruto, fundamentalmente, de la evolución favorable
 de los resultados de la actividad de seguros, que se han visto
 impulsados por el registro de una liberación de reservas
 originada por un cambio de las estimaciones que afecta a su
 sistema de cálculo.
 
-- Tasa de variación de los gastos de explotación (+7,2%) por
+- Tasa de variación de los **gastos de explotación** (+7,2%) por
 debajo de la mostrada por el margen bruto del área (+12,1%)
 e inferior a la registrada en el acumulado al tercer trimestre
 de 2016 (+7,9%). Lo anterior contribuye a mejorar el ratio de
-eficiencia, que en 2016 se sitúa en el 35,4% (frente al 37,0% de
+**eficiencia**, que en 2016 se sitúa en el 35,4% (frente al 37,0% de
 2015). Este indicador se mantiene muy por debajo de la media
 del sector, sin tener en cuenta BBVA Bancomer (56,4%, con
 información local de la CNBV de finales de noviembre de 2016).
 
-- Las pérdidas por deterioro de activos financieros muestran un
+- Las **pérdidas por deterioro de activos financieros** muestran un
 ascenso interanual del 16,8%. Lo anterior sitúa el coste de riesgo
 acumulado del área en el 3,40%, por debajo de la expectativa de
 cierre de año del 3,50%.
 
-- Por último, la línea de dotaciones a provisiones y otros
-resultados incluye los costes de reestructuración asociados al
+- Por último, la línea de **dotaciones a provisiones y otros
+resultados** incluye los costes de reestructuración asociados al
 proceso de transformación del Grupo, cuyo objetivo es seguir
 generando una organización más sencilla, cercana y eficiente.
 Con ello esta partida crece un 47,4% interanual en el acumulado
@@ -3477,7 +3477,7 @@ debido al entorno macroeconómico.
 
 ### Entorno macroeconómico y sectorial
 
-La debilidad del ciclo económico y los factores
+La debilidad del **ciclo económico** y los factores
 políticos en varios países han estado afectando a
 la confianza económica, lo que a su vez ha pesado
 sobre el consumo y la inversión, aunque con
@@ -3490,9 +3490,9 @@ de rentabilidades y la baja volatilidad.
 
 Dada la debilidad de la actividad y la moderación
 de la inflación, la mayoría de los bancos centrales (a
-excepción de Colombia) están adoptando políticas
-monetarias algo más acomodaticias. Por su parte,
-los tipos de cambio del peso argentino y del bolívar
+excepción de Colombia) están adoptando **políticas
+monetarias** algo más acomodaticias. Por su parte,
+los **tipos de cambio** del peso argentino y del bolívar
 fuerte venezolano se han depreciado frente al euro
 en 2016, mientras que los de los pesos chileno y
 colombiano y del sol peruano han experimentado
@@ -3501,7 +3501,7 @@ FED redundará en una posible depreciación futura,
 si bien se espera que sea mucho más moderada
 que la experimentada en 2015.
 
-En cuanto a los sistemas bancarios de los países
+En cuanto a los **sistemas bancarios** de los países
 en los que BBVA está presente, los principales
 indicadores de rentabilidad y solvencia son
 elevados y la morosidad se mantiene contenida,
@@ -3520,7 +3520,7 @@ cambio corriente, se pueden observar en las tablas
 adjuntas de estados financieros e indicadores
 relevantes de gestión.
 
-El crédito bruto a la clientela cierra 2016 con un
+El **crédito** bruto a la clientela cierra 2016 con un
 crecimiento trimestral del 3,6% e interanual del
 7,9%. Avances en todos los países, aunque los
 más relevantes se registran en Argentina (+33,5%),
@@ -3531,13 +3531,13 @@ minoristas, sobre todo de las tarjetas de crédito
 (+10,8%) y de los préstamos hipotecarios (+8,3%).
 En cuanto a la calidad crediticia, la evolución del entorno macroeconómico sigue influyendo en el comportamiento de las tasas de mora y cobertura, que finalizan el año en el 2,9% y el 103%, respectivamente.
 
-En cuanto a la calidad crediticia, la evolución
+En cuanto a la **calidad crediticia**, la evolución
 del entorno macroeconómico sigue influyendo
 en el comportamiento de las tasas de mora y
 cobertura, que finalizan el año en el 2,9% y el 103%,
 respectivamente.
 
-Los recursos de clientes terminan el ejercicio con un incremento
+Los **recursos** de clientes terminan el ejercicio con un incremento
 interanual del 14,2%, en el que sobresale la favorable contribución
 de todos los productos y geografías. Por productos destaca el buen
 comportamiento de los recursos fuera de balance (+18,2%) y del
@@ -3879,12 +3879,12 @@ Argentina (+57,0%) y Colombia (+14,1%).
 
 ### Resultados
 
-América del Sur finaliza 2016 con un beneficio atribuido de 771
+América del Sur finaliza 2016 con un **beneficio** atribuido de 771
 millones de euros, lo cual representa un crecimiento interanual del
 1,1%. Lo más relevante de la evolución de la cuenta de resultados del
 área en los últimos doce meses es:
 
-- El margen bruto se incrementa un 10,3% gracias a la elevada
+- El **margen bruto** se incrementa un 10,3% gracias a la elevada
 capacidad de generación de ingresos del área, impulsada
 principalmente por el crecimiento de la actividad. En este sentido,
 el margen de intereses sube un 11,4% y las comisiones un 8,2%.
@@ -3897,7 +3897,7 @@ avanza un 17,6%. Tal avance se debe a la buena evolución tanto
 de los siniestros netos como de las primas, principalmente de las
 procedentes del ramo de no vida.
 
-- En gastos de explotación se observa una reducción, en
+- En **gastos de explotación** se observa una reducción, en
 comparación con períodos previos, de la tasa de variación
 interanual de esta partida hasta el +17,5%. La elevada inflación
 de algunos países de la región y la evolución de los tipos de
@@ -3905,23 +3905,23 @@ cambio frente al dólar, que impacta negativamente sobre aquellas
 partidas de coste denominadas en dicha moneda, explican en
 gran medida el aumento interanual de esta rúbrica.
 
-- Las pérdidas por deterioro de activos financieros muestran una
+- Las **pérdidas por deterioro de activos financieros** muestran una
 disminución del 2,9%, lo cual sitúa el coste de riesgo acumulado
 en 2016 en el 1,15% (1,13% en septiembre de 2016 y 1,26% en 2015).
 
-- Por último, la línea de dotaciones a provisiones y otros resultados
+- Por último, la línea de **dotaciones a provisiones y otros resultados**
 incluyen, fundamentalmente, los costes de reestructuración
 asociados al proceso de transformación del Grupo.
 
 
-Por países, Argentina registra una favorable trayectoria de
+Por países, **Argentina** registra una favorable trayectoria de
 todos sus márgenes gracias al dinamismo de la actividad, que
 compensa el comportamiento negativo de los gastos ligados a la
-inflación. En Chile, el resultado está afectado por unas dotaciones
+inflación. En **Chile**, el resultado está afectado por unas dotaciones
 a provisiones más elevadas que durante el ejercicio anterior. En
-Colombia, evolución positiva del margen bruto, gracias al buen
+**Colombia**, evolución positiva del margen bruto, gracias al buen
 comportamiento de las comisiones y los ROF, y de las pérdidas por
-deterioro de activos financieros. En Perú, crecimiento del margen de
+deterioro de activos financieros. En **Perú**, crecimiento del margen de
 intereses y de las comisiones por encima de los niveles de actividad,
 mitigado por el menor avance de los ROF y un importe más elevado
 de las dotaciones a provisiones.
@@ -4198,7 +4198,7 @@ ingresos y la reducción de los gastos.
 
 
 ### Entorno macroeconómico y sectorial
-La economía de la Eurozona ha crecido a un
+La economía de la **Eurozona** ha crecido a un
 ritmo moderado y relativamente estable en los
 últimos seis meses (0,3% trimestral en el segundo
 y tercer trimestres) y ha resistido relativamente
@@ -4219,7 +4219,7 @@ una política monetaria muy expansiva hasta que
 no haya indicios claros de que la tendencia de la
 inflación al objetivo sea sostenible.
 
-En China, el crecimiento se ha estabilizado en
+En **China**, el crecimiento se ha estabilizado en
 el 6,7% interanual en el tercer trimestre del año,
 apoyado en un consumo sólido y un aumento
 del crédito; todo ello gracias a las medidas de
@@ -4468,7 +4468,7 @@ desaceleración significativa de la economía.
 
 ## Actividad y resultados
 
-La inversión crediticia del área recupera la
+La **inversión** crediticia del área recupera la
 senda alcista en el cuarto trimestre del ejercicio.
 
 En este sentido presenta un crecimiento en los
@@ -4480,21 +4480,21 @@ meses sigue siendo descendente (–2,7%) debido
 al mal desempeño de Asia durante los tres
 primeros trimestres de 2016.
 
-En cuanto a los principales indicadores de
-riesgo, si bien registran un ligero empeoramiento
+En cuanto a los principales **indicadores de
+riesgo**, si bien registran un ligero empeoramiento
 con respecto al cierre de 2015, se mantienen en
 niveles muy acotados (tasa de mora en el 2,7% y
 cobertura en el 84%).
 
-Por su parte, los recursos totales de clientes
+Por su parte, los **recursos** totales de clientes
 (depósitos de clientes en gestión y fondos de
 pensiones) terminan 2016 un 14,4% por debajo
 de la cifra de finales de 2015. En este caso, tal
 descenso se explica por el retroceso registrado
 en las sucursales de Europa (–24,6%).
 
-Por lo que respecta a los resultados, el margen
-bruto aumenta en el cuarto trimestre del año
+Por lo que respecta a los resultados, el **margen
+bruto** aumenta en el cuarto trimestre del año
 significativamente (+39,2%), gracias a los mayores
 resultados obtenidos en todas las líneas de negocio de CIB, lo cual contribuye a revertir
 el decrecimiento que presentaba el área en la
@@ -4513,13 +4513,13 @@ operaciones, y un desempeño desfavorable de
 los ROF (aunque estos últimos presentan un
 avance importante en el cuarto trimestre, del
 82,0%). Por su parte, continúa la moderación
-de los gastos de explotación, que registran un
+de los **gastos de explotación**, que registran un
 descenso interanual del 2,7%, en el que destaca la
 contención de los gastos de personal (–6,9%); de
 las pérdidas por deterioro de activos financieros;
 y de la dotaciones a provisiones y otros
-resultados. Con todo, Eurasia aporta un beneficio
-atribuido de 151 millones de euros en 2016, lo
+resultados. Con todo, Eurasia aporta un **beneficio
+atribuido** de 151 millones de euros en 2016, lo
 que representa un avance interanual de más del
 doble (+100,1%).
 
@@ -4603,24 +4603,24 @@ Lo más relevante de la cuenta de resultados
 de 2016 del Centro Corporativo se resume a
 continuación:
 
-- Mayor contribución de los ROF en
+- Mayor contribución de los **ROF** en
 comparación con los de 2015 como
 consecuencia, principalmente, de las plusvalías
 registradas por las ventas parciales realizadas
 en mercado de la participación del Grupo
 BBVA en CNCB.
 
-- La partida de otros ingresos netos recoge,
+- La partida de **otros ingresos netos** recoge,
 fundamentalmente, los dividendos de
 Telefónica (cobrados en el segundo y cuarto
 trimestres).
 
 - Incremento interanual, del 3,7%, de los
-gastos de explotación debido a las mayores
+**gastos de explotación** debido a las mayores
 amortizaciones. Los gastos de personal
 apenas se incrementan un 0,3%.
 
-- Ausencia de operaciones corporativas. El
+- Ausencia de **operaciones corporativas**. El
 resultado de operaciones corporativas de
 2015, –1.109 millones de euros, incluía: 705
 millones de plusvalías netas de impuestos
@@ -4642,7 +4642,7 @@ de la participación del 29,68% en CIFH (tercer
 trimestre).
 
 Con todo ello, el Centro Corporativo muestra un
-resultado negativo acumulado de 801 millones
+**resultado** negativo acumulado de 801 millones
 de euros, lo cual compara con una pérdida
 de 2015 de 1.910 millones (–800 millones sin
 operaciones corporativas).
