@@ -3,25 +3,19 @@
     {
       "title"    : "Anexos",
       "content"  : "",
-      "url"      : "/cuentas-anuales/cuentas/anexos/"
+      "url"      : "/cuentas-anuales/informe-de-gestion/anexos/"
     },
   
     {
       "title"    : "Anexos",
       "content"  : "",
-      "url"      : "/cuentas-anuales/informe-de-gestion/anexos/"
+      "url"      : "/cuentas-anuales/cuentas/anexos/"
     },
   
     {
       "title"    : "Áreas de negocio",
       "content"  : "",
       "url"      : "/cuentas-anuales/informe-de-gestion/areas-de-negocio/"
-    },
-  
-    {
-      "title"    : "",
-      "content"  : "texto que te texto que de texto",
-      "url"      : "/cuentas-anuales/cuentas-anuales-consolidadas/"
     },
   
     {
