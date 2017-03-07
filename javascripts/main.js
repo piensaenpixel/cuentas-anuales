@@ -11357,16 +11357,16 @@
 	var utils = __webpack_require__(11);
 
 	var query = new Query();
-	var baseurl = window.baseurl;
+	var baseurl = window.path;
 	var lang = window.lang;
 
 	var filteredData;
 
 	function getJsonURL () {
 	  if (lang === 'es') {
-	    return baseurl + '/pages.json';
+	    return baseurl + 'pages.json';
 	  } else {
-	    return baseurl + '/' + lang + '/pages.json';
+	    return baseurl + lang + '/pages.json';
 	  }
 	}
 

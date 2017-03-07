@@ -77,7 +77,7 @@ gulp.task('serve', () => {
   gulp.watch(cssFiles, ['css']);
   gulp.watch(jsFiles, ['js']);
   gulp.watch(assetsFiles, ['assets']);
-  gulp.watch(['**/*.md', '_layouts/**/*', '_includes/**/*', '_data/**/*'], ['build:reload']);
+  gulp.watch(['**/*.md', '_layouts/**/*', '_includes/**/*', '_data/**/*'], ['build:reload', 'search']);
 });
 
 gulp.task('build:reload', ['build'], () => { reload(); });
@@ -177,6 +177,33 @@ function fixLink () {
   });
 }
 
+function adjustSearch () {
+  let pathArray;
+  let replacement;
+  let needle = /__path__/g;
+
+  return through.obj((file, enc, cb) => {
+    pathArray = file.path.substring(file.base.length).split('/');
+    replacement = Array(pathArray.length).join('../');
+
+    if (file.isNull()) {
+      return cb(null, file);
+    }
+
+    if (pathArray.length === 1) {
+      replacement = './';
+    }
+
+    if (file.isStream()) {
+      file.contents = file.contents.pipe(replace(needle, replacement));
+    } else if (file.isBuffer()) {
+      file.contents = new Buffer(String(file.contents).replace(needle, replacement));
+    }
+
+    return cb(null, file);
+  });
+}
+
 gulp.task('wadus', () => {
   gulp.src('_site/stylesheets/**/*')
     .pipe(gulp.dest('_deliver/stylesheets'));
@@ -190,10 +217,16 @@ gulp.task('wadus', () => {
   return gulp.src('_site/**/*.html')
     .pipe(fixLink())
     .pipe(adjustPath('/stylesheets/main.css'))
-    .pipe(adjustPath('/javascripts/main.js'))
     .pipe(adjustPath('/images'))
     .pipe(adjustLink())
     .pipe(gulp.dest('_deliver'));
+});
+
+gulp.task('search', () => {
+  return gulp.src('_site/**/*.html')
+    .pipe(adjustSearch())
+    .pipe(reload({stream: true}))
+    .pipe(gulp.dest('_site'));
 });
 
 // Optimise images + copy any other assets
