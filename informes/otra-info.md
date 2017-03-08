@@ -523,7 +523,7 @@ Prioridades Estratégicas del Grupo.
     <tr>
       <th></th>
       <th></th>
-      <th>2015</th>
+      <th></th>
       <th colspan="4">2016</th>
     </tr>
     <tr>
@@ -585,7 +585,7 @@ existir singularidades (resultado de operaciones corporativas) en
 el resultado atribuido durante los meses contemplados, estas se eliminarán del mismo antes de ser anualizado, para posteriormente
 sumárselas a la métrica ya anualizada.
 
-**Fondos propios medios**: Se trata de los fondos propios, corregidos
+Fondos propios medios: Se trata de los fondos propios, corregidos
 para considerar el resultado del dividendo-opción en los cierres en
 los que de forma previa a la publicación se ha acordado la entrega
 de este tipo de dividendo. Los fondos propios medios son la media
@@ -608,7 +608,7 @@ operaciones corporativas.
     <tr>
       <th></th>
       <th></th>
-      <th>2015</th>
+      <th></th>
       <th colspan="4">2016</th>
     </tr>
     <tr>
@@ -691,7 +691,7 @@ de operaciones corporativas.
       <th></th>
       <th></th>
       <th></th>
-      <th>2015</th>
+      <th></th>
       <th colspan="4">2016</th>
     </tr>
     <tr>
@@ -784,7 +784,7 @@ operaciones corporativas.
     <tr>
       <th></th>
       <th></th>
-      <th>2015</th>
+      <th></th>
       <th colspan="4">2016</th>
     </tr>
     <tr>
@@ -861,7 +861,7 @@ de operaciones corporativas.
     <tr>
       <th></th>
       <th></th>
-      <th>2015</th>
+      <th></th>
       <th colspan="4">2016</th>
     </tr>
     <tr>
@@ -931,7 +931,7 @@ tales como fondos de inversión y pensiones, etc.
       <th></th>
       <th colspan="5">Millones de euros</th>
     </tr>
-    <tr class="m">
+    <tr>
       <th></th>
       <th></th>
       <th>31-12-15</th>
@@ -1072,7 +1072,7 @@ desarrollar, motivar y retener al mejor equipo, así como proporcionar
 la mejor experiencia de empleado. Para ello se está transformando
 la Organización y se está impulsando una nueva cultura, con nuevas
 formas de trabajo (organización basada en proyectos, comunidades
-de expertise, metodología agile, herramientas colaborativas, etc.) y
+de *expertise*, metodología *agile*, herramientas colaborativas, etc.) y
 unas estructuras más planas. Además se ha implantado un nuevo
 modelo de compensación variable alineado con los objetivos
 estratégicos.
@@ -1085,7 +1085,7 @@ estratégicos.
       <th></th>
       <th colspan="2">Número</th>
     </tr>
-    <tr class="m">
+    <tr>
       <th></th>
       <th>2016</th>
       <th>2015</th>
@@ -1152,7 +1152,7 @@ comportamientos y modelo de liderazgo.
 
  Un aspecto relevante para el desarrollo profesional en BBVA es el
 **proceso bienal** mediante el cual se identifican las fortalezas y áreas de mejora de cada uno de los profesionales. El último proceso se
-realizó en 2015, cuando cada profesional recibió feedback por parte
+realizó en 2015, cuando cada profesional recibió *feedback* por parte
 de su responsable y se establecieron los planes formativos y de
 desarrollo que se han abordado a lo largo de 2016. Los resultados
 del proceso, junto con los indicadores de desempeño, son aspectos
@@ -1173,14 +1173,14 @@ el 75,42% pertenecen a jóvenes menores de 30 años; y se han
 incorporado un total de 15.243 personas en el Grupo, de las que el
 62% son menores de 30 años.
 
-- Apúntate+: Aplicación global de job posting interno como medio
+- Apúntate+: Aplicación global de *job posting* interno como medio
 para favorecer el desarrollo y la transparencia en los criterios de
 promoción, en la que se publican las posiciones disponibles.
 
 - Formación: En 2016 se ha registrado un incremento de las
 acciones formativas hasta llegar a una media de 39 horas de
 formación por empleado, siendo estas realizadas en un 66%
-a través del canal online. La inversión en formación del Grupo
+a través del canal *online*. La inversión en formación del Grupo
 alcanza los 45,5 millones de euros.
 
 - En relación con los requerimientos legales que establece la
@@ -1245,7 +1245,7 @@ túnel carpiano, etc.).
       <th></th>
       <th colspan="3">Número</th>
     </tr>
-    <tr class="m">
+    <tr>
       <th></th>
       <th>2016</th>
       <th>2015</th>
@@ -1521,10 +1521,10 @@ productos, la filosofía de ecosistema abierto y el importante papel
 que van a jugar los datos. Por tanto, las principales **líneas de trabajo**
 se están desarrollando en torno a:
 
-- Nuevo stack tecnológico, que permita ofrecer a nuestros clientes
+- Nuevo *stack* tecnológico, que permita ofrecer a nuestros clientes
 el servicio más ajustado a sus necesidades en tiempo y forma.
 
-- Alianzas con partners estratégicos, para tener acceso a la
+- Alianzas con *partners* estratégicos, para tener acceso a la
 tecnología más puntera y a la colaboración necesaria que agilice
 el proceso de transformación.
 
@@ -1539,7 +1539,7 @@ parte de los clientes y, por consiguiente, al aumento exponencial
 del número de transacciones, el Grupo ha evolucionado su **modelo
 de tecnologías de la información** (IT, por sus siglas en inglés) hacia
 uno más homogéneo y escalable, que impulsa las tecnologías en la
-nube (cloud).
+nube (*cloud*).
 
 Durante **2016**, Engineering ha trabajado en la construcción de las
 piezas fundamentales del stack tecnológico que integre a todo
@@ -1686,7 +1686,7 @@ con los requisitos previstos en la O.M. ECO/734; y 20.279 fueron
 resueltos por el propio Servicio de Atención al Cliente y concluidos
 en el mismo ejercicio, lo que supone el 88% del total. Quedaron pendientes de análisis 2.781 expedientes. En 2015, las reclamaciones
 fueron 17.647 y los expedientes resueltos y concluidos 14.315, el 92%
-de los asuntos
+de los asuntos.
 
 #### Reclamaciones gestionadas por el Servicio de Atención al Cliente por tipo de reclamación
 
@@ -1694,9 +1694,10 @@ de los asuntos
   <thead>
     <tr class="m">
       <th></th>
-      <th>Porcentaje</th>
+      <th colspan="2">Porcentaje</th>
     </tr>
-    <tr class="m">
+    <tr>
+      <th></th>
       <th>2016</th>
       <th>2015</th>
     </tr>
@@ -1758,9 +1759,10 @@ de los asuntos
   <thead>
     <tr class="m">
       <th></th>
-      <th>Número</th>
+      <th colspan="2">Número</th>
     </tr>
-    <tr class="m">
+    <tr>
+      <th></th>
       <th>2016</th>
       <th>2015</th>
     </tr>
@@ -1793,7 +1795,7 @@ de los asuntos
 El **_governance_ de calidad** se ha convertido en una de las palancas
 fundamentales impulsora de la estrategia y objetivos corporativos
 definidos en materia de calidad de servicio. En este sentido, los
-diferentes **comités** que componen el governance de calidad
+diferentes **comités** que componen el *governance* de calidad
 facilitan la adopción de medidas de mejora en aquellas áreas en las
 que se han detectado errores o malas prácticas, creando grupos de
 trabajo que cuentan con el apoyo de la alta dirección de la Entidad.
@@ -1855,9 +1857,10 @@ ejercicio, quedando pendientes de análisis 24 expedientes.
   <thead>
     <tr class="m">
       <th></th>
-      <th>Número</th>
+      <th colspan="2">Número</th>
     </tr>
-    <tr class="m">
+    <tr>
+      <th></th>
       <th>2016</th>
       <th>2015</th>
     </tr>
@@ -1918,9 +1921,10 @@ Banco de España, en sus peticiones de información.
   <thead>
     <tr class="m">
       <th></th>
-      <th>Número</th>
+      <th colspan="2">Número</th>
     </tr>
-    <tr class="m">
+    <tr>
+      <th></th>
       <th>2016</th>
       <th>2015</th>
     </tr>
@@ -1996,8 +2000,7 @@ satisfactoria atención a los clientes.
 y seguridad de los clientes, para lo que se mantienen de
 forma habitual reuniones y contactos con los Servicios de
 Reclamaciones del Banco de España, de la Comisión Nacional
-del Mercado de Valores (CNMV) y d
-
+del Mercado de Valores (CNMV).
 
 Los clientes no satisfechos por la respuesta del Defensor del Cliente
 pueden acudir a los **organismos supervisores** oficiales (Banco
@@ -2030,7 +2033,7 @@ Ltd., Continental DPR Finance Company, Garanti Diversified
 Payment Rights Finance Company y RPV Company.
 
 
-###  Sucursales de bancos del Grupo BBVA en Islas Caimán
+### Sucursales de bancos del Grupo BBVA en Islas Caimán
 
  El Grupo BBVA mantiene, a 31 de diciembre de 2016, dos **sucursales**
 bancarias domiciliadas en las Islas Caimán que se dedican a
