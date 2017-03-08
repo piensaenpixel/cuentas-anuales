@@ -3,7 +3,7 @@ layout: default
 title: Información
 lang: es
 submenu: gestion
-order: 4
+order: 2
 permalink: informe-de-gestion/informacion/
 ---
 
