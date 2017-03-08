@@ -3,7 +3,7 @@ layout: default
 title: Áreas de negocio
 lang: es
 submenu: gestion
-order: 2
+order: 3
 permalink: informe-de-gestion/areas-de-negocio/
 ---
 
