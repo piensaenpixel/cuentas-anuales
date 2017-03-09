@@ -160,6 +160,17 @@ span.highlight {
     list-style-type: disc;
     margin-bottom: 32px;
     margin-left: 36px;
+    &.cita {
+      font-size: 13px;
+      color: rgba($txtgrey, 0.8);
+      margin-left: 0;
+      line-height: 22px;
+      list-style-type: none;
+      > li {
+        margin-bottom: 8px;
+      }
+    }
+
     ul {
       color: $txtgrey;
       font-size: 15px;
@@ -167,6 +178,7 @@ span.highlight {
       list-style-type: circle;
       margin-bottom: 32px;
       margin-left: 18px;
+
       > li {
         margin-bottom: 8px;
         p {
@@ -484,5 +496,8 @@ span.highlight {
   svg {
     margin-right: 8px;
   }
+}
+.content p + ul.cita {
+  margin-top: -20px;
 }
 

@@ -4,8 +4,6 @@ options:
     url: /
   - title: Descargar informe
     url: /
-  - title: Contacta con nosotros
-    url: /
 menu:
   - title: Informe de auditoría
     url: /informe-de-auditoria/
@@ -15,12 +13,3 @@ menu:
   - title: Informe de gestión
     url: /informe-de-gestion/introduccion/
     submenu: gestion
-footer:
-- title: Centro de seguridad
-  url: /
-- title: Privacidad
-  url: /
-- title: Terminos y condiciones
-  url: /
-- title: Mapa del sitio
-  url: /
