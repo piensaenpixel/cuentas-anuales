@@ -138,7 +138,7 @@ permalink: informe-de-gestion/datos-relevantes/
             <td>7,85</td>
         </tr>
         <tr>
-            <td>Beneficio por acción (euros) </td>
+            <td>Beneficio por acción (euros) (1) </td>
             <td>0,50</td>
             <td>33,3</td>
             <td>0,37</td>
@@ -163,7 +163,7 @@ permalink: informe-de-gestion/datos-relevantes/
             <td>42.118</td>
             <td>(1,8)</td>
             <td>42.905</td>
-            <td>42.905</td>
+            <td>48.470</td>
         </tr>
         <tr>
             <td>Rentabilidad por dividendo (dividendo/precio; %)</td>
@@ -180,14 +180,14 @@ permalink: informe-de-gestion/datos-relevantes/
             <td>&nbsp;</td>
         </tr>
         <tr>
-            <td>ROE (beneficio atribuido/fondos propios medios) (1)</td>
+            <td>ROE (beneficio atribuido/fondos propios medios) (2)</td>
             <td>6,7</td>
             <td>&nbsp;</td>
             <td>5,2</td>
             <td>5,5</td>
         </tr>
         <tr>
-            <td>ROTE (beneficio atribuido/fondos propios sin activos intangibles medios) (1)</td>
+            <td>ROTE (beneficio atribuido/fondos propios sin activos intangibles medios) (2)</td>
             <td>8,2</td>
             <td>&nbsp;</td>
             <td>6,4</td>

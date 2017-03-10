@@ -480,21 +480,6 @@ especialmente en Europa.
 
     Una de las acciones que se puso en marcha
 en CIB para combatir esta situación de
-mercado fue el plan **“Deep Blue”**, que desde
-su lanzamiento ha evolucionado de una
-manera muy positiva. Se trata de una iniciativa
-transversal que involucra, en las visitas a
-clientes (más de 60 visitas en Europa, Estados
-Unidos y Latinoamérica), a varios equipos de
-CIB con el fin de ofrecerles las soluciones que
-mejor se adapten a sus necesidades. Producto
-de este plan se han presentado indicaciones
-de aseguramiento por importe de 40.000
-millones de euros, sobre los cuales se está
-realizando un seguimiento recurrente.
-
-    Una de las acciones que se puso en marcha
-en CIB para combatir esta situación de
 mercado fue el plan “Deep Blue”, que desde
 su lanzamiento ha evolucionado de una
 manera muy positiva. Se trata de una iniciativa

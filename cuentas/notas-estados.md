@@ -4,6 +4,7 @@ title: Notas de los estados financieros consolidados adjuntos
 lang: es
 submenu: cuentas
 permalink: /cuentas/notas-estados-financieros/
+order: 1
 ---
 
 {% include subir.html %}
@@ -1009,9 +1010,11 @@ A continuación, se detalla el Índice Nacional de Precios al Consumidor y el 
 </table>
 [Descargar tabla](#)
 
-(*) A 31 de diciembre 2016, el gobierno venezolano no había publicado el dato de inflación oficial desde el mes de diciembre de 2015. Al igual que en las Cuentas Anuales consolidadas del 2015, el Grupo ha estimado el índice de inflación aplicable para la elaboración de las Cuentas Anuales consolidadas del ejercicio 2016 (300%).
+<ul class="cita">
+  <li>(*) A 31 de diciembre 2016, el gobierno venezolano no había publicado el dato de inflación oficial desde el mes de diciembre de 2015. Al igual que en las Cuentas Anuales consolidadas del 2015, el Grupo ha estimado el índice de inflación aplicable para la elaboración de las Cuentas Anuales consolidadas del ejercicio 2016 (300%).</li>
 
-(**) A la fecha de formulación de las Cuentas Anuales Consolidadas del ejercicio 2015, el gobierno venezolano no había publicado el dato de inflación oficial. El Grupo estimó el índice de inflación aplicable a 31 de diciembre de 2015, en base a la mejor estimación del Servicio de Estudios del Grupo (170%) en línea con otras estimaciones realizadas por diversos organismos internacionales. Posteriormente a la publicación de las Cuentas Anuales consolidadas, se publicó el dato de inflación oficial, finalizando en 180,9%.
+  <li>(**) A la fecha de formulación de las Cuentas Anuales Consolidadas del ejercicio 2015, el gobierno venezolano no había publicado el dato de inflación oficial. El Grupo estimó el índice de inflación aplicable a 31 de diciembre de 2015, en base a la mejor estimación del Servicio de Estudios del Grupo (170%) en línea con otras estimaciones realizadas por diversos organismos internacionales. Posteriormente a la publicación de las Cuentas Anuales consolidadas, se publicó el dato de inflación oficial, finalizando en 180,9%.</li>
+</ul>
 
 
 
@@ -1488,10 +1491,11 @@ Adicional</td>
     </tbody>
 </table>
 [Descargar tabla](#)
+<ul class="cita">
+<li>(*) Beneficio correspondiente a BBVA, S.A. (ver Anexo IX)</li>
 
-(*) Beneficio correspondiente a BBVA, S.A. (ver Anexo IX)
-
-(**) Corresponden a las retribuciones a accionistas que optaron por la retribución en efectivo en los “Dividendos Opción”.
+<li>(**) Corresponden a las retribuciones a accionistas que optaron por la retribución en efectivo en los “Dividendos Opción”.</li>
+</ul>
 
 
 ## 5. Beneficio atribuido por acción
@@ -1606,13 +1610,15 @@ El cálculo del beneficio atribuido por acción se detalla a continuación:
 </table>
 [Descargar tabla](#)
 
-(1) Retribución en el ejercicio de las emisiones de valores perpetuos eventualmente convertibles registrada contra patrimonio (ver Nota 22.3).
+<ul class="cita">
+<li>(1) Retribución en el ejercicio de las emisiones de valores perpetuos eventualmente convertibles registrada contra patrimonio (ver Nota 22.3).</li>
 
-(2) Núm. medio de acciones en circulación (en millones), excluido el núm. medio de acciones propias mantenidas en autocartera a lo largo de cada ejercicio
+<li>(2) Núm. medio de acciones en circulación (en millones), excluido el núm. medio de acciones propias mantenidas en autocartera a lo largo de cada ejercicio</li>
 
-(3) Aplicación del factor corrector del efecto de las ampliaciones de capital con derecho de suscripción preferente aplicado a los periodos previos a la emisión
+<li>(3) Aplicación del factor corrector del efecto de las ampliaciones de capital con derecho de suscripción preferente aplicado a los periodos previos a la emisión</li>
 
-(*) Datos recalculados por el factor corrector antes mencionado.
+<li>(*) Datos recalculados por el factor corrector antes mencionado.</li>
+</ul>
 
 A 31 de diciembre de 2016, 2015 y 2014, no existían otros instrumentos financieros ni compromisos con empleados basados en acciones, que tengan efecto significativo sobre el cálculo del beneficio atribuido diluido por acción de los periodos presentados. Por esta razón el beneficio atribuido básico y el diluido coinciden a ambas fechas.
 
@@ -1733,11 +1739,14 @@ El desglose del activo total del Grupo BBVA por segmentos de negocio a 31 de dic
 </table>
 [Descargar tabla](#)
 
-(1) Los saldos correspondientes a diciembre 2015 han sido reexpresados (ver Nota 1.3).
+<ul class="cita">
+<li>(1) Los saldos correspondientes a diciembre 2015 han sido reexpresados (ver Nota 1.3).</li>
 
-(2) La información se presenta bajo criterios de gestión, conforme a los cuáles los activos y los pasivos del Grupo Garanti se muestran en el ejercicio 2014 integrados proporcionalmente en base a la participación del 25,01% mantenida en dicho grupo. Tras la materialización del acuerdo detallado en la Nota 3, el Grupo Garanti pasa a consolidarse.
+<li>(2) La información se presenta bajo criterios de gestión, conforme a los cuáles los activos y los pasivos del Grupo Garanti se muestran en el ejercicio 2014 integrados proporcionalmente en base a la participación del 25,01% mantenida en dicho grupo. Tras la materialización del acuerdo detallado en la Nota 3, el Grupo Garanti pasa a consolidarse.</li>
 
-(3) Otros ajustes incluye los ajustes realizados para tener en cuenta el hecho de que, en los estados financieros consolidados, Garanti se contabiliza utilizando el método de la participación hasta la adquisición adicional del 14,89% en lugar de utilizarlos criterios de gestión a los que se hace referencia anteriormente.
+<li>(3) Otros ajustes incluye los ajustes realizados para tener en cuenta el hecho de que, en los estados financieros consolidados, Garanti se contabiliza utilizando el método de la participación hasta la adquisición adicional del 14,89% en lugar de utilizarlos criterios de gestión a los que se hace referencia anteriormente.</li>
+
+</ul>
 
 A continuación se presenta un detalle del beneficio atribuido y de los principales márgenes de las cuentas de pérdidas y ganancias consolidadas del primer semestre de 2016, 2015 y 2014 por segmentos de negocio:
 
@@ -2004,11 +2013,14 @@ A continuación se presenta un detalle del beneficio atribuido y de los princip
 </table>
 [Descargar tabla](#)
 
-(1) Los saldos correspondientes a diciembre 2015 han sido reexpresados (ver Nota 1.3).
+<ul class="cita">
+<li>(1) Los saldos correspondientes a diciembre 2015 han sido reexpresados (ver Nota 1.3).</li>
 
-(2) Resultado del Margen Bruto menos Gastos de Administración y menos Amortizaciones.
+<li>(2) Resultado del Margen Bruto menos Gastos de Administración y menos Amortizaciones.</li>
 
-(2) Desde el tercer trimestre de 2015, la participación total de BBVA en Garanti (39,9%) se consolida por el método de la integración global. Para periodos anteriores, los ingresos y gastos de Garanti se integran, en la información de gestión, en la proporción correspondiente al porcentaje de participación que el Grupo mantenía entonces (25,01%). Esta columna incluye, pues, ajustes derivados de la consolidación del Grupo Garanti por el método de la participación en los estados financieros consolidados (versus integración en la proporción correspondiente al porcentaje de participación de BBVA en Garanti que figura en la información de gestión) y otros ajustes inter-áreas. (Ver Nota 2)
+<li>(2) Desde el tercer trimestre de 2015, la participación total de BBVA en Garanti (39,9%) se consolida por el método de la integración global. Para periodos anteriores, los ingresos y gastos de Garanti se integran, en la información de gestión, en la proporción correspondiente al porcentaje de participación que el Grupo mantenía entonces (25,01%). Esta columna incluye, pues, ajustes derivados de la consolidación del Grupo Garanti por el método de la participación en los estados financieros consolidados (versus integración en la proporción correspondiente al porcentaje de participación de BBVA en Garanti que figura en la información de gestión) y otros ajustes inter-áreas. (Ver Nota 2)</li>
+
+</ul>
 
 En el Informe de Gestión consolidado adjunto se presentan con más detalle las cuentas de pérdidas y ganancias, así como las principales magnitudes del balance consolidado, por segmentos de negocio.
 
@@ -3733,20 +3745,17 @@ Las siguientes tablas muestran un detalle por contraparte y por producto de los 
     </tbody>
 </table>
 [Descargar tabla](#)
-
-(*) En el Anexo XII se muestra el desglose de los préstamos y anticipos deteriorados por áreas geográficas.
-
+<ul class="cita">
+<li>(*) En el Anexo XII se muestra el desglose de los préstamos y anticipos deteriorados por áreas geográficas.</li>
+</ul>
 <table class="l">
     <thead>
         <tr class="m">
-            <th colspan="13">Millones de euros</th>
+            <th colspan="10">Millones de euros</th>
         </tr>
         <tr>
             <th></th>
             <th colspan="3">Vencidos pero cuyo valor no se ha deteriorado</th>
-            <th></th>
-            <th></th>
-            <th></th>
             <th></th>
             <th></th>
             <th></th>
@@ -3759,9 +3768,6 @@ Las siguientes tablas muestran un detalle por contraparte y por producto de los 
             <th><= 30 días</th>
             <th>> 30 días <= 60 días</th>
             <th>> 60 días <= 90 días</th>
-            <th>> 90 días <= 180 días</th>
-            <th>> 180 días <= 1 año</th>
-            <th>> 1 año</th>
             <th>Activos deteriorados</th>
             <th>Importe neto en libros de los activos cuyo valor se ha deteriorado</th>
             <th>Correcciones de valor específicas para activos financieros valorados individualmente</th>
@@ -3777,9 +3783,6 @@ Las siguientes tablas muestran un detalle por contraparte y por producto de los 
             <td>-</td>
             <td>-</td>
             <td>-</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
             <td>81</td>
             <td>46</td>
             <td>(21)</td>
@@ -3792,9 +3795,6 @@ Las siguientes tablas muestran un detalle por contraparte y por producto de los 
             <td>3.445</td>
             <td>825</td>
             <td>404</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
             <td>25.358</td>
             <td>12.527</td>
             <td>(3.830)</td>
@@ -3807,9 +3807,6 @@ Las siguientes tablas muestran un detalle por contraparte y por producto de los 
             <td>-</td>
             <td>-</td>
             <td>-</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
             <td>-</td>
             <td>-</td>
             <td>-</td>
@@ -3822,9 +3819,6 @@ Las siguientes tablas muestran un detalle por contraparte y por producto de los 
             <td>154</td>
             <td>278</td>
             <td>2</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
             <td>194</td>
             <td>157</td>
             <td>(14)</td>
@@ -3837,9 +3831,6 @@ Las siguientes tablas muestran un detalle por contraparte y por producto de los 
             <td>-</td>
             <td>-</td>
             <td>-</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
             <td>25</td>
             <td>9</td>
             <td>(11)</td>
@@ -3852,9 +3843,6 @@ Las siguientes tablas muestran un detalle por contraparte y por producto de los 
             <td>7</td>
             <td>1</td>
             <td>14</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
             <td>67</td>
             <td>29</td>
             <td>(11)</td>
@@ -3867,9 +3855,6 @@ Las siguientes tablas muestran un detalle por contraparte y por producto de los 
             <td>838</td>
             <td>148</td>
             <td>48</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
             <td>16.254</td>
             <td>7.029</td>
             <td>(3.153)</td>
@@ -3882,9 +3867,6 @@ Las siguientes tablas muestran un detalle por contraparte y por producto de los 
             <td>2.446</td>
             <td>399</td>
             <td>340</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
             <td>8.817</td>
             <td>5.303</td>
             <td>(641)</td>
@@ -3897,9 +3879,6 @@ Las siguientes tablas muestran un detalle por contraparte y por producto de los 
             <td>3.445</td>
             <td>825</td>
             <td>404</td>
-            <td>0</td>
-            <td>0</td>
-            <td>0</td>
             <td>25.439</td>
             <td>12.573</td>
             <td>(3.851)</td>
@@ -3918,18 +3897,12 @@ Las siguientes tablas muestran un detalle por contraparte y por producto de los 
             <td>&nbsp;</td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
         </tr>
         <tr>
             <td>A la vista y con breve plazo de preaviso (cuenta corriente)</td>
             <td>134</td>
             <td>13</td>
             <td>7</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
             <td>634</td>
             <td>204</td>
             <td>(106)</td>
@@ -3942,9 +3915,6 @@ Las siguientes tablas muestran un detalle por contraparte y por producto de los 
             <td>389</td>
             <td>74</td>
             <td>126</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
             <td>689</td>
             <td>161</td>
             <td>(24)</td>
@@ -3957,9 +3927,6 @@ Las siguientes tablas muestran un detalle por contraparte y por producto de los 
             <td>98</td>
             <td>26</td>
             <td>22</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
             <td>628</td>
             <td>179</td>
             <td>(119)</td>
@@ -3972,9 +3939,6 @@ Las siguientes tablas muestran un detalle por contraparte y por producto de los 
             <td>136</td>
             <td>29</td>
             <td>21</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
             <td>529</td>
             <td>222</td>
             <td>(31)</td>
@@ -3987,9 +3951,6 @@ Las siguientes tablas muestran un detalle por contraparte y por producto de los 
             <td>1</td>
             <td>-</td>
             <td>-</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
             <td>1</td>
             <td>1</td>
             <td>-</td>
@@ -4002,9 +3963,6 @@ Las siguientes tablas muestran un detalle por contraparte y por producto de los 
             <td>2.685</td>
             <td>682</td>
             <td>227</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
             <td>22.764</td>
             <td>11.747</td>
             <td>(3.540)</td>
@@ -4017,9 +3975,6 @@ Las siguientes tablas muestran un detalle por contraparte y por producto de los 
             <td>2</td>
             <td>-</td>
             <td>-</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
             <td>113</td>
             <td>13</td>
             <td>(10)</td>
@@ -4032,9 +3987,6 @@ Las siguientes tablas muestran un detalle por contraparte y por producto de los 
             <td>1.342</td>
             <td>266</td>
             <td>106</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
             <td>16.526</td>
             <td>9.767</td>
             <td>(1.705)</td>
@@ -4047,9 +3999,6 @@ Las siguientes tablas muestran un detalle por contraparte y por producto de los 
             <td>589</td>
             <td>102</td>
             <td>27</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
             <td>1.129</td>
             <td>809</td>
             <td>(182)</td>
@@ -4062,9 +4011,6 @@ Las siguientes tablas muestran un detalle por contraparte y por producto de los 
             <td>957</td>
             <td>164</td>
             <td>220</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
             <td>1.543</td>
             <td>404</td>
             <td>(129)</td>
@@ -4077,9 +4023,6 @@ Las siguientes tablas muestran un detalle por contraparte y por producto de los 
             <td>616</td>
             <td>174</td>
             <td>110</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
             <td>5.918</td>
             <td>4.303</td>
             <td>(293)</td>
@@ -4092,9 +4035,6 @@ Las siguientes tablas muestran un detalle por contraparte y por producto de los 
             <td>3</td>
             <td>-</td>
             <td>1</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
             <td>276</td>
             <td>66</td>
             <td>(32)</td>
@@ -4105,8 +4045,9 @@ Las siguientes tablas muestran un detalle por contraparte y por producto de los 
     </tbody>
 </table>
 [Descargar tabla](#)
-
-(*) En el Anexo XII se muestra el desglose de los préstamos y anticipos deteriorados por áreas geográficas.
+<ul class="cita">
+<li>(*) En el Anexo XII se muestra el desglose de los préstamos y anticipos deteriorados por áreas geográficas.</li>
+</ul>
 
 A continuación se presenta el desglose de los préstamos y anticipos, dentro del epígrafe “Préstamos y partidas a cobrar”, deteriorados y el deterioro de valor acumulado por sectores a 31 de diciembre de 2016 y 2015:
 
@@ -4499,9 +4440,11 @@ El movimiento durante los ejercicios 2016, 2015 y 2014 de los activos financiero
 </table>
 [Descargar tabla](#)
 
-(*) Incluye en 2015 el saldo por la incorporación de Catalunya Banc en abril de 2015 que ascendía a 3.969 millones de euros y Garanti en julio de 2015 que ascendía a 1.845 millones de euros.
+<ul class="cita">
+<li>(*) Incluye en 2015 el saldo por la incorporación de Catalunya Banc en abril de 2015 que ascendía a 3.969 millones de euros y Garanti en julio de 2015 que ascendía a 1.845 millones de euros.</li>
 
-(**) Refleja el importe total de los préstamos deteriorados dados de baja en balance durante todo el periodo como resultado de las recuperaciones hipotecarias y de los activos inmobiliarios recibidos como dación en pago, así como recuperaciones dinerarias, (ver Nota 20 y Nota 21 para obtener información adicional).
+<li>(**) Refleja el importe total de los préstamos deteriorados dados de baja en balance durante todo el periodo como resultado de las recuperaciones hipotecarias y de los activos inmobiliarios recibidos como dación en pago, así como recuperaciones dinerarias, (ver Nota 20 y Nota 21 para obtener información adicional).</li>
+</ul>
 
 El movimiento registrado durante 2016, 2015 y 2014 en los activos financieros dados de baja de los balances consolidados adjuntos por considerarse remota su recuperación (en adelante “fallidos”), se muestra a continuación:
 
@@ -5540,8 +5483,9 @@ La mayor parte de las partidas del balance consolidado del Grupo consolidado que
     </tbody>
 </table>
 [Descargar tabla](#)
-
-(*) Se incluyen principalmente los activos y pasivos cuya medición se engloba en el marco de la gestión de riesgos estructurales (COAP).
+<ul class="cita">
+<li>(*) Se incluyen principalmente los activos y pasivos cuya medición se engloba en el marco de la gestión de riesgos estructurales (COAP).</li>
+</ul>
 
 Aunque la tabla anterior muestra el detalle de las posiciones financieras sujetas a riesgo de mercado, es preciso resaltar que la información es a título informativo y no refleja cómo se gestiona el riesgo en la actividad de trading, dónde no se clasifica entre activos y pasivos.
 
@@ -5734,8 +5678,8 @@ A 31 de diciembre de 2016, 2015 y 2014 el saldo de VaR fue de 26, 24 y 25 millon
     </tbody>
 </table>
 [Descargar tabla](#)
-
-(*) El efecto diversificación es la diferencia entre la suma de los factores de riesgos medidos individualmente y la cifra de VaR total que recoge la correlación implícita existente entre todas las variables y escenarios usados en la medición.
+<ul class="cita">
+<li>(*) El efecto diversificación es la diferencia entre la suma de los factores de riesgos medidos individualmente y la cifra de VaR total que recoge la correlación implícita existente entre todas las variables y escenarios usados en la medición.</li></ul>
 
 ##### Validación del modelo
 
@@ -5890,12 +5834,14 @@ Diciembre 2016</th>
     </tbody>
 </table>
 [Descargar tabla](#)
+<ul class="cita">
+<li>(*) Porcentaje respecto al margen de intereses "1 año" proyectado de cada unidad.</li>
 
-(*) Porcentaje respecto al margen de intereses "1 año" proyectado de cada unidad.
+<li>(**) Porcentaje respecto al Core Capital de cada unidad.</li>
 
-(**) Porcentaje respecto al Core Capital de cada unidad.
+<li>(***) En Europa se considera movimiento de tipos a la baja hasta niveles más negativos que los actuales.</li>
 
-(***) En Europa se considera movimiento de tipos a la baja hasta niveles más negativos que los actuales.
+</ul>
 
 A lo largo de 2016 en Europa se ha mantenido la política monetaria expansiva, lo que ha presionado los tipos de interés a la baja, hacia niveles más negativos en la parte corta de la curva. En Estados Unidos continúa el ciclo de subidas iniciado por la Reserva Federal en 2015. Mientras en México la evolución del peso mexicano y las perspectivas de inflación han intensificado el ciclo alcista, situando el nivel de tipos en máximos desde 2009. En Turquía, la debilidad de la lira turca ha motivado una subida de tipos en el último trimestre del año tras las bajadas registradas durante los tres primeros trimestres. Por su parte en las principales economías de América del Sur parece haberse agotado el ciclo de subidas iniciado a final de 2015.
 
@@ -6306,7 +6252,9 @@ Cada entidad mantiene un buffer de liquidez a nivel individual, tanto para BBVA 
 </table>
 [Descargar tabla](#)
 
-(1) Incluye Banco Bilbao Vizcaya Argentaria, S.A. y Banco Bilbao Vizcaya Argentaria (Portugal), S.A.
+<ul class="cita">
+<li>(1) Incluye Banco Bilbao Vizcaya Argentaria, S.A. y Banco Bilbao Vizcaya Argentaria (Portugal), S.A.</li>
+</ul>
 
 <table>
     <thead>
@@ -6400,7 +6348,8 @@ Cada entidad mantiene un buffer de liquidez a nivel individual, tanto para BBVA 
 </table>
 [Descargar tabla](#)
 
-(1) Incluye Banco Bilbao Vizcaya Argentaria, S.A., Catalunya Banc, S.A. y Banco Bilbao Vizcaya Argentaria (Portugal), S.A
+<ul class="cita">
+<li>(1) Incluye Banco Bilbao Vizcaya Argentaria, S.A., Catalunya Banc, S.A. y Banco Bilbao Vizcaya Argentaria (Portugal), S.A</li></ul>
 
 Como elemento fundamental del esquema de seguimiento del riesgo de liquidez y financiación se realizan los análisis de estrés. Estos análisis permiten anticipar desviaciones respecto a los objetivos de liquidez y límites establecidos en el apetito, y establecer rangos de tolerancia en diferentes ejes de gestión. Asimismo, desempeñan un papel primordial en el diseño del Plan de Contingencia de Liquidez y en la definición de medidas de actuación concretas para reconducir el perfil de riesgo.
 
@@ -8324,10 +8273,11 @@ El movimiento de los saldos de los activos y pasivos financieros clasificados en
     </tbody>
 </table>
 [Descargar tabla](#)
+<ul class="cita">
+<li>(*) Corresponde a títulos que se mantienen en el balance consolidado a 31 diciembre 2016, 2015 y 2014. Los ajustes por valoración se registran en la cuenta de pérdidas y ganancias consolidadas en el epígrafe de “ganancias o pérdidas por activos y pasivos financieros designados a valor razonable con cambios en resultados, netas”.</li>
 
-(*) Corresponde a títulos que se mantienen en el balance consolidado a 31 diciembre 2016, 2015 y 2014. Los ajustes por valoración se registran en la cuenta de pérdidas y ganancias consolidadas en el epígrafe de “ganancias o pérdidas por activos y pasivos financieros designados a valor razonable con cambios en resultados, netas”.
-
-(**) De los que en 2016, el movimiento de activo se compone de 849 millones de euros de compras, 340 millones de ventas y 71 millones de euros de liquidaciones. Los movimientos del pasivo se componen de 47 millones de euros de compras, 70 millones de euros de ventas y 3 millones de liquidaciones.
+<li>(**) De los que en 2016, el movimiento de activo se compone de 849 millones de euros de compras, 340 millones de ventas y 71 millones de euros de liquidaciones. Los movimientos del pasivo se componen de 47 millones de euros de compras, 70 millones de euros de ventas y 3 millones de liquidaciones.</li>
+</ul>
 
 En el ejercicio 2016, el resultado por ventas de instrumentos financieros clasificados en Nivel 3, registrado en la cuenta de pérdidas y ganancias de dicho ejercicio no fue significativo.
 
@@ -9187,8 +9137,8 @@ La composición del saldo de los capítulos “Efectivo, saldos en efectivo en
     </tbody>
 </table>
 [Descargar tabla](#)
-
-(*) El incremento en esta partida, se debe a la participación en los distintos programas TLTRO (ver Nota 7.5)
+<ul class="cita">
+<li>(*) El incremento en esta partida, se debe a la participación en los distintos programas TLTRO (ver Nota 7.5)</li></ul>
 
 ## 10. Activos y pasivos financieros mantenidos para negociar
 
@@ -10412,7 +10362,9 @@ El desglose del saldo del epígrafe “Valores representativos de deuda” de l
 </table>
 [Descargar tabla](#)
 
-(*) El coste amortizado incluye determinadas plusvalías/minusvalías de cartera vinculadas a contratos de seguros en los que el tomador, en caso de rescate, asume el riesgo.
+<ul class="cita">
+<li>(*) El coste amortizado incluye determinadas plusvalías/minusvalías de cartera vinculadas a contratos de seguros en los que el tomador, en caso de rescate, asume el riesgo.</li>
+</ul>
 
 <table class="l">
     <thead>
@@ -10685,7 +10637,9 @@ El desglose del saldo del epígrafe “Valores representativos de deuda” de l
 </table>
 [Descargar tabla](#)
 
-(*) El coste amortizado incluye determinadas plusvalías/minusvalías de cartera vinculadas a contratos de seguros en los que el tomador, en caso de rescate, asume el riesgo.
+<ul class="cita">
+<li>(*) El coste amortizado incluye determinadas plusvalías/minusvalías de cartera vinculadas a contratos de seguros en los que el tomador, en caso de rescate, asume el riesgo.</li>
+</ul>
 
 <table class="l">
     <thead>
@@ -10915,8 +10869,9 @@ El desglose del saldo del epígrafe “Valores representativos de deuda” de l
     </tbody>
 </table>
 [Descargar tabla](#)
-
-(*) El coste amortizado incluye determinadas plusvalías/minusvalías de cartera vinculadas a contratos de seguros en los que el tomador, en caso de rescate, asume el riesgo.
+<ul class="cita">
+<li>(*) El coste amortizado incluye determinadas plusvalías/minusvalías de cartera vinculadas a contratos de seguros en los que el tomador, en caso de rescate, asume el riesgo.</li>
+</ul>
 
 A 31 de diciembre 2016, 2015 y 2014 la distribución, atendiendo a la calidad crediticia (ratings) de los emisores de los valores representativos de deuda clasificados como disponibles para la venta, era la siguiente:
 
@@ -11992,7 +11947,9 @@ La composición del saldo de este epígrafe de los balances consolidados adjun
 </table>
 [Descargar tabla](#)
 
-(*) Incluye préstamos cuya garantía es efectivo, otros activos financieros o con garantías inmobiliarias o dinerarias parciales.
+<ul class="cita">
+<li>(*) Incluye préstamos cuya garantía es efectivo, otros activos financieros o con garantías inmobiliarias o dinerarias parciales.</li>
+</ul>
 
 A 31 de diciembre 2016, el 34% de las operaciones de “Préstamos y anticipos a la clientela” con vencimiento superior a un año estaban formalizadas a tipo de interés fijo y el 66% a tipo de interés variable.
 
@@ -12113,8 +12070,9 @@ El epígrafe “Préstamos y partidas a cobrar - Préstamos y anticipos a la 
     </tbody>
 </table>
 [Descargar tabla](#)
-
-(*) Están registrados en el epígrafe "Pasivos financieros a coste amortizado - Valores representativos de deuda emitidos" de los balances consolidados adjuntos (ver Nota 22.3). 
+<ul class="cita">
+<li>(*) Están registrados en el epígrafe "Pasivos financieros a coste amortizado - Valores representativos de deuda emitidos" de los balances consolidados adjuntos (ver Nota 22.3). </li>
+</ul>
 
 ### 13.3 Valores representativos de deuda
 
@@ -12375,8 +12333,9 @@ La composición del saldo de este capítulo del balance consolidado adjunto, a
     </tbody>
 </table>
 [Descargar tabla](#)
-
-(*) A 31 de diciembre 2015 y 2014, el Grupo BBVA no tenía registrado ningún saldo en este capítulo.
+<ul class="cita">
+<li>
+(*) A 31 de diciembre 2015 y 2014, el Grupo BBVA no tenía registrado ningún saldo en este capítulo.</li></ul>
 
 En el ejercicio 2016, se ha procedido a reclasificar ciertos valores representativos de deuda desde el capítulo “Activos financieros disponibles para la venta” al capítulo “Inversiones mantenidas hasta el vencimiento”, por importe de 17.650 millones de euros. Esta reclasificación se ha llevado a cabo una vez pasados los dos años de penalización establecidos en la norma NIC-39 (penalización que supuso no poder mantener cartera a vencimiento debido a las ventas significativas que se produjeron en el ejercicio 2013) y dado que la intención del Grupo, con respecto a la forma de gestionar dichos títulos, es mantenerlos hasta su vencimiento.
 
@@ -12510,8 +12469,8 @@ A continuación se muestra información sobre los valores razonables y los val
     </tbody>
 </table>
 [Descargar tabla](#)
-
-(*)  El descenso en el valor en libros se debe principalmente a las amortizaciones desde la fecha de reclasificación.
+<ul class="cita">
+<li>(*)  El descenso en el valor en libros se debe principalmente a las amortizaciones desde la fecha de reclasificación.</li></ul>
 
 El valor razonable de estos activos en la fecha de reclasificación se ha convertido en el nuevo coste amortizado. Las plusvalías latentes reconocidas hasta la fecha de reclasificación en el epígrafe “Otro resultado global acumulado - Elementos que pueden reclasificarse en resultados – Activos financieros disponibles para la venta” se amortizarán contra resultados a lo largo de la vida restante de las inversiones mantenidas hasta el vencimiento, utilizando el método del tipo de interés efectivo. La diferencia entre el nuevo coste amortizado y el importe a vencimiento se amortizará de manera simétrica a lo largo de la vida restante del activo financiero utilizando el método del tipo de interés efectivo, de forma similar a la amortización de una prima o descuento.
 
@@ -15151,7 +15110,8 @@ La variación del saldo de este epígrafe en 2015 se debe principalmente a la 
 </table>
 [Descargar tabla](#)
 
-(*) El movimiento en la columna “Adiciones” en la UGE Estados Unidos del cuadro anterior corresponde a la adquisición de Simple.
+<ul class="cita">
+<li>(*) El movimiento en la columna “Adiciones” en la UGE Estados Unidos del cuadro anterior corresponde a la adquisición de Simple.</li></ul>
 
 ##### Test de deterioro
 
@@ -15229,8 +15189,8 @@ Las hipótesis que tienen más peso y cuya volatilidad podría afectar más 
     </tbody>
 </table>
 [Descargar tabla](#)
-
-(*) En base a los movimientos históricos observados, el uso de 50 puntos básicos para el cálculo de un análisis de sensibilidad supondría una variación razonable respecto a la media de las variaciones observadas en los últimos cinco años (36 puntos básicos).
+<ul class="cita">
+<li>(*) En base a los movimientos históricos observados, el uso de 50 puntos básicos para el cálculo de un análisis de sensibilidad supondría una variación razonable respecto a la media de las variaciones observadas en los últimos cinco años (36 puntos básicos).</li></ul>
 
 Como se mencionaba anteriormente, la otra de las hipótesis utilizada con más impacto en el test de deterioro son los presupuestos de la UGE y, en concreto, el efecto que las variaciones de tipo de interés tienen en los flujos de caja. Debido a la subida de tipos de diciembre 2016 y la esperada subida de tipos de 2017, el margen de intereses se vería afectado positivamente y, por tanto, se incrementaría el valor recuperable de esta UGE.
 
@@ -15392,10 +15352,11 @@ A continuación se muestra el detalle del valor en libros de los activos y pasi
     </tbody>
 </table>
 [Descargar tabla](#)
+<ul class="cita">
+<li>(*) Con posterioridad a la compra reclasificado a la categoría de “Activos financieros disponibles para la venta”.</li>
 
-(*)  Con posterioridad a la compra reclasificado a la categoría de “Activos financieros disponibles para la venta”.
-
-(**) Corresponde a los intereses minoritarios que mantenía Catalunya Banc previos a la integración en el Grupo BBVA.
+<li>(**) Corresponde a los intereses minoritarios que mantenía Catalunya Banc previos a la integración en el Grupo BBVA.</li>
+</ul>
 
 La diferencia negativa existente entre la contraprestación entregada y el importe de los socios externos, con el valor razonable neto de los activos identificados adquiridos menos los pasivos asumidos se estimó inicialmente, a 30 de junio de 2015, en un importe de 22 millones de euros pero, posteriormente, el cálculo se modificó hasta los 26 millones de euros que quedaron registrados en la cuenta de pérdidas y ganancias consolidada del ejercicio 2015, en el epígrafe “Fondo de comercio negativo reconocido en resultados” (ver Nota 2.2.7). 
 
@@ -15910,7 +15871,8 @@ A continuación se presenta la conciliación entre el gasto por el Impuesto so
 </table>
 [Descargar tabla](#)
 
-(*) Calculada aplicando la diferencia entre el tipo impositivo vigente en España y el aplicado al resultado del Grupo en cada jurisdicción.
+<ul class="cita">
+<li>(*) Calculada aplicando la diferencia entre el tipo impositivo vigente en España y el aplicado al resultado del Grupo en cada jurisdicción.</li></ul>
 
 El tipo fiscal efectivo para el Grupo durante los ejercicios 2016, 2015 y 2014, se indica a continuación:
 
@@ -16148,8 +16110,8 @@ Dentro del saldo del epígrafe “Activos por impuestos” de los balances cons
     </tbody>
 </table>
 [Descargar tabla](#)
-
-(*) Las Leyes que garantizan los activos por impuestos diferidos fueron aprobadas en España y Portugal en los ejercicios 2013 y 2014.
+<ul class="cita">
+<li>(*) Las Leyes que garantizan los activos por impuestos diferidos fueron aprobadas en España y Portugal en los ejercicios 2013 y 2014.</li></ul>
 
 Los movimientos más significativos producidos en los ejercicios 2016, 2015 y 2014 derivan de los siguientes conceptos:
 
@@ -16269,8 +16231,8 @@ Los movimientos más significativos producidos en los ejercicios 2016, 2015 y 2
     </tbody>
 </table>
 [Descargar tabla](#)
-
-(*) Incorporación de Catalunya Bank S.A. en 2015
+<ul class="cita">
+<li>(*) Incorporación de Catalunya Bank S.A. en 2015</li></ul>
 
 Respecto a la variación de activos y pasivos por impuestos diferidos contenido en el cuadro anterior es conveniente señalar lo siguiente:
 
@@ -16538,9 +16500,9 @@ El epígrafe "Existencias" del detalle anterior incluye el valor neto contable 
     </tbody>
 </table>
 [Descargar tabla](#)
-
-(*) Principalmente activos procedentes de la Adquisición de Catalunya Banc en 2015.
-
+<ul class="cita">
+<li>(*) Principalmente activos procedentes de la Adquisición de Catalunya Banc en 2015.</li>
+</ul>
 
 ## 21. Activos no corrientes y grupos enajenables de elementos que se han clasificado como mantenidos para la venta
 
@@ -18832,14 +18794,16 @@ El desglose de los pasivos registrados en los balances consolidados a 31 de dici
     </tbody>
 </table>
 [Descargar tabla](#)
+<ul class="cita">
+<li>(*) Para Turquía, la fundación que gestiona los compromisos mantiene un activo adicional de 257 millones de euros que no ha sido reflejado en las cuentas, de acuerdo con la normativa NIIF-UE sobre el límite del activo, ya que, si bien puede ser utilizado para rebajar futuras contribuciones para las pensiones, no puede ser recuperado de forma inmediata.</li>
 
-(*) Para Turquía, la fundación que gestiona los compromisos mantiene un activo adicional de 257 millones de euros que no ha sido reflejado en las cuentas, de acuerdo con la normativa NIIF-UE sobre el límite del activo, ya que, si bien puede ser utilizado para rebajar futuras contribuciones para las pensiones, no puede ser recuperado de forma inmediata.
+<li>(**) Registrados en el epígrafe "Otros activos" de los balances consolidados (ver Nota 20).</li>
 
-(**) Registrados en el epígrafe "Otros activos" de los balances consolidados (ver Nota 20).
+<li>(***) Registrados en el epígrafe "Provisiones- Pensiones y otras obligaciones de prestaciones definidas post-empleo" de los balances consolidados (ver Nota 24).</li>
 
-(***) Registrados en el epígrafe "Provisiones- Pensiones y otras obligaciones de prestaciones definidas post-empleo" de los balances consolidados (ver Nota 24).
 
-<p>(****) Registrados en el epígrafe "Provisiones- Otras retribuciones a los empleados a largo plazo" de los balances consolidados.</p>
+<li>(****) Registrados en el epígrafe "Provisiones- Otras retribuciones a los empleados a largo plazo" de los balances consolidados.</li>
+</ul>
 
 A continuación se presentan los costes registrados por compromisos en las cuentas de pérdidas y ganancias consolidadas de los ejercicios 2016, 2015 y 2014:
 
@@ -18947,7 +18911,9 @@ A continuación se presentan los costes registrados por compromisos en las cuen
 </table>
 [Descargar tabla](#)
 
-(*) Corresponden a las mediciones de la obligación neta por prestaciones definidas surgidas por prejubilaciones y otras retribuciones a largo plazo que se registran con cargo a resultados (ver Nota 2.2.12).
+<ul class="cita">
+<li>(*) Corresponden a las mediciones de la obligación neta por prestaciones definidas surgidas por prejubilaciones y otras retribuciones a largo plazo que se registran con cargo a resultados (ver Nota 2.2.12).</li>
+</ul>
 
 A continuación se presentan los costes registrados por compromisos post-empleo en el patrimonio neto de los ejercicios 2016, 2015 y 2014:
 
@@ -18991,8 +18957,9 @@ A continuación se presentan los costes registrados por compromisos post-empleo
     </tbody>
 </table>
 [Descargar tabla](#)
-
-(*) Corresponden a la actualización de la valoración de la obligación neta por prestaciones definidas surgidas por compromisos por pensiones y gastos médicos antes de su efecto fiscal.
+<ul class="cita">
+<li>(*) Corresponden a la actualización de la valoración de la obligación neta por prestaciones definidas surgidas por compromisos por pensiones y gastos médicos antes de su efecto fiscal.</li>
+</ul>
 
 ### 25.1 Planes de prestación definida
 
@@ -19291,10 +19258,11 @@ Los compromisos incluidos en estos planes corresponden a personal jubilado o pre
     </tbody>
 </table>
 [Descargar tabla](#)
+<ul class="cita">
+<li>(1) Incluye ganancias y pérdidas por liquidación.</li>
 
-(1) Incluye ganancias y pérdidas por liquidación.
-
-(2) Excluidos los intereses que se reflejan en la línea de "Gastos o ingresos por intereses".
+<li>(2) Excluidos los intereses que se reflejan en la línea de "Gastos o ingresos por intereses".</li>
+</ul>
 
 El saldo del epígrafe “Provisiones – Pensiones y otras obligaciones de prestaciones definidas post-empleo” del balance consolidado adjunto a 31 de diciembre de 2016 incluye 355 millones de euros en concepto de compromisos por prestaciones post-empleo mantenidos con anteriores miembros del Consejo de Administración y de la Alta Dirección del Banco.
 
@@ -19992,10 +19960,11 @@ El movimiento de las obligaciones y los activos afectos a los compromisos para e
         </tr>
     </tbody>
 </table>
+<ul class="cita">
+<li>(1) Incluye ganancias y pérdidas por liquidación.</li>
 
-(1) Incluye ganancias y pérdidas por liquidación. 
-
-(2) Excluidos los intereses que se reflejan en la línea de "Gastos o ingresos por intereses".
+<li>(2) Excluidos los intereses que se reflejan en la línea de "Gastos o ingresos por intereses".</li>
+</ul>
 
 El movimiento neto de los compromisos para los ejercicios 2015 y 2014 es el siguiente:
 
@@ -20267,10 +20236,11 @@ El movimiento neto de los compromisos para los ejercicios 2015 y 2014 es el sigu
     </tbody>
 </table>
 [Descargar tabla](#)
+<ul class="cita">
+<li>(1) Incluye ganancias y pérdidas por liquidación.</li>
 
-(1) Incluye ganancias y pérdidas por liquidación.
-
-(2) Excluidos los intereses que se reflejan en la línea de "Gastos o ingresos por intereses".
+<li>(2) Excluidos los intereses que se reflejan en la línea de "Gastos o ingresos por intereses".</li>
+</ul>
 
 En España, la normativa establece que los compromisos por pensiones de jubilación y fallecimiento deben estar cubiertos mediante un Plan de Pensiones o mediante pólizas de Seguros.
 
@@ -20533,10 +20503,13 @@ El movimiento de los compromisos médicos para los ejercicios 2016, 2015 y 2014 
     </tbody>
 </table>
 [Descargar tabla](#)
+<ul class="cita">
 
-(1) Incluye ganancias y pérdidas por liquidación.
+<li>(1) Incluye ganancias y pérdidas por liquidación.</li>
 
-(2) Excluidos los intereses que se reflejan en la línea de "Gastos o ingresos por intereses".
+<li>(2) Excluidos los intereses que se reflejan en la línea de "Gastos o ingresos por intereses".</li>
+
+</ul>
 
 En México existe un plan de gastos médicos para los empleados cuya fecha de ingreso es anterior a 2007. Los empleados contratados posteriormente cuentan con pólizas de seguros de salud. De acuerdo a la regulación local y a la política del Grupo, existen fondos en fideicomisos para hacer frente al pago de estas coberturas.
 
@@ -20929,8 +20902,9 @@ La composición del saldo de estos capítulos de los balances consolidados adj
     </tbody>
 </table>
 [Descargar tabla](#)
-
-(*) Total reservas de BBVA, S.A. (Anexo IX).
+<ul class="cita">
+<li>(*) Total reservas de BBVA, S.A. (Anexo IX).</li>
+</ul>
 
 ### 28.1  Reserva legal
 
@@ -21234,8 +21208,9 @@ El desglose de los epígrafes “Ganancias acumuladas, Reservas de revalorizaci
     </tbody>
 </table>
 [Descargar tabla](#)
-
-(*) Fusionada con BBVA S.A.
+<ul class="cita">
+<li>(*) Fusionada con BBVA S.A.</li>
+</ul>
 
 A efectos de la asignación de las reservas y pérdidas de ejercicios anteriores a las sociedades consolidadas y a la matriz, se han considerado, entre otros, las transferencias de reservas generadas por los dividendos pagados y las transacciones efectuadas entre dichas sociedades en el ejercicio en que las mismas tuvieron lugar.
 
@@ -21950,10 +21925,11 @@ A continuación se muestran, los recursos propios del Grupo, calculados con el 
     </tbody>
 </table>
 [Descargar tabla](#)
+<ul class="cita">
+<li>(*) Datos provisionales.</li>
 
-(*) Datos provisionales.
-
-(**) Datos originalmente reportados en el Informe de Relevancia Prudencial de 2015, sin efectos de reexpresiones.
+<li>(**) Datos originalmente reportados en el Informe de Relevancia Prudencial de 2015, sin efectos de reexpresiones.</li>
+</ul>
 
 <table>
     <thead>
@@ -21990,8 +21966,9 @@ A continuación se muestran, los recursos propios del Grupo, calculados con el 
     </tbody>
 </table>
 [Descargar tabla](#)
-
-(*) Datos provisionales.
+<ul class="cita">
+<li>(*) Datos provisionales.</li>
+</ul>
 
 Las variaciones del ratio de Capital de nivel 1 (CET1) del cuadro anterior se explican, principalmente por la generación de resultados, neto de pago de dividendos y retribuciones, y en una eficiente gestión y asignación de capital del grupo alineados con los objetivos estratégicos del Grupo.
 
@@ -22265,8 +22242,9 @@ La composición del saldo de estos epígrafes de los balances consolidados adj
     </tbody>
 </table>
 [Descargar tabla](#)
-
-(*) Las garantías concedidas dudosas ascienden a 680 y 664 millones de euros a 31 de diciembre 2016, 2015, respectivamente. 
+<ul class="cita">
+<li>(*) Las garantías concedidas dudosas ascienden a 680 y 664 millones de euros a 31 de diciembre 2016, 2015, respectivamente. </li>
+</ul>
 
 Una parte significativa de los anteriores importes llegará a su vencimiento sin que se materialice ninguna obligación de pago para las sociedades consolidadas, por lo que el saldo conjunto de estos compromisos no puede ser considerado como una necesidad futura real de financiación o liquidez a conceder a terceros por el Grupo BBVA.
 
@@ -22592,8 +22570,9 @@ Los recursos de clientes administrados por el Grupo BBVA a 31 de diciembre de 20
     </tbody>
 </table>
 [Descargar tabla](#)
-
-(*) No incluye saldos procedentes de fondos de titulizaciones.
+<ul class="cita">
+<li>(*) No incluye saldos procedentes de fondos de titulizaciones.</li>
+</ul>
 
 ## 37. Ingresos y gastos por intereses
 
@@ -23248,10 +23227,12 @@ La variación experimentada en el saldo de los capítulos “Ingresos por inte
     </tbody>
 </table>
 [Descargar tabla](#)
+<ul class="cita">
 
-(1) El efecto volumen se calcula como el producto del tipo de interés del periodo inicial por la diferencia entre los saldos medios de los dos periodos.
+<li>(1) El efecto volumen se calcula como el producto del tipo de interés del periodo inicial por la diferencia entre los saldos medios de los dos periodos.</li>
 
-(2) El efecto precio se calcula como el producto del saldo medio del último periodo por la diferencia entre los tipos de interés de los dos periodos.
+<li>(2) El efecto precio se calcula como el producto del saldo medio del último periodo por la diferencia entre los tipos de interés de los dos periodos.</li>
+</ul>
 
 
 ## 38. Ingresos por dividendos
@@ -24217,8 +24198,9 @@ El desglose del número medio de empleados del Grupo BBVA, distribuido por cate
     </tbody>
 </table>
 [Descargar tabla](#)
-
-(*) Incrementos motivados por cambios de perímetro (ver Nota 3).
+<ul class="cita">
+<li>(*) Incrementos motivados por cambios de perímetro (ver Nota 3).</li>
+</ul>
 
 El número de empleados del Grupo BBVA a 31 de diciembre 2016,2015 y 2014, distribuido por categorías y género, era el siguiente:
 
@@ -24395,8 +24377,9 @@ El desglose del saldo de este epígrafe de las cuentas de pérdidas y ganancia
     </tbody>
 </table>
 [Descargar tabla](#)
-
-(*) No se prevé la cancelación anticipada de los gastos de alquileres de inmuebles por parte de las sociedades consolidadas.
+<ul class="cita">
+<li>(*) No se prevé la cancelación anticipada de los gastos de alquileres de inmuebles por parte de las sociedades consolidadas.</li>
+</ul>
 
 ## 45 Amortización
 
@@ -24785,8 +24768,9 @@ Los principales conceptos incluidos en el saldo de este capítulo de las cuenta
     </tbody>
 </table>
 [Descargar tabla](#)
-
-(*) En 2015 Incluye ventas de CNCB (ver Nota 3).
+<ul class="cita">
+<li>(*) En 2015 Incluye ventas de CNCB (ver Nota 3).</li>
+</ul>
 
 ## 51. Estados consolidados de flujos de efectivo 
 
@@ -24827,8 +24811,9 @@ Los honorarios por servicios contratados en el ejercicio 2016 por las sociedades
     </tbody>
 </table>
 [Descargar tabla](#)
-
-(*) Se incluyen los honorarios correspondientes a auditorías estatutarias de cuentas anuales (20,7 millones de euros en 2016).
+<ul class="cita">
+<li>(*) Se incluyen los honorarios correspondientes a auditorías estatutarias de cuentas anuales (20,7 millones de euros en 2016).</li>
+</ul>
 
 Adicionalmente, distintas sociedades del Grupo BBVA contrataron en el ejercicio 2016 servicios distintos del de auditoría, según el siguiente detalle:
 
@@ -25193,11 +25178,13 @@ Las retribuciones satisfechas a los consejeros no ejecutivos miembros del Consej
 </table>
 [Descargar tabla](#)
 
-(1) D. Sunir Kumar Kapoor fue nombrado consejero por acuerdo de la Junta General de 11 de marzo de 2016.
+<ul class="cita">
+<li>(1) D. Sunir Kumar Kapoor fue nombrado consejero por acuerdo de la Junta General de 11 de marzo de 2016.</li>
 
-(2) D. James Andrew Stott fue nombrado consejero por acuerdo de la Junta General de 11 de marzo de 2016.
+<li>(2) D. James Andrew Stott fue nombrado consejero por acuerdo de la Junta General de 11 de marzo de 2016.</li>
 
-(3) Incluye los importes por la pertenencia a las distintas comisiones durante el ejercicio 2016. La composición de estas comisiones se modificó a 31 de marzo de 2016. 
+<li>(3) Incluye los importes por la pertenencia a las distintas comisiones durante el ejercicio 2016. La composición de estas comisiones se modificó a 31 de marzo de 2016.</li>
+</ul>
 
 Además, los consejeros D. Ramón Bustamante y de la Mora y D. Ignacio Ferrero Jordi, que cesaron como consejeros el 11 de marzo de 2016, percibieron la cantidad total de 70 miles de euros y 85 miles de euros, respectivamente, por su pertenencia al Consejo de Administración y a las distintas comisiones del Consejo.
 
@@ -25292,12 +25279,12 @@ De conformidad con lo anterior, las retribuciones satisfechas a los consejeros e
         </tr>
     </tbody>
 </table>
+<ul class="cita">
+<li>(*) La retribución variable satisfecha al Consejero Delegado, que fue designado para dicho cargo el 4 de mayo de 2015, incluye también la percibida como Director de Banca Digital durante el periodo que ocupó ese cargo (4 meses).</li> 
 
-(*) La retribución variable satisfecha al Consejero Delegado, que fue designado para dicho cargo el 4 de mayo de 2015, incluye también la percibida como Director de Banca Digital durante el periodo que ocupó ese cargo (4 meses). 
+<li>(1) Cantidades correspondientes al 50% de la Retribución Variable Anual 2015.</li>
 
-(1) Cantidades correspondientes al 50% de la Retribución Variable Anual 2015.
-
-(2) Cantidades correspondientes a la suma de las partes diferidas de la Retribución Variable Anual de ejercicios anteriores (2014, 2013 y 2012), así como sus correspondientes actualizaciones en efectivo; cuyo pago o entrega se ha realizado en el ejercicio 2016, en aplicación del sistema de liquidación y pago, y cuyo desglose se incluye a continuación:
+<li>(2) Cantidades correspondientes a la suma de las partes diferidas de la Retribución Variable Anual de ejercicios anteriores (2014, 2013 y 2012), así como sus correspondientes actualizaciones en efectivo; cuyo pago o entrega se ha realizado en el ejercicio 2016, en aplicación del sistema de liquidación y pago, y cuyo desglose se incluye a continuación:<li>
 
 - Primer tercio de la Retribución Variable Anual diferida del ejercicio 2014
 
@@ -25361,11 +25348,12 @@ Las retribuciones satisfechas al conjunto de los miembros de la Alta Dirección
     </tbody>
 </table>
 
-(*) Dentro de este apartado se incluye información agregada relativa a los miembros de la Alta Dirección del Grupo BBVA, excluyendo a los consejeros ejecutivos, que tenían tal condición a 31 de diciembre de 2016 (14 miembros).
+<ul class="cita">
+<li>(*) Dentro de este apartado se incluye información agregada relativa a los miembros de la Alta Dirección del Grupo BBVA, excluyendo a los consejeros ejecutivos, que tenían tal condición a 31 de diciembre de 2016 (14 miembros).</li>
 
-(1) Cantidades correspondientes al 50% de la Retribución Variable Anual 2015.
+<li>(1) Cantidades correspondientes al 50% de la Retribución Variable Anual 2015.</li>
 
-(2) Cantidades correspondientes a la suma de las partes diferidas de la Retribución Variable Anual de ejercicios anteriores (2014, 2013 y 2012), así como sus correspondientes actualizaciones en efectivo; cuyo pago o entrega se ha realizado en el ejercicio 2016 a los miembros de la Alta Dirección que habían generado este derecho, y cuyo desglose se incluye a continuación:
+<li>(2) Cantidades correspondientes a la suma de las partes diferidas de la Retribución Variable Anual de ejercicios anteriores (2014, 2013 y 2012), así como sus correspondientes actualizaciones en efectivo; cuyo pago o entrega se ha realizado en el ejercicio 2016 a los miembros de la Alta Dirección que habían generado este derecho, y cuyo desglose se incluye a continuación:</li>
 
 - Primer tercio de la Retribución Variable Anual diferida del ejercicio 2014 
 
@@ -25459,8 +25447,9 @@ Las “acciones teóricas” asignadas a los consejeros no ejecutivos beneficia
         </tr>
     </tbody>
 </table>
-
-(1) Además, en el ejercicio 2016 se asignaron a D. Ramón Bustamante y de la Mora y a D. Ignacio Ferrero Jordi, que cesaron como consejeros el 11 de marzo de 2016, 8.709 y 11.151 acciones teóricas, respectivamente.
+<ul class="cita">
+<li>(1) Además, en el ejercicio 2016 se asignaron a D. Ramón Bustamante y de la Mora y a D. Ignacio Ferrero Jordi, que cesaron como consejeros el 11 de marzo de 2016, 8.709 y 11.151 acciones teóricas, respectivamente.</li>
+</ul>
 
 ### Obligaciones contraídas en materia de previsión
 
@@ -25598,8 +25587,9 @@ La siguiente tabla recoge los dividendos por acción pagados en efectivo durant
     </tbody>
 </table>
 [Descargar tabla](#)
-
-(*) Corresponde a dos pagos.
+<ul class="cita">
+<li>(*) Corresponde a dos pagos.</li>
+</ul>
 
 #### Resultados e ingresos ordinarios por segmentos de negocio
 
@@ -25712,9 +25702,9 @@ El desglose de los resultados consolidados de los ejercicios 2016, 2015 y 2014 p
     </tbody>
 </table>
 [Descargar tabla](#)
-
-(*) Resultado atribuido a intereses minoritarios.
-
+<ul class="cita">
+<li>(*) Resultado atribuido a intereses minoritarios.</li>
+</ul>
 El desglose, por áreas de negocio, de los ingresos ordinarios (margen bruto) del Grupo BBVA en los ejercicios 2016, 2015 y 2014 integrados por los ingresos por intereses, los ingresos por dividendos, los ingresos por comisiones, las ganancias o pérdidas por activos y pasivos financieros y otros ingresos de explotación, es:
 
 <table>
@@ -25793,8 +25783,9 @@ El desglose, por áreas de negocio, de los ingresos ordinarios (margen bruto) d
         </tr>
     </tbody>
 </table>
-
-(*) La información se presenta bajo criterios de gestión en los ejercicios 2015 y 2014 (ver Nota 6).
+<ul class="cita">
+<li>(*) La información se presenta bajo criterios de gestión en los ejercicios 2015 y 2014 (ver Nota 6).</li>
+</ul>
 
 #### Ingresos por intereses por áreas geográficas
 

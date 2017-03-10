@@ -5,7 +5,8 @@ title: Home
 
 ## Cuentas anuales
 ### 2016
-#### Consolidated financial statements, management report and auditor's report for the year 2016
+#### Cuentas Anuales Consolidadas, Informe de Gestión e Informe de Auditoría correspondientes al ejercicio anual 2016
+
 
 <div class="home-link">
   <a href="{{site.baseurl}}/informe-de-auditoria/" >

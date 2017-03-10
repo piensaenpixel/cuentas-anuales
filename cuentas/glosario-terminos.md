@@ -4,6 +4,7 @@ title: Glosario de terminos
 lang: es
 submenu: cuentas
 permalink: /cuentas/glosario/
+order: 3
 ---
 
 {% include subir.html %}
