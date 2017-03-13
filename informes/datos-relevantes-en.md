@@ -3,7 +3,7 @@ layout: default
 title: Introduction - BBVA Group highlights
 lang: en
 submenu: gestion
-order: 3
+order: 1
 permalink: informe-de-gestion/datos-relevantes/
 ---
 
@@ -178,14 +178,14 @@ permalink: informe-de-gestion/datos-relevantes/
             <td>&nbsp;</td>
         </tr>
         <tr>
-            <td>ROTE (net attributable profit/average shareholders’ funds excluding intangible assets) (2)</td>
+            <td>ROE (net attributable profit/average shareholders’ funds excluding intangible assets) (2)</td>
             <td>6.7</td>
             <td>&nbsp;</td>
             <td>5.2</td>
             <td>5.5</td>
         </tr>
         <tr>
-            <td>ROTE (beneficio atribuido/fondos propios sin activos intangibles medios) (1)</td>
+            <td>ROTE (net attributable profit/average shareholders’ funds excluding intangible assets) (2)</td>
             <td>8.2</td>
             <td>&nbsp;</td>
             <td>6.4</td>

@@ -3,7 +3,7 @@ layout: default
 title: Other legal disclosure requirements
 lang: en
 submenu: gestion
-order: 5
+order: 6
 permalink: informe-de-gestion/otra-info/
 ---
 
@@ -242,7 +242,7 @@ The tangible book value per share determines the value of the company on its boo
 
 
 
-## Dividend yield
+### Dividend yield
 
 This is the remuneration given to the shareholders in the last twelve calendar months divided into the closing price for the period.
 
@@ -305,8 +305,6 @@ This is the ratio between the risks classified for accounting purposes as non-pe
 
 <img src="data:image/png;base64,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" />
 
-
-This is the ratio between the risks classified for accounting purposes as non-performing loans and the total credit risk balance for customers and contingent risks.
 
 **Explanation of the formula:** Both non-performing loans and credit risk include contingent liabilities, now called collateral given. Their calculation is based on the headings in the first table on page 18 of this report.
 
@@ -433,7 +431,7 @@ It measures the percentage of gross income consumed by an entity’s operating e
     <tr>
       <th></th>
       <th></th>
-      <th>2015</th>
+      <th></th>
       <th colspan="4">2016</th>
     </tr>
     <tr>
@@ -478,7 +476,7 @@ It measures the percentage of gross income consumed by an entity’s operating e
 </table>
 [Download table](#)
 
-## ROE
+### ROE
 
 The ROE ratio (return on equity) measures the return obtained on an entity’s shareholders’ funds.
 
@@ -500,7 +498,7 @@ In addition, a derivative of this metric may be reported, such as ROE not includ
     <tr>
       <th></th>
       <th></th>
-      <th>2015</th>
+      <th></th>
       <th colspan="4">2016</th>
     </tr>
     <tr>
@@ -630,7 +628,7 @@ A derivative of this metric may also be reported, such as ROTE not including the
 </table>
 [Download table](#)
 
-## ROA
+### ROA
 
 The ROA ratio (return on assets) measures the return obtained on an entity’s assets.
 
@@ -652,7 +650,7 @@ A derivative of this metric may also be reported, such as ROA not including the 
     <tr>
       <th></th>
       <th></th>
-      <th>2015</th>
+      <th></th>
       <th colspan="4">2016</th>
     </tr>
     <tr>
@@ -720,7 +718,7 @@ A derivative of this metric may also be reported, such as RORWA not including th
     <tr>
       <th></th>
       <th></th>
-      <th>2015</th>
+      <th></th>
       <th colspan="4">2016</th>
     </tr>
     <tr>
@@ -782,7 +780,7 @@ It includes off-balance sheet funds (mutual funds, pension funds and other off-b
       <th></th>
       <th colspan="5">Million euros</th>
     </tr>
-    <tr class="m">
+    <tr>
       <th></th>
       <th></th>
       <th>31-12-15</th>
@@ -873,7 +871,7 @@ One of BBVA’s six Strategic Priorities to make progress in its digital transfo
       <th></th>
       <th colspan="2">Number</th>
     </tr>
-    <tr class="m">
+    <tr>
       <th></th>
       <th>2016</th>
       <th>2015</th>
@@ -955,7 +953,7 @@ With respect to **occupational health and safety**, BBVA honors its commitment t
       <th></th>
       <th colspan="3">Number</th>
     </tr>
-    <tr class="m">
+    <tr>
       <th></th>
       <th>2016</th>
       <th>2015</th>
@@ -1022,7 +1020,7 @@ Remuneration is made up of two clearly differentiated **parts**:
 
 ### Volunteer work
 
-The **BBVA Corporate Volunteering Policy** covers all countries. It manifests BBVA’s pledge to volunteer work of this type and provides employees with the conditions in which they can engage in corporate volunteer work that generates a positive social impact. Most volunteering activities seek to reinforce initiatives in connection with education, primarily to boost financial literacy, and thus support the strategic lines set out in the responsible business model. Some of the Group’s educational volunteer projects include: 
+The BBVA **Corporate Volunteering Policy** covers all countries. It manifests BBVA’s pledge to volunteer work of this type and provides employees with the conditions in which they can engage in corporate volunteer work that generates a positive social impact. Most volunteering activities seek to reinforce initiatives in connection with education, primarily to boost financial literacy, and thus support the strategic lines set out in the responsible business model. Some of the Group’s educational volunteer projects include: 
 
 - In Spain: the JAES Foundation programs, such as _Ventajas de permanecer en el colegio_ (Advantages of staying in school), _Habilidades para el éxito_ (Skills for success) and Socios por un Día (Partners for a day). 
 
@@ -1136,6 +1134,7 @@ Work has been carried out in the field of **business continuity**, meaning conti
 At the same time, digital transformation has established itself as a strategic priority for the financial sector in general and for BBVA in particular. In this context, it is vital that we ensure effective protection for BBVA’s **brand and assets**, as well as our customers’ data, from the threats present in the virtual environment. To achieve this, BBVA has created a reliable and efficient center for cyber-attack prevention, alerts and response. This ensures that the Group develops at the same pace as organized technological crime.
 
 BBVA has also consolidated deployment of the cybersecurity standard designed by NIST (National Institute for Standards and Technologies) as a benchmark framework for management and control.
+
 Finally, it is important to note that BBVA is utterly committed to protecting its customers. It therefore works closely with regulators and the rest of the industry across its global footprint.
 
 
@@ -1152,15 +1151,16 @@ In **2016**, the Customer Care Service consolidated the initial guidelines issue
 
 Customer **claims and complaints** received by the BBVA Customer Care Service in Spain amounted to 25,562 cases in 2016, of which 2,502 were not admitted for processing as they did not comply with the requirements stipulated in Ministerial Order ECO/734; 20,279 were resolved by the Customer Care Service itself and concluded in the same year (88% of the total). A further 2,781 cases were pending analysis. In 2015, the complaints received numbered 17,647 and the cases resolved and concluded 14,315 (92% of the total). 
 
-#### Complaints handled by Customer Care Service  by complaint type 
+#### Complaints handled by Customer Care Service by complaint type 
 
 <table>
   <thead>
     <tr class="m">
       <th></th>
-      <th>Percentage</th>
+      <th colspan="2">Percentage</th>
     </tr>
-    <tr class="m">
+    <tr>
+      <th></th>
       <th>2016</th>
       <th>2015</th>
     </tr>
@@ -1222,9 +1222,10 @@ Customer **claims and complaints** received by the BBVA Customer Care Service in
   <thead>
     <tr class="m">
       <th></th>
-      <th>Number</th>
+      <th colspan="2">Number</th>
     </tr>
-    <tr class="m">
+    <tr>
+      <th></th>
       <th>2016</th>
       <th>2015</th>
     </tr>
@@ -1260,7 +1261,7 @@ The Customer Care Service continues to work through periodic committee meetings 
 
 Additionally, to comply with the recommendations from the regulators, an ambitious **training plan** has been created for all the members who are part of the Service’s team. The plan aims to broaden the legal understanding of managers while dealing in depth with the practical aspects of banking management: operational procedures, marketing and protocols for action in the retail network.
 
-In line with the demands of society, the Service is particularly sensitive **to protection for mortgage debtors**. It proposes solutions to enable debtors to pay their obligations to the Entity, working closely with the Social Housing Policy Department, where it is an active member of the Central Mortgage Debtor Protection Committee.
+In line with the demands of society, the Service is particularly sensitive to **protection for mortgage debtors**. It proposes solutions to enable debtors to pay their obligations to the Entity, working closely with the Social Housing Policy Department, where it is an active member of the Central Mortgage Debtor Protection Committee.
 
 The outsourcing last year of non-complex tasks of complaints admission and management was consolidated this year, resulting in more agile and justified responses, guaranteeing compliance with the guidelines.
 
@@ -1279,9 +1280,10 @@ The number of customer **complaints** presented to the Customer Ombudsman for re
   <thead>
     <tr class="m">
       <th></th>
-      <th>Number</th>
+      <th colspan="2">Number</th>
     </tr>
-    <tr class="m">
+    <tr>
+      <th></th>
       <th>2016</th>
       <th>2015</th>
     </tr>
@@ -1339,9 +1341,10 @@ The **type** of complaints managed in the table above follow the criteria establ
   <thead>
     <tr class="m">
       <th></th>
-      <th>Number</th>
+      <th colspan="2">Number</th>
     </tr>
-    <tr class="m">
+    <tr>
+      <th></th>
       <th>2016</th>
       <th>2015</th>
     </tr>
@@ -1517,7 +1520,8 @@ The accompanying table presents a comparative list of the issues outstanding as 
 </table>
 [Download table](#)
 
-<ul class="cita"><li>(1) Securities issued before the enactment of Act 19/2003 dated 4 July 2003. (2) Securitization bond issues on flows generated from export bills.</li></ul>
+<ul class="cita"><li>(1) Securities issued before the enactment of Act 19/2003 dated 4 July 2003.</li>
+<li>(2) Securitization bond issues on flows generated from export bills.</li></ul>
 
 ### Supervision and control of the permanent establishments of the BBVA Group in offshore financial centers
 
