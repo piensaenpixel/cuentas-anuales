@@ -33,14 +33,14 @@ order: 0
     <tbody>
         <tr class="b">
             <td>EFECTIVO, SALDOS EN EFECTIVO EN BANCOS CENTRALES Y OTROS DEPÓSITOS A LA VISTA</td>
-            <td><a href="#">9</a></td>
+            <td><a href="{{site.baseurl}}/cuentas/notas-estados-financieros/#9-efectivo-saldos-en-efectivo-en-bancos-centrales-y-otros-depósitos-a-la-vista">9</a></td>
             <td>40.039</td>
             <td>29.282</td>
             <td>27.719</td>
         </tr>
         <tr class="b">
             <td>ACTIVOS FINANCIEROS MANTENIDOS PARA NEGOCIAR</td>
-            <td><a href="#">10</a></td>
+            <td><a href="{{site.baseurl}}/cuentas/notas-estados-financieros/#10-activos-y-pasivos-financieros-mantenidos-para-negociar">10</a></td>
             <td>74.950</td>
             <td>78.326</td>
             <td>83.258</td>
@@ -89,7 +89,7 @@ order: 0
         </tr>
         <tr class="b">
             <td>ACTIVOS FINANCIEROS DESIGNADOS A VALOR RAZONABLE CON CAMBIOS EN RESULTADOS</td>
-            <td><a href="#">11</a></td>
+            <td><a href="{{site.baseurl}}/cuentas/notas-estados-financieros/#11-activos-y-pasivos-financieros-designados-a-valor-razonable-con-cambios-en-resultados">11</a></td>
             <td>2.062</td>
             <td>2.311</td>
             <td>2.761</td>
@@ -131,7 +131,7 @@ order: 0
         </tr>
         <tr class="b">
             <td>ACTIVOS FINANCIEROS DISPONIBLES PARA LA VENTA </td>
-            <td><a href="#">12</a></td>
+            <td><a href="{{site.baseurl}}/cuentas/notas-estados-financieros/#12-activos-financieros-disponibles-para-la-venta">12</a></td>
             <td>79.221</td>
             <td>113.426</td>
             <td>94.875</td>
@@ -152,7 +152,7 @@ order: 0
         </tr>
         <tr class="b">
             <td>PRÉSTAMOS Y PARTIDAS A COBRAR</td>
-            <td><a href="#">13</a></td>
+            <td><a href="{{site.baseurl}}/cuentas/notas-estados-financieros/#13-préstamos-y-partidas-a-cobrar">13</a></td>
             <td>465.977</td>
             <td>471.828</td>
             <td>376.086</td>
@@ -187,14 +187,14 @@ order: 0
         </tr>
         <tr class="b">
             <td>INVERSIONES MANTENIDAS HASTA EL VENCIMIENTO</td>
-            <td><a href="#">14</a></td>
+            <td><a href="{{site.baseurl}}/cuentas/notas-estados-financieros/#14-inversiones-mantenidas-hasta-el-vencimiento">14</a></td>
             <td>17.696</td>
             <td>-</td>
             <td>-</td>
         </tr>
         <tr class="b">
             <td>DERIVADOS - CONTABILIDAD DE COBERTURAS</td>
-            <td><a href="#">15</a></td>
+            <td><a href="{{site.baseurl}}/cuentas/notas-estados-financieros/#15-derivados--contabilidad-de-coberturas-y-cambios-del-valor-razonable-de-los-elementos-cubiertos-de-una-cartera-con-cobertura-del-riesgo-de-tipo-de-interés">15</a></td>
             <td>2.833</td>
             <td>3.538</td>
             <td>2.551</td>
@@ -208,7 +208,7 @@ order: 0
         </tr>
         <tr class="b">
             <td>INVERSIONES EN NEGOCIOS CONJUNTOS Y ASOCIADAS</td>
-            <td><a href="#">16</a></td>
+            <td><a href="{{site.baseurl}}/cuentas/notas-estados-financieros/#16-inversiones-en-negocios-conjuntos-y-asociadas">16</a></td>
             <td>765</td>
             <td>879</td>
             <td>4.509</td>
@@ -229,14 +229,14 @@ order: 0
         </tr>
         <tr class="b">
             <td>ACTIVOS AMPARADOS POR CONTRATOS DE SEGURO O REASEGURO</td>
-            <td><a href="#">23</a></td>
+            <td><a href="{{site.baseurl}}/cuentas/notas-estados-financieros/#23-activos-y-pasivos-amparados-por-contratos-de-seguro-o-reaseguro">23</a></td>
             <td>447</td>
             <td>511</td>
             <td>559</td>
         </tr>
         <tr class="b">
             <td>ACTIVOS TANGIBLES</td>
-            <td><a href="#">17</a></td>
+            <td><a href="{{site.baseurl}}/cuentas/notas-estados-financieros/#17-activos-tangibles">17</a></td>
             <td>8.941</td>
             <td>9.944</td>
             <td>7.820</td>
@@ -271,7 +271,7 @@ order: 0
         </tr>
         <tr class="b">
             <td>ACTIVOS INTANGIBLES</td>
-            <td><a href="#">18</a></td>
+            <td><a href="{{site.baseurl}}/cuentas/notas-estados-financieros/#18-activos-intangibles">18</a></td>
             <td>9.786</td>
             <td>10.052</td>
             <td>7.371</td>
@@ -292,7 +292,7 @@ order: 0
         </tr>
         <tr class="b">
             <td>ACTIVOS POR IMPUESTOS</td>
-            <td><a href="#">19</a></td>
+            <td><a href="{{site.baseurl}}/cuentas/notas-estados-financieros/#19-activos-y-pasivos-por-impuestos">19</a></td>
             <td>18.245</td>
             <td>17.779</td>
             <td>12.426</td>
@@ -313,7 +313,7 @@ order: 0
         </tr>
         <tr class="b">
             <td>OTROS ACTIVOS </td>
-            <td><a href="#">20</a></td>
+            <td><a href="{{site.baseurl}}/cuentas/notas-estados-financieros/#20-otros-activos-y-pasivos">20</a></td>
             <td>7.274</td>
             <td>8.565</td>
             <td>8.094</td>
@@ -341,7 +341,7 @@ order: 0
         </tr>
         <tr class="b">
             <td>ACTIVOS NO CORRIENTES Y GRUPOS ENAJENABLES DE ELEMENTOS QUE SE HAN CLASIFICADO COMO MANTENIDOS PARA LA VENTA</td>
-            <td><a href="#">21</a></td>
+            <td><a href="{{site.baseurl}}/cuentas/notas-estados-financieros/#21-activos-no-corrientes-y-grupos-enajenables-de-elementos-que-se-han-clasificado-como-mantenidos-para-la-venta">21</a></td>
             <td>3.603</td>
             <td>3.369</td>
             <td>3.793</td>
@@ -357,8 +357,11 @@ order: 0
 </table>
 [Descargar tabla](#)
 
-(*) Se presentan, única y exclusivamente, a efectos comparativos (Nota 1.3).
-Las Notas 1 a 56 y los Anexos I a XIV adjuntos forman parte integrante del balance consolidado a 31 de diciembre de 2016.
+<ul class="cita">
+<li>(*) Se presentan, única y exclusivamente, a efectos comparativos (Nota 1.3).
+Las Notas 1 a 56 y los Anexos I a XIV adjuntos forman parte integrante del balance consolidado a 31 de diciembre de 2016.</li>
+</ul>
+
 
 ### 2. Balances consolidados a 31 de diciembre de 2016, 2015 y 2014
 
@@ -380,7 +383,7 @@ Las Notas 1 a 56 y los Anexos I a XIV adjuntos forman parte integrante del balan
     <tbody>
         <tr class="b">
             <td>PASIVOS FINANCIEROS MANTENIDOS PARA NEGOCIAR</td>
-            <td>10</td>
+            <td><a href="{{site.baseurl}}/cuentas/notas-estados-financieros/#10-activos-y-pasivos-financieros-mantenidos-para-negociar">10</a></td>
             <td>54.675</td>
             <td>55.202</td>
             <td>56.798</td>
@@ -436,7 +439,7 @@ Las Notas 1 a 56 y los Anexos I a XIV adjuntos forman parte integrante del balan
         </tr>
         <tr class="b">
             <td>PASIVOS FINANCIEROS DESIGNADOS A VALOR RAZONABLE CON CAMBIOS EN RESULTADOS</td>
-            <td>11</td>
+            <td><a href="{{site.baseurl}}/cuentas/notas-estados-financieros/#11-activos-y-pasivos-financieros-designados-a-valor-razonable-con-cambios-en-resultados">11</a></td>
             <td>2.338</td>
             <td>2.649</td>
             <td>2.724</td>
@@ -478,7 +481,7 @@ Las Notas 1 a 56 y los Anexos I a XIV adjuntos forman parte integrante del balan
         </tr>
         <tr class="b">
             <td>PASIVOS FINANCIEROS A COSTE AMORTIZADO </td>
-            <td>22</td>
+            <td><a href="{{site.baseurl}}/cuentas/notas-estados-financieros/#22-pasivos-financieros-a-coste-amortizado">22</a></td>
             <td>589.210</td>
             <td>606.113</td>
             <td>491.899</td>
@@ -520,35 +523,35 @@ Las Notas 1 a 56 y los Anexos I a XIV adjuntos forman parte integrante del balan
         </tr>
         <tr class="b">
             <td>DERIVADOS - CONTABILIDAD DE COBERTURA </td>
-            <td>15</td>
+            <td><a href="{{site.baseurl}}/cuentas/notas-estados-financieros/#15-derivados--contabilidad-de-coberturas-y-cambios-del-valor-razonable-de-los-elementos-cubiertos-de-una-cartera-con-cobertura-del-riesgo-de-tipo-de-interés">15</a></td>
             <td>2.347</td>
             <td>2.726</td>
             <td>2.331</td>
         </tr>
         <tr class="b">
             <td>CAMBIOS DEL VALOR RAZONABLE DE LOS ELEMENTOS CUBIERTOS DE UNA CARTERA CON COBERTURA DEL RIESGO DEL TIPO DE INTERÉS</td>
-            <td>15</td>
+            <td><a href="{{site.baseurl}}/cuentas/notas-estados-financieros/#15-derivados--contabilidad-de-coberturas-y-cambios-del-valor-razonable-de-los-elementos-cubiertos-de-una-cartera-con-cobertura-del-riesgo-de-tipo-de-interés">15</a></td>
             <td>-</td>
             <td>358</td>
             <td>-</td>
         </tr>
         <tr class="b">
             <td>PASIVOS AMPARADOS POR CONTRATOS DE SEGUROS O REASEGURO</td>
-            <td>23</td>
+            <td><a href="{{site.baseurl}}/cuentas/notas-estados-financieros/#23-activos-y-pasivos-amparados-por-contratos-de-seguro-o-reaseguro">23</a></td>
             <td>9.139</td>
             <td>9.407</td>
             <td>10.460</td>
         </tr>
         <tr class="b">
             <td>PROVISIONES </td>
-            <td>24</td>
+            <td><a href="{{site.baseurl}}/cuentas/notas-estados-financieros/#24-provisiones">24</a></td>
             <td>9.071</td>
             <td>8.852</td>
             <td>7.444</td>
         </tr>
         <tr class="s">
             <td> Pensiones y otras obligaciones de prestaciones definidas post-empleo</td>
-            <td>25</td>
+            <td><a href="{{site.baseurl}}/cuentas/notas-estados-financieros/#25-retribuciones-post-empleo-y-otros-compromisos-con-empleados">25</a></td>
             <td>6.025</td>
             <td>6.299</td>
             <td>5.970</td>
@@ -583,7 +586,7 @@ Las Notas 1 a 56 y los Anexos I a XIV adjuntos forman parte integrante del balan
         </tr>
         <tr class="b">
             <td>PASIVOS POR IMPUESTOS</td>
-            <td>19</td>
+            <td><a href="{{site.baseurl}}/cuentas/notas-estados-financieros/#19-activos-y-pasivos-por-impuestos">19</a></td>
             <td>4.668</td>
             <td>4.656</td>
             <td>4.157</td>
@@ -604,7 +607,7 @@ Las Notas 1 a 56 y los Anexos I a XIV adjuntos forman parte integrante del balan
         </tr>
         <tr class="b">
             <td>OTROS PASIVOS </td>
-            <td>20</td>
+            <td><a href="{{site.baseurl}}/cuentas/notas-estados-financieros/#20-otros-activos-y-pasivos">20</a></td>
             <td>4.979</td>
             <td>4.610</td>
             <td>4.519</td>
@@ -627,10 +630,10 @@ Las Notas 1 a 56 y los Anexos I a XIV adjuntos forman parte integrante del balan
 </table>
 [Descargar tabla](#)
 
-(*) Se presentan, única y exclusivamente, a efectos comparativos (Nota 1.3)
+<ul class="cita"><li>(*) Se presentan, única y exclusivamente, a efectos comparativos (Nota 1.3)</li>
 
-Las Notas 1 a 56 y los Anexos I a XIV adjuntos forman parte integrante del balance consolidado a 31 de
-diciembre de 2016.
+<li>Las Notas 1 a 56 y los Anexos I a XIV adjuntos forman parte integrante del balance consolidado a 31 de
+diciembre de 2016.</li></ul>
 
 
 
@@ -661,7 +664,7 @@ diciembre de 2016.
         </tr>
         <tr class="s b">
             <td> Capital</td>
-            <td><a href="#">26</a></td>
+            <td><a href="{{site.baseurl}}/cuentas/notas-estados-financieros/#26-capital">26</a></td>
             <td>3.218</td>
             <td>3.120</td>
             <td>3.024</td>
@@ -682,7 +685,7 @@ diciembre de 2016.
         </tr>
         <tr class="s b">
             <td> Prima de emisión</td>
-            <td><a href="#">27</a></td>
+            <td><a href="{{site.baseurl}}/cuentas/notas-estados-financieros/#27-prima-de-emisión">27</a></td>
             <td>23.992</td>
             <td>23.992</td>
             <td>23.992</td>
@@ -696,28 +699,28 @@ diciembre de 2016.
         </tr>
         <tr class="s b">
             <td> Otros elementos de patrimonio neto</td>
-            <td><a href="#">44.1.1</a></td>
+            <td><a href="{{site.baseurl}}/cuentas/notas-estados-financieros/#44-gastos-de-administración">44.1.1</a></td>
             <td>54</td>
             <td>35</td>
             <td>67</td>
         </tr>
         <tr class="s b">
             <td> Ganancias acumuladas</td>
-            <td><a href="#">28</a></td>
+            <td><a href="{{site.baseurl}}/cuentas/notas-estados-financieros/#28-ganancias-acumuladas-reservas-de-revalorización-y-otras-reservas">28</a></td>
             <td>23.688</td>
             <td>22.588</td>
             <td>20.280</td>
         </tr>
         <tr class="s b">
             <td> Reservas de revalorización</td>
-            <td><a href="#">28</a></td>
+            <td><a href="{{site.baseurl}}/cuentas/notas-estados-financieros/#28-ganancias-acumuladas-reservas-de-revalorización-y-otras-reservas">28</a></td>
             <td>20</td>
             <td>22</td>
             <td>23</td>
         </tr>
         <tr class="s b">
             <td> Otras reservas</td>
-            <td><a href="#">28</a></td>
+            <td><a href="{{site.baseurl}}/cuentas/notas-estados-financieros/#28-ganancias-acumuladas-reservas-de-revalorización-y-otras-reservas">28</a></td>
             <td>(67)</td>
             <td>(98)</td>
             <td>633</td>
@@ -738,7 +741,7 @@ diciembre de 2016.
         </tr>
         <tr class="s b">
             <td> Menos: Acciones propias</td>
-            <td><a href="#">29</a></td>
+            <td><a href="{{site.baseurl}}/cuentas/notas-estados-financieros/#29-acciones-propias">29</a></td>
             <td>(48)</td>
             <td>(309)</td>
             <td>(350)</td>
@@ -752,14 +755,14 @@ diciembre de 2016.
         </tr>
         <tr class="s b">
             <td> Menos: Dividendos a cuenta</td>
-            <td><a href="#">4</a></td>
+            <td><a href="{{site.baseurl}}/cuentas/notas-estados-financieros/#4-sistema-de-retribución-a-los-accionistas">4</a></td>
             <td>(1.510)</td>
             <td>(1.352)</td>
             <td>(841)</td>
         </tr>
         <tr class="b">
             <td>OTRO RESULTADO GLOBAL ACUMULADO</td>
-            <td><a href="#">30</a></td>
+            <td><a href="{{site.baseurl}}/cuentas/notas-estados-financieros/#30-otro-resultado-global-acumulado">30</a></td>
             <td>(5.458)</td>
             <td>(3.349)</td>
             <td>(348)</td>
@@ -850,7 +853,7 @@ diciembre de 2016.
         </tr>
         <tr class="b">
             <td>INTERESES MINORITARIOS (PARTICIPACIONES NO DOMINANTES)</td>
-            <td><a href="#">31</a></td>
+            <td><a href="{{site.baseurl}}/cuentas/notas-estados-financieros/#31-intereses-minoritarios">31</a></td>
             <td>8.064</td>
             <td>7.992</td>
             <td>2.511</td>
@@ -905,14 +908,14 @@ diciembre de 2016.
     <tbody>
         <tr>
             <td>Garantías concedidas</td>
-            <td><a href="#">33</a></td>
+            <td><a href="{{site.baseurl}}/cuentas/notas-estados-financieros/#33-compromisos-y-garantías-concedidas">33</a></td>
             <td>50.540</td>
             <td>49.876</td>
             <td>33.741</td>
         </tr>
         <tr>
             <td>Compromisos contingentes concedidos</td>
-            <td><a href="#">33</a></td>
+            <td><a href="{{site.baseurl}}/cuentas/notas-estados-financieros/#33-compromisos-y-garantías-concedidas">33</a></td>
             <td>117.573</td>
             <td>135.733</td>
             <td>106.252</td>
@@ -921,9 +924,9 @@ diciembre de 2016.
 </table>
 [Descargar tabla](#)
 
-(*) Se presentan, única y exclusivamente, a efectos comparativos (Nota 1.3)
+<ul class="cita"><li>(*) Se presentan, única y exclusivamente, a efectos comparativos (Nota 1.3)</li>
 
-Las Notas 1 a 56 y los Anexos I a XIV adjuntos forman parte integrante del balance consolidado a 31 de diciembre de 2016.
+<li>Las Notas 1 a 56 y los Anexos I a XIV adjuntos forman parte integrante del balance consolidado a 31 de diciembre de 2016.</li></ul>
 
 
 ## 2. Cuentas de pérdidas y ganancias consolidadas correspondientes a los ejercicios anuales terminados el 31 de diciembre de 2016, 2015 y 2014
@@ -946,14 +949,14 @@ Las Notas 1 a 56 y los Anexos I a XIV adjuntos forman parte integrante del balan
     <tbody>
         <tr>
             <td>Ingresos por intereses</td>
-            <td><a href="#">37</a></td>
+            <td><a href="{{site.baseurl}}/cuentas/notas-estados-financieros/#37-ingresos-y-gastos-por-intereses">37</a></td>
             <td>27.708</td>
             <td>24.783</td>
             <td>22.838</td>
         </tr>
         <tr>
             <td>Gastos por intereses</td>
-            <td><a href="#">37</a></td>
+            <td><a href="{{site.baseurl}}/cuentas/notas-estados-financieros/#37-ingresos-y-gastos-por-intereses">37</a></td>
             <td>(10.648)</td>
             <td>(8.761)</td>
             <td>(8.456)</td>
@@ -967,91 +970,91 @@ Las Notas 1 a 56 y los Anexos I a XIV adjuntos forman parte integrante del balan
         </tr>
         <tr>
             <td>Ingresos por dividendos</td>
-            <td><a href="#">38</a></td>
+            <td><a href="{{site.baseurl}}/cuentas/notas-estados-financieros/#38-ingresos-por-dividendos">38</a></td>
             <td>467</td>
             <td>415</td>
             <td>531</td>
         </tr>
         <tr>
             <td>Resultados de entidades valoradas por el método de la participación </td>
-            <td><a href="#">39</a></td>
+            <td><a href="{{site.baseurl}}/cuentas/notas-estados-financieros/#39-resultados-de-entidades-valoradas-por-el-método-de-la-participación">39</a></td>
             <td>25</td>
             <td>174</td>
             <td>343</td>
         </tr>
         <tr>
             <td>Ingresos por comisiones</td>
-            <td><a href="#">40</a></td>
+            <td><a href="{{site.baseurl}}/cuentas/notas-estados-financieros/#40-ingresos-por-comisiones">40</a></td>
             <td>6.804</td>
             <td>6.340</td>
             <td>5.530</td>
         </tr>
         <tr>
             <td>Gastos por comisiones</td>
-            <td><a href="#">40</a></td>
+            <td><a href="{{site.baseurl}}/cuentas/notas-estados-financieros/#40-ingresos-por-comisiones">40</a></td>
             <td>(2.086)</td>
             <td>(1.729)</td>
             <td>(1.356)</td>
         </tr>
         <tr>
             <td>Ganancias o pérdidas al dar de baja en cuentas activos y pasivos financieros no valorados a valor razonable con cambios en resultados, netas</td>
-            <td><a href="#">41</a></td>
+            <td><a href="{{site.baseurl}}/cuentas/notas-estados-financieros/#41-ganancias-o-pérdidas-por-activos-y-pasivos-financieros-y-diferencias-de-cambio">41</a></td>
             <td>1.375</td>
             <td>1.055</td>
             <td>1.439</td>
         </tr>
         <tr>
             <td>Ganancias o pérdidas por activos y pasivos financieros mantenidos para negociar, netas</td>
-            <td><a href="#">41</a></td>
+            <td><a href="{{site.baseurl}}/cuentas/notas-estados-financieros/#41-ganancias-o-pérdidas-por-activos-y-pasivos-financieros-y-diferencias-de-cambio">41</a></td>
             <td>248</td>
             <td>(409)</td>
             <td>11</td>
         </tr>
         <tr>
             <td>Ganancias o pérdidas por activos y pasivos financieros designados a valor razonable con cambios en resultados, netas</td>
-            <td><a href="#">41</a></td>
+            <td><a href="{{site.baseurl}}/cuentas/notas-estados-financieros/#41-ganancias-o-pérdidas-por-activos-y-pasivos-financieros-y-diferencias-de-cambio">41</a></td>
             <td>114</td>
             <td>126</td>
             <td>32</td>
         </tr>
         <tr>
             <td>Ganancias o pérdidas resultantes de la contabilidad de coberturas, netas</td>
-            <td><a href="#">41</a></td>
+            <td><a href="{{site.baseurl}}/cuentas/notas-estados-financieros/#41-ganancias-o-pérdidas-por-activos-y-pasivos-financieros-y-diferencias-de-cambio">41</a></td>
             <td>(76)</td>
             <td>93</td>
             <td>(47)</td>
         </tr>
         <tr>
             <td>Diferencias de cambio (neto)</td>
-            <td><a href="#">41</a></td>
+            <td><a href="{{site.baseurl}}/cuentas/notas-estados-financieros/#41-ganancias-o-pérdidas-por-activos-y-pasivos-financieros-y-diferencias-de-cambio">41</a></td>
             <td>472</td>
             <td>1.165</td>
             <td>699</td>
         </tr>
         <tr>
             <td>Otros ingresos de explotación </td>
-            <td><a href="#">42</a></td>
+            <td><a href="{{site.baseurl}}/cuentas/notas-estados-financieros/#42-otros-ingresos-y-gastos-de-explotación">42</a></td>
             <td>1.272</td>
             <td>1.315</td>
             <td>959</td>
         </tr>
         <tr>
             <td>Otros gastos de explotación</td>
-            <td><a href="#">42</a></td>
+            <td><a href="{{site.baseurl}}/cuentas/notas-estados-financieros/#42-otros-ingresos-y-gastos-de-explotación">42</a></td>
             <td>(2.128)</td>
             <td>(2.285)</td>
             <td>(2.705)</td>
         </tr>
         <tr>
             <td>Ingresos de activos amparados por contratos de seguro o reaseguro</td>
-            <td><a href="#">43</a></td>
+            <td><a href="{{site.baseurl}}/cuentas/notas-estados-financieros/#43-ingresos-y-gastos-de-activos-y-pasivos-amparados-por-contratos-de-seguro-o-reaseguros">43</a></td>
             <td>3.652</td>
             <td>3.678</td>
             <td>3.622</td>
         </tr>
         <tr>
             <td>Gastos de pasivos amparados por contratos de seguro o reaseguro</td>
-            <td><a href="#">43</a></td>
+            <td><a href="{{site.baseurl}}/cuentas/notas-estados-financieros/#43-ingresos-y-gastos-de-activos-y-pasivos-amparados-por-contratos-de-seguro-o-reaseguros">43</a></td>
             <td>(2.545)</td>
             <td>(2.599)</td>
             <td>(2.714)</td>
@@ -1065,7 +1068,7 @@ Las Notas 1 a 56 y los Anexos I a XIV adjuntos forman parte integrante del balan
         </tr>
         <tr>
             <td>Gastos de administración </td>
-            <td><a href="#">44</a></td>
+            <td><a href="{{site.baseurl}}/cuentas/notas-estados-financieros/#44-gastos-de-administración">44</a></td>
             <td>(11.366)</td>
             <td>(10.836)</td>
             <td>(9.414)</td>
@@ -1086,21 +1089,21 @@ Las Notas 1 a 56 y los Anexos I a XIV adjuntos forman parte integrante del balan
         </tr>
         <tr>
             <td>Amortización</td>
-            <td><a href="#">45</a></td>
+            <td><a href="{{site.baseurl}}/cuentas/notas-estados-financieros/#45-amortización">45</a></td>
             <td>(1.426)</td>
             <td>(1.272)</td>
             <td>(1.145)</td>
         </tr>
         <tr>
             <td>Provisiones o reversión de provisiones</td>
-            <td><a href="#">46</a></td>
+            <td><a href="{{site.baseurl}}/cuentas/notas-estados-financieros/#46-provisiones-o-reversión-de-provisiones">46</a></td>
             <td>(1.186)</td>
             <td>(731)</td>
             <td>(1.142)</td>
         </tr>
         <tr>
             <td>Deterioro del valor o reversión del deterioro del valor de activos financieros no valorados a valor razonable con cambios en resultados</td>
-            <td><a href="#">47</a></td>
+            <td><a href="{{site.baseurl}}/cuentas/notas-estados-financieros/#47-deterioro-del-valor-o-reversión-del-deterioro-del-valor-de-activos-financieros-no-valorados-a-valor-razonable-con-cambios-en-resultados">47</a></td>
             <td>(3.801)</td>
             <td>(4.272)</td>
             <td>(4.340)</td>
@@ -1149,7 +1152,7 @@ Las Notas 1 a 56 y los Anexos I a XIV adjuntos forman parte integrante del balan
         </tr>
         <tr>
             <td>Deterioro del valor o reversión del deterioro del valor de activos no financieros</td>
-            <td><a href="#">48</a></td>
+            <td><a href="{{site.baseurl}}/cuentas/notas-estados-financieros/#48-deterioro-del-valor-o-reversión-del-deterioro-del-valor-de-activos-no-financieros">48</a></td>
             <td>(521)</td>
             <td>(273)</td>
             <td>(297)</td>
@@ -1177,21 +1180,21 @@ Las Notas 1 a 56 y los Anexos I a XIV adjuntos forman parte integrante del balan
         </tr>
         <tr>
             <td>Ganancias o pérdidas al dar de baja en cuentas activos no financieros y participaciones, netas</td>
-            <td><a href="#">49</a></td>
+            <td><a href="{{site.baseurl}}/cuentas/notas-estados-financieros/#49-ganancias-o-pérdidas-al-dar-de-baja-en-cuentas-activos-no-financieros-y-participaciones-netas">49</a></td>
             <td>70</td>
             <td>(2.135)</td>
             <td>46</td>
         </tr>
         <tr>
             <td>Fondo de comercio negativo reconocido en resultados</td>
-            <td><a href="#">18</a></td>
+            <td><a href="{{site.baseurl}}/cuentas/notas-estados-financieros/#18-activos-intangibles">18</a></td>
             <td>-</td>
             <td>26</td>
             <td>-</td>
         </tr>
         <tr>
             <td>Ganancias o pérdidas procedentes de activos no corrientes y grupos enajenables de elementos clasificados como mantenidos para la venta no admisibles como actividades interrumpidas</td>
-            <td><a href="#">50</a></td>
+            <td><a href="{{site.baseurl}}/cuentas/notas-estados-financieros/#50-ganancias-o-pérdidas-procedentes-de-activos-no-corrientes-y-grupos-enajenables-de-elementos-clasificados-como-mantenidos-para-la-venta-no-admisibles-como-actividades-interrumpidas">50</a></td>
             <td>(31)</td>
             <td>734</td>
             <td>(453)</td>
@@ -1205,7 +1208,7 @@ Las Notas 1 a 56 y los Anexos I a XIV adjuntos forman parte integrante del balan
         </tr>
         <tr>
             <td>Gastos o ingresos por impuestos sobre las ganancias de las actividades continuadas</td>
-            <td><a href="#">19</a></td>
+            <td><a href="{{site.baseurl}}/cuentas/notas-estados-financieros/#19-activos-y-pasivos-por-impuestos">19</a></td>
             <td>(1.699)</td>
             <td>(1.274)</td>
             <td>(898)</td>
@@ -1233,7 +1236,7 @@ Las Notas 1 a 56 y los Anexos I a XIV adjuntos forman parte integrante del balan
         </tr>
         <tr class="s">
             <td> Atribuible a intereses minoritarios (participaciones no dominantes)</td>
-            <td><a href="#">31</a></td>
+            <td><a href="{{site.baseurl}}/cuentas/notas-estados-financieros/#31-intereses-minoritarios">31</a></td>
             <td>1.218</td>
             <td>686</td>
             <td>464</td>
@@ -1267,7 +1270,7 @@ Las Notas 1 a 56 y los Anexos I a XIV adjuntos forman parte integrante del balan
     <tbody>
         <tr class="b">
             <td>BENEFICIO POR ACCIÓN</td>
-            <td><a href="#">5</a></td>
+            <td><a href="{{site.baseurl}}/cuentas/notas-estados-financieros/#5-beneficio-atribuido-por-acción">5</a></td>
             <td>0,50</td>
             <td>0,37</td>
             <td>0,40</td>
@@ -1304,9 +1307,9 @@ Las Notas 1 a 56 y los Anexos I a XIV adjuntos forman parte integrante del balan
 </table>
 [Descargar tabla](#)
 
-(*) Se presentan, única y exclusivamente, a efectos comparativos (Nota 1.3).
+<ul class="cita"><li>(*) Se presentan, única y exclusivamente, a efectos comparativos (Nota 1.3).</li>
 
-Las Notas 1 a 56 y los Anexos I a XIV adjuntos forman parte integrante de la cuenta de pérdidas y ganancias consolidada correspondiente al ejercicio anual terminado el 31 de diciembre de 2016.
+<li>Las Notas 1 a 56 y los Anexos I a XIV adjuntos forman parte integrante de la cuenta de pérdidas y ganancias consolidada correspondiente al ejercicio anual terminado el 31 de diciembre de 2016.</li></ul>
 
 ## 3. Estados de ingresos y gastos reconocidos correspondientes a los ejercicios anuales terminados el 31 de diciembre de 2016, 2015 y 2014
 
@@ -1532,9 +1535,9 @@ Las Notas 1 a 56 y los Anexos I a XIV adjuntos forman parte integrante de la cue
 </table>
 [Descargar tabla](#)
 
-(*) Se presentan, única y exclusivamente, a efectos comparativos (Nota 1.3).
+<ul class="cita"><li>(*) Se presentan, única y exclusivamente, a efectos comparativos (Nota 1.3).</li>
 
-Las Notas 1 a 56 y los Anexos I a XIV adjuntos forman parte integrante del estado de ingresos y gastos reconocidos consolidado correspondiente al ejercicio anual terminado el 31 de diciembre de 2016.
+<li>Las Notas 1 a 56 y los Anexos I a XIV adjuntos forman parte integrante del estado de ingresos y gastos reconocidos consolidado correspondiente al ejercicio anual terminado el 31 de diciembre de 2016.</li></ul>
 
 ## 4. Estados totales de cambios en el patrimonio neto consolidados correspondientes a los ejercicios anuales terminados el 31 de diciembre de 2016, 2015 y 2014
 
@@ -1899,7 +1902,7 @@ Las Notas 1 a 56 y los Anexos I a XIV adjuntos forman parte integrante del estad
 </table>
 [Descargar tabla](#)
 
-Las Notas 1 a 56 y los Anexos I a XIV adjuntos forman parte integrante del estado total de cambios en el patrimonio neto consolidado correspondiente al ejercicio anual terminado el 31 de diciembre de 2016.
+<ul class="cita"><li>Las Notas 1 a 56 y los Anexos I a XIV adjuntos forman parte integrante del estado total de cambios en el patrimonio neto consolidado correspondiente al ejercicio anual terminado el 31 de diciembre de 2016.</li></ul>
 
 ### Ejercicio 2015
 
@@ -2260,7 +2263,7 @@ Las Notas 1 a 56 y los Anexos I a XIV adjuntos forman parte integrante del estad
 </table>
 [Descargar tabla](#)
 
-Las Notas 1 a 56 y los Anexos I a XIV adjuntos forman parte integrante del estado total de cambios en el patrimonio neto consolidado correspondiente al ejercicio anual terminado el 31 de diciembre de 2016.
+<ul class="cita"><li>Las Notas 1 a 56 y los Anexos I a XIV adjuntos forman parte integrante del estado total de cambios en el patrimonio neto consolidado correspondiente al ejercicio anual terminado el 31 de diciembre de 2016.</li></ul>
 
 
 ### Ejercicio 2014
@@ -2622,7 +2625,7 @@ Las Notas 1 a 56 y los Anexos I a XIV adjuntos forman parte integrante del estad
 </table>
 [Descargar tabla](#)
 
-Las Notas 1 a 56 y los Anexos I a XIV adjuntos forman parte integrante del estado total de cambios en el patrimonio neto consolidado correspondiente al ejercicio anual terminado el 31 de diciembre de 2016.
+<ul class="cita"><li>Las Notas 1 a 56 y los Anexos I a XIV adjuntos forman parte integrante del estado total de cambios en el patrimonio neto consolidado correspondiente al ejercicio anual terminado el 31 de diciembre de 2016.</li></ul>
 
 ## 5. Estados de flujos de efectivo consolidados generados en los ejercicios anuales terminados el 31 de diciembre de 2016, 2015 y 2014
 
@@ -2644,7 +2647,7 @@ Las Notas 1 a 56 y los Anexos I a XIV adjuntos forman parte integrante del estad
     <tbody>
         <tr class="b">
             <td>A) FLUJOS DE EFECTIVO DE LAS ACTIVIDADES DE EXPLOTACIÓN (1 + 2 + 3 + 4 + 5)</td>
-            <td><a href="#">51</a></td>
+            <td><a href="{{site.baseurl}}/cuentas/notas-estados-financieros/#51-estados-consolidados-de-flujos-de-efectivo">51</a></td>
             <td>6.623</td>
             <td>23.101</td>
             <td>(6.188)</td>
@@ -2763,7 +2766,7 @@ Las Notas 1 a 56 y los Anexos I a XIV adjuntos forman parte integrante del estad
         </tr>
         <tr class="b">
             <td>B) FLUJOS DE EFECTIVO DE LAS ACTIVIDADES DE INVERSIÓN (1 + 2)</td>
-            <td><a href="#">51</a></td>
+            <td><a href="{{site.baseurl}}/cuentas/notas-estados-financieros/#51-estados-consolidados-de-flujos-de-efectivo">51</a></td>
             <td>(560)</td>
             <td>(4.411)</td>
             <td>(1.151)</td>
@@ -2882,7 +2885,7 @@ Las Notas 1 a 56 y los Anexos I a XIV adjuntos forman parte integrante del estad
         </tr>
         <tr class="b">
             <td>C) FLUJOS DE EFECTIVO DE LAS ACTIVIDADES DE FINANCIACIÓN (1 + 2)</td>
-            <td><a href="#">51</a></td>
+            <td><a href="{{site.baseurl}}/cuentas/notas-estados-financieros/#51-estados-consolidados-de-flujos-de-efectivo">51</a></td>
             <td>(1.113)</td>
             <td>127</td>
             <td>3.157</td>
@@ -3042,7 +3045,7 @@ Las Notas 1 a 56 y los Anexos I a XIV adjuntos forman parte integrante del estad
         </tr>
         <tr class="b">
             <td>TOTAL EFECTIVO Y EQUIVALENTES AL FINAL DEL EJERCICIO</td>
-            <td><a href="#">9,13</a></td>
+            <td><a href="{{site.baseurl}}/cuentas/notas-estados-financieros/#9-efectivo-saldos-en-efectivo-en-bancos-centrales-y-otros-depósitos-a-la-vista">9</a>,<a href="{{site.baseurl}}/cuentas/notas-estados-financieros/#13-préstamos-y-partidas-a-cobrar">13</a></td>
             <td>44.955</td>
             <td>43.466</td>
             <td>31.430</td>
@@ -3051,6 +3054,6 @@ Las Notas 1 a 56 y los Anexos I a XIV adjuntos forman parte integrante del estad
 </table>
 [Descargar tabla](#)
 
-(*) Se presentan, única y exclusivamente, a efectos comparativos (Nota 1.3).
+<ul class="cita"><li>(*) Se presentan, única y exclusivamente, a efectos comparativos (Nota 1.3).</li>
 
-Las Notas 1 a 56 y los Anexos I a XIV adjuntos forman parte integrante del estado de flujos de efectivo consolidados generados en el ejercicio anual terminado el 31 de diciembre de 2016.
+<li>Las Notas 1 a 56 y los Anexos I a XIV adjuntos forman parte integrante del estado de flujos de efectivo consolidados generados en el ejercicio anual terminado el 31 de diciembre de 2016.</li></ul>

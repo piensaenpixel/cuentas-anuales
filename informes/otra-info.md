@@ -1289,7 +1289,7 @@ comités de salud y seguridad (%)</td>
 </table>
 [Descargar tabla](#)
 
-(1) Se excluye Catalunya Banc en 2015.
+<ul class="cita"><li>(1) Se excluye Catalunya Banc en 2015.</li></ul>
 
 Los **derechos y condiciones laborales** de los empleados del
 Grupo se encuentran recogidos en las normas, convenios y

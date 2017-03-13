@@ -7728,9 +7728,9 @@ A continuación se presentan los principales métodos de valoración, hipót
             <td>154</td>
             <td><b>Método del valor presente</b> (Descuento de flujos de caja futuros)</td>
             <td>
-              - Tasas de prepago
+              - Tasas de prepago<br/>
 
-              - Riesgo de crédito del emisor
+              - Riesgo de crédito del emisor<br/>
 
               - Tipos de interes de mercado
             </td>
@@ -7745,8 +7745,8 @@ A continuación se presentan los principales métodos de valoración, hipót
             <td>Activos financieros mantenidos para negociar</td>
             <td>418</td>
             <td><b>Método del valor presente</b> (Descuento de flujos de caja futuros)</td>
-            <td>- Tasas de prepago
-- Riesgo de crédito del emisor
+            <td>- Tasas de prepago<br/>
+- Riesgo de crédito del emisor<br/>
 - Tipos de interes de mercado</td>
         </tr>
         <tr>
@@ -7754,8 +7754,8 @@ A continuación se presentan los principales métodos de valoración, hipót
 con cambios en resultados</td>
             <td>-</td>
             <td><b>Precio activo en mercados no activos</b></td>
-            <td rowspan="2">- Cotizaciones brokers/dealers
-- Precios contribuidores externos
+            <td rowspan="2">- Cotizaciones brokers/dealers<br/>
+- Precios contribuidores externos<br/>
 - Niveles benchmarks mercado</td>
         </tr>
         <tr>
@@ -7773,8 +7773,8 @@ con cambios en resultados</td>
             <td>Activos financieros mantenidos para negociar</td>
             <td>9</td>
             <td rowspan="3"><b>Precios activos similares</b>(Precios observados en mercado de activos similares)</td>
-            <td rowspan="3">- Cotizaciones brokers
-- Operaciones mercado
+            <td rowspan="3">- Cotizaciones brokers<br/>
+- Operaciones mercado<br/>
 - Valores liquidativos publicados
 gestoras</td>
         </tr>
@@ -7800,8 +7800,8 @@ con cambios en resultados</td>
             <td><b>Método del valor presente</b>
 (Descuento de flujos de caja futuros)</td>
             <td>
-              - Tasas de prepago
-- Riesgo de crédito del emisor
+              - Tasas de prepago<br/>
+- Riesgo de crédito del emisor<br/>
 - Tipos de interes de mercado
             </td>
         </tr>
@@ -7918,13 +7918,13 @@ tomadas de servicios de consenso</li>
             <td>28</td>
             <td><b>Método del valor presente</b> (Descuento de flujos de caja futuros)</td>
             <td>
-- Diferencial de crédito
+- Diferencial de crédito<br/>
 
-- Tasa de recuperación
+- Tasa de recuperación<br/>
 
-- Tipos de interés
+- Tipos de interés<br/>
 
-- Niveles benchmark mercado
+- Niveles benchmark mercado<br/>
 
 - Correlación de impago
             </td>
@@ -7966,10 +7966,10 @@ benchmarks de mercado</td>
             <td>Pasivos financieros mantenidos para negociar</td>
             <td>6</td>
             <td><b>Método del valor presente</b> (Descuento de flujos de caja futuros)</td>
-            <td>- Diferencial de crédito
-- Tasa de recuperación
-- Tipos de interés
-- Niveles benchmark mercado
+            <td>- Diferencial de crédito<br/>
+- Tasa de recuperación<br/>
+- Tipos de interés<br/>
+- Niveles benchmark mercado<br/>
 - Correlación de impago</td>
         </tr>
         <tr class="b">
@@ -7983,9 +7983,9 @@ benchmarks de mercado</td>
             <td></td>
             <td>Opciones de crédito: <strong>Cópula Gaussiana</strong></td>
             <td>
-              - Correlación de impago
-              - Spreads de crédito
-              - Tasas de recuperación
+              - Correlación de impago<br/>
+              - Spreads de crédito<br/>
+              - Tasas de recuperación<br/>
               - Curvas de tipo de interés
             </td>
         </tr>
@@ -7994,11 +7994,11 @@ benchmarks de mercado</td>
             <td>60</td>
             <td rowspan="2">Opciones renta variable OTC: <strong>Heston</strong></td>
             <td  rowspan="2">
-               - Volatility of volatility
+               - Volatility of volatility<br/>
 
-               - Curvas tipos de interés
+               - Curvas tipos de interés<br/>
 
-               - Dividendos
+               - Dividendos<br/>
 
                - Correlaciones activos
             </td>
@@ -8012,9 +8012,9 @@ benchmarks de mercado</td>
             <td></td>
             <td rowspan="2">Opciones de tipo de interés: <strong>Libor Market Model</strong></td>
             <td  rowspan="2">
-              - Beta
+              - Beta<br/>
 
-              - Correlación tipo/credito
+              - Correlación tipo/credito<br/>
 
               - Volatilidad de impago
             </td>
@@ -8631,155 +8631,95 @@ A continuación se presentan los principales métodos de valoración, hipót
             <th>Instrumentos Financieros</th>
             <th>Valor razonable (Millones de euros)</th>
             <th>Principales técnicas de valoración</th>
-            <th>Principales hipótesis</th>
             <th>Principales inputs utilizados</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td>Nivel 2</td>
-            <td>&nbsp;</td>
+            <td class="b">Nivel 2</td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
         </tr>
         <tr>
-            <td>Préstamos y partidas a cobrar. Valores representativos de deuda</td>
-            <td>10.991</td>
-            <td>Método del valor presente (Descuento de flujos de caja futuros)</td>
-            <td>-</td>
-            <td>
+            <td class="b">Préstamos y partidas a cobrar.</td>
+            <td>&nbsp;</td>
+            <td rowspan="2"><b>Método del valor presente</b> (Descuento de flujos de caja futuros)</td>
+            <td rowspan="2">
                - Diferencial de crédito<br/>
-               - Tipos de interés"
+               - Tipos de interés
             </td>
         </tr>
         <tr>
-            <td>Nivel 3</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-        </tr>
-        <tr>
-            <td>(Descuento de flujos de caja futuros)</td>
-        </tr>
-        <tr>
-            <td>"</td>
-            <td>"- Diferencial de crédito</td>
-        </tr>
-        <tr>
-            <td>- Tipos de interés"</td>
-        </tr>
-        <tr>
-            <td>Valores representativos de deuda</td>
+            <td class="s">Valores representativos de deuda</td>
             <td>10.991</td>
+        </tr>
+
+        <tr>
+            <td class="b">Nivel 3</td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
-        </tr>
-        <tr>
-            <td>Nivel 3</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
             <td>&nbsp;</td>
         </tr>
         <tr>
-            <td>Préstamos y partidas a cobrar</td>
+            <td class="b">Préstamos y partidas a cobrar</td>
             <td>&nbsp;</td>
-            <td>"Método del valor presente</td>
+            <td rowspan="5"><b>Método del valor presente</b> (Descuento de flujos de caja futuros)</td>
+            <td rowspan="5">
+            - Diferencial de crédito<br/>
+            - Tasa de recuperación<br/>
+            - Tipos de interés
+            </td>
         </tr>
+
         <tr>
-            <td>(Descuento de flujos de caja futuros)</td>
-        </tr>
-        <tr>
-            <td>"</td>
-            <td>"- Diferencial de crédito</td>
-        </tr>
-        <tr>
-            <td>- Tasa de recuperación</td>
-        </tr>
-        <tr>
-            <td>- Tipos de interés</td>
-        </tr>
-        <tr>
-            <td>"</td>
-        </tr>
-        <tr>
-            <td>Bancos centrales</td>
+            <td class="s">Bancos centrales</td>
             <td>11.038</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
         </tr>
         <tr>
-            <td>Préstamos y anticipos a entidades de crédito </td>
+            <td class="s">Préstamos y anticipos a entidades de crédito </td>
             <td>31.855</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
         </tr>
         <tr>
-            <td>Préstamos y anticipos a la clientela</td>
+            <td class="s">Préstamos y anticipos a la clientela</td>
             <td>414.742</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
         </tr>
         <tr>
-            <td>Valores representativos de deuda</td>
+            <td class="s">Valores representativos de deuda</td>
             <td>218</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
         </tr>
         <tr>
+            <td class="b">Pasivos financieros a coste amortizado</td>
             <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
+            <td rowspan="6">
+              <b>Método del valor presente</b>
+              (Descuento de flujos de caja futuros)
+            </td>
+            <td rowspan="6">
+             - Diferencial de crédito<br/>
+             - Tasa de recuperación<br/>
+             - Tipos de interés
+            </td>
         </tr>
-        <tr>
-            <td>Pasivos financieros a coste amortizado</td>
-            <td>&nbsp;</td>
-            <td>"Método del valor presente</td>
-        </tr>
-        <tr>
-            <td>(Descuento de flujos de caja futuros)"</td>
-            <td>"- Diferencial de crédito</td>
-        </tr>
-        <tr>
-            <td>- Tasa de recuperación</td>
-        </tr>
-        <tr>
-            <td>- Tipos de interés</td>
-        </tr>
-        <tr>
-            <td>"</td>
-        </tr>
-        <tr>
+        <tr class="s">
             <td>Depósitos de bancos centrales</td>
             <td>34.736</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
         </tr>
-        <tr>
+        <tr class="s">
             <td>Depósitos de entidades de crédito</td>
             <td>63.626</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
         </tr>
-        <tr>
+        <tr class="s">
             <td>Depósitos de la clientela</td>
             <td>404.400</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
         </tr>
-        <tr>
+        <tr class="s">
             <td>Valores representativos de deuda emitidos</td>
             <td>61.395</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
         </tr>
-        <tr>
+        <tr class="s">
             <td>Otros pasivos financieros</td>
             <td>30.033</td>
-            <td>&nbsp;</td>
-            <td></td>
         </tr>
     </tbody>
 </table>
@@ -19466,7 +19406,7 @@ El movimiento de las obligaciones y los activos afectos a los compromisos para e
         </tr>
         <tr>
             <th></th>
-            <th colspan="5">Obligación (activo) neto</th>
+            <th colspan="5">Obligación por prestación definida</th>
         </tr>
         <tr>
             <th>Compromisos post-empleo  2016</th>
@@ -19480,11 +19420,11 @@ El movimiento de las obligaciones y los activos afectos a los compromisos para e
     <tbody>
         <tr class="b2">
             <td>Saldo inicial</td>
-            <td>6.109</td>
-            <td>(79)</td>
-            <td>35</td>
-            <td>97</td>
-            <td>24</td>
+            <td>6.489</td>
+            <td>517</td>
+            <td>364</td>
+            <td>435</td>
+            <td>357</td>
         </tr>
         <tr>
             <td>Coste de servicios corriente</td>
@@ -19496,27 +19436,27 @@ El movimiento de las obligaciones y los activos afectos a los compromisos para e
         </tr>
         <tr>
             <td>Gastos o ingresos por intereses</td>
-            <td>98</td>
-            <td>(7)</td>
-            <td>1</td>
-            <td>8</td>
-            <td>2</td>
+            <td>105</td>
+            <td>42</td>
+            <td>14</td>
+            <td>41</td>
+            <td>11</td>
         </tr>
         <tr>
             <td>Aportaciones de los partícipes</td>
             <td>-</td>
             <td>-</td>
             <td>-</td>
-            <td>-</td>
-            <td>0</td>
+            <td>4</td>
+            <td>1</td>
         </tr>
         <tr>
             <td>Aportaciones de la empresa</td>
             <td>-</td>
-            <td>(14)</td>
-            <td>(1)</td>
-            <td>(17)</td>
-            <td>(9)</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
         </tr>
         <tr>
             <td>Coste por servicios pasados (1)</td>
@@ -19528,51 +19468,51 @@ El movimiento de las obligaciones y los activos afectos a los compromisos para e
         </tr>
         <tr>
             <td>Pérdidas / (ganancias) actuariales:</td>
-            <td>188</td>
-            <td>23</td>
-            <td>10</td>
-            <td>8</td>
-            <td>11</td>
+            <td>223</td>
+            <td>-</td>
+            <td>7</td>
+            <td>31</td>
+            <td>34</td>
         </tr>
         <tr class="s">
             <td>Por rendimientos de los activos del plan (2)</td>
-            <td>(35)</td>
-            <td>23</td>
-            <td>3</td>
-            <td>(23)</td>
-            <td>(23)</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
         </tr>
         <tr class="s">
             <td>Por cambios en hipótesis demográficas</td>
             <td>-</td>
-            <td>2</td>
-            <td>(5)</td>
+            <td>*2*</td>
+            <td>*(5)*</td>
             <td>-</td>
-            <td>(1)</td>
+            <td>*(1)*</td>
         </tr>
         <tr class="s">
             <td>Por cambios en hipótesis financieras</td>
-            <td>192</td>
-            <td>(22)</td>
-            <td>13</td>
-            <td>(23)</td>
-            <td>37</td>
+            <td>*192*</td>
+            <td>*(22)*</td>
+            <td>*13*</td>
+            <td>*(23)*</td>
+            <td>*37*</td>
         </tr>
         <tr class="s">
             <td>Otras pérdidas / (ganancias) actuariales</td>
-            <td>31</td>
-            <td>19</td>
-            <td>(1)</td>
-            <td>54</td>
-            <td>(2)</td>
+            <td>*31*</td>
+            <td>*19*</td>
+            <td>*(1)*</td>
+            <td>*54*</td>
+            <td>*(2)*</td>
         </tr>
         <tr>
             <td>Prestaciones pagadas</td>
-            <td>(867)</td>
-            <td>-</td>
-            <td>(3)</td>
-            <td>(9)</td>
-            <td>(2)</td>
+            <td>(931)</td>
+            <td>(41)</td>
+            <td>(16)</td>
+            <td>(21)</td>
+            <td>(11)</td>
         </tr>
         <tr>
             <td>Prestaciones pagadas (liquidaciones)</td>
@@ -19593,29 +19533,29 @@ El movimiento de las obligaciones y los activos afectos a los compromisos para e
         <tr>
             <td>Variaciones por tipos de cambio</td>
             <td>-</td>
-            <td>10</td>
-            <td>2</td>
-            <td>(15)</td>
-            <td>(4)</td>
+            <td>(70)</td>
+            <td>13</td>
+            <td>(69)</td>
+            <td>(18)</td>
         </tr>
         <tr>
             <td>Otros movimientos</td>
             <td>63</td>
             <td>-</td>
-            <td>(3)</td>
+            <td>(2)</td>
             <td>-</td>
-            <td>20</td>
+            <td>19</td>
         </tr>
         <tr class="b2">
             <td>Saldo al final</td>
-            <td>5.799</td>
-            <td>(59)</td>
-            <td>46</td>
-            <td>99</td>
-            <td>42</td>
+            <td>6.157</td>
+            <td>455</td>
+            <td>385</td>
+            <td>447</td>
+            <td>392</td>
         </tr>
         <tr class="s">
-            <td>de los que:</td>
+            <td>*de los que:*</td>
             <td></td>
             <td></td>
             <td></td>
@@ -25013,8 +24953,8 @@ Durante los ejercicios 2016, 2015 y 2014, el Grupo no ha realizado operaciones c
 Las retribuciones satisfechas a los consejeros no ejecutivos miembros del Consejo de Administración durante el ejercicio 2016 son las que se indican a continuación, de manera individualizada y por concepto retributivo:
 
 <table class="l">
-    <thead class="m">
-        <tr>
+    <thead>
+        <tr class="m">
             <th></th>
             <th colspan="8">Miles de euros</th>
         </tr>
@@ -25284,17 +25224,23 @@ De conformidad con lo anterior, las retribuciones satisfechas a los consejeros e
 
 <li>(1) Cantidades correspondientes al 50% de la Retribución Variable Anual 2015.</li>
 
-<li>(2) Cantidades correspondientes a la suma de las partes diferidas de la Retribución Variable Anual de ejercicios anteriores (2014, 2013 y 2012), así como sus correspondientes actualizaciones en efectivo; cuyo pago o entrega se ha realizado en el ejercicio 2016, en aplicación del sistema de liquidación y pago, y cuyo desglose se incluye a continuación:<li>
+<li>(2) Cantidades correspondientes a la suma de las partes diferidas de la Retribución Variable Anual de ejercicios anteriores (2014, 2013 y 2012), así como sus correspondientes actualizaciones en efectivo; cuyo pago o entrega se ha realizado en el ejercicio 2016, en aplicación del sistema de liquidación y pago, y cuyo desglose se incluye a continuación:<br/>
 
-- Primer tercio de la Retribución Variable Anual diferida del ejercicio 2014
+- Primer tercio de la Retribución Variable Anual diferida del ejercicio 2014<br/>
 
 Los consejeros ejecutivos han percibido por este concepto: 302 miles de euros y 37.392 acciones de BBVA en el caso del Presidente; 95 miles de euros y 11.766 acciones de BBVA en el caso del Consejero Delegado y 30 miles de euros y 3.681 acciones de BBVA en el caso del consejero ejecutivo Director de GERPA.
+- Segundo tercio de la Retribución Variable Anual diferida del ejercicio 2013<br/>
 
-- Segundo tercio de la Retribución Variable Anual diferida del ejercicio 2013
+Los consejeros ejecutivos han percibido por este concepto 289 miles de euros y 29.557 acciones de BBVA en el caso del Presidente, 78 miles de euros y 7.937 acciones de BBVA en el caso del Consejero Delegado; y 17 miles de euros y 1.768 acciones de BBVA en el caso del consejero ejecutivo Director de GERPA.<br/>
 
-Los consejeros ejecutivos han percibido por este concepto 289 miles de euros y 29.557 acciones de BBVA en el caso del Presidente, 78 miles de euros y 7.937 acciones de BBVA en el caso del Consejero Delegado; y 17 miles de euros y 1.768 acciones de BBVA en el caso del consejero ejecutivo Director de GERPA.
+- Tercer tercio de la Retribución Variable Anual diferida del ejercicio 2012<br/>
 
-- Tercer tercio de la Retribución Variable Anual diferida del ejercicio 2012
+
+</li>
+
+</ul>
+
+
 
 El Presidente ha percibido por este concepto 301 miles de euros y 36.163 acciones de BBVA y el Consejero Delegado 68 miles de euros
 y 8.120 acciones de BBVA.
@@ -25353,18 +25299,20 @@ Las retribuciones satisfechas al conjunto de los miembros de la Alta Dirección
 
 <li>(1) Cantidades correspondientes al 50% de la Retribución Variable Anual 2015.</li>
 
-<li>(2) Cantidades correspondientes a la suma de las partes diferidas de la Retribución Variable Anual de ejercicios anteriores (2014, 2013 y 2012), así como sus correspondientes actualizaciones en efectivo; cuyo pago o entrega se ha realizado en el ejercicio 2016 a los miembros de la Alta Dirección que habían generado este derecho, y cuyo desglose se incluye a continuación:</li>
+<li>(2) Cantidades correspondientes a la suma de las partes diferidas de la Retribución Variable Anual de ejercicios anteriores (2014, 2013 y 2012), así como sus correspondientes actualizaciones en efectivo; cuyo pago o entrega se ha realizado en el ejercicio 2016 a los miembros de la Alta Dirección que habían generado este derecho, y cuyo desglose se incluye a continuación:<br/>
+- Primer tercio de la Retribución Variable Anual diferida del ejercicio 2014 <br/>
 
-- Primer tercio de la Retribución Variable Anual diferida del ejercicio 2014 
+Importe conjunto de 515 miles de euros y 63.862 acciones de BBVA.<br/>
 
-Importe conjunto de 515 miles de euros y 63.862 acciones de BBVA.
+- Segundo tercio de la Retribución Variable Anual diferida del ejercicio 2013<br/>
 
-- Segundo tercio de la Retribución Variable Anual diferida del ejercicio 2013
-
-Importe conjunto de 434 miles de euros y 44.426 acciones de BBVA.
+Importe conjunto de 434 miles de euros y 44.426 acciones de BBVA.<br/>
 
 - Tercer tercio de la Retribución Variable Anual diferida del ejercicio 2012 
-Importe conjunto de 395 miles de euros y 47.458 acciones de BBVA.
+Importe conjunto de 395 miles de euros y 47.458 acciones de BBVA.<br/>
+
+</li>
+</ul>
 
 El conjunto de los miembros de la Alta Dirección percibirá, durante el primer trimestre de los dos próximos ejercicios, conforme al sistema de liquidación y pago de la retribución variable que resulta de aplicación a cada uno de ellos, las cantidades que, en su caso, les correspondan derivadas de la liquidación de la Retribución Variable Anual diferida de ejercicios anteriores (2014 y 2013), y sujeto a las condiciones establecidas en dicho sistema.
 
