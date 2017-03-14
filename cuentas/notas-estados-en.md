@@ -5626,15 +5626,6 @@ As of December 31, 2016, 2015 and 2014 the balance of VaR was €26 million, €
             <td>(20)</td>
             <td>24</td>
         </tr>
-        <tr class="b">
-            <td>Reconciliation of total  equity with regulatory  capital December  2014</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-        </tr>
         <tr>
             <td>VaR average in the period</td>
             <td>&nbsp;</td>
