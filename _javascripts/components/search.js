@@ -33,7 +33,7 @@ function extracto (query, result) {
   pos = Math.max(0, pos - 20);
   var extract = result.content.substring(pos, pos + 50);
   extract = extract.replace(regexp, function (match) { return '<strong>' + match + '</strong>'; });
-  return '<div>' + pre + extract + pre + '</div>';
+  return '<div>' + pre + decodeURIComponent(extract) + pre + '</div>';
 }
 
 function clearSearchResults () {
@@ -92,6 +92,9 @@ function search (e) {
     if (filteredData == null) {
       query
         .getJSON(getJsonURL())
+        .fail(function (e) {
+          console.log(e);
+        })
         .done(function (data) {
           filteredData = filterData(data);
           showResults(filteredData, query.get());
