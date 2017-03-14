@@ -154,7 +154,7 @@ headerTitle: Informe cuentas anuales BBVA 2016
         </tr>
         <tr class="b">
             <td>PRÉSTAMOS Y PARTIDAS A COBRAR</td>
-            <td><a href="../cuentas/notas-estados-financieros/index.html#13-préstamos-y-partidas-a-cobrar">13</a></td>
+            <td><a href="../notas-estados-financieros/index.html#13-préstamos-y-partidas-a-cobrar">13</a></td>
             <td>465.977</td>
             <td>471.828</td>
             <td>376.086</td>
@@ -189,14 +189,14 @@ headerTitle: Informe cuentas anuales BBVA 2016
         </tr>
         <tr class="b">
             <td>INVERSIONES MANTENIDAS HASTA EL VENCIMIENTO</td>
-            <td><a href="../cuentas/notas-estados-financieros/index.html#14-inversiones-mantenidas-hasta-el-vencimiento">14</a></td>
+            <td><a href="../notas-estados-financieros/index.html#14-inversiones-mantenidas-hasta-el-vencimiento">14</a></td>
             <td>17.696</td>
             <td>-</td>
             <td>-</td>
         </tr>
         <tr class="b">
             <td>DERIVADOS - CONTABILIDAD DE COBERTURAS</td>
-            <td><a href="../cuentas/notas-estados-financieros/index.html#15-derivados--contabilidad-de-coberturas-y-cambios-del-valor-razonable-de-los-elementos-cubiertos-de-una-cartera-con-cobertura-del-riesgo-de-tipo-de-interés">15</a></td>
+            <td><a href="../notas-estados-financieros/index.html#15-derivados--contabilidad-de-coberturas-y-cambios-del-valor-razonable-de-los-elementos-cubiertos-de-una-cartera-con-cobertura-del-riesgo-de-tipo-de-interés">15</a></td>
             <td>2.833</td>
             <td>3.538</td>
             <td>2.551</td>
