@@ -1,15 +1,15 @@
-title: General accounts
+title: Financial statements 2016
 options:
   - title: Español
     url: /
   - title: Download report
     url: /
 menu:
-  - title: Informe de auditoría
+  - title: Auditors’ Report 
     url: /informe-de-auditoria/
-  - title: Cuentas anuales consolidadas
+  - title: Consolidated financial statements
     url: /cuentas/notas-estados-financieros/
     submenu: cuentas
-  - title: Informe de gestión
+  - title: Management Report
     url: /informe-de-gestion/introduccion/
     submenu: gestion

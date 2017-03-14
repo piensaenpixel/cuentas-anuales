@@ -5,6 +5,7 @@ lang: en
 submenu: gestion
 order: 6
 permalink: informe-de-gestion/otra-info/
+headerTitle: Consolidated financial statements BBVA 2016
 ---
 
 # Other legal disclosure requirements

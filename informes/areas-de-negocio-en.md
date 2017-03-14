@@ -5,6 +5,7 @@ lang: en
 submenu: gestion
 order: 4
 permalink: informe-de-gestion/areas-de-negocio/
+headerTitle: Consolidated financial statements BBVA 2016
 ---
 
 # Business areas

@@ -5,6 +5,7 @@ lang: en
 submenu: gestion
 order: 2
 permalink: informe-de-gestion/informacion/
+headerTitle: Consolidated financial statements BBVA 2016
 ---
 
 # Group information
