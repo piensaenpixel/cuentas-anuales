@@ -156,6 +156,33 @@ function adjustLink () {
   });
 }
 
+function adjustHome () {
+  let pathArray;
+  let replacement;
+  let needle = /(<a )(.+)?(href=['"])(\/)(['"])(.+)?(>)/g;
+
+  return through.obj((file, enc, cb) => {
+    pathArray = file.path.substring(file.base.length).split('/');
+    replacement = '$1' + '$2' + '$3' + Array(pathArray.length).join('../') + 'index.html' + '$5' + '$6' + '$7';
+
+    if (file.isNull()) {
+      return cb(null, file);
+    }
+
+    if (pathArray.length === 1) {
+      replacement = '$1' + '$2' + '$3' + '.' + '$4' + 'index.html' + '$5' + '$6' + '$7';
+    }
+
+    if (file.isStream()) {
+      file.contents = file.contents.pipe(replace(needle, replacement));
+    } else if (file.isBuffer()) {
+      file.contents = new Buffer(String(file.contents).replace(needle, replacement));
+    }
+
+    return cb(null, file);
+  });
+}
+
 function fixLink () {
   let replacement;
   let needle = /(href=['"])([\s]?)([^'"\s]+)([\s]?)(['"])/g;
@@ -222,6 +249,7 @@ gulp.task('wadus', () => {
     .pipe(adjustPath('/stylesheets/main.css'))
     .pipe(adjustPath('/images'))
     .pipe(adjustLink())
+    .pipe(adjustHome())
     .pipe(gulp.dest('_deliver'));
 });
 
