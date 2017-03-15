@@ -16417,6 +16417,7 @@
 	var $w = $(window);
 	var up = $('.js-up');
 	var existeScrollTop = up.length > 0;
+	var lang = window.lang;
 
 	function scrollHandler () {
 	  var offset = 300;
@@ -16436,6 +16437,9 @@
 	module.exports = {
 	  init: function () {
 	    if (existeScrollTop) {
+	      if (lang === 'en') {
+	        up.find('span').text('Up');
+	      }
 	      $w.on('scroll', scrollHandler);
 	      up.on('click', clickHandler);
 	    }
@@ -16473,7 +16477,7 @@
 	    var searchword = query();
 	    if (searchword) {
 	      var re = utils.createSearchTermRegExp(searchword);
-	      $('.container *').contents().each(function () {
+	      $('.js-content *').contents().each(function () {
 	        if (this.nodeType !== 3) {
 	          return;
 	        }

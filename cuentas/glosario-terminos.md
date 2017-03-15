@@ -174,10 +174,14 @@ La normativa aplicable establece que determinadas categorías de activos y pasiv
 
 En la elaboración de los estados se han tenido en consideración las siguientes definiciones:
 
-    - Flujos de efectivo: Entradas y salidas de dinero en efectivo y equivalentes.
-    - Actividades de explotación: Actividades típicas de las entidades de crédito, así como otras actividades que no puedan ser calificadas como de inversión o de financiación.
-    - Actividades de inversión: Adquisición, enajenación o disposición por otros medios de activos a largo plazo y de otras inversiones no incluidas en el efectivo y sus equivalentes o en las actividades de explotación.
-    - Actividades de financiación: Actividades que producen cambios en la magnitud y composición del patrimonio neto y de los pasivos del Grupo que no forman parte de las actividades de explotación.
+- Flujos de efectivo: Entradas y salidas de dinero en efectivo y equivalentes.
+
+- Actividades de explotación: Actividades típicas de las entidades de crédito, así como otras actividades que no puedan ser calificadas como de inversión o de financiación.
+
+- Actividades de inversión: Adquisición, enajenación o disposición por otros medios de activos a largo plazo y de otras inversiones no incluidas en el efectivo y sus equivalentes o en las actividades de explotación.
+
+- Actividades de financiación: Actividades que producen cambios en la magnitud y composición del patrimonio neto y de los pasivos del Grupo que no forman parte de las actividades de explotación.
+
 
 **Estados consolidados de ingresos y gastos reconocidos:** Los estados consolidados de ingresos y gastos reconocidos reflejan los ingresos y gastos generados en cada ejercicio, distinguiendo entre los reconocidos en las cuentas de pérdidas y ganancias consolidadas y los “Otros ingresos y gastos reconocidos”; que se registran directamente en el patrimonio neto consolidado.
 

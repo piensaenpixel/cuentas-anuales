@@ -365,7 +365,7 @@ Las Notas 1 a 56 y los Anexos I a XIV adjuntos forman parte integrante del balan
 </ul>
 
 
-### 2. Balances consolidados a 31 de diciembre de 2016, 2015 y 2014
+### Balances consolidados a 31 de diciembre de 2016, 2015 y 2014
 
 <table class="l">
     <thead>
@@ -640,7 +640,7 @@ diciembre de 2016.</li></ul>
 
 
 
-### 2. Balances consolidados a 31 de diciembre de 2016, 2015 y 2014 (Continuación)
+### Balances consolidados a 31 de diciembre de 2016, 2015 y 2014 (Continuación)
 
 <table class="l">
     <thead>

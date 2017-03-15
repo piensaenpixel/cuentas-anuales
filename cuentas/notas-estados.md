@@ -10,7 +10,7 @@ headerTitle: Informe cuentas anuales BBVA 2016
 
 {% include subir.html %}
 
-# Memoria consolidada correspondiente al ejercicio anual terminado el 31 de diciembre de 2016.
+# Memoria consolidada correspondiente al ejercicio anual terminado el 31 de diciembre de 2016
 
 {% include dropdown.html %}
 
