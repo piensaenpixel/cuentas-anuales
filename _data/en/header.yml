@@ -3,12 +3,12 @@ options:
   - title: Español
     url: /
   - title: Download report
-    url: /
+    url: /images/cuentas-anuales-en.pdf
 menu:
   - title: Auditors’ Report 
     url: /informe-de-auditoria/
   - title: Consolidated financial statements
-    url: /cuentas/notas-estados-financieros/
+    url: /cuentas/estados-financieros/
     submenu: cuentas
   - title: Management Report
     url: /informe-de-gestion/introduccion/

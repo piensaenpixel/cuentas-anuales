@@ -844,7 +844,7 @@ A continuación, se muestran los saldos aportados al balance consolidado a 31 d
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 <table>
     <thead>
@@ -912,7 +912,7 @@ A continuación, se muestran los saldos aportados al balance consolidado a 31 d
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 
 #### 2.2.17 Reconocimiento de ingresos y gastos
@@ -1004,7 +1004,7 @@ A continuación, se detalla el Índice Nacional de Precios al Consumidor y el 
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 <ul class="cita">
   <li>(*) A 31 de diciembre 2016, el gobierno venezolano no había publicado el dato de inflación oficial desde el mes de diciembre de 2015. Al igual que en las Cuentas Anuales consolidadas del 2015, el Grupo ha estimado el índice de inflación aplicable para la elaboración de las Cuentas Anuales consolidadas del ejercicio 2016 (300%).</li>
@@ -1250,7 +1250,7 @@ A continuación se muestra la aportación, al activo total del Grupo a 31 de d
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 Los activos totales y resultados agrupados por segmentos de negocio se recogen en la Nota 6.
 
@@ -1432,7 +1432,7 @@ Los estados contables previsionales, formulados de acuerdo con los requisitos le
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 La cantidad total abonada a los accionistas el 11 de julio de 2016, con motivo de la distribución de la primera cantidad a cuenta del dividendo del ejercicio 2016, deducidas las acciones mantenidas en autocartera por las sociedades del Grupo, ascendió a 517 millones de euros registrada en el epígrafe “Patrimonio Neto - Fondos Propios – Dividendos a cuenta” del balance consolidado a 31 de diciembre de 2016.
 
@@ -1486,7 +1486,7 @@ Adicional</td>
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 <ul class="cita">
 <li>(*) Beneficio correspondiente a BBVA, S.A. (ver Anexo IX)</li>
 
@@ -1604,7 +1604,7 @@ El cálculo del beneficio atribuido por acción se detalla a continuación:
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 <ul class="cita">
 <li>(1) Retribución en el ejercicio de las emisiones de valores perpetuos eventualmente convertibles registrada contra patrimonio (ver Nota 22.3).</li>
@@ -1733,7 +1733,7 @@ El desglose del activo total del Grupo BBVA por segmentos de negocio a 31 de dic
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 <ul class="cita">
 <li>(1) Los saldos correspondientes a diciembre 2015 han sido reexpresados (ver Nota 1.3).</li>
@@ -2007,7 +2007,7 @@ A continuación se presenta un detalle del beneficio atribuido y de los princip
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 <ul class="cita">
 <li>(1) Los saldos correspondientes a diciembre 2015 han sido reexpresados (ver Nota 1.3).</li>
@@ -2207,7 +2207,7 @@ Asimismo, las métricas fundamentales plasman en términos cuantitativos los p
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 ##### Declaraciones y Métricas por tipo de riesgo (By type of risk)
 
@@ -2762,7 +2762,7 @@ De acuerdo con la NIIF 7 “Instrumentos financieros: información a revelar”
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 A efectos del cuadro anterior, la exposición máxima al riesgo de crédito se determina en función de los activos financieros como se explica a continuación:
 
@@ -2930,7 +2930,7 @@ El detalle por contraparte y por producto de los préstamos y anticipos, neto d
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 <table>
     <thead>
@@ -3082,7 +3082,7 @@ El detalle por contraparte y por producto de los préstamos y anticipos, neto d
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 #### 7.3.2 Mitigación del riesgo de crédito, garantías reales y otras mejoras crediticias
 
@@ -3322,7 +3322,7 @@ A continuación, se presenta la escala reducida utilizada para clasificar los r
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 La determinación de estos distintos niveles y sus límites de probabilidad de incumplimiento (PD) se realizó tomando como referencia las escalas de rating y tasas de incumplimiento de las agencias externas Standard & Poor’s y Moody’s. De esta manera se establecen los niveles de probabilidad de incumplimiento de la Escala Maestra del Grupo BBVA. Dicha escala es común para todo el Grupo, sin embargo, las calibraciones (mapeo de puntuaciones a tramos de PD/niveles de la Escala Maestra) se realizan a nivel de herramienta para cada uno de los países en los que el Grupo dispone de herramientas.
 
@@ -3439,7 +3439,7 @@ Seguidamente se presenta la distribución, por ratings internos, de la exposici
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 #### 7.3.4 Riesgos vencidos no deteriorados y riesgos dudosos o deteriorados
 
@@ -3741,7 +3741,7 @@ Las siguientes tablas muestran un detalle por contraparte y por producto de los 
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 <ul class="cita">
 <li>(*) En el Anexo XII se muestra el desglose de los préstamos y anticipos deteriorados por áreas geográficas.</li>
 </ul>
@@ -4041,7 +4041,7 @@ Las siguientes tablas muestran un detalle por contraparte y por producto de los 
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 <ul class="cita">
 <li>(*) En el Anexo XII se muestra el desglose de los préstamos y anticipos deteriorados por áreas geográficas.</li>
 </ul>
@@ -4371,7 +4371,7 @@ A continuación se presenta el desglose de los préstamos y anticipos, dentro 
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 A 31 de diciembre de 2016, 2015 y 2014, los rendimientos financieros devengados acumulados con origen en los activos deteriorados, que, como ya se ha comentado en la Nota 2.2.1, no figuran registrados en las cuentas de pérdidas y ganancias consolidadas adjuntas por existir dudas en cuanto a su cobro, eran de 2.910, 3.429 y 3.091 millones de euros, respectivamente.
 
@@ -4435,7 +4435,7 @@ El movimiento durante los ejercicios 2016, 2015 y 2014 de los activos financiero
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 <ul class="cita">
 <li>(*) Incluye en 2015 el saldo por la incorporación de Catalunya Banc en abril de 2015 que ascendía a 3.969 millones de euros y Garanti en julio de 2015 que ascendía a 1.845 millones de euros.</li>
@@ -4924,7 +4924,7 @@ A continuación se presentan los movimientos producidos durante 2016 y 2015 en 
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 <table class="l">
     <thead>
@@ -5310,7 +5310,7 @@ A continuación se presentan los movimientos producidos durante 2016 y 2015 en 
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 
 #### 7.3.6 Operaciones de refinanciación y reestructuración
@@ -5479,7 +5479,7 @@ La mayor parte de las partidas del balance consolidado del Grupo consolidado que
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 <ul class="cita">
 <li>(*) Se incluyen principalmente los activos y pasivos cuya medición se engloba en el marco de la gestión de riesgos estructurales (COAP).</li>
 </ul>
@@ -5674,7 +5674,7 @@ A 31 de diciembre de 2016, 2015 y 2014 el saldo de VaR fue de 26, 24 y 25 millon
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 <ul class="cita">
 <li>(*) El efecto diversificación es la diferencia entre la suma de los factores de riesgos medidos individualmente y la cifra de VaR total que recoge la correlación implícita existente entre todas las variables y escenarios usados en la medición.</li></ul>
 
@@ -5747,7 +5747,7 @@ A continuación se muestra el impacto esperado del stress test en la cuenta de 
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 #### 7.4.2 Riesgos estructurales
 
@@ -5830,7 +5830,7 @@ Diciembre 2016</th>
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 <ul class="cita">
 <li>(*) Porcentaje respecto al margen de intereses "1 año" proyectado de cada unidad.</li>
 
@@ -5978,7 +5978,7 @@ A continuación se presenta a 31 de diciembre de 2016 y 2015 un resumen del efe
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 <table>
     <thead>
@@ -6070,7 +6070,7 @@ A continuación se presenta a 31 de diciembre de 2016 y 2015 un resumen del efe
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 ### 7.5 Riesgo de liquidez
 
@@ -6149,7 +6149,7 @@ autofinanciación con recursos estables de clientes por encima de lo exigido.
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 El segundo eje en la gestión del riesgo de liquidez y financiación persigue lograr una correcta diversificación de la estructura de financiación. Con el objetivo de evitar una elevada dependencia de la financiación a corto plazo, se establece un nivel máximo de captación de financiación a corto plazo, que comprende tanto financiación mayorista como los recursos volátiles de clientes. En relación a la financiación a largo plazo, el perfil de vencimientos no presenta concentraciones significativas lo que permite adecuar el calendario del plan de emisiones previsto a las mejores a las mejores condiciones financieras de los mercados. Por último, el riesgo de concentración es monitorizado a nivel UGL, con el objetivo de asegurar una correcta diversificación tanto por contrapartida, como por tipología de instrumento.
 
@@ -6247,7 +6247,7 @@ Cada entidad mantiene un buffer de liquidez a nivel individual, tanto para BBVA 
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 <ul class="cita">
 <li>(1) Incluye Banco Bilbao Vizcaya Argentaria, S.A. y Banco Bilbao Vizcaya Argentaria (Portugal), S.A.</li>
@@ -6343,7 +6343,7 @@ Cada entidad mantiene un buffer de liquidez a nivel individual, tanto para BBVA 
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 <ul class="cita">
 <li>(1) Incluye Banco Bilbao Vizcaya Argentaria, S.A., Catalunya Banc, S.A. y Banco Bilbao Vizcaya Argentaria (Portugal), S.A</li></ul>
@@ -6466,7 +6466,7 @@ Basado en la información prudencial supervisora, a continuación se presenta 
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 <table class="l">
     <thead>
@@ -6576,7 +6576,7 @@ Basado en la información prudencial supervisora, a continuación se presenta 
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 <table class="l">
     <thead>
@@ -6686,7 +6686,7 @@ Basado en la información prudencial supervisora, a continuación se presenta 
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 <table class="l">
     <thead>
@@ -6796,7 +6796,7 @@ Basado en la información prudencial supervisora, a continuación se presenta 
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 Se observa el carácter estable de la estructura de financiación, en la que la cartera de préstamos se encuentra en su mayor parte fondeada por depósitos de la clientela. El tramo a la vista de las salidas, contiene principalmente las cuentas corrientes de la clientela minorista cuyo comportamiento muestra una elevada estabilidad y para las que, según metodología interna, se estima un vencimiento medio superior a tres años.
 
@@ -6856,7 +6856,7 @@ Los activos que a 31 de diciembre de 2016 y 2015 se encuentran comprometidos (ap
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 <table class="l">
     <thead>
@@ -6900,7 +6900,7 @@ Los activos que a 31 de diciembre de 2016 y 2015 se encuentran comprometidos (ap
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 El valor comprometido de “Préstamos y otros activos” corresponden principalmente a préstamos vinculados a la emisión de cédulas hipotecarias, cédulas territoriales o bonos titulizados a largo plazo (ver Nota 22.3) así como a los que sirven de garantía para acceder a determinadas operaciones de financiación con bancos centrales. En cuanto a los valores representativos de deuda e instrumentos de capital, responden a los subyacentes que son entregados en operaciones de cesión temporal de activos con diferentes tipos de contrapartidas, principalmente cámaras de compensación o entidades de crédito y, en menor medida, bancos centrales. También se incluyen como activos comprometidos todo tipo de colateral entregado para garantizar la operativa de derivados.
 
@@ -6952,7 +6952,7 @@ A 31 de diciembre de 2016 y 2015, los colaterales recibidos principalmente por l
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 <table>
     <thead>
@@ -7000,7 +7000,7 @@ A 31 de diciembre de 2016 y 2015, los colaterales recibidos principalmente por l
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 Las garantías recibidas en forma de adquisición temporal de activos o préstamo de valores se comprometen mediante su utilización en operaciones de cesión temporal de activos, al igual que se hace con los valores representativos de deuda.
 
@@ -7052,7 +7052,7 @@ A 31 de diciembre de 2016 y 2015, el conjunto de los pasivos financieros emitido
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 <table>
     <thead>
@@ -7409,7 +7409,7 @@ A continuación se presenta el valor razonable de los instrumentos financieros 
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 No todos los activos y pasivos financieros están contabilizados a valor razonable, por lo que a continuación se desglosará la información referida a los instrumentos financieros contabilizados a valor razonable y posteriormente la referida a los contabilizados a coste de los que también se proporciona su valor razonable, aunque no se utilice para su registro en balance.
 
@@ -7696,7 +7696,7 @@ La siguiente tabla presenta los principales instrumentos financieros registrados
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 El epígrafe "Activos financieros disponibles para la venta" de los balances consolidados adjuntos a 31 de diciembre 2016, 2015 y 2014 adicionalmente incluía 565, 600 y 540 millones de euros, respectivamente, correspondientes a activos financieros contabilizados a coste, como se indica en el apartado "Instrumentos financieros a coste” de esta Nota.
 
@@ -7892,7 +7892,7 @@ tomadas de servicios de consenso</li>
         </tr> 
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 <table>
     <thead>
@@ -8022,7 +8022,7 @@ benchmarks de mercado</td>
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 A continuación se presenta la información cuantitativa de los inputs no observables utilizados en el cálculo de las valoraciones de Nivel 3:
 
@@ -8134,7 +8134,7 @@ A continuación se presenta la información cuantitativa de los inputs no obse
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 Las principales técnicas utilizadas para la valoración de los principales instrumentos clasificados en Nivel 3, y sus principales inputs no observables, se describen a continuación:
 
@@ -8269,7 +8269,7 @@ El movimiento de los saldos de los activos y pasivos financieros clasificados en
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 <ul class="cita">
 <li>(*) Corresponde a títulos que se mantienen en el balance consolidado a 31 diciembre 2016, 2015 y 2014. Los ajustes por valoración se registran en la cuenta de pérdidas y ganancias consolidadas en el epígrafe de “ganancias o pérdidas por activos y pasivos financieros designados a valor razonable con cambios en resultados, netas”.</li>
 
@@ -8384,7 +8384,7 @@ Los instrumentos financieros que fueron traspasados entre los distintos niveles 
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 El importe de los instrumentos financieros que fueron traspasados entre los distintos niveles de valoración durante el ejercicio 2016 es poco significativo con respecto al total de las carteras, correspondiendo básicamente a las revisiones antes mencionadas de la clasificación entre niveles porque dichos activos habían visto modificada alguna de sus características. En concreto:
 
@@ -8497,7 +8497,7 @@ A 31 de diciembre 2016, el efecto en los resultados y en el patrimonio neto, con
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 #### 8.1.2 Valor razonable de los instrumentos financieros contabilizados a coste, según criterios de valoración
 
@@ -8618,7 +8618,7 @@ La siguiente tabla presenta el valor razonable de los principales instrumentos f
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 A continuación se presentan los principales métodos de valoración, hipótesis e inputs utilizados en la estimación del valor razonable de los instrumentos financieros contabilizados a coste clasificados en Nivel 2 y Nivel 3, según el tipo de instrumento financiero de que se trate, y los correspondientes saldos a 31 de diciembre 2016:
 
@@ -8970,7 +8970,7 @@ A continuación presentamos por jerarquía de mediciones de valor razonable, l
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 Dado que el importe en Nivel 3 de activos no corrientes y grupos enajenables de elementos que se han clasificado como mantenidos para la venta y existencias (2.147 millones de euros) no es significativo respecto al total de activos consolidados y que los inputs utilizados en dicha valoración (MRD o DCF) son muy diversos en función de la tipología y la ubicación geográfica (siendo los típicos utilizados en la valoración de activos inmobiliarios de este tipo), no se detallan los inputs utilizados.
 
@@ -9018,7 +9018,7 @@ La composición del saldo de los capítulos “Efectivo, saldos en efectivo en
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 <table>
     <thead>
@@ -9073,7 +9073,7 @@ La composición del saldo de los capítulos “Efectivo, saldos en efectivo en
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 <ul class="cita">
 <li>(*) El incremento en esta partida, se debe a la participación en los distintos programas TLTRO (ver Nota 7.5)</li></ul>
 
@@ -9159,7 +9159,7 @@ La composición del saldo de estos capítulos de los balances consolidados adj
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 
 ### 10.2 Valores representativos de deuda
@@ -9230,7 +9230,7 @@ El desglose del saldo, por tipo de emisor, de este epígrafe de los balances co
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 ### 10.3 Instrumentos de patrimonio
 
@@ -9312,7 +9312,7 @@ La composición del saldo de este epígrafe de los balances consolidados adjunto
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 
 ### 10.4 Derivados
@@ -9493,7 +9493,7 @@ A continuación se presenta un desglose, por tipo de riesgo y tipo de producto 
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 <table>
     <thead>
@@ -9667,7 +9667,7 @@ A continuación se presenta un desglose, por tipo de riesgo y tipo de producto 
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 <table>
     <thead>
@@ -9841,7 +9841,7 @@ A continuación se presenta un desglose, por tipo de riesgo y tipo de producto 
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 
 ## 11. Activos y pasivos financieros designados a valor razonable con cambios en resultados
@@ -9942,7 +9942,7 @@ La composición del saldo de estos capítulos de los balances consolidados adj
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 A 31 de diciembre 2016, 2015 y 2014 el saldo más representativo dentro de estos capítulos corresponde a los activos y pasivos vinculados a los productos de seguros en los que el tomador asume el riesgo (“Unit-Link”). Este tipo de producto se comercializa únicamente en España, a través de BBVA Seguros S.A., de Seguros y Reaseguros y en México a través de Seguros Bancomer S.A. de C.V. 
 
@@ -10013,7 +10013,7 @@ La composición del saldo de este capítulo de los balances consolidados adjun
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 El importe del capítulo ”Activos financieros disponibles para la venta - Valores representativos de deuda” disminuye en el ejercicio 2016, principalmente debido a:
 
@@ -10297,7 +10297,7 @@ El desglose del saldo del epígrafe “Valores representativos de deuda” de l
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 <ul class="cita">
 <li>(*) El coste amortizado incluye determinadas plusvalías/minusvalías de cartera vinculadas a contratos de seguros en los que el tomador, en caso de rescate, asume el riesgo.</li>
@@ -10572,7 +10572,7 @@ El desglose del saldo del epígrafe “Valores representativos de deuda” de l
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 <ul class="cita">
 <li>(*) El coste amortizado incluye determinadas plusvalías/minusvalías de cartera vinculadas a contratos de seguros en los que el tomador, en caso de rescate, asume el riesgo.</li>
@@ -10805,7 +10805,7 @@ El desglose del saldo del epígrafe “Valores representativos de deuda” de l
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 <ul class="cita">
 <li>(*) El coste amortizado incluye determinadas plusvalías/minusvalías de cartera vinculadas a contratos de seguros en los que el tomador, en caso de rescate, asume el riesgo.</li>
 </ul>
@@ -10950,7 +10950,7 @@ A 31 de diciembre 2016, 2015 y 2014 la distribución, atendiendo a la calidad cr
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 ### 12.3 Instrumentos de patrimonio
 
@@ -11120,7 +11120,7 @@ El desglose del saldo del epígrafe “Instrumentos de patrimonio” de los bal
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 <table>
     <thead>
@@ -11286,7 +11286,7 @@ El desglose del saldo del epígrafe “Instrumentos de patrimonio” de los bal
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 <table class="l">
     <thead>
@@ -11452,7 +11452,7 @@ El desglose del saldo del epígrafe “Instrumentos de patrimonio” de los bal
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 ### 12.4 Plusvalías/minusvalías
 
@@ -11528,7 +11528,7 @@ El movimiento de las plusvalías/minusvalías (netas de impuestos) registradas
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 En el ejercicio 2016, se ha registrado deterioro principalmente para ciertos Valores representativos de deuda de Brasil, Estados Unidos y Colombia en el epígrafe de resultados “'Deterioro del valor o reversión del deterioro del valor de activos financieros no valorados a valor razonable con cambios en resultados – Activos financieros disponibles para la venta” por importe de 157 millones de euros (Nota 47). En los ejercicios 2015 y 2014, las minusvalías registradas no fueron significativas (1 y 19 millones de euros respectivamente).
 
@@ -11595,7 +11595,7 @@ La composición del saldo de este capítulo de los balances consolidados adjun
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 
 ### 13.1 Préstamos y anticipos en bancos centrales y en entidades de crédito
@@ -11697,7 +11697,7 @@ La composición del saldo de este epígrafe de los balances consolidados adjun
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 ### 13.2 Préstamos y anticipos a la clientela
 
@@ -11882,7 +11882,7 @@ La composición del saldo de este epígrafe de los balances consolidados adjun
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 <ul class="cita">
 <li>(*) Incluye préstamos cuya garantía es efectivo, otros activos financieros o con garantías inmobiliarias o dinerarias parciales.</li>
@@ -11932,7 +11932,7 @@ El epígrafe “Préstamos y partidas a cobrar - Préstamos y anticipos a la 
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 El epígrafe “Préstamos y partidas a cobrar - Préstamos y anticipos a la clientela” de los balances consolidados adjuntos también incluye ciertos préstamos con garantía hipotecaria que, tal y como se menciona en el Anexo X y de acuerdo con la Ley del Mercado Hipotecario, están vinculados a la emisión de cédulas hipotecarias a largo plazo. Adicionalmente, este epígrafe también incluye ciertos préstamos que han sido titulizados. Los saldos registrados en los balances consolidados adjuntos correspondientes a los préstamos titulizados son:
 
@@ -12006,7 +12006,7 @@ El epígrafe “Préstamos y partidas a cobrar - Préstamos y anticipos a la 
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 <ul class="cita">
 <li>(*) Están registrados en el epígrafe "Pasivos financieros a coste amortizado - Valores representativos de deuda emitidos" de los balances consolidados adjuntos (ver Nota 22.3). </li>
 </ul>
@@ -12075,7 +12075,7 @@ La composición del saldo de este epígrafe de los balances consolidados adjunto
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 En el ejercicio 2016, se ha procedido a reclasificar ciertos valores representativos de deuda desde el epígrafe “Activos financieros disponibles para la venta” al epígrafe “Préstamos y partidas a cobrar- Valores representativos de deuda”.
 
@@ -12153,7 +12153,7 @@ La siguiente tabla muestra el importe registrado en la cuenta de pérdidas y ga
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 ## 14. Inversiones mantenidas hasta el vencimiento 
 
@@ -12269,7 +12269,7 @@ La composición del saldo de este capítulo del balance consolidado adjunto, a
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 <ul class="cita">
 <li>
 (*) A 31 de diciembre 2015 y 2014, el Grupo BBVA no tenía registrado ningún saldo en este capítulo.</li></ul>
@@ -12358,7 +12358,7 @@ A 31 de diciembre 2016, la distribución, atendiendo a la calidad crediticia (r
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 A continuación se muestra información sobre los valores razonables y los valores en libros de estos activos financieros reclasificados:
 
@@ -12405,7 +12405,7 @@ A continuación se muestra información sobre los valores razonables y los val
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 <ul class="cita">
 <li>(*)  El descenso en el valor en libros se debe principalmente a las amortizaciones desde la fecha de reclasificación.</li></ul>
 
@@ -12452,7 +12452,7 @@ La siguiente tabla muestra el importe registrado en la cuenta de pérdidas y ga
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 ## 15. Derivados – Contabilidad de coberturas y Cambios del valor razonable de los elementos cubiertos de una cartera con cobertura del riesgo de tipo de interés
 
@@ -12510,7 +12510,7 @@ Los saldos de estos capítulos de los balances consolidados adjuntos son:
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 A 31 de diciembre 2016, 2015 y 2014 las principales posiciones cubiertas por el Grupo y los derivados asignados para cubrir dichas posiciones eran:
 
@@ -12790,7 +12790,7 @@ A continuación se presenta un desglose, por productos y tipo de mercado, del v
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 <table>
     <thead>
@@ -13126,7 +13126,7 @@ A continuación se presenta un desglose, por productos y tipo de mercado, del v
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 <table>
     <thead>
@@ -13414,7 +13414,7 @@ A continuación se presenta un desglose, por productos y tipo de mercado, del v
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 A continuación se presentan los flujos de caja previstos en los próximos años para las coberturas de los flujos de efectivo registrados en el balance consolidado adjunto a 31 de diciembre 2016: 
 
@@ -13583,7 +13583,7 @@ El desglose del saldo del capítulo “Inversiones en negocios conjuntos y asoc
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 El detalle de los negocios conjuntos y las entidades asociadas a 31 de diciembre de 2016 se muestra en el Anexo II.
 
@@ -13653,7 +13653,7 @@ Los movimientos que han tenido lugar durante los ejercicios 2016, 2015 y 2014, e
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 El movimiento de 2014 se explica, fundamentalmente, por reclasificación de CNCB a “Activos financieros disponibles para la venta“ (ver Nota 3).
 
@@ -14016,7 +14016,7 @@ La composición del saldo de este capítulo de los balances consolidados adjun
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 <table class="l">
     <thead>
@@ -14348,7 +14348,7 @@ La composición del saldo de este capítulo de los balances consolidados adjun
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 <table class="l">
     <thead>
@@ -14678,7 +14678,7 @@ La composición del saldo de este capítulo de los balances consolidados adjun
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 A 31 de diciembre de 2016, 2015 y 2014, el coste de los activos tangibles totalmente amortizados que continuaban en uso era de 2.313, 2.663 y 2.198 millones de euros, respectivamente, siendo su valor recuperable residual no significativo.
 
@@ -14746,7 +14746,7 @@ La actividad principal del Grupo se realiza a través de una red de oficinas, l
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 A continuación se presenta el desglose del valor neto contable de los activos tangibles correspondientes a sociedades españolas y extranjeras a 31 de diciembre de 2016, 2015 y 2014:
 
@@ -14784,7 +14784,7 @@ A continuación se presenta el desglose del valor neto contable de los activos 
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 ## 18. Activos intangibles
 
@@ -14874,7 +14874,7 @@ La composición del saldo y el movimiento de este epígrafe de los balances co
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 La variación del saldo de este epígrafe en 2016 se debe principalmente al efecto de las diferencias de cambio debidas a la apreciación del dólar estadounidense frente al euro y las depreciaciones de la nueva lira turca y el peso mexicano.
 
@@ -15045,7 +15045,7 @@ La variación del saldo de este epígrafe en 2015 se debe principalmente a la 
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 <ul class="cita">
 <li>(*) El movimiento en la columna “Adiciones” en la UGE Estados Unidos del cuadro anterior corresponde a la adquisición de Simple.</li></ul>
@@ -15094,7 +15094,7 @@ El fondo de comercio más significativo del Grupo corresponde a la UGE de Estad
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 Dado el potencial crecimiento del sector en Estados Unidos, de acuerdo con el párrafo 33 de la NIC 36, a 31 de diciembre de 2016, 2015 y 2014, el Grupo utilizó una tasa de crecimiento sostenible constante del 4%, basada en la tasa de crecimiento del PIB real de Estados Unidos y en la inflación esperada. El 4% empleado es inferior al PIB nominal de EEUU promedio histórico de los últimos 30 años e inferior al PIB real previsto por el FMI.
 
@@ -15125,7 +15125,7 @@ Las hipótesis que tienen más peso y cuya volatilidad podría afectar más 
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 <ul class="cita">
 <li>(*) En base a los movimientos históricos observados, el uso de 50 puntos básicos para el cálculo de un análisis de sensibilidad supondría una variación razonable respecto a la media de las variaciones observadas en los últimos cinco años (36 puntos básicos).</li></ul>
 
@@ -15288,7 +15288,7 @@ A continuación se muestra el detalle del valor en libros de los activos y pasi
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 <ul class="cita">
 <li>(*) Con posterioridad a la compra reclasificado a la categoría de “Activos financieros disponibles para la venta”.</li>
 
@@ -15420,7 +15420,7 @@ A continuación se muestra el detalle del valor en libros de los activos y pasi
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 De acuerdo con el método de adquisición, que implica poner a valor razonable los activos adquiridos y pasivos asumidos de Garanti, junto con los activos intangibles identificados, y el pago en efectivo realizado por el Grupo como contraprestación de la operación genera un fondo de comercio, registrado en el capítulo “Activos intangibles – Fondo de comercio” del balance consolidado.
 
@@ -15449,7 +15449,7 @@ Las hipótesis más significativas usadas en el test de deterioro de dicha UGE
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 Las hipótesis que tienen más peso y cuya volatilidad podría afectar más en la determinación del valor presente de los flujos de efectivo a partir del quinto año son la tasa de descuento y la tasa de crecimiento. A continuación, se muestra el importe que se incrementaría (o se reduciría) el valor recuperable de la UGE, como consecuencia de una variación razonablemente posible (en puntos básicos, “p.b.”) de cada una de las hipótesis clave:
 
@@ -15523,7 +15523,7 @@ La composición del saldo de este capítulo de los balances consolidados adjun
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 <table>
     <thead>
@@ -15592,7 +15592,7 @@ La composición del saldo de este capítulo de los balances consolidados adjun
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 A 31 de diciembre de 2016, el importe de los activos intangibles totalmente amortizados que seguían en uso ascendía a 1.501 millones de euros, siendo su valor recuperable no significativo.
 
@@ -15806,7 +15806,7 @@ A continuación se presenta la conciliación entre el gasto por el Impuesto so
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 <ul class="cita">
 <li>(*) Calculada aplicando la diferencia entre el tipo impositivo vigente en España y el aplicado al resultado del Grupo en cada jurisdicción.</li></ul>
@@ -15871,7 +15871,7 @@ El tipo fiscal efectivo para el Grupo durante los ejercicios 2016, 2015 y 2014, 
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 ### 19.4  Impuestos repercutidos en el patrimonio neto
 
@@ -16046,7 +16046,7 @@ Dentro del saldo del epígrafe “Activos por impuestos” de los balances cons
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 <ul class="cita">
 <li>(*) Las Leyes que garantizan los activos por impuestos diferidos fueron aprobadas en España y Portugal en los ejercicios 2013 y 2014.</li></ul>
 
@@ -16167,7 +16167,7 @@ Los movimientos más significativos producidos en los ejercicios 2016, 2015 y 2
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 <ul class="cita">
 <li>(*) Incorporación de Catalunya Bank S.A. en 2015</li></ul>
 
@@ -16362,7 +16362,7 @@ La composición del saldo de estos capítulos de los balances consolidados adj
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 El epígrafe "Existencias" del detalle anterior incluye el valor neto contable de las compras de suelo y propiedades que las compañías inmobiliarias del Grupo tienen disponibles para la venta o para su negocio. Los importes de este epígrafe incluyen, principalmente, activos inmobiliarios adquiridos por estas empresas a clientes en dificultad (sobre todo en España), netos de sus correspondientes provisiones por deterioro. El deterioro registrado en el epígrafe “Deterioro del valor o reversión del deterioro del valor de activos no financieros” de las cuentas de pérdidas y ganancias consolidadas adjuntas ascendieron a 375, 209 y 192 millones de euros durante los ejercicios de 2016, 2015 y 2014, respectivamente (ver Nota 48). A continuación se detalla el movimiento de los activos inmobiliarios adquiridos a clientes en dificultad:
 
@@ -16436,7 +16436,7 @@ El epígrafe "Existencias" del detalle anterior incluye el valor neto contable 
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 <ul class="cita">
 <li>(*) Principalmente activos procedentes de la Adquisición de Catalunya Banc en 2015.</li>
 </ul>
@@ -16521,7 +16521,7 @@ El desglose del saldo del capítulo “Activos no corrientes y grupos enajenabl
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 (*) Incluye inversiones inmobiliarias traspasadas de BBVA Propiedad. 
 
@@ -16692,7 +16692,7 @@ Los movimientos de los saldos de este capítulo en los ejercicios 2016, 2015 y 
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 (*) Netos de amortizaciones acumuladas hasta su clasificación como "Activos no corrientes y grupos enajenables de elementos que se han clasificado como mantenidos para la venta".
 
@@ -16859,7 +16859,7 @@ Los movimientos de los saldos de este capítulo en los ejercicios 2016, 2015 y 
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 (*) Netos de amortizaciones acumuladas hasta su clasificación como "Activos no corrientes y grupos enajenables de elementos que se han clasificado como mantenidos para la venta".
 
@@ -17028,7 +17028,7 @@ Los movimientos de los saldos de este capítulo en los ejercicios 2016, 2015 y 
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 (*) Netos de amortizaciones acumuladas hasta su clasificación como "Activos no corrientes y grupos enajenables de elementos que se han clasificado como mantenidos para la venta".
 
@@ -17115,7 +17115,7 @@ La composición del saldo de este capítulo de los balances consolidados adjun
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 ### 22.1  Depósitos de entidades de crédito
 
@@ -17195,7 +17195,7 @@ El desglose del saldo de este epígrafe de los balances consolidados adjuntos, 
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 El desglose del saldo de este epígrafe de los balances consolidados adjuntos, por tipo de instrumento financiero y por área geográfica, es el siguiente:
 
@@ -17272,7 +17272,7 @@ El desglose del saldo de este epígrafe de los balances consolidados adjuntos, 
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 <table class="l">
     <thead>
@@ -17347,7 +17347,7 @@ El desglose del saldo de este epígrafe de los balances consolidados adjuntos, 
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 <table class="l">
     <thead>
@@ -17422,7 +17422,7 @@ El desglose del saldo de este epígrafe de los balances consolidados adjuntos, 
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 ### 22.2 Depósitos de la clientela
 
@@ -17551,7 +17551,7 @@ La composición del saldo de este epígrafe de los balances consolidados adjun
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 La composición del saldo de este epígrafe de los balances consolidados adjuntos, por tipos de instrumento y por área geográfica, es la siguiente:
 
@@ -17628,7 +17628,7 @@ La composición del saldo de este epígrafe de los balances consolidados adjun
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 <table>
     <thead>
@@ -17703,7 +17703,7 @@ La composición del saldo de este epígrafe de los balances consolidados adjun
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 <table>
     <thead>
@@ -17771,7 +17771,7 @@ La composición del saldo de este epígrafe de los balances consolidados adjun
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 
 ### 22.3 Valores representativos de deuda emitidos
@@ -17998,7 +17998,7 @@ La composición del saldo de esta cuenta, por tipos de instrumentos financieros
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 (*) Otros incluye operaciones de cobertura y gastos de emisión.
 
@@ -18092,7 +18092,7 @@ El desglose, por sociedades emisoras, del saldo de esta cuenta de los balances c
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 (*) Cotiza en las Bolsas de Londres y Nueva York.
 
@@ -18162,7 +18162,7 @@ El desglose del saldo de este epígrafe de los balances consolidados adjuntos e
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 
 ## 23. Activos y pasivos amparados por contratos de seguro o reaseguro
@@ -18271,7 +18271,7 @@ El desglose del saldo de este capítulo de los balances consolidados adjuntos e
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 (1) Proporcionan una cobertura en el caso de uno o más de los siguientes: muerte y discapacidad.
 
@@ -18305,7 +18305,7 @@ A continuación se detallan los flujos de dichos pasivos amparados por contrato
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 Los métodos y técnicas de modelización que se utilizan para calcular las provisiones matemáticas de los productos de seguros son métodos actuariales y financieros y técnicas de modelización aprobadas por el correspondiente regulador o supervisor del país en el que se opera. Las aseguradoras del Grupo más importantes están ubicadas en España y en México (lo que representa, en conjunto, aproximadamente el 96% de la actividad de seguros) donde los métodos y técnicas de modelización están revisados por las autoridades de seguros en España (Dirección General de Seguros) y en México (Comisión Nacional de Seguros y Fianzas), respectivamente. Los métodos y técnicas de modelización utilizadas para calcular las provisiones matemáticas de los productos de seguros están en consonancia con las NIIF y consisten principalmente en la valoración de los flujos futuros de efectivo estimados, descontados al tipo de interés de técnico de cada póliza. Para poder asegurar dicho tipo de interés técnico se realiza una gestión de activo-pasivo, adquiriendo una cartera de valores que generen los flujos necesarios para cubrir los compromisos de pagos asumidos con clientes.
 
@@ -18344,7 +18344,7 @@ La siguiente tabla muestra los supuestos clave para el cálculo de las provisio
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 (1) Proporciona una cobertura en el caso de uno o más de los siguientes eventos: muerte y discapacidad.
 
@@ -18416,7 +18416,7 @@ La composición del saldo de este epígrafe de los balances consolidados adjun
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 (*) A 31 de diciembre de 2016 este epígrafe incluye la provisión de 577 millones de euros por las conocidas “clausulas suelo” como se comenta más adelante.
 
@@ -18526,7 +18526,7 @@ A continuación se muestra el movimiento que se ha producido durante los ejerci
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 (*) Corresponden a las pérdidas (ganancias) actuariales por ciertos compromisos de prestación definida por retribuciones post-empleo por pensiones con cargo a "Patrimonio Neto" (ver Nota 2.2.12).
 
@@ -18608,7 +18608,7 @@ A continuación se muestra el movimiento que se ha producido durante los ejerci
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 (*) Corresponden principalmente a la incorporación de Garanti y Catalunya Banc en el ejercicio 2015 (Nota 3).
 
@@ -18730,7 +18730,7 @@ El desglose de los pasivos registrados en los balances consolidados a 31 de dici
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 <ul class="cita">
 <li>(*) Para Turquía, la fundación que gestiona los compromisos mantiene un activo adicional de 257 millones de euros que no ha sido reflejado en las cuentas, de acuerdo con la normativa NIIF-UE sobre el límite del activo, ya que, si bien puede ser utilizado para rebajar futuras contribuciones para las pensiones, no puede ser recuperado de forma inmediata.</li>
 
@@ -18846,7 +18846,7 @@ A continuación se presentan los costes registrados por compromisos en las cuen
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 <ul class="cita">
 <li>(*) Corresponden a las mediciones de la obligación neta por prestaciones definidas surgidas por prejubilaciones y otras retribuciones a largo plazo que se registran con cargo a resultados (ver Nota 2.2.12).</li>
@@ -18893,7 +18893,7 @@ A continuación se presentan los costes registrados por compromisos post-empleo
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 <ul class="cita">
 <li>(*) Corresponden a la actualización de la valoración de la obligación neta por prestaciones definidas surgidas por compromisos por pensiones y gastos médicos antes de su efecto fiscal.</li>
 </ul>
@@ -19194,7 +19194,7 @@ Los compromisos incluidos en estos planes corresponden a personal jubilado o pre
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 <ul class="cita">
 <li>(1) Incluye ganancias y pérdidas por liquidación.</li>
 
@@ -19305,7 +19305,7 @@ La siguiente tabla recoge las principales hipótesis actuariales utilizadas en 
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 Los tipos de descuento utilizados para actualizar los flujos futuros se han determinado tomando como referencia bonos corporativos de alta calidad (ver Nota 2.2.12) de cada una de las divisas (zona Euro para el caso de España, peso mexicano para México y dólar estadounidense para Estados Unidos) y gubernamental en nueva lira turca para el caso de Turquía.
 
@@ -19577,7 +19577,7 @@ El movimiento de las obligaciones y los activos afectos a los compromisos para e
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 <table class="l">
     <thead>
@@ -19737,7 +19737,7 @@ El movimiento de las obligaciones y los activos afectos a los compromisos para e
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 <table class="l">
     <thead>
@@ -20172,7 +20172,7 @@ El movimiento neto de los compromisos para los ejercicios 2015 y 2014 es el sigu
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 <ul class="cita">
 <li>(1) Incluye ganancias y pérdidas por liquidación.</li>
 
@@ -20439,7 +20439,7 @@ El movimiento de los compromisos médicos para los ejercicios 2016, 2015 y 2014 
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 <ul class="cita">
 
 <li>(1) Incluye ganancias y pérdidas por liquidación.</li>
@@ -20838,7 +20838,7 @@ La composición del saldo de estos capítulos de los balances consolidados adj
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 <ul class="cita">
 <li>(*) Total reservas de BBVA, S.A. (Anexo IX).</li>
 </ul>
@@ -20894,7 +20894,7 @@ A 31 de diciembre de 2016, 2015 y 2014, el Banco tenía registradas las siguien
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 La reserva indisponible por capital amortizado tiene su origen en la reducción de valor nominal unitario de las acciones de BBVA realizada en el mes de abril de 2000.
 
@@ -21144,7 +21144,7 @@ El desglose de los epígrafes “Ganancias acumuladas, Reservas de revalorizaci
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 <ul class="cita">
 <li>(*) Fusionada con BBVA S.A.</li>
 </ul>
@@ -21296,7 +21296,7 @@ Durante los ejercicios 2016, 2015 y 2014, las sociedades del Grupo realizaron la
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 Los porcentajes de las acciones mantenidas en la autocartera del Grupo durante los ejercicios 2016, 2015 y 2014 fueron los siguientes:
 
@@ -21336,7 +21336,7 @@ Los porcentajes de las acciones mantenidas en la autocartera del Grupo durante l
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 A 31 de diciembre de 2016, 2015 y 2014, el número de acciones de BBVA aceptadas en concepto de garantía de las financiaciones concedidas por el Grupo, era:
 
@@ -21370,7 +21370,7 @@ A 31 de diciembre de 2016, 2015 y 2014, el número de acciones de BBVA aceptada
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 El número de acciones de BBVA propiedad de terceros pero gestionadas por alguna sociedad del Grupo a 31 de diciembre de 2016, 2015 y 2014, era:
 
@@ -21404,7 +21404,7 @@ El número de acciones de BBVA propiedad de terceros pero gestionadas por algun
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 
 ## 30. Otro resultado global acumulado
@@ -21505,7 +21505,7 @@ La composición del saldo de este capítulo de los balances consolidados adjunto
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 Los saldos registrados en estos epígrafes se presentan netos de su correspondiente efecto fiscal.
 
@@ -21579,7 +21579,7 @@ El detalle, por subgrupos de sociedades consolidadas, del saldo del capítulo �
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 Seguidamente se detallan, por subgrupos de sociedades consolidadas, los importes registrados en el capítulo “Resultado del periodo - Atribuible a intereses minoritarios (participaciones no dominantes)” de las cuentas de pérdidas y ganancias consolidadas adjuntas:
 
@@ -21653,7 +21653,7 @@ Seguidamente se detallan, por subgrupos de sociedades consolidadas, los importes
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 Los dividendos repartidos a los minoritarios de las siguientes entidades del Grupo en el ejercicio 2016 han sido los siguientes: Grupo BBVA Banco Continental 90 millones de euros, Grupo BBVA Chile 11 millones de euros, Grupo BBVA Banco Francés 12 millones de euros, Grupo Garanti 106 millones de euros, Grupo BBVA Colombia 4 millones de euros y sociedades españolas 5 millones de euros.
 
@@ -21861,7 +21861,7 @@ A continuación se muestran, los recursos propios del Grupo, calculados con el 
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 <ul class="cita">
 <li>(*) Datos provisionales.</li>
 
@@ -21902,7 +21902,7 @@ A continuación se muestran, los recursos propios del Grupo, calculados con el 
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 <ul class="cita">
 <li>(*) Datos provisionales.</li>
 </ul>
@@ -22178,7 +22178,7 @@ La composición del saldo de estos epígrafes de los balances consolidados adj
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 <ul class="cita">
 <li>(*) Las garantías concedidas dudosas ascienden a 680 y 664 millones de euros a 31 de diciembre 2016, 2015, respectivamente. </li>
 </ul>
@@ -22298,7 +22298,7 @@ A continuación se desglosan los compromisos de compra y venta del Grupo BBVA a
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 A continuación se detallan los vencimientos de otras obligaciones de pago futuras, no recogidas en Notas anteriores, con vencimiento posterior a 31 de diciembre de 2016:
 
@@ -22368,7 +22368,7 @@ A continuación se detallan los vencimientos de otras obligaciones de pago futu
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 ## 36. Operaciones por cuenta de terceros
 
@@ -22414,7 +22414,7 @@ A continuación se desglosan las partidas más significativas recogidas en este 
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 Los recursos de clientes administrados por el Grupo BBVA a 31 de diciembre de 2016, 2015 y 2014, eran los siguientes:
 
@@ -22506,7 +22506,7 @@ Los recursos de clientes administrados por el Grupo BBVA a 31 de diciembre de 20
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 <ul class="cita">
 <li>(*) No incluye saldos procedentes de fondos de titulizaciones.</li>
 </ul>
@@ -22623,7 +22623,7 @@ A continuación, se detalla el origen de los ingresos y gastos por intereses re
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 Los importes originados por derivados de cobertura y reconocidos en el patrimonio neto consolidado durante ambos periodos y los que fueron dados de baja del patrimonio neto consolidado e incluidos en los resultados consolidados en dichos periodos se muestran en los “Estados de ingresos y gastos reconocidos consolidados”.
 
@@ -22854,7 +22854,7 @@ A continuación se presenta el rendimiento medio de las inversiones en los ejer
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 En los ejercicios de 2016, 2015 y 2014, el coste medio de las financiaciones fue el siguiente:
 
@@ -22982,7 +22982,7 @@ En los ejercicios de 2016, 2015 y 2014, el coste medio de las financiaciones fue
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 La variación experimentada en el saldo de los capítulos “Ingresos por intereses” e “Gastos por intereses” de las cuentas de pérdidas y ganancias consolidadas adjuntas viene determinada, además del efecto del tipo de cambio que está implícito, por la variación en los precios (efecto precio) y la variación en el volumen de actividad (efecto volumen), como se desglosa a continuación:
 
@@ -23163,7 +23163,7 @@ La variación experimentada en el saldo de los capítulos “Ingresos por inte
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 <ul class="cita">
 
 <li>(1) El efecto volumen se calcula como el producto del tipo de interés del periodo inicial por la diferencia entre los saldos medios de los dos periodos.</li>
@@ -23222,7 +23222,7 @@ Los saldos de este capítulo de las cuentas de pérdidas y ganancias consolida
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 ## 39. Resultados de entidades valoradas por el método de la participación
 
@@ -23274,7 +23274,7 @@ El desglose de los resultados de las entidades valoradas por el método de la p
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 
 ## 40. Ingresos por comisiones
@@ -23424,7 +23424,7 @@ El desglose de los gastos por comisiones de las cuentas de pérdidas y ganancia
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 ## 41. Ganancias o pérdidas por activos y pasivos financieros y Diferencias de cambio
 
@@ -23506,7 +23506,7 @@ El desglose de los saldos de estos capítulos de las cuentas de pérdidas y ga
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 Mientras que el desglose, atendiendo a la naturaleza de los instrumentos financieros que dieron lugar a estos saldos, excluidas las diferencias de cambio, es el siguiente:
 
@@ -23568,7 +23568,7 @@ Mientras que el desglose, atendiendo a la naturaleza de los instrumentos financi
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 El desglose del impacto de los derivados (tanto de negociación como de cobertura) en el saldo de este capítulo de las cuentas de pérdidas y ganancias consolidadas adjuntas es:
 
@@ -23678,7 +23678,7 @@ El desglose del impacto de los derivados (tanto de negociación como de cobertu
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 Adicionalmente, durante los ejercicios de 2016, 2015 y 2014 se han registrado en el capítulo “Ganancias o pérdidas por activos y pasivos financieros mantenidos para negociar, netas” de las cuentas de pérdidas y ganancias consolidadas, importes netos por 151 millones de euros positivos, 135 millones de euros positivos y 39 millones de euros positivos, respectivamente, por operaciones con derivados de tipo de cambio.
 
@@ -23732,7 +23732,7 @@ El desglose del saldo de los capítulos “Otros ingresos de explotación” d
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 El desglose del saldo del capítulo “Otras gastos de explotación” de las cuentas de pérdidas y ganancias consolidadas adjuntas es:
 
@@ -23776,7 +23776,7 @@ El desglose del saldo del capítulo “Otras gastos de explotación” de las cu
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 
 ## 43. Ingresos y gastos de activos y pasivos amparados por contratos de seguro o reaseguros
@@ -23817,7 +23817,7 @@ El desglose del saldo de los capítulos “Ingresos y gastos de activos y pasiv
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 La tabla siguiente muestra la aportación de cada producto de seguros a los ingresos netos de gastos del Grupo en los ejercicios 2016, 2015 y 2014:
 
@@ -23903,7 +23903,7 @@ La tabla siguiente muestra la aportación de cada producto de seguros a los ing
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 ## 44. Gastos de administración
 
@@ -23970,7 +23970,7 @@ La composición del saldo de este epígrafe de las cuentas de pérdidas y gan
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 El desglose del número medio de empleados del Grupo BBVA, distribuido por categorías profesionales y áreas geográficas, en los ejercicios de 2016, 2015 y 2014, es el siguiente:
 
@@ -24134,7 +24134,7 @@ El desglose del número medio de empleados del Grupo BBVA, distribuido por cate
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 <ul class="cita">
 <li>(*) Incrementos motivados por cambios de perímetro (ver Nota 3).</li>
 </ul>
@@ -24313,7 +24313,7 @@ El desglose del saldo de este epígrafe de las cuentas de pérdidas y ganancia
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 <ul class="cita">
 <li>(*) No se prevé la cancelación anticipada de los gastos de alquileres de inmuebles por parte de las sociedades consolidadas.</li>
 </ul>
@@ -24447,7 +24447,7 @@ En los ejercicios de 2016, 2015 y 2014, las dotaciones netas con cargo a este ep
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 ## 47. Deterioro del valor o reversión del deterioro del valor de activos financieros no valorados a valor razonable con cambios en resultados
 
@@ -24578,7 +24578,7 @@ Seguidamente se presentan las pérdidas por deterioro de los activos no financi
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 
 ## 49. Ganancias o pérdidas al dar de baja en cuentas activos no financieros y participaciones, netas
@@ -24704,7 +24704,7 @@ Los principales conceptos incluidos en el saldo de este capítulo de las cuenta
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 <ul class="cita">
 <li>(*) En 2015 Incluye ventas de CNCB (ver Nota 3).</li>
 </ul>
@@ -24747,7 +24747,7 @@ Los honorarios por servicios contratados en el ejercicio 2016 por las sociedades
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 <ul class="cita">
 <li>(*) Se incluyen los honorarios correspondientes a auditorías estatutarias de cuentas anuales (20,7 millones de euros en 2016).</li>
 </ul>
@@ -24776,7 +24776,7 @@ Adicionalmente, distintas sociedades del Grupo BBVA contrataron en el ejercicio 
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 Los servicios contratados con los auditores cumplen con los requisitos de independencia recogidos en el texto refundido de la Ley de Auditoría de Cuentas (RD 1/2011), así como en la “Sarbanes-Oxley Act of 2002”, asumida por la “Securities and Exchange Commision” (“SEC”); por lo que no incluyen la realización de trabajos incompatibles con la función auditora.
 
@@ -24868,7 +24868,7 @@ Los saldos de las principales magnitudes de los balances consolidados adjuntos o
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 Los saldos de las principales magnitudes de las cuentas de pérdidas y ganancias consolidadas adjuntas derivados de las transacciones con las entidades asociadas y negocios conjuntos, son los siguientes:
 
@@ -24918,7 +24918,7 @@ Los saldos de las principales magnitudes de las cuentas de pérdidas y ganancia
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 En los estados financieros consolidados no hay otros efectos significativos con origen en las relaciones mantenidas con estas entidades, salvo: los derivados de la aplicación del criterio de valoración por el método de la participación (ver Nota 2.1); de las pólizas de seguros para cobertura de compromisos por pensiones o similares, que se describen en la Nota 25; y las operaciones de futuro formalizadas por el Grupo BBVA con esas entidades, asociadas y negocios conjuntos.
 
@@ -25113,7 +25113,7 @@ Las retribuciones satisfechas a los consejeros no ejecutivos miembros del Consej
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 <ul class="cita">
 <li>(1) D. Sunir Kumar Kapoor fue nombrado consejero por acuerdo de la Junta General de 11 de marzo de 2016.</li>
@@ -25531,7 +25531,7 @@ La siguiente tabla recoge los dividendos por acción pagados en efectivo durant
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 <ul class="cita">
 <li>(*) Corresponde a dos pagos.</li>
 </ul>
@@ -25646,7 +25646,7 @@ El desglose de los resultados consolidados de los ejercicios 2016, 2015 y 2014 p
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 <ul class="cita">
 <li>(*) Resultado atribuido a intereses minoritarios.</li>
 </ul>
@@ -25788,7 +25788,7 @@ El desglose del saldo del capítulo “Ingresos por intereses” de las cuentas
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 
 ## 56. Hechos posteriores

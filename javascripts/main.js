@@ -11379,11 +11379,12 @@
 
 	function extracto (query, result) {
 	  var regexp = utils.createSearchTermRegExp(query);
-	  var pos = regexp.exec(result.content);
+	  var res = decodeURIComponent(result.content);
+	  var pos = regexp.exec(res);
 	  pos = pos ? pos.index : 0;
 	  var pre = (pos > 20) ? '&#8230 ' : '';
 	  pos = Math.max(0, pos - 20);
-	  var extract = result.content.substring(pos, pos + 50);
+	  var extract = res.substring(pos, pos + 50);
 	  extract = extract.replace(regexp, function (match) { return '<strong>' + match + '</strong>'; });
 	  return '<div>' + pre + extract + pre + '</div>';
 	}
@@ -11444,6 +11445,9 @@
 	    if (filteredData == null) {
 	      query
 	        .getJSON(getJsonURL())
+	        .fail(function (e) {
+	          console.log(e);
+	        })
 	        .done(function (data) {
 	          filteredData = filterData(data);
 	          showResults(filteredData, query.get());

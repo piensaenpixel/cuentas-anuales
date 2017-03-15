@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Anexos
+title: Anexo
 lang: es
 submenu: gestion
 order: 4
@@ -253,7 +253,7 @@ embargo, su buen desempeño en España (+9,4%).
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 <table class="l">
     <thead>
@@ -377,7 +377,7 @@ embargo, su buen desempeño en España (+9,4%).
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 <table class="l">
     <thead>
@@ -445,7 +445,7 @@ embargo, su buen desempeño en España (+9,4%).
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 <ul class="class"><li>(1) A tipo de cambio constante.</li>
 
@@ -944,7 +944,7 @@ resultado de las actividades continuadas.
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 <ul class="cita"><li>(1) 2015 incorpora las plusvalías procedentes de las distintas operaciones de venta equivalentes a un 6,34% de la participación del Grupo BBVA en CNCB, el efecto de la puesta a valor razonable de la participación inicial del 25,01% en Garanti, el impacto procedente de la venta de la participación del 29,68% en CIFH y el badwill generado por la operación de CX.</li></ul>
 

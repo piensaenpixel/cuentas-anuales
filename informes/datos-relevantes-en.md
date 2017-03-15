@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Introduction - BBVA Group highlights
+title: BBVA Group highlights
 lang: en
 submenu: gestion
 order: 1
@@ -9,9 +9,12 @@ headerTitle: Consolidated financial statements BBVA 2016
 ---
 
 
-# BBVA Group highlights
+# Group highlights
 
-### Consolidated figures
+### BBVA Group highlights
+
+### (Consolidated figures)
+
 
 <table>
     <thead>
@@ -137,7 +140,7 @@ headerTitle: Consolidated financial statements BBVA 2016
             <td>7.85</td>
         </tr>
         <tr>
-            <td>Earning per share (euros) (1) </td>
+            <td>Earning per share (euros) <sup>(1)</sup> </td>
             <td>0.50</td>
             <td>33.3</td>
             <td>0.37</td>
@@ -162,7 +165,7 @@ headerTitle: Consolidated financial statements BBVA 2016
             <td>42,118</td>
             <td>(1.8)</td>
             <td>42,905</td>
-            <td>42,905</td>
+            <td>48,470</td>
         </tr>
         <tr>
             <td>Yield (dividend/price; %)</td>
@@ -179,14 +182,14 @@ headerTitle: Consolidated financial statements BBVA 2016
             <td>&nbsp;</td>
         </tr>
         <tr>
-            <td>ROE (net attributable profit/average shareholders’ funds excluding intangible assets) (2)</td>
+            <td>ROE (net attributable profit/average shareholders’ funds excluding intangible assets) <sup>(2)</sup></td>
             <td>6.7</td>
             <td>&nbsp;</td>
             <td>5.2</td>
             <td>5.5</td>
         </tr>
         <tr>
-            <td>ROTE (net attributable profit/average shareholders’ funds excluding intangible assets) (2)</td>
+            <td>ROTE (net attributable profit/average shareholders’ funds excluding intangible assets) <sup>(2)</sup></td>
             <td>8.2</td>
             <td>&nbsp;</td>
             <td>6.4</td>
@@ -235,7 +238,7 @@ headerTitle: Consolidated financial statements BBVA 2016
             <td>64</td>
         </tr>
         <tr class="b2">
-            <td>Capital adequacy ratios (%) (3)</td>
+            <td>Capital adequacy ratios (%) <sup>(3)</sup></td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
@@ -300,10 +303,10 @@ headerTitle: Consolidated financial statements BBVA 2016
     </tbody>
 </table>
 
-<ul class="cita"><li>**General note: Since the third quarter of 2015, the total stake in Garanti is consolidated by the full integration method. For previous periods, the financial information provided in this document is presented integrated in the proportion corresponding to the percentage of the Group’s stake then (25,01%)**.</li>
+<ul class="cita"><li><b>General note: Since the third quarter of 2015, the total stake in Garanti is consolidated by the full integration method. For previous periods, the financial information provided in this document is presented integrated in the proportion corresponding to the percentage of the Group’s stake then (25,01%)</b>.</li>
 
-<li>(1)  Adjusted by additional Tier I instrument remuneration. </li>
+<li><sup>(1)</sup>  Adjusted by additional Tier I instrument remuneration. </li>
 
-<li>(2) The ROE and ROTE ratios include in the denominator the Group’s average shareholders’ equity, but do not take into account the caption within total equity named “Accumulated other comprehensive income” with an average balance of –€2,248m in 2014, –€1,139m in 2015 and –€4,492m in 2016.</li> 
+<li><sup>(2)</sup> The ROE and ROTE ratios include in the denominator the Group’s average shareholders’ equity, but do not take into account the caption within total equity named “Accumulated other comprehensive income” with an average balance of –€2,248m in 2014, –€1,139m in 2015 and –€4,492m in 2016.</li> 
 
-<li>(3) The capital ratios are calculated under CRD IV from Basel III regulation, applying a 60% phase-in for 2016 and a 40% for 2015.</li></ul>
+<li><sup>(3)</sup> The capital ratios are calculated under CRD IV from Basel III regulation, applying a 60% phase-in for 2016 and a 40% for 2015.</li></ul>

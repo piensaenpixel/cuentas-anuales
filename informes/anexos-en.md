@@ -165,8 +165,8 @@ There was a slowdown in the fall in customer **deposits** under management, whic
         <tr>
             <td>Provisions (net) and other gains (losses)</td>
             <td>(65)</td>
-            <td>n.s.</td>
-            <td>n.s.</td>
+            <td>n.m.</td>
+            <td>n.m.</td>
             <td>(9)</td>
         </tr>
         <tr class="b">
@@ -206,7 +206,7 @@ There was a slowdown in the fall in customer **deposits** under management, whic
         </tr>
     </tbody>
 </table>
-[Download table](#)
+<!--[Download table](#)-->
 
 <table class="l">
     <thead>
@@ -326,7 +326,7 @@ There was a slowdown in the fall in customer **deposits** under management, whic
         </tr>
     </tbody>
 </table>
-[Download table](#)
+<!--[Download table](#)-->
 
 <table class="l">
     <thead>
@@ -390,7 +390,7 @@ There was a slowdown in the fall in customer **deposits** under management, whic
         </tr>
     </tbody>
 </table>
-[Download table](#)
+<!--[Download table](#)-->
 
 <ul class="cita"><li>(1) Figures at constant exchange rates.</li> 
 
@@ -404,11 +404,11 @@ CIB posted a cumulative net attributable **profit** at the close of 2016 of €8
 
 - **Gross income** in the fourth quarter was higher than the previous quarter (up 14.0%), due to good management of market volatility by the Global Markets teams. In year-on-year terms, the cumulative amount in 2016 is 1.6% higher than in the previous year, despite low market activity, with little new production in the purely banking business and a lack of one-off transactions, particularly in Europe.
 
-One of the actions taken by the CIB to address this market reality was the **Deep Blue** plan, which has had very positive results since its launch. This cross-cutting initiative is designed to involve several CIB teams in visits to clients (more than 60 visits in Europe, the United States and Latin America) to offer them the solutions that best fit their needs. Underwriting instructions worth €40.000m have been submitted as a result of this plan, which are being monitored on a recurrent basis.
+  One of the actions taken by the CIB to address this market reality was the **Deep Blue** plan, which has had very positive results since its launch. This cross-cutting initiative is designed to involve several CIB teams in visits to clients (more than 60 visits in Europe, the United States and Latin America) to offer them the solutions that best fit their needs. Underwriting instructions worth €40.000m have been submitted as a result of this plan, which are being monitored on a recurrent basis.
 
-The **Global Markets** unit posted an outstanding performance, particularly in the fourth quarter of 2016, generating gross income that was 35.8% higher than in the third quarter, thanks to good management of market volatility, particularly in the United States and Mexico following the United States elections and interest rate hikes in both geographic areas. In cumulative terms, gross income from the unit has risen by 4.0% in the last twelve months.
+  The **Global Markets** unit posted an outstanding performance, particularly in the fourth quarter of 2016, generating gross income that was 35.8% higher than in the third quarter, thanks to good management of market volatility, particularly in the United States and Mexico following the United States elections and interest rate hikes in both geographic areas. In cumulative terms, gross income from the unit has risen by 4.0% in the last twelve months.
 
-As regards **Corporate Finance**, the final part of the year has been marked by low levels of activity in the Spanish primary market and political uncertainty in Mexico. During the fourth quarter the unit continued its busy marketing efforts, which have seen it win two mandates to manage IPOs for corporate clients in Spain (planned for the first quarter 2017). As for mergers & acquisitions (M&A) activity, during the fourth quarter the pipeline of operations continued to grow, largely driven by interest in countries such as Spain and Mexico. BBVA was one of the busiest M&A consultants in Spain in 2016, according to the rankings prepared by Thomson Reuters, Mergermarket, Dealogic and Bloomberg.
+  As regards **Corporate Finance**, the final part of the year has been marked by low levels of activity in the Spanish primary market and political uncertainty in Mexico. During the fourth quarter the unit continued its busy marketing efforts, which have seen it win two mandates to manage IPOs for corporate clients in Spain (planned for the first quarter 2017). As for mergers & acquisitions (M&A) activity, during the fourth quarter the pipeline of operations continued to grow, largely driven by interest in countries such as Spain and Mexico. BBVA was one of the busiest M&A consultants in Spain in 2016, according to the rankings prepared by Thomson Reuters, Mergermarket, Dealogic and Bloomberg.
 
 - Cumulative **operating expenses** were up 6.1% against 2015, chiefly due to technology costs associated with investment plans.
 
@@ -796,6 +796,6 @@ Presented below is the reconciliation between the consolidated income statement 
         </tr>
     </tbody>
 </table>
-[Download table](#)
+<!--[Download table](#)-->
 
 <ul class="cita"><li>(1)  2015 includes the capital gains from the various sale operations equivalent to 6.34% of BBVA Group’s stake in CNCB, the badwill from the CX operation, the effect of the valuation at fair value of the 25,01% initial stake held by BBVA in Garanti and the impact of the sale of BBVA’s 29.68% stake in CIFH.</li></ul>

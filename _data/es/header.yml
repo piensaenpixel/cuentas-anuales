@@ -3,12 +3,12 @@ options:
   - title: English
     url: /
   - title: Descargar informe
-    url: /
+    url: /images/cuentas-anuales.pdf
 menu:
   - title: Informe de auditoría
     url: /informe-de-auditoria/
   - title: Cuentas anuales consolidadas
-    url: /cuentas/notas-estados-financieros/
+    url: /cuentas/estados-financieros/
     submenu: cuentas
   - title: Informe de gestión
     url: /informe-de-gestion/introduccion/

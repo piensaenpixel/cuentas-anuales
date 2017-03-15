@@ -356,7 +356,7 @@ headerTitle: Consolidated financial statements BBVA 2016
         </tr>
     </tbody>
 </table>
-[Download table](#)
+<!--[Download table](#)-->
 
 <ul class="cita"><li>(*) Presented for comparison purposes only (Note 1,3).</li> 
 
@@ -627,7 +627,7 @@ headerTitle: Consolidated financial statements BBVA 2016
         </tr>
     </tbody>
 </table>
-[Download table](#)
+<!--[Download table](#)-->
 
 <ul class="cita"><li>(*) Presented for comparison purposes only (Note 1,3).</li> 
 
@@ -886,7 +886,7 @@ headerTitle: Consolidated financial statements BBVA 2016
         </tr>
     </tbody>
 </table>
-[Download table](#)
+<!--[Download table](#)-->
 
 <table class="l">
     <thead>
@@ -920,7 +920,7 @@ headerTitle: Consolidated financial statements BBVA 2016
         </tr>
     </tbody>
 </table>
-[Download table](#)
+<!--[Download table](#)-->
 
 <ul class="cita"><li>(*)  Presented for comparison purposes only (Note 1,3). </li>
 
@@ -1248,7 +1248,7 @@ headerTitle: Consolidated financial statements BBVA 2016
         </tr>
     </tbody>
 </table>
-[Download table](#)
+<!--[Download table](#)-->
 
 <table class="l">
     <thead>
@@ -1303,7 +1303,7 @@ headerTitle: Consolidated financial statements BBVA 2016
         </tr>
     </tbody>
 </table>
-[Download table](#)
+<!--[Download table](#)-->
 
 <ul class="cita"><li>(*) Presented for comparison purposes only (Note 1,3).</li> 
 
@@ -1416,7 +1416,7 @@ headerTitle: Consolidated financial statements BBVA 2016
             <td>(1)</td>
         </tr>
         <tr class="s2">
-            <tdOther reclassifications</td>
+            <td>Other reclassifications</td>
             <td>-</td>
             <td>-</td>
             <td>-</td>
@@ -1531,7 +1531,7 @@ headerTitle: Consolidated financial statements BBVA 2016
         </tr>
     </tbody>
 </table>
-[Download table](#)
+<!--[Download table](#)-->
 
 <ul class="cita"><li>(*) Presented for comparison purposes only (Note 1,3).</li> 
 
@@ -1548,9 +1548,20 @@ headerTitle: Consolidated financial statements BBVA 2016
             <th colspan="14"> Millions of Euros</th>
         </tr>
         <tr>
-            <th colspan="12"></th>
-            <th colspan="2"></th>
-            <th>Non-controlling interest</th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th colspan="2">Non-controlling interest</th>
+            <th></th>
         </tr>
         <tr>
             <th>2016 </th>
@@ -1896,7 +1907,7 @@ headerTitle: Consolidated financial statements BBVA 2016
         </tr>
     </tbody>
 </table>
-[Download table](#)
+<!--[Download table](#)-->
 
 <ul class="cita"><li>The accompanying Notes 1 to 57 and Appendices I to XIV are an integral part of the total consolidated statement of changes in equity for the year ended December 31, 2016.</li></ul>
 
@@ -1909,12 +1920,23 @@ headerTitle: Consolidated financial statements BBVA 2016
             <th colspan="14"> Millions of Euros</th>
         </tr>
         <tr>
-            <th colspan="12"></th>
-            <th colspan="2"></th>
-            <th>Non-controlling interest</th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th colspan="2">Non-controlling interest</th>
+            <th></th>
         </tr>
         <tr>
-            <th>2015 </th>
+            <th>2015<sup>*</sup></th>
             <th>Capital (Note 25)</th>
             <th>Share Premium (Nota 26)</th>
             <th>Equity instruments issued other than capital</th>
@@ -2257,7 +2279,7 @@ headerTitle: Consolidated financial statements BBVA 2016
         </tr>
     </tbody>
 </table>
-[Download table](#)
+<!--[Download table](#)-->
 
 <ul class="cita"><li>(*) Presented for comparison purposes only (Note 1,3).</li> 
 
@@ -2273,12 +2295,23 @@ headerTitle: Consolidated financial statements BBVA 2016
             <th colspan="14"> Millions of Euros</th>
         </tr>
         <tr>
-            <th colspan="12"></th>
-            <th colspan="2"></th>
-            <th>Non-controlling interest</th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th colspan="2">Non-controlling interest</th>
+            <th></th>
         </tr>
         <tr>
-            <th>2014 </th>
+            <th>2014<sup>*</sup></th>
             <th>Capital (Nota 26)</th>
             <th>Share Premium (Nota 27)</th>
             <th>Equity instruments issued other than capital</th>
@@ -2621,7 +2654,7 @@ headerTitle: Consolidated financial statements BBVA 2016
         </tr>
     </tbody>
 </table>
-[Download table](#)
+<!--[Download table](#)-->
 
 <ul class="cita"><li>(*) Presented for comparison purposes only (Note 1,3).</li> 
 
@@ -2997,7 +3030,7 @@ headerTitle: Consolidated financial statements BBVA 2016
         </tr>
     </tbody>
 </table>
-[Download table](#)
+<!--[Download table](#)-->
 
 <table class="l">
     <thead>
@@ -3052,8 +3085,9 @@ headerTitle: Consolidated financial statements BBVA 2016
         </tr>
     </tbody>
 </table>
-[Download table](#)
+<!--[Download table](#)-->
 
 <ul class="cita"><li>(*) Presented for comparison purposes only (Note 1,3). </li>
+<ul class="cita"><li>(**) Balance of cash equivalent in central banks include short-term deposits at central banks under the heading "Loans and receivables "in the accompanying consolidated balance sheets (see Note 13).</li></ul>
 
 <li>The accompanying Notes 1 to 57 and Appendices I to XIV are an integral part of the consolidated statement of cash flows for the year ended December 31, 2016.</li></ul>

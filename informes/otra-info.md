@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Otra información
+title: Otra información requerida legalmente
 lang: es
 submenu: gestion
 order: 5
@@ -177,7 +177,7 @@ no solo en el sector bancario, sino también en otros sectores.
     </tr>
   </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 ### Valor contable tangible por acción
 
@@ -302,7 +302,7 @@ el sector bancario, sino también en otros sectores.
     </tr>
   </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 
 
@@ -368,7 +368,7 @@ anualmente una empresa entre el precio de cotización de la misma.
     </tr>
   </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 
 ### Tasa de mora
@@ -435,7 +435,7 @@ clientes y riesgos contingentes.
     </tr>
   </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 ###  Tasa de cobertura
 
@@ -499,7 +499,7 @@ contablemente vía provisiones por insolvencias.
     </tr>
   </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 
 ### Ratio de eficiencia
@@ -567,7 +567,7 @@ Prioridades Estratégicas del Grupo.
     </tr>
   </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 ## ROE
 
@@ -652,7 +652,7 @@ operaciones corporativas.
     </tr>
   </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 ### ROTE
 
@@ -749,7 +749,7 @@ de operaciones corporativas.
     </tr>
   </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 ## ROA
 
@@ -828,7 +828,7 @@ operaciones corporativas.
     </tr>
   </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 ### RORWA
 
@@ -905,7 +905,7 @@ de operaciones corporativas.
     </tr>
   </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 ### Otros recursos de clientes
 
@@ -914,8 +914,7 @@ de pensiones y otros recursos fuera de balance) y las carteras de
 clientes.
 
 **Explicación de la fórmula**: Suma de saldos puntuales a una
-determinada fecha de fondos de inversión + fondos de pensiones
-+ otros recursos fuera de balance + carteras de clientes; tal y como
+determinada fecha de fondos de inversión + fondos de pensiones + otros recursos fuera de balance + carteras de clientes; tal y como
 figura en la segunda tabla de la página 16 de este informe.
 
 **Relevancia de su uso**: Esta métrica es de uso muy común en
@@ -990,7 +989,7 @@ tales como fondos de inversión y pensiones, etc.
     </tr>
   </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 ## Principales riesgos e incertidumbres
 
@@ -1120,7 +1119,7 @@ estratégicos.
     </tr>
   </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 En **2016**, acorde con la reorganización de la estructura del
 Grupo llevada a cabo, Talent & Culture ha definido su rol como
@@ -1288,7 +1287,7 @@ comités de salud y seguridad (%)</td>
     </tr>
   </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 <ul class="cita"><li>(1) Se excluye Catalunya Banc en 2015.</li></ul>
 
@@ -1747,7 +1746,7 @@ de los asuntos.
     </tr>
   </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 
 #### Reclamaciones gestionadas por el Servicio de Atención al Cliente según resolución
@@ -1787,7 +1786,7 @@ de los asuntos.
     </tr>
   </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 El **_governance_ de calidad** se ha convertido en una de las palancas
 fundamentales impulsora de la estrategia y objetivos corporativos
@@ -1906,7 +1905,7 @@ cajeros…)</td>
     </tr>
   </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 La **tipología** de las reclamaciones gestionadas del cuadro anterior
 sigue el criterio establecido por el Servicio de Reclamaciones del
@@ -1949,7 +1948,7 @@ Banco de España, en sus peticiones de información.
     </tr>
   </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 El 58,3% de los clientes que reclamaron ante el Defensor del Cliente
 en el ejercicio 2016 obtuvieron algún tipo de satisfacción, bien por resolución del Defensor del Cliente, bien como consecuencia de su
@@ -2099,7 +2098,7 @@ balances de dichas sucursales a 31 de diciembre de 2016 y 2015:
     </tr>
   </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 ### Sucursales emisoras de valores
 
@@ -2164,7 +2163,7 @@ emisiones en vigor a 31 de diciembre de 2016 y 2015:
     </tr>
   </tbody>
 </table>
-[Descargar tabla](#)
+<!--[Descargar tabla](#)-->
 
 ### Supervisión y control de los establecimientos permanentes del Grupo BBVA en centros financieros off-shore
 

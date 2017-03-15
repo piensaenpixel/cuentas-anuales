@@ -139,7 +139,7 @@ headerTitle: Informe cuentas anuales BBVA 2016
             <td>7,85</td>
         </tr>
         <tr>
-            <td>Beneficio por acción (euros) (1) </td>
+            <td>Beneficio por acción (euros) <sup><sup>(1)</sup></sup> </td>
             <td>0,50</td>
             <td>33,3</td>
             <td>0,37</td>
@@ -181,14 +181,14 @@ headerTitle: Informe cuentas anuales BBVA 2016
             <td>&nbsp;</td>
         </tr>
         <tr>
-            <td>ROE (beneficio atribuido/fondos propios medios) (2)</td>
+            <td>ROE (beneficio atribuido/fondos propios medios) <sup><sup>(2)</sup></sup></td>
             <td>6,7</td>
             <td>&nbsp;</td>
             <td>5,2</td>
             <td>5,5</td>
         </tr>
         <tr>
-            <td>ROTE (beneficio atribuido/fondos propios sin activos intangibles medios) (2)</td>
+            <td>ROTE (beneficio atribuido/fondos propios sin activos intangibles medios) <sup><sup>(2)</sup></sup></td>
             <td>8,2</td>
             <td>&nbsp;</td>
             <td>6,4</td>
@@ -237,7 +237,7 @@ headerTitle: Informe cuentas anuales BBVA 2016
             <td>64</td>
         </tr>
         <tr class="b2">
-            <td>Ratios de capital (%) (3)</td>
+            <td>Ratios de capital (%) <sup><sup>(3)</sup></sup></td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
@@ -304,8 +304,8 @@ headerTitle: Informe cuentas anuales BBVA 2016
 
 <ul class="cita"><li>**Nota general: desde el tercer trimestre de 2015, la participación total en Garanti se consolida por el método de integración global. Para períodos anteriores, la información financiera contenida en este documento se presenta integrándola en la proporción correspondiente al porcentaje de participación que el Grupo tenía hasta entonces (25,01%)**.</li>
 
-<li>(1) Ajustado por remuneración de instrumentos de capital de nivel 1 adicional.</li>
+<li><sup><sup>(1)</sup></sup> Ajustado por remuneración de instrumentos de capital de nivel 1 adicional.</li>
 
-<li>(2) Los ratios ROE y ROTE incluyen, en el denominador, los fondos propios medios del Grupo, pero no tienen en cuenta otra partida del patrimonio neto, denominada “Otro resultado global acumulado”, cuyo importe, en saldos medios, es –2.248 millones de euros en 2014, –1.139 millones en 2015 y –4.492 millones en 2016.</li>
+<li><sup><sup>(2)</sup></sup> Los ratios ROE y ROTE incluyen, en el denominador, los fondos propios medios del Grupo, pero no tienen en cuenta otra partida del patrimonio neto, denominada “Otro resultado global acumulado”, cuyo importe, en saldos medios, es –2.248 millones de euros en 2014, –1.139 millones en 2015 y –4.492 millones en 2016.</li>
 
-<li>(3) Los ratios de capital están calculados bajo la normativa CRD IV de Basilea III, en la cual se aplica un faseado del 60% para 2016 y un 40% para 2015.</li></ul>
+<li><sup><sup>(3)</sup></sup> Los ratios de capital están calculados bajo la normativa CRD IV de Basilea III, en la cual se aplica un faseado del 60% para 2016 y un 40% para 2015.</li></ul>
