@@ -24,7 +24,7 @@ module.exports = function () {
     var searchword = query();
     if (searchword) {
       var re = utils.createSearchTermRegExp(searchword);
-      $('.container *').contents().each(function () {
+      $('.js-content *').contents().each(function () {
         if (this.nodeType !== 3) {
           return;
         }

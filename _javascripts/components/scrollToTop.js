@@ -2,6 +2,7 @@ var $ = require('jquery');
 var $w = $(window);
 var up = $('.js-up');
 var existeScrollTop = up.length > 0;
+var lang = window.lang;
 
 function scrollHandler () {
   var offset = 300;
@@ -21,6 +22,9 @@ function clickHandler (e) {
 module.exports = {
   init: function () {
     if (existeScrollTop) {
+      if (lang === 'en') {
+        up.find('span').text('Up');
+      }
       $w.on('scroll', scrollHandler);
       up.on('click', clickHandler);
     }
