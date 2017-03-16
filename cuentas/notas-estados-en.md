@@ -3756,9 +3756,6 @@ The table below provides details by counterpart and by product of past due risks
             <td>-</td>
             <td>-</td>
             <td>-</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
             <td>81</td>
             <td>46</td>
             <td>(21)</td>
@@ -3771,9 +3768,6 @@ The table below provides details by counterpart and by product of past due risks
             <td>3,445</td>
             <td>825</td>
             <td>404</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
             <td>25,358</td>
             <td>12,527</td>
             <td>(3,830)</td>
@@ -3786,9 +3780,6 @@ The table below provides details by counterpart and by product of past due risks
             <td>-</td>
             <td>-</td>
             <td>-</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
             <td>-</td>
             <td>-</td>
             <td>-</td>
@@ -3801,9 +3792,6 @@ The table below provides details by counterpart and by product of past due risks
             <td>154</td>
             <td>278</td>
             <td>2</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
             <td>194</td>
             <td>157</td>
             <td>(14)</td>
@@ -3816,9 +3804,6 @@ The table below provides details by counterpart and by product of past due risks
             <td>-</td>
             <td>-</td>
             <td>-</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
             <td>25</td>
             <td>9</td>
             <td>(11)</td>
@@ -3831,9 +3816,6 @@ The table below provides details by counterpart and by product of past due risks
             <td>7</td>
             <td>1</td>
             <td>14</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
             <td>67</td>
             <td>29</td>
             <td>(11)</td>
@@ -3846,9 +3828,6 @@ The table below provides details by counterpart and by product of past due risks
             <td>838</td>
             <td>148</td>
             <td>48</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
             <td>16,254</td>
             <td>7,029</td>
             <td>(3,153)</td>
@@ -3861,9 +3840,6 @@ The table below provides details by counterpart and by product of past due risks
             <td>2,446</td>
             <td>399</td>
             <td>340</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
             <td>8,817</td>
             <td>5,303</td>
             <td>(641)</td>
@@ -3876,9 +3852,6 @@ The table below provides details by counterpart and by product of past due risks
             <td>3,445</td>
             <td>825</td>
             <td>404</td>
-            <td>0</td>
-            <td>0</td>
-            <td>0</td>
             <td>25,439</td>
             <td>12,573</td>
             <td>(3,851)</td>
@@ -3897,18 +3870,12 @@ The table below provides details by counterpart and by product of past due risks
             <td>&nbsp;</td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
         </tr>
         <tr>
             <td>On demand (call) and short notice (current account)</td>
             <td>134</td>
             <td>13</td>
             <td>7</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
             <td>634</td>
             <td>204</td>
             <td>(106)</td>
@@ -3921,9 +3888,6 @@ The table below provides details by counterpart and by product of past due risks
             <td>389</td>
             <td>74</td>
             <td>126</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
             <td>689</td>
             <td>161</td>
             <td>(24)</td>
@@ -3936,9 +3900,6 @@ The table below provides details by counterpart and by product of past due risks
             <td>98</td>
             <td>26</td>
             <td>22</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
             <td>628</td>
             <td>179</td>
             <td>(119)</td>
@@ -3951,9 +3912,6 @@ The table below provides details by counterpart and by product of past due risks
             <td>136</td>
             <td>29</td>
             <td>21</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
             <td>529</td>
             <td>222</td>
             <td>(31)</td>
@@ -3966,9 +3924,6 @@ The table below provides details by counterpart and by product of past due risks
             <td>1</td>
             <td>-</td>
             <td>-</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
             <td>1</td>
             <td>1</td>
             <td>-</td>
@@ -3981,9 +3936,6 @@ The table below provides details by counterpart and by product of past due risks
             <td>2,685</td>
             <td>682</td>
             <td>227</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
             <td>22,764</td>
             <td>11,747</td>
             <td>(3,540)</td>
@@ -3996,9 +3948,6 @@ The table below provides details by counterpart and by product of past due risks
             <td>2</td>
             <td>-</td>
             <td>-</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
             <td>113</td>
             <td>13</td>
             <td>(10)</td>
@@ -4011,9 +3960,6 @@ The table below provides details by counterpart and by product of past due risks
             <td>1,342</td>
             <td>266</td>
             <td>106</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
             <td>16,526</td>
             <td>9,767</td>
             <td>(1,705)</td>
@@ -4026,9 +3972,6 @@ The table below provides details by counterpart and by product of past due risks
             <td>589</td>
             <td>102</td>
             <td>27</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
             <td>1,129</td>
             <td>809</td>
             <td>(182)</td>
@@ -4041,9 +3984,6 @@ The table below provides details by counterpart and by product of past due risks
             <td>957</td>
             <td>164</td>
             <td>220</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
             <td>1,543</td>
             <td>404</td>
             <td>(129)</td>
@@ -4056,9 +3996,6 @@ The table below provides details by counterpart and by product of past due risks
             <td>616</td>
             <td>174</td>
             <td>110</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
             <td>5,918</td>
             <td>4,303</td>
             <td>(293)</td>
@@ -4071,9 +4008,6 @@ The table below provides details by counterpart and by product of past due risks
             <td>3</td>
             <td>-</td>
             <td>1</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
             <td>276</td>
             <td>66</td>
             <td>(32)</td>
@@ -25140,13 +25074,11 @@ Pursuant to the above, the remuneration paid to the executive directors during 2
 Under this item, the executive directors received: €302 thousand and 37,392 BBVA shares in the case of the Group Executive Chairman; €95 thousand and 11,766 BBVA shares in the case of the Chief Executive Officer; and €30 thousand and 3,681 BBVA shares in the case of the executive director Head of GERPA.<br/>
 - 2nd third of deferred Annual Variable Remuneration from 2013<br/>
 Under this item, the executive directors received €289 thousand and 29,557 BBVA shares in the case of the Group Executive Chairman; €78 thousand and 7,937 BBVA shares in the case of the Chief Executive Officer; and €17 thousand and 1,768 BBVA shares in the case of the executive director Head of GERPA.<br/>
-- 3rd third of deferred Annual Variable Remuneration from 2012
+- 3rd third of deferred Annual Variable Remuneration from 2012<br/>
+Under this item, the Group Executive Chairman received €301 thousand and 36,163 BBVA shares, while the Chief Executive Officer received €68 thousand and 8.120 BBVA shares.
 </li>
 </ul>
 
-
-
-Under this item, the Group Executive Chairman received €301 thousand and 36,163 BBVA shares, while the Chief Executive Officer received €68 thousand and 8.120 BBVA shares.
 
 The executive directors will receive, during the first quarter of each of the next two years, the deferred amounts that in each case correspond in application of the settlement of the deferred Annual Variable Remuneration from previous years (2014 and 2013), and subject to the conditions established in the applicable settlement and payment system. 
 

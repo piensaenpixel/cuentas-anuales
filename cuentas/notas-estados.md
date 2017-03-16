@@ -16169,7 +16169,7 @@ Los movimientos más significativos producidos en los ejercicios 2016, 2015 y 2
 </table>
 <!--[Descargar tabla](#)-->
 <ul class="cita">
-<li>(*) Incorporación de Catalunya Bank S.A. en 2015</li></ul>
+<li>(*) Incorporación de Catalunya Banc S.A. en 2015</li></ul>
 
 Respecto a la variación de activos y pasivos por impuestos diferidos contenido en el cuadro anterior es conveniente señalar lo siguiente:
 
