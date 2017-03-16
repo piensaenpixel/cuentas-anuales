@@ -203,7 +203,7 @@ headerTitle: Informe cuentas anuales BBVA 2016
         </tr>
         <tr class="b">
             <td>CAMBIOS DEL VALOR RAZONABLE DE LOS ELEMENTOS CUBIERTOS DE UNA CARTERA CON COBERTURA DEL RIESGO DEL TIPO DE INTERÉS</td>
-            <td>15</td>
+            <td><a href="../notas-estados-financieros/index.html#15-derivados--contabilidad-de-coberturas-y-cambios-del-valor-razonable-de-los-elementos-cubiertos-de-una-cartera-con-cobertura-del-riesgo-de-tipo-de-interés">15</a></td>
             <td>17</td>
             <td>45</td>
             <td>121</td>
@@ -1572,8 +1572,8 @@ Las Notas 1 a 56 y los Anexos I a XIV adjuntos forman parte integrante del estad
         </tr>
         <tr>
             <th>2016 </th>
-            <th>Capital (Nota 26)</th>
-            <th>Prima de emisión (Nota 27)</th>
+            <th>Capital <a href="../notas-estados-financieros/index.html#26-capital" style="color:#fff; text-decoration:underline;">(Nota 26)</a></th>
+            <th>Prima de emisión <a href="../notas-estados-financieros/index.html#27-prima-de-emisión" style="color:#fff; text-decoration:underline;">(Nota 27)</a></th>
             <th>Instrumentos de patrimonio emitidos distintos del capital</th>
             <th>Otros elementos del patrimonio neto</th>
             <th>Ganancias acumuladas</th>
@@ -1944,8 +1944,8 @@ Las Notas 1 a 56 y los Anexos I a XIV adjuntos forman parte integrante del estad
         </tr>
         <tr>
             <th>2015 (*) </th>
-            <th>Capital (Nota 26)</th>
-            <th>Prima de emisión (Nota 27)</th>
+            <th>Capital <a href="../notas-estados-financieros/index.html#26-capital" style="color:#fff; text-decoration:underline;">(Nota 26)</a></th>
+            <th>Prima de emisión <a href="../notas-estados-financieros/index.html#27-prima-de-emisión" style="color:#fff; text-decoration:underline;">(Nota 27)</a></th>
             <th>Instrumentos de patrimonio emitidos distintos del capital</th>
             <th>Otros elementos del patrimonio neto</th>
             <th>Ganancias acumuladas</th>
@@ -2319,8 +2319,8 @@ a   efectos comparativos    (Nota   1.3)</li>
         </tr>
         <tr>
             <th>2014 (*) </th>
-            <th>Capital (Nota 26)</th>
-            <th>Prima de emisión (Nota 27)</th>
+            <th>Capital <a href="../notas-estados-financieros/index.html#26-capital" style="color:#fff; text-decoration:underline;">(Nota 26)</a></th>
+            <th>Prima de emisión <a href="../notas-estados-financieros/index.html#27-prima-de-emisión" style="color:#fff; text-decoration:underline;">(Nota 27)</a></th>
             <th>Instrumentos de patrimonio emitidos distintos del capital</th>
             <th>Otros elementos del patrimonio neto</th>
             <th>Ganancias acumuladas</th>

@@ -4546,7 +4546,7 @@ desaceleración significativa de la economía.
 <li><sup>(3)</sup> Incluye fondos de inversión, fondos de pensiones y otros recursos fuera de balance.</li></ul>
 
 
-## Actividad y resultados
+### Actividad y resultados
 
 La **inversión** crediticia del área recupera la
 senda alcista en el cuarto trimestre del ejercicio.

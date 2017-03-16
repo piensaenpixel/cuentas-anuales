@@ -34,14 +34,14 @@ headerTitle: Consolidated financial statements BBVA 2016
     <tbody>
         <tr class="b">
             <td>CASH, CASH BALANCES AT CENTRAL BANKS AND OTHER DEMAND DEPOSITS</td>
-            <td><a href="#">9</a></td>
+            <td><a href="../../../en/cuentas/notas-estados-financieros/index.html#9-cash-and-cash-balances-at-centrals-and-banks-and-other-demands-deposits-and-financial-liabilities-measured-at-amortized-cost">9</a></td>
             <td>40,039</td>
             <td>29,282</td>
             <td>27,719</td>
         </tr>
         <tr class="b">
             <td>FINANCIAL ASSETS HELD FOR TRADING</td>
-            <td><a href="#">10</a></td>
+            <td><a href="../../../en/cuentas/notas-estados-financieros/index.html#10-financial-assets-and-liabilities-held-for-trading">10</a></td>
             <td>74,950</td>
             <td>78,326</td>
             <td>83,258</td>
@@ -90,7 +90,7 @@ headerTitle: Consolidated financial statements BBVA 2016
         </tr>
         <tr class="b">
             <td>FINANCIAL ASSETS DESIGNATED AT FAIR VALUE THROUGH PROFIT OR LOSS </td>
-            <td><a href="#">11</a></td>
+            <td><a href="../../../en/cuentas/notas-estados-financieros/index.html#11-financial-assets-and-liabilities-designated-at-fair-value-through-profit-or-loss">11</a></td>
             <td>2,062</td>
             <td>2,311</td>
             <td>2,761</td>
@@ -132,7 +132,7 @@ headerTitle: Consolidated financial statements BBVA 2016
         </tr>
         <tr class="b">
             <td>AVAILABLE-FOR-SALE FINANCIAL ASSETS </td>
-            <td><a href="#">12</a></td>
+            <td><a href="../../../en/cuentas/notas-estados-financieros/index.html#12-available-for-sale-financial-assets">12</a></td>
             <td>79,221</td>
             <td>113,426</td>
             <td>94,875</td>
@@ -153,7 +153,7 @@ headerTitle: Consolidated financial statements BBVA 2016
         </tr>
         <tr class="b">
             <td>LOANS AND RECEIVABLES</td>
-            <td><a href="#">13</a></td>
+            <td><a href="../../../en/cuentas/notas-estados-financieros/index.html#13-loans-and-receivables">13</a></td>
             <td>465,977</td>
             <td>471,828</td>
             <td>376,086</td>
@@ -188,41 +188,41 @@ headerTitle: Consolidated financial statements BBVA 2016
         </tr>
         <tr class="b">
             <td>HELD-TO-MATURITY INVESTMENTS</td>
-            <td><a href="#">14</a></td>
+            <td><a href="../../../en/cuentas/notas-estados-financieros/index.html#14-held-to-maturity-investments">14</a></td>
             <td>17,696</td>
             <td>-</td>
             <td>-</td>
         </tr>
         <tr class="b">
             <td>HEDGING DERIVATIVES</td>
-            <td><a href="#">15</a></td>
+            <td><a href="../../../en/cuentas/notas-estados-financieros/index.html#15-hedging-derivatives-and-fair-value-changes-of-the-hedged-items-in-portfolio-hedge-of-interest-rate-risk">15</a></td>
             <td>2,833</td>
             <td>3,538</td>
             <td>2,551</td>
         </tr>
         <tr class="b">
             <td>FAIR VALUE CHANGES OF THE HEDGED ITEMS IN PORTFOLIO HEDGES OF INTEREST RATE RISK</td>
-            <td>15</td>
+            <td><a href="../../../en/cuentas/notas-estados-financieros/index.html#15-hedging-derivatives-and-fair-value-changes-of-the-hedged-items-in-portfolio-hedge-of-interest-rate-risk">15</a></td>
             <td>17</td>
             <td>45</td>
             <td>121</td>
         </tr>
         <tr class="b">
             <td>INVESTMENTS IN SUBSIDARIES, JOINT VENTURES AND ASSOCIATES</td>
-            <td><a href="#">16</a></td>
+            <td><a href="../../../en/cuentas/notas-estados-financieros/index.html#16-investments-in-subsidiaries-joint-ventures-and-associates">16</a></td>
             <td>765</td>
             <td>879</td>
             <td>4,509</td>
         </tr>
         <tr class="s">
-            <td> Joint ventures</td>
+            <td>Joint ventures</td>
             <td>&nbsp;</td>
             <td>229</td>
             <td>243</td>
             <td>4,092</td>
         </tr>
         <tr class="s">
-            <td>  Associates</td>
+            <td>Associates</td>
             <td>&nbsp;</td>
             <td>536</td>
             <td>636</td>
@@ -230,14 +230,14 @@ headerTitle: Consolidated financial statements BBVA 2016
         </tr>
         <tr class="b">
             <td>INSURANCE OR REINSURANCE ASSETS</td>
-            <td><a href="#">23</a></td>
+            <td><a href="../../../en/cuentas/notas-estados-financieros/index.html#23-liabilities-under-reinsurance-and-insurance-contracts">23</a></td>
             <td>447</td>
             <td>511</td>
             <td>559</td>
         </tr>
         <tr class="b">
             <td>TANGIBLE ASSETS</td>
-            <td><a href="#">17</a></td>
+            <td><a href="../../../en/cuentas/notas-estados-financieros/index.html#17-tangible-assets">17</a></td>
             <td>8,941</td>
             <td>9,944</td>
             <td>7,820</td>
@@ -272,7 +272,7 @@ headerTitle: Consolidated financial statements BBVA 2016
         </tr>
         <tr class="b">
             <td>INTANGIBLE ASSETS</td>
-            <td><a href="#">18</a></td>
+            <td><a href="../../../en/cuentas/notas-estados-financieros/index.html#18-intangible-assets">18</a></td>
             <td>9,786</td>
             <td>10,052</td>
             <td>7,371</td>
@@ -293,7 +293,7 @@ headerTitle: Consolidated financial statements BBVA 2016
         </tr>
         <tr class="b">
             <td>TAX ASSETS</td>
-            <td><a href="#">19</a></td>
+            <td><a href="../../../en/cuentas/notas-estados-financieros/index.html#19-tax-assets-and-liabilities">19</a></td>
             <td>18,245</td>
             <td>17,779</td>
             <td>12,426</td>
@@ -314,7 +314,7 @@ headerTitle: Consolidated financial statements BBVA 2016
         </tr>
         <tr class="b">
             <td>OTHER ASSETS </td>
-            <td><a href="#">20</a></td>
+            <td><a href="../../../en/cuentas/notas-estados-financieros/index.html#20-other-assets-and-liabilities">20</a></td>
             <td>7,274</td>
             <td>8,565</td>
             <td>8,094</td>
@@ -342,7 +342,7 @@ headerTitle: Consolidated financial statements BBVA 2016
         </tr>
         <tr class="b">
             <td>NON-CURRENT ASSETS AND DISPOSAL GROUPS HELD FOR SALE</td>
-            <td><a href="#">21</a></td>
+            <td><a href="../../../en/cuentas/notas-estados-financieros/index.html#21-non-current-assets-and-disposal-groups-classified-as-held-for-sale">21</a></td>
             <td>3,603</td>
             <td>3,369</td>
             <td>3,793</td>
@@ -358,7 +358,7 @@ headerTitle: Consolidated financial statements BBVA 2016
 </table>
 <!--[Download table](#)-->
 
-<ul class="cita"><li>(*) Presented for comparison purposes only (Note 1,3).</li> 
+<ul class="cita"><li>(*) Presented for comparison purposes only (Note 1.3).</li> 
 
 <li>The accompanying Notes 1 to 57 and Appendices I to XIV are an integral part of the consolidated balance sheet as of December 31, 2016.</li></ul>
 
@@ -382,7 +382,7 @@ headerTitle: Consolidated financial statements BBVA 2016
     <tbody>
         <tr class="b">
             <td>FINANCIAL LIABILITIES HELD FOR TRADING</td>
-            <td>10</td>
+            <td><a href="../../../en/cuentas/notas-estados-financieros/index.html#10-financial-assets-and-liabilities-held-for-trading">10</a></td>
             <td>54,675</td>
             <td>55,202</td>
             <td>56,798</td>
@@ -438,7 +438,7 @@ headerTitle: Consolidated financial statements BBVA 2016
         </tr>
         <tr class="b">
             <td>FINANCIAL LIABILITIES DESIGNATED AT FAIR VALUE THROUGH PROFIT OR LOSS</td>
-            <td>11</td>
+            <td><a href="../../../en/cuentas/notas-estados-financieros/index.html#11-financial-assets-and-liabilities-designated-at-fair-value-through-profit-or-loss">11</a></td>
             <td>2,338</td>
             <td>2,649</td>
             <td>2,724</td>
@@ -480,7 +480,7 @@ headerTitle: Consolidated financial statements BBVA 2016
         </tr>
         <tr class="b">
             <td>FINANCIAL LIABILITIES AT AMORTIZED COST</td>
-            <td>22</td>
+            <td><a href="../../../en/cuentas/notas-estados-financieros/index.html#22-financial-liabilities-at-amortized-cost">22</a></td>
             <td>589,210</td>
             <td>606,113</td>
             <td>491,899</td>
@@ -522,35 +522,35 @@ headerTitle: Consolidated financial statements BBVA 2016
         </tr>
         <tr class="b">
             <td>HEDGING DERIVATIVES </td>
-            <td>15</td>
+            <td><a href="../../../en/cuentas/notas-estados-financieros/index.html#15-hedging-derivatives-and-fair-value-changes-of-the-hedged-items-in-portfolio-hedge-of-interest-rate-risk">15</a></td>
             <td>2,347</td>
             <td>2,726</td>
             <td>2,331</td>
         </tr>
         <tr class="b">
             <td>FAIR VALUE CHANGES OF THE HEDGED ITEMS IN PORTFOLIO HEDGES OF INTEREST RATE RISK</td>
-            <td>15</td>
+            <td><a href="../../../en/cuentas/notas-estados-financieros/index.html#15-hedging-derivatives-and-fair-value-changes-of-the-hedged-items-in-portfolio-hedge-of-interest-rate-risk">15</a></td>
             <td>-</td>
             <td>358</td>
             <td>-</td>
         </tr>
         <tr class="b">
             <td>LIABILITIES UNDER INSURANCE CONTRACTS</td>
-            <td>23</td>
+            <td><a href="../../../en/cuentas/notas-estados-financieros/index.html#23-liabilities-under-reinsurance-and-insurance-contracts">23</a></td>
             <td>9,139</td>
             <td>9,407</td>
             <td>10,460</td>
         </tr>
         <tr class="b">
             <td>PROVISIONS</td>
-            <td>24</td>
+            <td><a href="../../../en/cuentas/notas-estados-financieros/index.html#24-provisions">24</a></td>
             <td>9,071</td>
             <td>8,852</td>
             <td>7,444</td>
         </tr>
         <tr class="s">
             <td> Provisions for pensions and similar obligations</td>
-            <td>25</td>
+            <td><a href="../../../en/cuentas/notas-estados-financieros/index.html#25-post-employment-and-other-employee-benefit-commitments">25</a></td>
             <td>6,025</td>
             <td>6,299</td>
             <td>5,970</td>
@@ -585,7 +585,7 @@ headerTitle: Consolidated financial statements BBVA 2016
         </tr>
         <tr class="b">
             <td>TAX LIABILITIES</td>
-            <td>19</td>
+            <td><a href="../../../en/cuentas/notas-estados-financieros/index.html#19-tax-assets-and-liabilities">19</a></td>
             <td>4,668</td>
             <td>4,656</td>
             <td>4,157</td>
@@ -606,7 +606,7 @@ headerTitle: Consolidated financial statements BBVA 2016
         </tr>
         <tr class="b">
             <td>OTHER LIABILITIES </td>
-            <td>20</td>
+            <td><a href="../../../en/cuentas/notas-estados-financieros/index.html#20-other-assets-and-liabilities">20</a></td>
             <td>4,979</td>
             <td>4,610</td>
             <td>4,519</td>
@@ -629,7 +629,7 @@ headerTitle: Consolidated financial statements BBVA 2016
 </table>
 <!--[Download table](#)-->
 
-<ul class="cita"><li>(*) Presented for comparison purposes only (Note 1,3).</li> 
+<ul class="cita"><li>(*) Presented for comparison purposes only (Note 1.3).</li> 
 
 <li>The accompanying Notes 1 to 57 and Appendices I to XIV are an integral part of the consolidated balance sheet as of December 31, 2016.</li></ul>
 
@@ -662,7 +662,7 @@ headerTitle: Consolidated financial statements BBVA 2016
         </tr>
         <tr class="s b">
             <td> Capital</td>
-            <td><a href="#">26</a></td>
+            <td><a href="../../../en/cuentas/notas-estados-financieros/index.html#26-common-stock">26</a></td>
             <td>3,218</td>
             <td>3,120</td>
             <td>3,024</td>
@@ -683,7 +683,7 @@ headerTitle: Consolidated financial statements BBVA 2016
         </tr>
         <tr class="s b">
             <td> Share premium</td>
-            <td><a href="#">27</a></td>
+            <td><a href="../../../en/cuentas/notas-estados-financieros/index.html#27-share-premium">27</a></td>
             <td>23,992</td>
             <td>23,992</td>
             <td>23,992</td>
@@ -697,28 +697,28 @@ headerTitle: Consolidated financial statements BBVA 2016
         </tr>
         <tr class="s b">
             <td> Other equity</td>
-            <td><a href="#">44,1,1</a></td>
+           <td><a href="../../../en/cuentas/notas-estados-financieros/index.html#44-administration-costs">44.1.1</a></td>
             <td>54</td>
             <td>35</td>
             <td>67</td>
         </tr>
         <tr class="s b">
             <td> Retained earnings</td>
-            <td><a href="#">28</a></td>
+            <td><a href="../../../en/cuentas/notas-estados-financieros/index.html#28-retained-earnings-revaluation-reserves-and-other-reserves">28</a></td>
             <td>23,688</td>
             <td>22,588</td>
             <td>20,280</td>
         </tr>
         <tr class="s b">
             <td> Revaluation reserves</td>
-            <td><a href="#">28</a></td>
+            <td><a href="../../../en/cuentas/notas-estados-financieros/index.html#28-retained-earnings-revaluation-reserves-and-other-reserves">28</a></td>
             <td>20</td>
             <td>22</td>
             <td>23</td>
         </tr>
         <tr class="s b">
             <td> Other reserves</td>
-            <td><a href="#">28</a></td>
+            <td><a href="../../../en/cuentas/notas-estados-financieros/index.html#28-retained-earnings-revaluation-reserves-and-other-reserves">28</a></td>
             <td>(67)</td>
             <td>(98)</td>
             <td>633</td>
@@ -739,7 +739,7 @@ headerTitle: Consolidated financial statements BBVA 2016
         </tr>
         <tr class="s b">
             <td> Less: Treasury shares</td>
-            <td><a href="#">29</a></td>
+            <td><a href="../../../en/cuentas/notas-estados-financieros/index.html#29-treasury-shares">29</a></td>
             <td>(48)</td>
             <td>(309)</td>
             <td>(350)</td>
@@ -753,14 +753,14 @@ headerTitle: Consolidated financial statements BBVA 2016
         </tr>
         <tr class="s b">
             <td> Less: Interim dividends</td>
-            <td><a href="#">4</a></td>
+            <td><a href="../../../en/cuentas/notas-estados-financieros/index.html#4-shareholder-remuneration-system">4</a></td>
             <td>(1,510)</td>
             <td>(1,352)</td>
             <td>(841)</td>
         </tr>
         <tr class="b">
             <td>ACCUMULATED OTHER COMPREHENSIVE INCOME</td>
-            <td><a href="#">30</a></td>
+            <td><a href="../../../en/cuentas/notas-estados-financieros/index.html#30-accumulated-other-comprehensive-income">30</a></td>
             <td>(5,458)</td>
             <td>(3,349)</td>
             <td>(348)</td>
@@ -851,7 +851,7 @@ headerTitle: Consolidated financial statements BBVA 2016
         </tr>
         <tr class="b">
             <td>MINORITY INTERESTS (NON-CONTROLLING INTEREST)</td>
-            <td><a href="#">31</a></td>
+            <td><a href="../../../en/cuentas/notas-estados-financieros/index.html#31-non-controlling-interests">31</a></td>
             <td>8,064</td>
             <td>7,992</td>
             <td>2,511</td>
@@ -906,14 +906,14 @@ headerTitle: Consolidated financial statements BBVA 2016
     <tbody>
         <tr>
             <td>Financial guarantees given</td>
-            <td><a href="#">33</a></td>
+            <td><a href="../../../en/cuentas/notas-estados-financieros/index.html#33-commitments-and-guarantees-given">33</a></td>
             <td>50,540</td>
             <td>49,876</td>
             <td>33,741</td>
         </tr>
         <tr>
             <td>Contingent commitments</td>
-            <td><a href="#">33</a></td>
+            <td><a href="../../../en/cuentas/notas-estados-financieros/index.html#33-commitments-and-guarantees-given">33</a></td>
             <td>117,573</td>
             <td>135,733</td>
             <td>106,252</td>
@@ -922,7 +922,7 @@ headerTitle: Consolidated financial statements BBVA 2016
 </table>
 <!--[Download table](#)-->
 
-<ul class="cita"><li>(*)  Presented for comparison purposes only (Note 1,3). </li>
+<ul class="cita"><li>(*)  Presented for comparison purposes only (Note 1.3). </li>
 
 <li>The accompanying Notes 1 to 57 and Appendices I to XIV are an integral part of the consolidated balance sheet as of December 31, 2016.</li></ul>
 
@@ -947,14 +947,14 @@ headerTitle: Consolidated financial statements BBVA 2016
     <tbody>
         <tr>
             <td>Interest income</td>
-            <td><a href="#">37</a></td>
+            <td><a href="../../../en/cuentas/notas-estados-financieros/index.html#37-interest-income-and-expense">37</a></td>
             <td>27,708</td>
             <td>24,783</td>
             <td>22,838</td>
         </tr>
         <tr>
             <td>Interest expenses</td>
-            <td><a href="#">37</a></td>
+            <td><a href="../../../en/cuentas/notas-estados-financieros/index.html#37-interest-income-and-expense">37</a></td>
             <td>(10,648)</td>
             <td>(8,761)</td>
             <td>(8,456)</td>
@@ -968,91 +968,91 @@ headerTitle: Consolidated financial statements BBVA 2016
         </tr>
         <tr>
             <td>Dividend income</td>
-            <td><a href="#">38</a></td>
+            <td><a href="../../../en/cuentas/notas-estados-financieros/index.html#38-dividend-income">38</a></td>
             <td>467</td>
             <td>415</td>
             <td>531</td>
         </tr>
         <tr>
             <td>Share of profit or loss of entities accounted for using the equity method</td>
-            <td><a href="#">39</a></td>
+            <td><a href="../../../en/cuentas/notas-estados-financieros/index.html#39-share-of-profit-or-loss-of-entities-accounted-for-using-the-equity-method">39</a></td>
             <td>25</td>
             <td>174</td>
             <td>343</td>
         </tr>
         <tr>
             <td>Fee and commission income</td>
-            <td><a href="#">40</a></td>
+            <td><a href="../../../en/cuentas/notas-estados-financieros/index.html#40-fee-and-commission-income-and-expenses">40</a></td>
             <td>6,804</td>
             <td>6,340</td>
             <td>5,530</td>
         </tr>
         <tr>
             <td>Fee and commission expenses</td>
-            <td><a href="#">40</a></td>
+            <td><a href="../../../en/cuentas/notas-estados-financieros/index.html#40-fee-and-commission-income-and-expenses">40</a></td>
             <td>(2,086)</td>
             <td>(1,729)</td>
             <td>(1,356)</td>
         </tr>
         <tr>
             <td>Gains or (-) losses on derecognition of financial assets and liabilities not measured at fair value through profit or loss, net</td>
-            <td><a href="#">41</a></td>
+            <td><a href="../../../en/cuentas/notas-estados-financieros/index.html#41-gains-losses-on-financial-assets-and-liabilities-net-and-exchange-differences">41</a></td>
             <td>1,375</td>
             <td>1,055</td>
             <td>1,439</td>
         </tr>
         <tr>
             <td>Gains or (-) losses on financial assets and liabilities held for trading, net</td>
-            <td><a href="#">41</a></td>
+            <td><a href="../../../en/cuentas/notas-estados-financieros/index.html#41-gains-losses-on-financial-assets-and-liabilities-net-and-exchange-differences">41</a></td>
             <td>248</td>
             <td>(409)</td>
             <td>11</td>
         </tr>
         <tr>
             <td>Gains or (-) losses on financial assets and liabilities designated at fair value through profit or loss, net</td>
-            <td><a href="#">41</a></td>
+            <td><a href="../../../en/cuentas/notas-estados-financieros/index.html#41-gains-losses-on-financial-assets-and-liabilities-net-and-exchange-differences">41</a></td>
             <td>114</td>
             <td>126</td>
             <td>32</td>
         </tr>
         <tr>
             <td>Gains or (-) losses from hedge accounting, net</td>
-            <td><a href="#">41</a></td>
+            <td><a href="../../../en/cuentas/notas-estados-financieros/index.html#41-gains-losses-on-financial-assets-and-liabilities-net-and-exchange-differences">41</a></td>
             <td>(76)</td>
             <td>93</td>
             <td>(47)</td>
         </tr>
         <tr>
             <td>Exchange differences (net)</td>
-            <td><a href="#">41</a></td>
+            <td><a href="../../../en/cuentas/notas-estados-financieros/index.html#41-gains-losses-on-financial-assets-and-liabilities-net-and-exchange-differences">41</a></td>
             <td>472</td>
             <td>1,165</td>
             <td>699</td>
         </tr>
         <tr>
             <td>Other operating income</td>
-            <td><a href="#">42</a></td>
+            <td><a href="../../../en/cuentas/notas-estados-financieros/index.html#42-other-operating-income-and-expenses">42</a></td>
             <td>1,272</td>
             <td>1,315</td>
             <td>959</td>
         </tr>
         <tr>
             <td>Other operating expenses</td>
-            <td><a href="#">42</a></td>
+            <td><a href="../../../en/cuentas/notas-estados-financieros/index.html#42-other-operating-income-and-expenses">42</a></td>
             <td>(2,128)</td>
             <td>(2,285)</td>
             <td>(2,705)</td>
         </tr>
         <tr>
             <td>Income on insurance and reinsurance contracts</td>
-            <td><a href="#">43</a></td>
+            <td><a href="../../../en/cuentas/notas-estados-financieros/index.html#43-insurance-and-reinsurance-contracts-incomes-and-expenses">43</a></td>
             <td>3,652</td>
             <td>3,678</td>
             <td>3,622</td>
         </tr>
         <tr>
             <td>Expenses on insurance and reinsurance contracts</td>
-            <td><a href="#">43</a></td>
+            <td><a href="../../../en/cuentas/notas-estados-financieros/index.html#43-insurance-and-reinsurance-contracts-incomes-and-expenses">43</a></td>
             <td>(2,545)</td>
             <td>(2,599)</td>
             <td>(2,714)</td>
@@ -1066,7 +1066,7 @@ headerTitle: Consolidated financial statements BBVA 2016
         </tr>
         <tr>
             <td>Administration costs</td>
-            <td><a href="#">44</a></td>
+            <td><a href="../../../en/cuentas/notas-estados-financieros/index.html#44-administration-costs">44</a></td>
             <td>(11,366)</td>
             <td>(10,836)</td>
             <td>(9,414)</td>
@@ -1087,21 +1087,21 @@ headerTitle: Consolidated financial statements BBVA 2016
         </tr>
         <tr>
             <td>Depreciation</td>
-            <td><a href="#">45</a></td>
+            <td><a href="../../../en/cuentas/notas-estados-financieros/index.html#45-depreciation">45</a></td>
             <td>(1,426)</td>
             <td>(1,272)</td>
             <td>(1,145)</td>
         </tr>
         <tr>
             <td>Provisions or (-) reversal of provisions</td>
-            <td><a href="#">46</a></td>
+            <td><a href="../../../en/cuentas/notas-estados-financieros/index.html#46-provisions-or-reversal-of-provisions">46</a></td>
             <td>(1,186)</td>
             <td>(731)</td>
             <td>(1,142)</td>
         </tr>
         <tr>
             <td>Impairment or (-) reversal of impairment on financial assets not measured at fair value through profit or loss</td>
-            <td><a href="#">47</a></td>
+            <td><a href="../../../en/cuentas/notas-estados-financieros/index.html#47-impairment-or-reversal-of-impairment-on-financial-assets-not-measured-at-fair-value-through-profit-or-loss">47</a></td>
             <td>(3,801)</td>
             <td>(4,272)</td>
             <td>(4,340)</td>
@@ -1150,7 +1150,7 @@ headerTitle: Consolidated financial statements BBVA 2016
         </tr>
         <tr>
             <td>Impairment or (-) reversal of impairment on non-financial assets</td>
-            <td><a href="#">48</a></td>
+            <td><a href="../../../en/cuentas/notas-estados-financieros/index.html#48-impairment-or-reversal-of-impairment-on-non-financial-assets">48</a></td>
             <td>(521)</td>
             <td>(273)</td>
             <td>(297)</td>
@@ -1178,21 +1178,21 @@ headerTitle: Consolidated financial statements BBVA 2016
         </tr>
         <tr>
             <td>Gains (losses) on derecognized of non financial assets and subsidiaries, net</td>
-            <td><a href="#">49</a></td>
+            <td><a href="../../../en/cuentas/notas-estados-financieros/index.html#49-gains-losses-on-derecognized-of-non-financial-assets-and-subsidiaries-net">49</a></td>
             <td>70</td>
             <td>(2,135)</td>
             <td>46</td>
         </tr>
         <tr>
             <td>Negative goodwill recognised in profit or loss</td>
-            <td><a href="#">18</a></td>
+            <td><a href="../../../en/cuentas/notas-estados-financieros/index.html#18-intangible-assets">18</a></td>
             <td>-</td>
             <td>26</td>
             <td>-</td>
         </tr>
         <tr>
             <td>Profit or (-) loss from non-current assets and disposal groups classified as held for sale not qualifying as discontinued operations </td>
-            <td><a href="#">50</a></td>
+            <td><a href="../../../en/cuentas/notas-estados-financieros/index.html#50-profit-or-loss-from-non-current-assets-and-disposal-groups-classified-as-held-for-sale-not-qualifying-as-discontinued-operations">50</a></td>
             <td>(31)</td>
             <td>734</td>
             <td>(453)</td>
@@ -1206,7 +1206,7 @@ headerTitle: Consolidated financial statements BBVA 2016
         </tr>
         <tr>
             <td>Tax expense or (-) income related to profit or loss from continuing operation</td>
-            <td><a href="#">19</a></td>
+            <td><a href="../../../en/cuentas/notas-estados-financieros/index.html#19-tax-assets-and-liabilities">19</a></td>
             <td>(1,699)</td>
             <td>(1,274)</td>
             <td>(898)</td>
@@ -1234,7 +1234,7 @@ headerTitle: Consolidated financial statements BBVA 2016
         </tr>
         <tr class="s">
             <td> Attributable to minority interest [non-controlling interests]</td>
-            <td><a href="#">31</a></td>
+            <td><a href="../../../en/cuentas/notas-estados-financieros/index.html#31-non-controlling-interests">31</a></td>
             <td>1,218</td>
             <td>686</td>
             <td>464</td>
@@ -1268,7 +1268,7 @@ headerTitle: Consolidated financial statements BBVA 2016
     <tbody>
         <tr class="b">
             <td>EARNINGS PER SHARE</td>
-            <td><a href="#">5</a></td>
+            <td><a href="../../../en/cuentas/notas-estados-financieros/index.html#5-earnings-per-share">5</a></td>
             <td>0.50</td>
             <td>0.37</td>
             <td>0.40</td>
@@ -1305,11 +1305,11 @@ headerTitle: Consolidated financial statements BBVA 2016
 </table>
 <!--[Download table](#)-->
 
-<ul class="cita"><li>(*) Presented for comparison purposes only (Note 1,3).</li> 
+<ul class="cita"><li>(*) Presented for comparison purposes only (Note 1.3).</li> 
 
 <li>The accompanying Notes 1 to 57 and Appendices I to XIV are an integral part of the consolidated income statement corresponding to the year ended December 31, 2016.</li></ul>
 
-## Consolidated statements of recognized income and expenses for the years ended December 31, 2016, 2015 and 2014. 
+## 3. Consolidated statements of recognized income and expenses for the years ended December 31, 2016, 2015 and 2014. 
 
 <table class="l">
     <thead>
@@ -1533,7 +1533,7 @@ headerTitle: Consolidated financial statements BBVA 2016
 </table>
 <!--[Download table](#)-->
 
-<ul class="cita"><li>(*) Presented for comparison purposes only (Note 1,3).</li> 
+<ul class="cita"><li>(*) Presented for comparison purposes only (Note 1.3).</li> 
 
 <li>The accompanying Notes 1 to 57 and Appendices I to XIV are an integral part of the consolidated statement of recognized income and expenses for the years ended December 31, 2016, 2015 and 2014.</li></ul> 
 
@@ -2281,7 +2281,7 @@ headerTitle: Consolidated financial statements BBVA 2016
 </table>
 <!--[Download table](#)-->
 
-<ul class="cita"><li>(*) Presented for comparison purposes only (Note 1,3).</li> 
+<ul class="cita"><li>(*) Presented for comparison purposes only (Note 1.3).</li> 
 
 <li>The accompanying Notes 1 to 57 and Appendices I to XIV are an integral part of the total consolidated statement of changes in equity for the year ended December 31, 2016.</li></ul>
 
@@ -2656,7 +2656,7 @@ headerTitle: Consolidated financial statements BBVA 2016
 </table>
 <!--[Download table](#)-->
 
-<ul class="cita"><li>(*) Presented for comparison purposes only (Note 1,3).</li> 
+<ul class="cita"><li>(*) Presented for comparison purposes only (Note 1.3).</li> 
 
 <li>The accompanying Notes 1 to 57 and Appendices I to XIV are an integral part of the total consolidated statement of changes in equity for the year ended December 31, 2016.</li></ul>
 
@@ -2680,7 +2680,7 @@ headerTitle: Consolidated financial statements BBVA 2016
     <tbody>
         <tr class="b">
             <td>A) CASH FLOW FROM OPERATING ACTIVITIES  <small>(1 + 2 + 3 + 4 + 5)</small></td>
-            <td><a href="#">51</a></td>
+            <td><a href="../../../en/cuentas/notas-estados-financieros/index.html#51-consolidated-statements-of-cash-flows">51</a></td>
             <td>6,623</td>
             <td>23,101</td>
             <td>(6,188)</td>
@@ -2799,7 +2799,7 @@ headerTitle: Consolidated financial statements BBVA 2016
         </tr>
         <tr class="b">
             <td>B) CASH FLOWS FROM INVESTING ACTIVITIES  <small>(1 + 2)</small></td>
-            <td><a href="#">51</a></td>
+            <td><a href="../../../en/cuentas/notas-estados-financieros/index.html#51-consolidated-statements-of-cash-flows">51</a></td>
             <td>(560)</td>
             <td>(4,411)</td>
             <td>(1,151)</td>
@@ -2918,7 +2918,7 @@ headerTitle: Consolidated financial statements BBVA 2016
         </tr>
         <tr class="b">
             <td>C) CASH FLOWS FROM FINANCING ACTIVITIES   (1 + 2)</td>
-            <td><a href="#">51</a></td>
+            <td><a href="../../../en/cuentas/notas-estados-financieros/index.html#51-consolidated-statements-of-cash-flows">51</a></td>
             <td>(1,113)</td>
             <td>127</td>
             <td>3,157</td>
@@ -3078,7 +3078,7 @@ headerTitle: Consolidated financial statements BBVA 2016
         </tr>
         <tr class="b">
             <td>TOTAL CASH AND CASH EQUIVALENTS AT END OF THE PERIOD </td>
-            <td><a href="#">9.13</a></td>
+            <td><a href="../../../en/cuentas/notas-estados-financieros/index.html#9-cash-and-cash-balances-at-centrals-and-banks-and-other-demands-deposits-and-financial-liabilities-measured-at-amortized-cost">9.13</a></td>
             <td>44,955</td>
             <td>43,466</td>
             <td>31,430</td>
@@ -3087,7 +3087,7 @@ headerTitle: Consolidated financial statements BBVA 2016
 </table>
 <!--[Download table](#)-->
 
-<ul class="cita"><li>(*) Presented for comparison purposes only (Note 1,3). </li>
+<ul class="cita"><li>(*) Presented for comparison purposes only (Note 1.3). </li>
 <ul class="cita"><li>(**) Balance of cash equivalent in central banks include short-term deposits at central banks under the heading "Loans and receivables "in the accompanying consolidated balance sheets (see Note 13).</li></ul>
 
 <li>The accompanying Notes 1 to 57 and Appendices I to XIV are an integral part of the consolidated statement of cash flows for the year ended December 31, 2016.</li></ul>

@@ -52,11 +52,11 @@ The sum of the changes to the heading “Other comprehensive income ” of the c
 **Contingent  commitments:** Possible obligations of the entity that arise from past events and whose existence depends on the occurrence or non-occurrence of one or more future events independent of the entity’s will and that could lead to the recognition of financial assets. 
 
 **Control:** An investor controls an investee when it is exposed, or has rights, to variable returns from its involvement with the investee and has the ability to affect those returns through its power over the investee. An investor controls an investee if and only if the investor has all the following:      
-> a)     Power; An investor has power over an investee when the investor has existing rights that give it the current ability to direct the relevant activities, i.e. the activities that significantly affect the investee’s returns.      
+- a)     Power; An investor has power over an investee when the investor has existing rights that give it the current ability to direct the relevant activities, i.e. the activities that significantly affect the investee’s returns.      
    
->b)     Returns; An investor is exposed, or has rights, to variable returns from its involvement with the investee when the investor’s returns from its involvement have the potential to vary as a result of the investee’s performance. The investor’s returns can be only positive, only negative or both positive and negative.      
+- b)     Returns; An investor is exposed, or has rights, to variable returns from its involvement with the investee when the investor’s returns from its involvement have the potential to vary as a result of the investee’s performance. The investor’s returns can be only positive, only negative or both positive and negative.      
 
->c)     Link between power and returns; An investor controls an investee if the investor not only has power over the investee and exposure or rights to variable returns from its involvement with the investee, but also has the ability to use its power to affect the investor’s returns from its involvement with the investee. 
+- c)     Link between power and returns; An investor controls an investee if the investor not only has power over the investee and exposure or rights to variable returns from its involvement with the investee, but also has the ability to use its power to affect the investor’s returns from its involvement with the investee. 
 
 **Correlation risk:** Correlation risk is related to derivatives whose final value depends on the performance of more than one underlying asset (primarily, stock baskets) and indicates the existing variability in the correlations between each pair of assets. 
 
@@ -123,8 +123,9 @@ The sum of the changes to the heading “Other comprehensive income ” of the c
 **Financial liabilities at amortized cost:** Financial liabilities that do not meet the definition of financial liabilities designated at fair value through profit or loss and arise from the financial entities' ordinary activities to capture funds, regardless of their instrumentation or maturity.
 
 **Consolidation method:** Method used for the consolidation of the accounts of the Group’s subsidiaries. The assets and liabilities of the Group entities are incorporated line-by-line on the consolidate balance sheets, after conciliation and the elimination in full of intragroup balances, including amounts payable and receivable. Group entity income statement income and expense headings are similarly combined line by line into the consolidated income statement, having made the following consolidation eliminations: 
-> a)     income and expenses in respect of intragroup transactions are eliminated in full. 
-> b)     profits and losses resulting from intragroup transactions are similarly eliminated. The carrying amount of the parent's investment and the parent's share of equity in each subsidiary are eliminated. 
+
+- a)     income and expenses in respect of intragroup transactions are eliminated in full. 
+- b)     profits and losses resulting from intragroup transactions are similarly eliminated. The carrying amount of the parent's investment and the parent's share of equity in each subsidiary are eliminated. 
 
 **Goodwill:** Goodwill acquired in a business combination represents a payment made by the acquirer in anticipation of future economic benefits from assets that are not able to be individually identified and separately recognized. 
 
@@ -135,8 +136,8 @@ The sum of the changes to the heading “Other comprehensive income ” of the c
 **Held-to-maturity investments:** Held-to-maturity investments are financial assets traded on an active market, with fixed maturity and fixed or determinable payments and cash flows that an entity has the positive intention and financial ability to hold to maturity. 
 
 **Impaired financial assets:** A financial asset is deemed impaired, and accordingly restated to fair value, when there is objective evidence of impairment as a result of one or more events that give rise to:      
->a)     A measurable decrease in the estimated future cash flows since the initial recognition of those assets in the case of debt instruments (loans and receivables and debt securities).      
->b)     A significant or prolonged drop in fair value below cost in the case of equity instruments. 
+- a)     A measurable decrease in the estimated future cash flows since the initial recognition of those assets in the case of debt instruments (loans and receivables and debt securities).      
+- b)     A significant or prolonged drop in fair value below cost in the case of equity instruments. 
 
 **Income from equity instruments:** Dividends and income on equity instruments collected or announced during the year corresponding to profits generated by investees after the ownership interest is acquired. Income is recognized gross, i.e., without deducting any withholdings made, if any. 
 
@@ -150,17 +151,19 @@ The fair value of insurance contracts written to cover pension commitments.
 **Joint control:** The contractually agreed sharing of control of an arrangement, which exists only when decisions about the relevant activities require the unanimous consent of the parties sharing control. 
 
 **Joint operation:** A joint arrangement whereby the parties that have joint control of the arrangement have rights to the assets of the arrangement and obligations for the liabilities. A joint venturer shall recognize the following for  its participation in a joint operation:      
-> a) its assets, including any share of the assets of joint ownership;      
-> b) its liabilities, including any share of the liabilities incurred jointly;      
-> c) income from the sale of its share of production from the joint venture;      
-> d) its share of the proceeds from the sale of production from the joint venturer; and      
-> e) its expenses, including any share of the joint expenses. A joint venturer shall account for the assets, liabilities, income and expenses related to its participation in a joint operation in accordance with IFRS applicable to the assets, liabilities, income and expenses specific question. 
+
+- a) its assets, including any share of the assets of joint ownership;      
+- b) its liabilities, including any share of the liabilities incurred jointly;      
+- c) income from the sale of its share of production from the joint venture;      
+- d) its share of the proceeds from the sale of production from the joint venturer; and      
+- e) its expenses, including any share of the joint expenses. A joint venturer shall account for the assets, liabilities, income and expenses related to its participation in a joint operation in accordance with IFRS applicable to the assets, liabilities, income and expenses specific question. 
 
 **Joint venture:** A joint arrangement whereby the parties that have joint control of the arrangement have rights to the net assets of the arrangement. A joint venturer shall recognize its interest in a joint venture as an investment and shall account for that investment using the equity method in accordance with IAS 28 Investments in Associates and Joint Ventures. 
 
 **Leases:** A lease is an agreement whereby the lessor conveys to the lessee in return for a payment or series of payments the right to use an asset for an agreed period of time, a stream of cash flows that is essentially equivalent to the combination of principal and interest payments under a loan agreement. 
->a)     A lease is classified as a finance lease when it substantially transfers all the risks and rewards incidental to ownership of the asset forming the subject-matter of the contract. 
->b)     A lease will be classified as operating lease when it is not a financial lease. 
+
+- a)     A lease is classified as a finance lease when it substantially transfers all the risks and rewards incidental to ownership of the asset forming the subject-matter of the contract. 
+- b)     A lease will be classified as operating lease when it is not a financial lease. 
 
 **Liabilities included in disposal groups classified as held for sale:** The balance of liabilities directly associated with assets classified as non-current assets held for sale, including those recognized under liabilities in the entity's balance sheet at the balance sheet date corresponding to discontinued operations. 
 
@@ -183,20 +186,24 @@ Financial asset or security created from mortgage loans and backed by the guaran
 **Non-controlling interests:** The net amount of the profit or loss and net assets of a subsidiary attributable to associates outside the group (that is, the amount that is not owned, directly or indirectly, by the parent), including that amount in the corresponding part of the consolidated earnings for the period. 
 
 **Non-current assets and disposal groups held for sale:** A non-current asset or disposal group, whose carrying amount is expected to be realized through a sale transaction, rather than through continuing use, and which meets the following requirements:      
->a)     it is immediately available for sale in its present condition at the balance sheet date, i.e. only normal procedures are required for the sale of the asset.      
->b)     the sale is considered highly probable. 
+
+- a)     it is immediately available for sale in its present condition at the balance sheet date, i.e. only normal procedures are required for the sale of the asset.      
+- b)     the sale is considered highly probable. 
 
 **Non-monetary assets:** Assets and liabilities that do not provide any right to receive or deliver a determined or determinable amount of monetary units, such as tangible and intangible assets, goodwill and ordinary shares subordinate to all other classes of capital instruments. 
 
 **Option risk:** Risks arising from options, including embedded options.
 
 **Other financial assets/liabilities at fair value through profit or loss:** Instruments designated by the entity from the inception at fair value with changes in profit or loss.  An entity may only designate a financial instrument at fair value through profit or loss, if doing so more relevant information is obtained, because:      
->a) It eliminates or significantly reduces a measurement or recognition inconsistency (sometimes called "accounting mismatch") that would otherwise arise from measuring assets or liabilities or recognizing the gains and losses on them on different bases. It might be acceptable to designate only some of a number of similar financial assets or financial liabilities if doing so a significant reduction (and possibly a greater reduction than other allowable designations) in the inconsistency is achieved.      
->b) The performance of a group of financial assets or financial liabilities is managed and evaluated on a fair value basis, in accordance with a documented risk management or investment strategy, and information about the group is provided internally on that basis to the entity´s key management personnel. These are financial assets managed jointly with “Liabilities under insurance contracts” measured at fair value, in combination with derivatives written with a view to significantly mitigating exposure to changes in these contracts' fair value, or in combination with financial liabilities and derivatives designed to significantly reduce global exposure to interest rate risk. These headings include customer loans and deposits effected via so-called unit-linked life insurance contracts, in which the policyholder assumes the investment risk. 
 
-**ther Reserves:** This heading is broken down as follows:   
->i) Reserves or accumulated losses of investments in subsidiaries, joint ventures and associate: include the accumulated amount of income and expenses generated by the aforementioned investments through profit or loss in past years.  
->ii) Other: includes reserves different from those separately disclosed in other items and may include legal reserve and statutory reserve. 
+- a) It eliminates or significantly reduces a measurement or recognition inconsistency (sometimes called "accounting mismatch") that would otherwise arise from measuring assets or liabilities or recognizing the gains and losses on them on different bases. It might be acceptable to designate only some of a number of similar financial assets or financial liabilities if doing so a significant reduction (and possibly a greater reduction than other allowable designations) in the inconsistency is achieved.      
+
+- b) The performance of a group of financial assets or financial liabilities is managed and evaluated on a fair value basis, in accordance with a documented risk management or investment strategy, and information about the group is provided internally on that basis to the entity´s key management personnel. These are financial assets managed jointly with “Liabilities under insurance contracts” measured at fair value, in combination with derivatives written with a view to significantly mitigating exposure to changes in these contracts' fair value, or in combination with financial liabilities and derivatives designed to significantly reduce global exposure to interest rate risk. These headings include customer loans and deposits effected via so-called unit-linked life insurance contracts, in which the policyholder assumes the investment risk. 
+
+**Other Reserves:** This heading is broken down as follows:   
+
+- i) Reserves or accumulated losses of investments in subsidiaries, joint ventures and associate: include the accumulated amount of income and expenses generated by the aforementioned investments through profit or loss in past years.  
+- ii) Other: includes reserves different from those separately disclosed in other items and may include legal reserve and statutory reserve. 
 
 **Other retributions to employees long term:** Includes the amount of compensation plans to employees long term 
 
@@ -241,26 +248,26 @@ Financial asset or security created from mortgage loans and backed by the guaran
 **Short positions:** Financial liabilities arising as a result of the final sale of financial assets acquired under repurchase agreements or received on loan. 
 
 **Significant influence:** Is the power to participate in the financial and operating policy decisions of the investee but is not control or joint control of those policies. If an entity holds, directly or indirectly (i.e. through subsidiaries), 20 per cent or more of the voting power of the investee, it is presumed that the entity has significant influence, unless it can be clearly demonstrated that this is not the case. Conversely, if the entity holds, directly or indirectly (i.e. through subsidiaries), less than 20 per cent of the voting power of the investee, it is presumed that the entity does not have significant influence, unless such influence can be clearly demonstrated. A substantial or majority ownership by another investor does not necessarily preclude an entity from having significant influence. The existence of significant influence by an entity is usually evidenced in one or more of the following ways:       
->a)     representation on the board of directors or equivalent governing body of the investee;      
->b)      participation in policy-making processes, including participation in decisions about dividends or other distributions;      
->c)     material transactions between the entity and its investee;      
->d)     interchange of managerial personnel; or       
->e)       provision of essential technical information. 
+- a)     representation on the board of directors or equivalent governing body of the investee;      
+- b)      participation in policy-making processes, including participation in decisions about dividends or other distributions;      
+- c)     material transactions between the entity and its investee;      
+- d)     interchange of managerial personnel; or       
+- e)       provision of essential technical information. 
 
 **Structured credit products:** Special financial instrument backed by other instruments building a subordination structure. 
 
 **Structured Entities:** A structured entity is an entity that has been designed so that voting or similar rights are not the dominant factor in deciding who controls the entity, such as when any voting rights relate to administrative tasks only and the relevant activities are directed by means of contractual arrangements. A structured entity often has some or all of the following features or attributes:      
->a)       restricted activities.      
->b)     a narrow and well-defined objective, such as to effect a tax-efficient lease, carry out research and development activities, provide a source of capital or funding to an entity or provide investment opportunities for investors y passing on risks and rewards associated with the assets of the structured entity to investors.      
->c)       insufficient equity to permit the structured entity to finance its activities without subordinated financial support.      
->d)    financing in the form of multiple contractually linked instruments to investors that create concentrations of credit or other risks (tranches). 
+- a)       restricted activities.      
+- b)     a narrow and well-defined objective, such as to effect a tax-efficient lease, carry out research and development activities, provide a source of capital or funding to an entity or provide investment opportunities for investors y passing on risks and rewards associated with the assets of the structured entity to investors.      
+- c)       insufficient equity to permit the structured entity to finance its activities without subordinated financial support.      
+- d)    financing in the form of multiple contractually linked instruments to investors that create concentrations of credit or other risks (tranches). 
 
 **Subordinated liabilities:** Financing received, regardless of its instrumentation, which ranks after the common creditors in the event of a liquidation. 
 
 **Subsidiaries:** Companies over which the Group exercises control. An entity is presumed to have control over another when it possesses the right to oversee its financial and operational policies, through a legal, statutory or contractual procedure, in order to obtain benefits from its economic activities. Control is presumed to exist when the parent owns, directly or indirectly through subsidiaries, more than one half of an entity's voting power, unless, exceptionally, it can be clearly demonstrated that ownership of more than one half of an entity's voting rights does not constitute control of it. Control also exists when the parent owns half or less of the voting power of an entity when there is:      
->a)     an agreement that gives the parent the right to control the votes of other shareholders;      
->b)     power to govern the financial and operating policies of the entity under a statute or an agreement; power to appoint or remove the majority of the members of the board of directors or equivalent governing body and control of the entity is by that board or body;      
->c)     power to cast the majority of votes at meetings of the board of directors or equivalent governing body and control of the entity is by that board or body. 
+- a)     an agreement that gives the parent the right to control the votes of other shareholders;      
+- b)     power to govern the financial and operating policies of the entity under a statute or an agreement; power to appoint or remove the majority of the members of the board of directors or equivalent governing body and control of the entity is by that board or body;      
+- c)     power to cast the majority of votes at meetings of the board of directors or equivalent governing body and control of the entity is by that board or body. 
 
 **Tax liabilities:** All tax related liabilities except for provisions for taxes.
 

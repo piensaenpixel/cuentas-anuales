@@ -2440,7 +2440,7 @@ De acuerdo con la NIIF 7 “Instrumentos financieros: información a revelar”
     <tbody>
         <tr>
             <td class="b">Activos financieros mantenidos para negociar</td>
-            <td>10 </td>
+            <td><a href="../notas-estados-financieros/index.html#10-activos-y-pasivos-financieros-mantenidos-para-negociar">10</a></td>
             <td>31.995</td>
             <td>37.424</td>
             <td>39.028</td>
@@ -2489,7 +2489,7 @@ De acuerdo con la NIIF 7 “Instrumentos financieros: información a revelar”
         </tr>
         <tr class="b">
             <td>Activos financieros designados a valor razonable con cambios en resultados</td>
-            <td>11 </td>
+            <td><a href="../notas-estados-financieros/index.html#11-activos-y-pasivos-financieros-designados-a-valor-razonable-con-cambios-en-resultados">11</a></td>
             <td>2.062</td>
             <td>2.311</td>
             <td>2.761</td>
@@ -2538,7 +2538,7 @@ De acuerdo con la NIIF 7 “Instrumentos financieros: información a revelar”
         </tr>
         <tr class="b">
             <td>Activos financieros disponibles para la venta </td>
-            <td>12 </td>
+            <td><a href="../notas-estados-financieros/index.html#12-activos-financieros-disponibles-para-la-venta">12</a></td>
             <td>79.553</td>
             <td>113.710</td>
             <td>95.049</td>
@@ -2587,21 +2587,21 @@ De acuerdo con la NIIF 7 “Instrumentos financieros: información a revelar”
         </tr>
         <tr>
             <td class="s">Préstamos y anticipos a bancos centrales</td>
-            <td>13.1</td>
+            <td><a href="../notas-estados-financieros/index.html#13-préstamos-y-partidas-a-cobrar">13.1</a></td>
             <td>8.894</td>
             <td>17.830</td>
             <td>5.429</td>
         </tr>
         <tr>
             <td class="s">Préstamos y anticipos a entidades de crédito </td>
-            <td>13.1</td>
+            <td><a href="../notas-estados-financieros/index.html#13-préstamos-y-partidas-a-cobrar">13.1</a></td>
             <td>31.416</td>
             <td>29.368</td>
             <td>25.371</td>
         </tr>
         <tr>
             <td class="s">Préstamos y anticipos a la clientela</td>
-            <td>13.2</td>
+            <td><a href="../notas-estados-financieros/index.html#13-préstamos-y-partidas-a-cobrar">13.2</a></td>
             <td>430.474</td>
             <td>432.856</td>
             <td>352.900</td>
@@ -2657,7 +2657,7 @@ De acuerdo con la NIIF 7 “Instrumentos financieros: información a revelar”
         </tr>
         <tr class="s">
             <td>Valores representativos de deuda</td>
-            <td>13.3</td>
+            <td><a href="../notas-estados-financieros/index.html#13-préstamos-y-partidas-a-cobrar">13.3</a></td>
             <td>11.226</td>
             <td>10.526</td>
             <td>6.663</td>
@@ -2685,7 +2685,7 @@ De acuerdo con la NIIF 7 “Instrumentos financieros: información a revelar”
         </tr>
         <tr class="b">
             <td>Inversiones mantenidas hasta el vencimiento </td>
-            <td>14 </td>
+            <td><a href="../notas-estados-financieros/index.html#14-inversiones-mantenidas-hasta-el-vencimiento">14</a></td>
             <td>17.710</td>
             <td>-</td>
             <td>-</td>
@@ -2748,7 +2748,7 @@ De acuerdo con la NIIF 7 “Instrumentos financieros: información a revelar”
         </tr>
         <tr class="b">
             <td>Total Compromisos y Garantías Concedidas</td>
-            <td>33 </td>
+            <td><a href="../notas-estados-financieros/index.html#33-compromisos-y-garant%C3%ADas-concedidas">33</a></td>
             <td>168.113</td>
             <td>185.609</td>
             <td>139.993</td>
@@ -5918,7 +5918,7 @@ A continuación se presenta a 31 de diciembre de 2016 y 2015 un resumen del efe
     <tbody>
         <tr>
             <td>Derivados de negociación y de cobertura</td>
-            <td>10, 15</td>
+            <td><a href="../notas-estados-financieros/index.html#10-activos-y-pasivos-financieros-mantenidos-para-negociar">10</a>, <a href="../notas-estados-financieros/index.html#15-derivados--contabilidad-de-coberturas-y-cambios-del-valor-razonable-de-los-elementos-cubiertos-de-una-cartera-con-cobertura-del-riesgo-de-tipo-de-interés">15</a></td>
             <td>59.374</td>
             <td>13.587</td>
             <td>45.788</td>
@@ -5928,7 +5928,7 @@ A continuación se presenta a 31 de diciembre de 2016 y 2015 un resumen del efe
         </tr>
         <tr>
             <td>Adquisición temporal de activos y similares</td>
-            <td>35 </td>
+            <td><a href="../notas-estados-financieros/index.html#35-compromisos-de-compra-y-de-venta-y-obligaciones-de-pago-futuras">35</a></td>
             <td>25.833</td>
             <td>2.912</td>
             <td>22.921</td>
@@ -5948,7 +5948,7 @@ A continuación se presenta a 31 de diciembre de 2016 y 2015 un resumen del efe
         </tr>
         <tr>
             <td>Derivados de negociación y de cobertura</td>
-            <td>10, 15</td>
+            <td><a href="../notas-estados-financieros/index.html#10-activos-y-pasivos-financieros-mantenidos-para-negociar">10</a>, <a href="../notas-estados-financieros/index.html#15-derivados--contabilidad-de-coberturas-y-cambios-del-valor-razonable-de-los-elementos-cubiertos-de-una-cartera-con-cobertura-del-riesgo-de-tipo-de-interés">15</a></td>
             <td>59.545</td>
             <td>14.080</td>
             <td>45.465</td>
@@ -5958,7 +5958,7 @@ A continuación se presenta a 31 de diciembre de 2016 y 2015 un resumen del efe
         </tr>
         <tr>
             <td>Cesión temporal de activos y similares</td>
-            <td>35</td>
+            <td><a href="../notas-estados-financieros/index.html#35-compromisos-de-compra-y-de-venta-y-obligaciones-de-pago-futuras">35</a></td>
             <td>49.474</td>
             <td>2.912</td>
             <td>46.562</td>
@@ -6010,7 +6010,7 @@ A continuación se presenta a 31 de diciembre de 2016 y 2015 un resumen del efe
     <tbody>
         <tr>
             <td>Derivados de negociación y de cobertura</td>
-            <td>10, 15</td>
+            <td><a href="../notas-estados-financieros/index.html#10-activos-y-pasivos-financieros-mantenidos-para-negociar">10</a>, <a href="../notas-estados-financieros/index.html#15-derivados--contabilidad-de-coberturas-y-cambios-del-valor-razonable-de-los-elementos-cubiertos-de-una-cartera-con-cobertura-del-riesgo-de-tipo-de-interés">15</a></td>
             <td>52.244</td>
             <td>7.805</td>
             <td>44.439</td>
@@ -6020,7 +6020,7 @@ A continuación se presenta a 31 de diciembre de 2016 y 2015 un resumen del efe
         </tr>
         <tr>
             <td>Adquisición temporal de activos y similares</td>
-            <td>35 </td>
+            <td><a href="../notas-estados-financieros/index.html#35-compromisos-de-compra-y-de-venta-y-obligaciones-de-pago-futuras">35</a></td>
             <td>21.531</td>
             <td>4.596</td>
             <td>16.935</td>
@@ -6040,7 +6040,7 @@ A continuación se presenta a 31 de diciembre de 2016 y 2015 un resumen del efe
         </tr>
         <tr>
             <td>Derivados de negociación y de cobertura</td>
-            <td>10, 15</td>
+            <td><a href="../notas-estados-financieros/index.html#10-activos-y-pasivos-financieros-mantenidos-para-negociar">10</a>, <a href="../notas-estados-financieros/index.html#15-derivados--contabilidad-de-coberturas-y-cambios-del-valor-razonable-de-los-elementos-cubiertos-de-una-cartera-con-cobertura-del-riesgo-de-tipo-de-interés">15</a></td>
             <td>53.298</td>
             <td>8.423</td>
             <td>44.876</td>
@@ -6050,7 +6050,7 @@ A continuación se presenta a 31 de diciembre de 2016 y 2015 un resumen del efe
         </tr>
         <tr>
             <td>Cesión temporal de activos y similares</td>
-            <td>35</td>
+            <td><a href="../notas-estados-financieros/index.html#35-compromisos-de-compra-y-de-venta-y-obligaciones-de-pago-futuras">35</a></td>
             <td>72.998</td>
             <td>4.596</td>
             <td>68.402</td>
@@ -7289,7 +7289,7 @@ A continuación se presenta el valor razonable de los instrumentos financieros 
         </tr>
         <tr class="s">
             <td>Efectivo, saldos en efectivo en bancos centrales y otros depósitos a la vista</td>
-            <td>9</td>
+            <td><a href="../notas-estados-financieros/index.html#9-efectivo-saldos-en-efectivo-en-bancos-centrales-y-otros-depósitos-a-la-vista">9</a></td>
             <td>40.039</td>
             <td>40.039</td>
             <td>29.282</td>
@@ -7299,7 +7299,7 @@ A continuación se presenta el valor razonable de los instrumentos financieros 
         </tr>
         <tr class="s">
             <td>Activos financieros mantenidos para negociar</td>
-            <td>10</td>
+            <td><a href="../notas-estados-financieros/index.html#10-activos-y-pasivos-financieros-mantenidos-para-negociar">10</a></td>
             <td>74.950</td>
             <td>74.950</td>
             <td>78.326</td>
@@ -7309,7 +7309,7 @@ A continuación se presenta el valor razonable de los instrumentos financieros 
         </tr>
         <tr class="s">
             <td>Activos financieros designados a valor razonable con cambios en resultados</td>
-            <td>11</td>
+            <td><a href="../notas-estados-financieros/index.html#11-activos-y-pasivos-financieros-designados-a-valor-razonable-con-cambios-en-resultados">11</a></td>
             <td>2.062</td>
             <td>2.062</td>
             <td>2.311</td>
@@ -7319,7 +7319,7 @@ A continuación se presenta el valor razonable de los instrumentos financieros 
         </tr>
         <tr class="s">
             <td>Activos financieros disponibles para la venta</td>
-            <td>12</td>
+            <td><a href="../notas-estados-financieros/index.html#12-activos-financieros-disponibles-para-la-venta">12</a></td>
             <td>79.221</td>
             <td>79.221</td>
             <td>113.426</td>
@@ -7329,7 +7329,7 @@ A continuación se presenta el valor razonable de los instrumentos financieros 
         </tr>
         <tr class="s">
             <td>Préstamos y partidas a cobrar</td>
-            <td>13</td>
+            <td><a href="../notas-estados-financieros/index.html#13-préstamos-y-partidas-a-cobrar">13</a></td>
             <td>465.977</td>
             <td>468.844</td>
             <td>471.828</td>
@@ -7339,7 +7339,7 @@ A continuación se presenta el valor razonable de los instrumentos financieros 
         </tr>
         <tr class="s">
             <td>Inversiones mantenidas hasta el vencimiento</td>
-            <td>14</td>
+            <td><a href="../notas-estados-financieros/index.html#14-inversiones-mantenidas-hasta-el-vencimiento">14</a></td>
             <td>17.696</td>
             <td>17.619</td>
             <td>-</td>
@@ -7349,7 +7349,7 @@ A continuación se presenta el valor razonable de los instrumentos financieros 
         </tr>
         <tr class="s">
             <td>Derivados - Contabilidad de coberturas</td>
-            <td>15</td>
+            <td><a href="../notas-estados-financieros/index.html#15-derivados--contabilidad-de-coberturas-y-cambios-del-valor-razonable-de-los-elementos-cubiertos-de-una-cartera-con-cobertura-del-riesgo-de-tipo-de-interés">15</a></td>
             <td>2.833</td>
             <td>2.833</td>
             <td>3.538</td>
@@ -7369,7 +7369,7 @@ A continuación se presenta el valor razonable de los instrumentos financieros 
         </tr>
         <tr class="s">
             <td>Pasivos financieros mantenidos para negociar</td>
-            <td>10</td>
+            <td><a href="../notas-estados-financieros/index.html#10-activos-y-pasivos-financieros-mantenidos-para-negociar">10</a></td>
             <td>54.675</td>
             <td>54.675</td>
             <td>55.202</td>
@@ -7379,7 +7379,7 @@ A continuación se presenta el valor razonable de los instrumentos financieros 
         </tr>
         <tr class="s">
             <td>Pasivos financieros desginados a valor razonable con cambios en resultados</td>
-            <td>11</td>
+            <td><a href="../notas-estados-financieros/index.html#11-activos-y-pasivos-financieros-designados-a-valor-razonable-con-cambios-en-resultados">11</a></td>
             <td>2.338</td>
             <td>2.338</td>
             <td>2.649</td>
@@ -7389,7 +7389,7 @@ A continuación se presenta el valor razonable de los instrumentos financieros 
         </tr>
         <tr class="s">
             <td>Pasivos financieros a coste amortizado </td>
-            <td>22</td>
+            <td><a href="../notas-estados-financieros/index.html#22-pasivos-financieros-a-coste-amortizado">22</a></td>
             <td>589.210</td>
             <td>594.190</td>
             <td>606.113</td>
@@ -7399,7 +7399,7 @@ A continuación se presenta el valor razonable de los instrumentos financieros 
         </tr>
         <tr class="s">
             <td>Derivados - Contabilidad de cobertura </td>
-            <td>15</td>
+            <td><a href="../notas-estados-financieros/index.html#15-derivados--contabilidad-de-coberturas-y-cambios-del-valor-razonable-de-los-elementos-cubiertos-de-una-cartera-con-cobertura-del-riesgo-de-tipo-de-interés">15</a></td>
             <td>2.347</td>
             <td>2.347</td>
             <td>2.726</td>
@@ -7449,7 +7449,7 @@ La siguiente tabla presenta los principales instrumentos financieros registrados
     <tbody>
         <tr class="b">
             <td>Activos financieros mantenidos para negociar</td>
-            <td>10</td>
+            <td><a href="../notas-estados-financieros/index.html#10-activos-y-pasivos-financieros-mantenidos-para-negociar">10</a></td>
             <td>32.544</td>
             <td>42.221</td>
             <td>184</td>
@@ -7514,7 +7514,7 @@ La siguiente tabla presenta los principales instrumentos financieros registrados
         </tr>
         <tr class="b">
             <td>Activos financieros designados a valor razonable con cambios en resultados</td>
-            <td>11</td>
+            <td><a href="../notas-estados-financieros/index.html#11-activos-y-pasivos-financieros-designados-a-valor-razonable-con-cambios-en-resultados">11</a></td>
             <td>2.062</td>
             <td>-</td>
             <td>-</td>
@@ -7566,7 +7566,7 @@ La siguiente tabla presenta los principales instrumentos financieros registrados
         </tr>
         <tr class="b">
             <td>Activos financieros disponibles para la venta </td>
-            <td>12</td>
+            <td><a href="../notas-estados-financieros/index.html#12-activos-financieros-disponibles-para-la-venta">12</a></td>
             <td>62.125</td>
             <td>15.894</td>
             <td>637</td>
@@ -7605,7 +7605,7 @@ La siguiente tabla presenta los principales instrumentos financieros registrados
         </tr>
         <tr class="s">
             <td>Derivados - Contabilidad de coberturas</td>
-            <td>15</td>
+            <td><a href="../notas-estados-financieros/index.html#15-derivados--contabilidad-de-coberturas-y-cambios-del-valor-razonable-de-los-elementos-cubiertos-de-una-cartera-con-cobertura-del-riesgo-de-tipo-de-interés">15</a></td>
             <td>41</td>
             <td>2.792</td>
             <td>-</td>
@@ -7631,7 +7631,7 @@ La siguiente tabla presenta los principales instrumentos financieros registrados
         </tr>
         <tr class="b">
             <td>Pasivos financieros mantenidos para negociar</td>
-            <td>10</td>
+            <td><a href="../notas-estados-financieros/index.html#10-activos-y-pasivos-financieros-mantenidos-para-negociar">10</a></td>
             <td>12.502</td>
             <td>42.120</td>
             <td>53</td>
@@ -7670,7 +7670,7 @@ La siguiente tabla presenta los principales instrumentos financieros registrados
         </tr>
         <tr class="b">
             <td>Pasivos financieros desginados a valor razonable con cambios en resultados</td>
-            <td>11</td>
+            <td><a href="../notas-estados-financieros/index.html#11-activos-y-pasivos-financieros-designados-a-valor-razonable-con-cambios-en-resultados">11</a></td>
             <td>-</td>
             <td>2.338</td>
             <td>-</td>
@@ -7683,7 +7683,7 @@ La siguiente tabla presenta los principales instrumentos financieros registrados
         </tr>
         <tr class="b">
             <td>Derivados - Contabilidad de coberturas</td>
-            <td>15</td>
+            <td><a href="../notas-estados-financieros/index.html#15-derivados--contabilidad-de-coberturas-y-cambios-del-valor-razonable-de-los-elementos-cubiertos-de-una-cartera-con-cobertura-del-riesgo-de-tipo-de-interés">15</a></td>
             <td>94</td>
             <td>2.189</td>
             <td>64</td>
@@ -8553,7 +8553,7 @@ La siguiente tabla presenta el valor razonable de los principales instrumentos f
         </tr>
         <tr>
             <td>Efectivo, saldos en efectivo en bancos centrales y otros depósitos a la vista</td>
-            <td>9</td>
+            <td><a href="../notas-estados-financieros/index.html#9-efectivo-saldos-en-efectivo-en-bancos-centrales-y-otros-depósitos-a-la-vista">9</a></td>
             <td>39.373</td>
             <td>-</td>
             <td>666</td>
@@ -8566,7 +8566,7 @@ La siguiente tabla presenta el valor razonable de los principales instrumentos f
         </tr>
         <tr>
             <td>Préstamos y partidas a cobrar</td>
-            <td>13</td>
+            <td><a href="../notas-estados-financieros/index.html#13-préstamos-y-partidas-a-cobrar">13</a></td>
             <td>-</td>
             <td>10.991</td>
             <td>457.853</td>
@@ -8579,7 +8579,7 @@ La siguiente tabla presenta el valor razonable de los principales instrumentos f
         </tr>
         <tr>
             <td>Inversiones mantenidas hasta el vencimiento</td>
-            <td>14</td>
+            <td><a href="../notas-estados-financieros/index.html#14-inversiones-mantenidas-hasta-el-vencimiento">14</a></td>
             <td>17.567</td>
             <td>11</td>
             <td>41</td>
@@ -8605,7 +8605,7 @@ La siguiente tabla presenta el valor razonable de los principales instrumentos f
         </tr>
         <tr>
             <td>Pasivos financieros a coste amortizado</td>
-            <td>22</td>
+            <td><a href="../notas-estados-financieros/index.html#22-pasivos-financieros-a-coste-amortizado">22</a></td>
             <td>-</td>
             <td>-</td>
             <td>594.190</td>
@@ -8840,7 +8840,7 @@ A continuación presentamos por jerarquía de mediciones de valor razonable, l
     <tbody>
         <tr>
             <td>Activos no corrientes y grupos enajenables de elementos mantenidos para la venta</td>
-            <td>21</td>
+            <td><a href="../notas-estados-financieros/index.html#21-activos-no-corrientes-y-grupos-enajenables-de-elementos-que-se-han-clasificado-como-mantenidos-para-la-venta">21</a></td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
@@ -8905,7 +8905,7 @@ A continuación presentamos por jerarquía de mediciones de valor razonable, l
         </tr>
         <tr>
             <td>Existencias</td>
-            <td>20</td>
+            <td><a href="../notas-estados-financieros/index.html#20-otros-activos-y-pasivos">20</a></td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
@@ -9052,7 +9052,7 @@ La composición del saldo de los capítulos “Efectivo, saldos en efectivo en
         </tr>
         <tr>
             <td>Cesion temporal de activos</td>
-            <td>35</td>
+            <td><a href="../notas-estados-financieros/index.html#35-compromisos-de-compra-y-de-venta-y-obligaciones-de-pago-futuras">35</a></td>
             <td>4.649</td>
             <td>19.065</td>
             <td>8.774</td>
@@ -9066,7 +9066,7 @@ La composición del saldo de los capítulos “Efectivo, saldos en efectivo en
         </tr>
         <tr class="b2">
             <td>Total</td>
-            <td>22</td>
+            <td><a href="../notas-estados-financieros/index.html#22-pasivos-financieros-a-coste-amortizado">22</a></td>
             <td>34.740</td>
             <td>40.087</td>
             <td>28.193</td>
@@ -11560,28 +11560,28 @@ La composición del saldo de este capítulo de los balances consolidados adjun
     <tbody>
         <tr>
             <td>Valores representativos de deuda</td>
-            <td>13.3</td>
+            <td><a href="../notas-estados-financieros/index.html#13-préstamos-y-partidas-a-cobrar">13</a></td>
             <td>11.209</td>
             <td>10.516</td>
             <td>6.659</td>
         </tr>
         <tr>
             <td>Préstamos y anticipos en bancos centrales</td>
-            <td>13.1</td>
+            <td><a href="../notas-estados-financieros/index.html#13-préstamos-y-partidas-a-cobrar">13</a></td>
             <td>8.894</td>
             <td>17.830</td>
             <td>5.429</td>
         </tr>
         <tr>
             <td>Préstamos y anticipos en entidades de crédito</td>
-            <td>13.1</td>
+            <td><a href="../notas-estados-financieros/index.html#13-préstamos-y-partidas-a-cobrar">13</a></td>
             <td>31.373</td>
             <td>29.317</td>
             <td>25.342</td>
         </tr>
         <tr>
             <td>Préstamos y anticipos a la clientela</td>
-            <td>13.2</td>
+            <td><a href="../notas-estados-financieros/index.html#13-préstamos-y-partidas-a-cobrar">13</a></td>
             <td>414.500</td>
             <td>414.165</td>
             <td>338.657</td>
@@ -11648,14 +11648,14 @@ La composición del saldo de este epígrafe de los balances consolidados adjun
         </tr>
         <tr class="s">
             <td> Adquisición temporal de activos</td>
-            <td>35</td>
+            <td><a href="../notas-estados-financieros/index.html#35-compromisos-de-compra-y-de-venta-y-obligaciones-de-pago-futuras">35</a></td>
             <td>15.561</td>
             <td>11.749</td>
             <td>10.440</td>
         </tr>
         <tr class="b2">
             <td>Total bruto</td>
-            <td>7.3.1</td>
+            <td><a href="../notas-estados-financieros/index.html#7-gestión-de-riesgos">7.3.1</a></td>
             <td>40.235</td>
             <td>47.122</td>
             <td>30.686</td>
@@ -11669,7 +11669,7 @@ La composición del saldo de este epígrafe de los balances consolidados adjun
         </tr>
         <tr class="s">
             <td> Pérdidas por deterioro</td>
-            <td>7.3.4</td>
+            <td><a href="../notas-estados-financieros/index.html#7-gestión-de-riesgos">7.3.4</a></td>
             <td>(43)</td>
             <td>(51)</td>
             <td>(29)</td>
@@ -11819,7 +11819,7 @@ La composición del saldo de este epígrafe de los balances consolidados adjun
         </tr>
         <tr>
             <td>Adquisición temporal de activos</td>
-            <td>35</td>
+      <td><a href="../notas-estados-financieros/index.html#35-compromisos-de-compra-y-de-venta-y-obligaciones-de-pago-futuras">35</a></td>
             <td>7.279</td>
             <td>5.036</td>
             <td>6.990</td>
@@ -11833,14 +11833,14 @@ La composición del saldo de este epígrafe de los balances consolidados adjun
         </tr>
         <tr>
             <td>Activos dudosos o deteriorados</td>
-            <td>7.3.4</td>
+            <td><a href="../notas-estados-financieros/index.html#7-gestión-de-riesgos">7.3.4</a></td>
             <td>22.915</td>
             <td>25.333</td>
             <td>22.703</td>
         </tr>
         <tr class="b2">
             <td>Total bruto</td>
-            <td>7.3.1</td>
+            <td><a href="../notas-estados-financieros/index.html#7-gestión-de-riesgos">7.3.1</a></td>
             <td>428.041</td>
             <td>430.808</td>
             <td>350.822</td>
@@ -11853,8 +11853,8 @@ La composición del saldo de este epígrafe de los balances consolidados adjun
             <td>(12.166)</td>
         </tr>
         <tr class="s">
-            <td> Pérdidas por deterioro</td>
-            <td>7.3.4</td>
+            <td>Pérdidas por deterioro</td>
+            <td><a href="../notas-estados-financieros/index.html#7-gestión-de-riesgos">7.3.4</a></td>
             <td>(15.974)</td>
             <td>(18.691)</td>
             <td>(14.244)</td>
@@ -12054,7 +12054,7 @@ La composición del saldo de este epígrafe de los balances consolidados adjunto
         </tr>
         <tr class="b2">
             <td>Total bruto</td>
-            <td>7.3.1</td>
+            <td><a href="../notas-estados-financieros/index.html#7-gestión-de-riesgos">7.3.1</a></td>
             <td>11.226</td>
             <td>10.526</td>
             <td>6.663</td>
@@ -15564,7 +15564,7 @@ La composición del saldo de este capítulo de los balances consolidados adjun
         </tr>
         <tr>
             <td>Amortización del ejercicio</td>
-            <td>45</td>
+            <td><a href="../notas-estados-financieros/index.html#45-amortización">45</a></td>
             <td>(735)</td>
             <td>(631)</td>
             <td>(535)</td>
@@ -15578,7 +15578,7 @@ La composición del saldo de este capítulo de los balances consolidados adjun
         </tr>
         <tr>
             <td>Deterioro </td>
-            <td>48</td>
+            <td><a href="../notas-estados-financieros/index.html#48-deterioro-del-valor-o-reversión-del-deterioro-del-valor-de-activos-no-financieros">48</a></td>
             <td>(3)</td>
             <td>(4)</td>
             <td>(8)</td>
@@ -16638,7 +16638,7 @@ Los movimientos de los saldos de este capítulo en los ejercicios 2016, 2015 y 
         </tr>
         <tr class="s">
             <td>Adiciones </td>
-            <td>50</td>
+            <td><a href="../notas-estados-financieros/index.html#50-ganancias-o-pérdidas-procedentes-de-activos-no-corrientes-y-grupos-enajenables-de-elementos-clasificados-como-mantenidos-para-la-venta-no-admisibles-como-actividades-interrumpidas">50</a></td>
             <td>129</td>
             <td>3</td>
             <td>5</td>
@@ -16805,7 +16805,7 @@ Los movimientos de los saldos de este capítulo en los ejercicios 2016, 2015 y 
         </tr>
         <tr class="s">
             <td>Adiciones </td>
-            <td>50</td>
+            <td><a href="../notas-estados-financieros/index.html#50-ganancias-o-pérdidas-procedentes-de-activos-no-corrientes-y-grupos-enajenables-de-elementos-clasificados-como-mantenidos-para-la-venta-no-admisibles-como-actividades-interrumpidas">50</a></td>
             <td>208</td>
             <td>11</td>
             <td>66</td>
@@ -16974,7 +16974,7 @@ Los movimientos de los saldos de este capítulo en los ejercicios 2016, 2015 y 
         </tr>
         <tr class="s">
             <td>Adiciones </td>
-            <td>50</td>
+            <td><a href="../notas-estados-financieros/index.html#50-ganancias-o-pérdidas-procedentes-de-activos-no-corrientes-y-grupos-enajenables-de-elementos-clasificados-como-mantenidos-para-la-venta-no-admisibles-como-actividades-interrumpidas">50</a></td>
             <td>391</td>
             <td>12</td>
             <td>4</td>
@@ -17073,35 +17073,35 @@ La composición del saldo de este capítulo de los balances consolidados adjun
         </tr>
         <tr class="s">
             <td> Depósitos de bancos centrales</td>
-            <td>9</td>
+            <td><a href="../notas-estados-financieros/index.html#9-efectivo-saldos-en-efectivo-en-bancos-centrales-y-otros-depósitos-a-la-vista">9</a></td>
             <td>34.740</td>
             <td>40.087</td>
             <td>28.193</td>
         </tr>
         <tr class="s">
             <td> Depósitos de entidades de crédito</td>
-            <td>22.1</td>
+            <td><a href="../notas-estados-financieros/index.html#22-pasivos-financieros-a-coste-amortizado">22.1</a></td>
             <td>63.501</td>
             <td>68.543</td>
             <td>65.168</td>
         </tr>
         <tr class="s">
             <td> Depósitos de la clientela</td>
-            <td>22.2</td>
+            <td><a href="../notas-estados-financieros/index.html#22-pasivos-financieros-a-coste-amortizado">22.2</a></td>
             <td>401.465</td>
             <td>403.362</td>
             <td>319.334</td>
         </tr>
         <tr>
             <td>Valores representativos de deuda emitidos</td>
-            <td>22.3</td>
+            <td><a href="../notas-estados-financieros/index.html#22-pasivos-financieros-a-coste-amortizado">22.3</a></td>
             <td>76.375</td>
             <td>81.980</td>
             <td>71.917</td>
         </tr>
         <tr>
             <td>Otros pasivos financieros </td>
-            <td>22.4</td>
+            <td><a href="../notas-estados-financieros/index.html#22-pasivos-financieros-a-coste-amortizado">22.4</a></td>
             <td>13.129</td>
             <td>12.141</td>
             <td>7.288</td>
@@ -17167,7 +17167,7 @@ El desglose del saldo de este epígrafe de los balances consolidados adjuntos, 
         </tr>
         <tr>
             <td>Cesión temporal de activos</td>
-            <td>35</td>
+            <td><a href="../notas-estados-financieros/index.html#35-compromisos-de-compra-y-de-venta-y-obligaciones-de-pago-futuras">35</a></td>
             <td>28.421</td>
             <td>26.069</td>
             <td>32.935</td>
@@ -17474,7 +17474,7 @@ La composición del saldo de este epígrafe de los balances consolidados adjun
         </tr>
         <tr>
             <td> Cesiones temporales de activos</td>
-            <td>35</td>
+            <td><a href="../notas-estados-financieros/index.html#35-compromisos-de-compra-y-de-venta-y-obligaciones-de-pago-futuras">35</a></td>
             <td>13.491</td>
             <td>15.711</td>
             <td>21.595</td>
@@ -18330,7 +18330,6 @@ La siguiente tabla muestra los supuestos clave para el cálculo de las provisio
         <tr>
             <td>Seguros de vida riesgo individual (1)</td>
             <td>"GKMF80 PASEM/95%PASEM Hombre</td>
-            <td>Tablas propias"</td>
             <td>Tabla de la Comision Nacional de Seguros y Fianzas 2000-individual</td>
             <td>1,15%-3,00%</td>
             <td>2,5%</td>
@@ -18374,14 +18373,14 @@ La composición del saldo de este epígrafe de los balances consolidados adjun
     <tbody>
         <tr>
             <td>Pensiones y otras obligaciones de prestaciones definidas post-empleo</td>
-            <td>25</td>
+            <td><a href="../notas-estados-financieros/index.html#25-retribuciones-post-empleo-y-otros-compromisos-con-empleados">25</a></td>
             <td>6.025</td>
             <td>6.299</td>
             <td>5.970</td>
         </tr>
         <tr>
             <td>Otras retribuciones a los empleados a largo plazo</td>
-            <td>25</td>
+            <td><a href="../notas-estados-financieros/index.html#25-retribuciones-post-empleo-y-otros-compromisos-con-empleados">25</a></td>
             <td>69</td>
             <td>68</td>
             <td>62</td>
@@ -18463,14 +18462,14 @@ A continuación se muestra el movimiento que se ha producido durante los ejerci
         </tr>
         <tr class="s2">
             <td> Intereses y cargas asimiladas</td>
-            <td>37.2</td>
+            <td><a href="../notas-estados-financieros/index.html#37-ingresos-y-gastos-por-intereses">37.2</a></td>
             <td>96</td>
             <td>108</td>
             <td>172</td>
         </tr>
         <tr class="s2">
             <td> Gastos de personal</td>
-            <td>44.1</td>
+            <td><a href="../notas-estados-financieros/index.html#44-gastos-de-administración">44.1</a></td>
             <td>67</td>
             <td>57</td>
             <td>58</td>
@@ -18484,7 +18483,7 @@ A continuación se muestra el movimiento que se ha producido durante los ejerci
         </tr>
         <tr class="s">
             <td>Cargos a patrimonio neto (*)</td>
-            <td>25</td>
+            <td><a href="../notas-estados-financieros/index.html#25-retribuciones-post-empleo-y-otros-compromisos-con-empleados">25</a></td>
             <td>356</td>
             <td>135</td>
             <td>497</td>
@@ -18505,14 +18504,14 @@ A continuación se muestra el movimiento que se ha producido durante los ejerci
         </tr>
         <tr class="s">
             <td>Prestaciones pagadas</td>
-            <td>25</td>
+            <td><a href="../notas-estados-financieros/index.html#25-retribuciones-post-empleo-y-otros-compromisos-con-empleados">25</a></td>
             <td>(926)</td>
             <td>(925)</td>
             <td>(854)</td>
         </tr>
         <tr class="s">
             <td>Aportaciones de la empresa y otros movimientos</td>
-            <td>25</td>
+            <td><a href="../notas-estados-financieros/index.html#25-retribuciones-post-empleo-y-otros-compromisos-con-empleados">25</a></td>
             <td>(154)</td>
             <td>(8)</td>
             <td>(264)</td>
@@ -18762,7 +18761,7 @@ A continuación se presentan los costes registrados por compromisos en las cuen
     <tbody>
         <tr class="b">
             <td>Ingresos y gastos por intereses</td>
-            <td>37.2</td>
+      <td><a href="../notas-estados-financieros/index.html#37-ingresos-y-gastos-por-intereses">37.2</a></td>
             <td>96</td>
             <td>108</td>
             <td>172</td>
@@ -18790,21 +18789,21 @@ A continuación se presentan los costes registrados por compromisos en las cuen
         </tr>
         <tr>
             <td>Contribuciones a fondos de pensiones de aportación definida</td>
-            <td>44.1</td>
+            <td><a href="../notas-estados-financieros/index.html#44-gastos-de-administración">44.1</a></td>
             <td>87</td>
             <td>84</td>
             <td>63</td>
         </tr>
         <tr>
             <td>Dotaciones a planes por pensiones de prestación definida</td>
-            <td>44.1</td>
+            <td><a href="../notas-estados-financieros/index.html#44-gastos-de-administración">44.1</a></td>
             <td>67</td>
             <td>57</td>
             <td>58</td>
         </tr>
         <tr class="b">
             <td>Provisiones o reversión de provisiones</td>
-            <td>46</td>
+            <td><a href="../notas-estados-financieros/index.html#46-provisiones-o-reversión-de-provisiones">46</a></td>
             <td>332</td>
             <td>592</td>
             <td>816</td>
@@ -20789,14 +20788,14 @@ La composición del saldo de estos capítulos de los balances consolidados adj
     <tbody>
         <tr>
             <td>Reserva legal</td>
-            <td>28.1</td>
+            <td><a href="../notas-estados-financieros/index.html#28-ganancias-acumuladas-reservas-de-revalorización-y-otras-reservas">28.1</a></td>
             <td>624</td>
             <td>605</td>
             <td>567</td>
         </tr>
         <tr>
             <td>Reservas indisponibles </td>
-            <td>28.2</td>
+            <td><a href="../notas-estados-financieros/index.html#28-ganancias-acumuladas-reservas-de-revalorización-y-otras-reservas">28.2</a></td>
             <td>201</td>
             <td>213</td>
             <td>268</td>
@@ -24318,7 +24317,7 @@ El desglose del saldo de este epígrafe de las cuentas de pérdidas y ganancia
 <li>(*) No se prevé la cancelación anticipada de los gastos de alquileres de inmuebles por parte de las sociedades consolidadas.</li>
 </ul>
 
-## 45 Amortización
+## 45. Amortización
 
 El desglose del saldo de este capítulo de las cuentas de pérdidas y ganancias consolidadas adjuntas es el siguiente:
 
@@ -24340,7 +24339,7 @@ El desglose del saldo de este capítulo de las cuentas de pérdidas y ganancia
     <tbody>
         <tr>
             <td>Activos tangibles</td>
-            <td>17</td>
+            <td><a href="../notas-estados-financieros/index.html#17-activos-tangibles">17</a></td>
             <td>690</td>
             <td>641</td>
             <td>611</td>
@@ -24368,7 +24367,7 @@ El desglose del saldo de este capítulo de las cuentas de pérdidas y ganancia
         </tr>
         <tr>
             <td>Otros activos intangibles</td>
-            <td>18.2</td>
+            <td><a href="../notas-estados-financieros/index.html#18-activos-intangibles">18.2</a></td>
             <td>735</td>
             <td>631</td>
             <td>535</td>
@@ -24405,7 +24404,7 @@ En los ejercicios de 2016, 2015 y 2014, las dotaciones netas con cargo a este ep
     <tbody>
         <tr>
             <td>Pensiones y otras obligaciones de prestaciones definidas post-empleo</td>
-            <td>25 </td>
+            <td><a href="../notas-estados-financieros/index.html#25-retribuciones-post-empleo-y-otros-compromisos-con-empleados">25</a></td>    
             <td>332</td>
             <td>592</td>
             <td>816</td>
@@ -24426,14 +24425,14 @@ En los ejercicios de 2016, 2015 y 2014, las dotaciones netas con cargo a este ep
         </tr>
         <tr>
             <td>Cuestiones procesales y litigios por impuestos pendientes</td>
-            <td>24 </td>
+            <td><a href="../notas-estados-financieros/index.html#24-provisiones">24</a></td>
             <td>76</td>
             <td>(25)</td>
             <td>94</td>
         </tr>
         <tr>
             <td>Otras provisiones</td>
-            <td>24 </td>
+            <td><a href="../notas-estados-financieros/index.html#24-provisiones">24</a></td>
             <td>722</td>
             <td>154</td>
             <td>218</td>
@@ -24478,7 +24477,7 @@ A continuación se presentan las pérdidas por deterioro de los activos financ
         </tr>
         <tr>
             <td>Activos financieros disponibles para la venta</td>
-            <td>12</td>
+            <td><a href="../notas-estados-financieros/index.html#12-activos-financieros-disponibles-para-la-venta">12</a></td>
             <td>202</td>
             <td>24</td>
             <td>35</td>
@@ -24499,14 +24498,14 @@ A continuación se presentan las pérdidas por deterioro de los activos financ
         </tr>
         <tr>
             <td>Préstamos y partidas a cobrar</td>
-            <td>7.3.5</td>
+            <td><a href="../notas-estados-financieros/index.html#7-gestión-de-riesgos">7.3.5</a></td>
             <td>3.597</td>
             <td>4.248</td>
             <td>4.304</td>
         </tr>
         <tr class="s">
             <td>De los que: Recuperación de activos fallidos</td>
-            <td>7.3.5</td>
+            <td><a href="../notas-estados-financieros/index.html#7-gestión-de-riesgos">7.3.5</a></td>
             <td>541</td>
             <td>490</td>
             <td>443</td>
@@ -24550,14 +24549,14 @@ Seguidamente se presentan las pérdidas por deterioro de los activos no financi
     <tbody>
         <tr>
             <td>Activos tangibles</td>
-            <td>17</td>
+            <td><a href="../notas-estados-financieros/index.html#17-activos-tangibles">17</a></td>
             <td>143</td>
             <td>60</td>
             <td>97</td>
         </tr>
         <tr>
             <td>Activos Intangibles</td>
-            <td>18.2</td>
+            <td><a href="../notas-estados-financieros/index.html#18-activos-intangibles">18.2</a></td>
             <td>3</td>
             <td>4</td>
             <td>8</td>
@@ -24676,7 +24675,7 @@ Los principales conceptos incluidos en el saldo de este capítulo de las cuenta
         </tr>
         <tr>
             <td>Deterioro de activos no corrientes en venta</td>
-            <td>21</td>
+            <td><a href="../notas-estados-financieros/index.html#21-activos-no-corrientes-y-grupos-enajenables-de-elementos-que-se-han-clasificado-como-mantenidos-para-la-venta">21</a></td>
             <td>(136)</td>
             <td>(285)</td>
             <td>(406)</td>
@@ -25163,7 +25162,6 @@ De conformidad con lo anterior, las retribuciones satisfechas a los consejeros e
             <th>Retribución Variable Anual 2015 en efectivo (1)</th>
             <th>Retribución variable de ejercicios anteriores diferida en efectivo (2)</th>
             <th>Total efectivo</th>
-            <th>&nbsp;</th>
             <th>Retribución Variable Anual 2015 en acciones de BBVA (1)</th>
             <th>Retribución variable de ejercicios anteriores diferida en acciones de BBVA (2)</th>
             <th>Total acciones </th>
@@ -25176,7 +25174,6 @@ De conformidad con lo anterior, las retribuciones satisfechas a los consejeros e
             <td>897</td>
             <td>893</td>
             <td>3.756</td>
-            <td>&nbsp;</td>
             <td>135.300</td>
             <td>103.112</td>
             <td>238.412</td>
@@ -25187,7 +25184,6 @@ De conformidad con lo anterior, las retribuciones satisfechas a los consejeros e
             <td>530</td>
             <td>240</td>
             <td>2.693</td>
-            <td>&nbsp;</td>
             <td>79.956</td>
             <td>27.823</td>
             <td>107.779</td>
@@ -25198,7 +25194,6 @@ De conformidad con lo anterior, las retribuciones satisfechas a los consejeros e
             <td>98</td>
             <td>47</td>
             <td>945</td>
-            <td>&nbsp;</td>
             <td>14.815</td>
             <td>5.449</td>
             <td>20.264</td>
@@ -25209,7 +25204,6 @@ De conformidad con lo anterior, las retribuciones satisfechas a los consejeros e
             <td>1.526</td>
             <td>1.180</td>
             <td>7.394</td>
-            <td>&nbsp;</td>
             <td>230.071</td>
             <td>136.384</td>
             <td>366.455</td>
@@ -25270,7 +25264,6 @@ Las retribuciones satisfechas al conjunto de los miembros de la Alta Dirección
             <th>Retribución Variable Anual 2015 en efectivo (1)</th>
             <th>Retribución variable de ejercicios anteriores diferida en efectivo (2)</th>
             <th>Total efectivo</th>
-            <th>&nbsp;</th>
             <th>Retribución Variable Anual 2015 en acciones de BBVA (1)</th>
             <th>Retribución variable de ejercicios anteriores diferida en acciones de BBVA (2)</th>
             <th>Total acciones </th>
@@ -25283,7 +25276,6 @@ Las retribuciones satisfechas al conjunto de los miembros de la Alta Dirección
             <td>2.457</td>
             <td>1.343</td>
             <td>14.915</td>
-            <td>&nbsp;</td>
             <td>370.505</td>
             <td>155.746</td>
             <td>526.251</td>
