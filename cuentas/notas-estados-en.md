@@ -36,7 +36,7 @@ BBVA Group’s consolidated financial statements and the financial statements fo
 
 The BBVA Group’s consolidated financial statements are presented in accordance with the International Financial Reporting Standards endorsed by the European Union (hereinafter, “EU-IFRS”) applicable as of December 31, 2016, considering the Bank of Spain Circular 4/2004, of 22 December (and as amended thereafter), and with any other legislation governing financial reporting applicable to the Group in Spain. 
 
-The BBVA Group’s accompanying consolidated financial statements for the year ended December 31, 2016 were prepared by the Group’s Directors (through the Board of Directors held on February 9, 2016) by applying the principles of consolidation, accounting policies and valuation criteria described in Note 2, so that they present fairly the Group’s total consolidated equity and financial position as of December 31, 2016, together with the consolidated results of its operations and cash flows generated during the year ended December 31, 2016. 
+The BBVA Group’s accompanying consolidated financial statements for the year ended December 31, 2016 were prepared by the Group’s Directors (through the Board of Directors held on February 9, 2017) by applying the principles of consolidation, accounting policies and valuation criteria described in Note 2, so that they present fairly the Group’s total consolidated equity and financial position as of December 31, 2016, together with the consolidated results of its operations and cash flows generated during the year ended December 31, 2016. 
 
 These consolidated financial statements were prepared on the basis of the accounting records kept by the Bank and each of the other entities in the Group. Moreover, they include the adjustments and reclassifications required to harmonize the accounting policies and valuation criteria used by the Group (see Note 2.2). 
 
@@ -463,6 +463,7 @@ The tangible asset depreciation charges are recognized in the accompanying conso
         </tr>
     </tbody>
 </table>
+<a href="{{site.baseurl}}/images/en-2.1.xls">Download Excel</a>
 
 The BBVA Group’s criteria for determining the recoverable amount of these assets, in particular buildings for own use, is based on independent appraisals that are no more than 3-5 years old at most, unless there are indications of impairment. 
 
@@ -849,7 +850,7 @@ The summarized balance sheet and income statements of the Group subsidiaries in 
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-2.2.xls">Download Excel</a>
 
 <table>
     <thead>
@@ -917,7 +918,7 @@ The summarized balance sheet and income statements of the Group subsidiaries in 
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-2.2.xls">Download Excel</a>
 
 
 #### 2.2.17 Recognition of income and expenses 
@@ -1007,7 +1008,7 @@ The breakdown of the General Price Index and the inflation index used as of Dece
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/2_3.xls">Descargar Excel</a>
 
 <ul class="cita"><li>(*) As of December 31, 2016, the Venezuelan government had not released the official inflation figures since December 2015, as in the Annual Report of 2015, the group estimated the inflation rate applicable at 300%. </li>
 
@@ -1248,7 +1249,7 @@ The following table sets forth information related to the Group’s total assets
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-3.1.xls">Download Excel</a>
 
 The total assets and results of operations broken down by the geographical areas, in which the BBVA Group operates, are included in Note 6. 
 
@@ -1430,7 +1431,7 @@ The interim accounting statements prepared in accordance with legal requirements
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-4.1.xls">Download Excel</a>
 
 The first amount of the 2016 interim dividend which was paid to the shareholders on July 11, 2016, after deducting the treasury shares held by the Group’s entities, amounted to €517 million, and is recognized under the heading “Stockholders’ funds – Interim dividends” of the interim balance sheet as of June 30, 2016  
 
@@ -1483,7 +1484,7 @@ The allocation of earnings for 2016 subject to the approval of the Board of Dire
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-4.2.xls">Download Excel</a>
 
 <ul class="cita"><li>(*) Net Income of BBVA, S.A. (see Appendix IX)</li> 
 <li>(**) Concerning to the remuneration to shareholders who choose to be paid in cash through the “Dividend Option”.</li></ul>
@@ -1599,7 +1600,7 @@ The calculation of earnings per share is as follows:
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-5.1.xls">Download Excel</a>
 
 <ul class="cita"><li>(1) Remuneration in the period related to contingent convertible securities, recognized in equity (see Note 22.3).</li> 
 
@@ -1725,7 +1726,7 @@ The breakdown of the BBVA Group’s total assets by operating segments as of Dec
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-6.1.xls">Download Excel</a>
 
 <ul class="cita"><li>(1) The figures corresponding to 2015 have been restated in order to allow homogenous comparisons due to changes in the scope of operating segments.</li> 
 
@@ -1996,7 +1997,7 @@ The attributable profit and main earning figures in the consolidated income stat
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-6.2.xls">Download Excel</a>
 
 <ul class="cita"><li>(1) The figures corresponding to 2015 have been restated in order to allow homogenous comparisons due to changes in the scope of operating segments (see Note 1.3). </li>
 
@@ -2195,7 +2196,7 @@ In addition, the core metrics define, in quantitative terms, the principles and 
     </tbody>
 </table>
 
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-7_1_metrica.xls">Download Excel</a>
 
 ##### By type of risk metrics and statements
 
@@ -2741,7 +2742,7 @@ In accordance with IFRS 7, “Financial Instruments: Disclosures” the BBVA Gro
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-7.3.xls">Download Excel</a>
 
 The maximum credit exposure presented in the table above is determined by type of financial asset as explained below: 
 
@@ -2909,7 +2910,7 @@ The breakdown by counterparty and product of loans and advances, net of impairme
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-7.4.xls">Download Excel</a>
 
 <table>
     <thead>
@@ -3061,7 +3062,7 @@ The breakdown by counterparty and product of loans and advances, net of impairme
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-7.5.xls">Download Excel</a>
 
 #### 7.3.2 Mitigation of credit risk, collateralized credit risk and other credit enhancements 
 
@@ -3301,7 +3302,7 @@ The table below shows the abridged scale used to classify the BBVA Group’s out
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-7.6.xls">Download Excel</a>
 
 These different levels and their probability of default were calculated by using as a reference the rating scales and default rates provided by the external agencies Standard & Poor’s and Moody’s. These calculations establish the levels of probability of default for the BBVA Group’s Master Rating Scale. Although this scale is common to the entire Group, the calibrations (mapping scores to PD sections/Master Rating Scale levels) are carried out at tool level for each country in which the Group has tools available.
 
@@ -3416,7 +3417,7 @@ The table below outlines the distribution of exposure, including derivatives, by
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-7.7.xls">Download Excel</a>
 
 #### 7.3.4 Past due but not impaired and impaired secured loans risks
 
@@ -3718,7 +3719,7 @@ The table below provides details by counterpart and by product of past due risks
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-7.8.xls">Download Excel</a>
 
 <ul class="cita"><li>(*) In the appendix XII there is a breakdown of loans and advances in the heading of Loans and receivables impaired by geographical areas.</li></ul>
 
@@ -4017,7 +4018,7 @@ The table below provides details by counterpart and by product of past due risks
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-7.9.xls">Download Excel</a>
 
 <ul class="cita"><li>(*) In the appendix XII there is a breakdown of the impaired loans and advances by geographical areas.</li></ul>
 
@@ -4184,6 +4185,7 @@ The breakdown of loans and advances of loans and receivables, impaired and accum
         </tr>
     </tbody>
 </table>
+<a href="{{site.baseurl}}/images/en-7.10.xls">Download Excel</a>
 
 <table>
     <thead>
@@ -4346,7 +4348,7 @@ The breakdown of loans and advances of loans and receivables, impaired and accum
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-7.11.xls">Download Excel</a>
 
 As of December 31, 2016, 2015 and 2014, the accumulated financial income accrued with origin in the impaired assets that, as mentioned in Note 2.2.1 are not recognized in the accompanying consolidated income statements as there are doubts as to the possibility of their collection, were 2,910, 3,429 and 3,091 million euros, respectively.
 
@@ -4410,7 +4412,7 @@ The changes in 2016, 2015 and 2014 of impaired financial assets and guarantees a
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-7.12.xls">Download Excel</a>
 
 <ul class="cita"><li>(*) Includes the balance amounts attributable to Catalunya Banc upon its consolidation in April 2015 of €3,969 million and Garanti Group in July 2015 of €1,845 million.</li> 
 
@@ -4506,6 +4508,7 @@ The changes in 2016, 2015 and 2014 in financial assets derecognized from the acc
         </tr>
     </tbody>
 </table>
+<a href="{{site.baseurl}}/images/en-7.13.xls">Download Excel</a>
 
 As indicated in Note 2.2.1, although they have been derecognized from the consolidated balance sheet, the BBVA Group continues to attempt to collect on these written-off financial assets, until the rights to receive them are fully extinguished, either because it is time-barred financial asset, the financial asset is condoned, or other reasons.
 
@@ -4897,7 +4900,7 @@ Below are the changes in 2016 and 2015, in the provisions recognized on the acco
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-7.14.xls">Download Excel</a>
 
 <table class="l">
     <thead>
@@ -5283,7 +5286,7 @@ Below are the changes in 2016 and 2015, in the provisions recognized on the acco
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-7.15.xls">Download Excel</a>
 
 
 #### 7.3.6 Refinancing and restructuring operations
@@ -5451,7 +5454,7 @@ Most of the headings on the Group's consolidated balance sheet subject to market
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-7.16.xls">Download Excel</a>
 
 <ul class="cita"><li>(*) Includes mainly assets and liabilities managed by COAP.</li></ul>
 
@@ -5636,7 +5639,7 @@ As of December 31, 2016, 2015 and 2014 the balance of VaR was €26 million, €
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-7.18.xls">Download Excel</a>
 
 <ul class="cita"><li>(*) The diversification effect is the difference between the sum of the average individual risk factors and the total VaR figure that includes the implied correlation between all the variables and scenarios used in the measurement.</li></ul>
 
@@ -5712,7 +5715,7 @@ The impact of the stress test under multivariable simulation of the risk factors
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-7.19.xls">Download Excel</a>
 
 #### 7.4.2 Structural risk 
 
@@ -5795,7 +5798,7 @@ December 2016</th>
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-7.20.xls">Download Excel</a>
 
 <ul class="cita"><li>(*) Percentage of "1 year" net interest income forecast for each unit.</li> 
 <li>(**) Percentage of net assets for each unit.</li> 
@@ -5939,7 +5942,7 @@ A summary of the effect of the compensation (via netting and collateral) for der
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-7.21.xls">Download Excel</a>
 
 <table>
     <thead>
@@ -6031,7 +6034,7 @@ A summary of the effect of the compensation (via netting and collateral) for der
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-7.22.xls">Download Excel</a>
 
 ### 7.5 Liquidity risk 
 
@@ -6094,7 +6097,7 @@ For the purpose of establishing the (maximum) target levels for LtSCD in each LM
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-7.23.xls">Download Excel</a>
 
 The second core element in liquidity and funding risk management is to achieve proper diversification of the funding structure, avoiding excessive reliance on short-term funding and establishing a maximum level of short-term borrowing comprising both wholesale funding as well as less stable funds from non-retail customers. Regarding long-term funding, the maturity profile does not show significant concentrations, which enables adaptation of the anticipated issuance schedule to the best financial conditions of the markets. Finally, concentration risk is monitored at the LMU level, with a view to ensuring the right diversification both per counterparty and per instrument type.  
 
@@ -6192,7 +6195,7 @@ Each entity maintains an individual liquidity buffer, both Banco Bilbao Vizcaya 
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-7.24.xls">Download Excel</a>
 
 <ul class="cita"><li>(1) It includes Banco Bilbao Vizcaya Argentaria, S.A. and Banco Bilbao Vizcaya Argentaria (Portugal), S.A.</li></ul>
 
@@ -6286,7 +6289,7 @@ Each entity maintains an individual liquidity buffer, both Banco Bilbao Vizcaya 
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-7.25.xls">Download Excel</a>
 
 <ul class="cita"><li>(1) It includes Banco Bilbao Vizcaya Argentaria, S.A., Catalunya Banc, S.A. and Banco Bilbao Vizcaya Argentaria (Portugal), S.A..</li></ul>
 
@@ -6408,7 +6411,7 @@ Below is a matrix of residual maturities by contractual periods based on supervi
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-7.26.xls">Download Excel</a>
 
 <table class="l">
     <thead>
@@ -6518,7 +6521,7 @@ Below is a matrix of residual maturities by contractual periods based on supervi
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-7.27.xls">Download Excel</a>
 
 <table class="l">
     <thead>
@@ -6628,7 +6631,7 @@ Below is a matrix of residual maturities by contractual periods based on supervi
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-7.28.xls">Download Excel</a>
 
 <table class="l">
     <thead>
@@ -6738,7 +6741,7 @@ Below is a matrix of residual maturities by contractual periods based on supervi
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-7.29.xls">Download Excel</a>
 
 The matrix shows the retail nature of the funding structure, with a loan portfolio being mostly funded by customer deposits. On the outflows side of the matrix, the “demand” maturity bucket mainly contains the retail customers sight accounts whose behavior shows a high level of stability. According to internal methodology they are estimated to mature on average in more than three years. 
 
@@ -6797,7 +6800,7 @@ As of December 31, 2016 and 2015, the encumbered (those provided as collateral f
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-7.30.xls">Download Excel</a>
 
 <table class="l">
     <thead>
@@ -6841,7 +6844,7 @@ As of December 31, 2016 and 2015, the encumbered (those provided as collateral f
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-7.31.xls">Download Excel</a>
 
 The committed value of "Loans and Advances and other assets" corresponds mainly to loans linked to the issue of covered bonds, territorial bonds or long-term securitized bonds (see Note 22.3) as well as those used as a guarantee to access certain funding transactions with central banks. Debt securities and equity instruments respond to underlying that are delivered in repos with different types of counterparties, mainly clearing houses or credit institutions, and to a lesser extent central banks. Collateral provided to guarantee derivative operations is also included as committed assets. 
 
@@ -6893,7 +6896,7 @@ As of December 31, 2016 and 2015, collateral pledge mainly due to repurchase agr
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-7.32.xls">Download Excel</a>
 
 <table>
     <thead>
@@ -6941,7 +6944,7 @@ As of December 31, 2016 and 2015, collateral pledge mainly due to repurchase agr
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-7.33.xls">Download Excel</a>
 
 The guarantees received in the form of reverse repos or security lending transactions are committed by their use in repos, as is the case with debt securities.
 
@@ -6987,7 +6990,7 @@ As of December 31, 2016 and 2015, financial liabilities issued related to encumb
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-7.34.xls">Download Excel</a>
 
 <table>
     <thead>
@@ -7029,6 +7032,7 @@ As of December 31, 2016 and 2015, financial liabilities issued related to encumb
         </tr>
     </tbody>
 </table>
+<a href="{{site.baseurl}}/images/en-7.35.xls">Download Excel</a>
 
 ### 7.6  Operational Risk
 
@@ -7338,7 +7342,7 @@ Below is a comparison of the carrying amount of the Group’s financial instrume
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-8.1.xls">Download Excel</a>
 
 Not all financial assets and liabilities are recorded at fair value, so below we provide the information on financial instruments recorded at fair value and subsequently the information of those recorded at cost (including their fair value), although this value is not used when accounting for these instruments. 
 
@@ -7625,7 +7629,7 @@ The following table shows the main financial instruments carried at fair value i
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-8.2.xls">Download Excel</a>
 
 The heading “Available-for-sale financial assets” in the accompanying consolidated balance sheets as of December 31, 2016, 2015 and 2014 additionally includes €565 million, €600 and €540 million for equity instruments, respectively, for financial assets accounted for at cost, as indicated in the section of this Note entitled “Financial instruments at cost”. 
 
@@ -7803,7 +7807,7 @@ The following table sets forth the main valuation techniques, hypothesis and inp
         </tr> 
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-8.3.xls">Download Excel</a>
 
 <table>
     <thead>
@@ -7934,7 +7938,7 @@ The following table sets forth the main valuation techniques, hypothesis and inp
     </tbody>
 </table>
 
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-8.4.xls">Download Excel</a>
 
 Quantitative information of unobservable inputs used to calculate Level 3 valuations is presented below:
 
@@ -8046,7 +8050,7 @@ Quantitative information of unobservable inputs used to calculate Level 3 valuat
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-8.5.xls">Download Excel</a>
 
 The main techniques used for the assessment of the main financial instruments classified in Level 3, and its main unobservable inputs, are described below: 
 
@@ -8182,7 +8186,7 @@ balance sheets are as follows:
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-8.6.xls">Download Excel</a>
 
 <ul class="cita"><li>(*) Profit or loss that is attributable to gains or losses relating to those financial assets and liabilities held as of December 31, 2016, 2015 and 2014. Valuation adjustments are recorded under the heading “Gains (losses) on financial assets and liabilities (net)”. </li>
 
@@ -8296,7 +8300,7 @@ The financial instruments transferred between the different levels of measuremen
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-8.7.xls">Download Excel</a>
 
 The amount of financial instruments that were transferred between levels of valuation for the year ended December 31, 2016 is not material relative to the total portfolios, basically corresponding to the above revisions of the classification between levels because these financial instruments had modified some of its features. Specifically: 
 
@@ -8409,7 +8413,7 @@ As of December 31, 2016, the effect on profit for the period and total equity of
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-8.8.xls">Download Excel</a>
 
 #### 8.1.2 Fair value of financial instruments carried at cost  
 
@@ -8530,7 +8534,7 @@ The following table presents the fair value of key financial instruments carried
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-8.9.xls">Download Excel</a>
 
 The main valuation techniques and inputs used to estimate the fair value of financial instruments accounted for at cost and classified in levels 2 and 3 is shown below. These are broken down by type of financial instrument and the balances correspond to those as of December 31, 2016: 
 
@@ -8662,6 +8666,7 @@ The main valuation techniques and inputs used to estimate the fair value of fina
         </tr>
     </tbody>
 </table>
+<a href="{{site.baseurl}}/images/en-8.10.xls">Download Excel</a>
 
 ##### Financial instruments at cost
 
@@ -8703,6 +8708,7 @@ The table below outlines the financial instruments carried at cost that were sol
         </tr>
     </tbody>
 </table>
+<a href="{{site.baseurl}}/images/en-8.11.xls">Download Excel</a>
 
 #### 8.2 Assets measured at fair value on a non-recurring basis 
 
@@ -8913,7 +8919,7 @@ The portfolio of Non-current assets and disposal groups classified as held for s
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-8.12.xls">Download Excel</a>
 
 Since the amount classified in Level 3 (€2,147 million) is not significant compared to the total consolidated assets and that the inputs used in the valuation (DRM or DFC), are very diverse based on the type and geographic location (being the typical ones used in the valuation of real estate assets of this type), they have not been disclosed. 
 
@@ -8961,7 +8967,7 @@ The breakdown of the balance under the headings “Cash and cash balances at cen
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-9.1.xls">Download Excel</a>
 
 <table>
     <thead>
@@ -9016,7 +9022,7 @@ The breakdown of the balance under the headings “Cash and cash balances at cen
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-9.2.xls">Download Excel</a>
 
 <ul class="cita"><li>(*) It is explained by participation in different TLTRO program (see Note 7.5)</li></ul>
 
@@ -9102,7 +9108,7 @@ The breakdown of the balance under these headings in the accompanying consolidat
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-10.1.xls">Download Excel</a>
 
 
 ### 10.2 Debt securities 
@@ -9173,7 +9179,7 @@ The breakdown by type of issuer of the balance under this heading in the accompa
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-10.2.xls">Download Excel</a>
 
 ### 10.3 Equity instruments 
 
@@ -9255,7 +9261,7 @@ The breakdown of the balance under this heading in the accompanying consolidated
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-10.3.xls">Download Excel</a>
 
 
 ### 10.4 Derivatives  
@@ -9436,7 +9442,7 @@ Below is a breakdown of the net positions by transaction type of the fair value 
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-10.4.xls">Download Excel</a>
 
 <table>
     <thead>
@@ -9610,7 +9616,7 @@ Below is a breakdown of the net positions by transaction type of the fair value 
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-10.5.xls">Download Excel</a>
 
 <table>
     <thead>
@@ -9784,7 +9790,7 @@ Below is a breakdown of the net positions by transaction type of the fair value 
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-10.6.xls">Download Excel</a>
 
 
 ## 11. Financial assets and liabilities designated at fair value through profit or loss 
@@ -9885,7 +9891,7 @@ The breakdown of the balance under these headings in the accompanying consolidat
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-11.1.xls">Download Excel</a>
 
 As of December 31, 2016, 2015 and 2014 the most significant balances within financial assets and liabilities designated at fair value through profit or loss related to assets and liabilities linked to insurance products where the policyholder bears the risk ("Unit-Link"). This type of product is sold only in Spain, through BBVA Seguros SA, insurance and reinsurance and in Mexico through Seguros Bancomer S.A. de CV. 
 
@@ -9956,7 +9962,7 @@ The breakdown of the balance by the main financial instruments in the accompanyi
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-12.1.xls">Download Excel</a>
 
 The amount of "Available for sale financial assets - debt securities" decreases in 2016, mainly due to: 
 
@@ -10238,7 +10244,7 @@ The breakdown of the balance under the heading “Debt securities” of the acco
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-12.2.xls">Download Excel</a>
 
 <ul class="cita"><li>(*) The amortized cost includes portfolio gains/losses linked to insurance contracts in which the policyholder assumes the risk in case of redemption.</li></ul>
 
@@ -10511,7 +10517,7 @@ The breakdown of the balance under the heading “Debt securities” of the acco
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-12.3.xls">Download Excel</a>
 
 <ul class="cita"><li>(*) The amortized cost includes portfolio gains/losses linked to insurance contracts in which the policyholder assumes the risk in case of redemption.</li></ul>
 
@@ -10742,7 +10748,7 @@ The breakdown of the balance under the heading “Debt securities” of the acco
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-12.4.xls">Download Excel</a>
 
 <ul class="cita"><li>(*) The amortized cost includes portfolio gains/losses linked to insurance contracts in which the policyholder assumes the risk in case of redemption.</li></ul>
 
@@ -10886,7 +10892,7 @@ The credit ratings of the issuers of debt securities in the available-for-sale p
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-12.5.xls">Download Excel</a>
 
 ### 12.3 Equity instruments 
 
@@ -11056,7 +11062,7 @@ The breakdown of the balance under the heading "Equity instruments" of the accom
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-12.6.xls">Download Excel</a>
 
 <table>
     <thead>
@@ -11222,7 +11228,7 @@ The breakdown of the balance under the heading "Equity instruments" of the accom
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-12.7.xls">Download Excel</a>
 
 <table class="l">
     <thead>
@@ -11388,7 +11394,7 @@ The breakdown of the balance under the heading "Equity instruments" of the accom
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-12.8.xls">Download Excel</a>
 
 ### 12.4 Gains/losses
 
@@ -11465,7 +11471,7 @@ Available-for-Sale Financial Assets</th>
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-12.9.xls">Download Excel</a>
 
 During 2016, the losses recognized mainly for certain Debt securities from Brazil, United States and Colombia in the heading “Impairment or reversal of impairment on financial assets not measured at fair value through profit or loss- Available- for-sale financial assets” in the accompanying consolidated income statement amounted to €157 million (Note 47). In 2015 and 2014 the losses recognized were not significant (€1 and €19 million respectively). 
 
@@ -11532,7 +11538,7 @@ The breakdown of the balance under this heading in the accompanying consolidated
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-13.1.xls">Download Excel</a>
 
 
 ### 13.1 Loans and advances to credit institutions 
@@ -11634,7 +11640,7 @@ The breakdown of the balance under this heading in the accompanying consolidated
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-13.2.xls">Download Excel</a>
 
 ### 13.2 Loans and advances to customers 
 
@@ -11819,7 +11825,7 @@ The breakdown of the balance under this heading in the accompanying consolidated
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-13.3.xls">Download Excel</a>
 
 <ul class="cita"><li>(*) Includes loans with cash collateral, other financial assets with partial real estate and cash collateral.</li></ul>
 
@@ -11867,7 +11873,7 @@ The heading “Loans and receivables – Loans and advances to customers” incl
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-13.4.xls">Download Excel</a>
 
 The heading “Loans and receivables – Loans and advances to customers” in the accompanying consolidated balance sheets also includes certain secured loans that, as mentioned in Appendix X and pursuant to the Mortgage Market Act, are linked to long-term mortgage-covered bonds. This heading also includes some loans that have been securitized. The balances recognized in the accompanying consolidated balance sheets corresponding to these securitized loans are as follows: 
 
@@ -11941,7 +11947,7 @@ The heading “Loans and receivables – Loans and advances to customers” in t
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-13.5.xls">Download Excel</a>
 
 <ul class="cita"><li>(*) These liabilities are recognized under "Financial liabilities at amortized cost - Debt securities" in the accompanying consolidated balance sheets (Note 22.3).</li></ul>
 
@@ -12009,7 +12015,7 @@ The breakdown of the balance under this heading in the accompanying consolidated
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-13.6.xls">Download Excel</a>
 
 In 2016, some debt securities were reclassified from "Available-for-sale financial assets" to “Loans and receivables Debt securities”. 
 
@@ -12051,6 +12057,7 @@ The following table shows the fair value and carrying amounts of these reclassif
         </tr>
     </tbody>
 </table>
+<a href="{{site.baseurl}}/images/en-13.7.xls">Download Excel</a>
 
 The following table presents the amount recognized in 2016 income statement from the valuation at amortized cost of the reclassified financial assets, as well as the impact recognized on the income statement and under the heading “Total Equity - Accumulated other comprehensive income”, as of December 31, 2016, if the reclassification was not performed. 
 
@@ -12087,7 +12094,7 @@ The following table presents the amount recognized in 2016 income statement from
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-13.8.xls">Download Excel</a>
 
 ## 14. Held-to-maturity investments 
 
@@ -12203,7 +12210,7 @@ The breakdown of the balance under this heading in the accompanying consolidated
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-14.1.xls">Download Excel</a>
 
 <ul class="cita"><li>(*) As of December, 2015 and 2014 the Group BBVA has not registered any balances in this heading.</li></ul>
 
@@ -12291,7 +12298,7 @@ As of December 31, 2016, the credit ratings of the issuers of debt securities cl
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-14.2.xls">Download Excel</a>
 
 The following table shows the fair value and carrying amounts of these reclassified financial assets:  
 
@@ -12338,7 +12345,7 @@ The following table shows the fair value and carrying amounts of these reclassif
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-14.3.xls">Download Excel</a>
 
 <ul class="cita"><li>(*) The decrease in book value is mainly due to amortizations since the date of reclassification.</li></ul>
 
@@ -12385,7 +12392,7 @@ The following table presents the amount recognized in the 2016 income statement 
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-14.4.xls">Download Excel</a>
 
 ## 15. Hedging derivatives and fair value changes of the hedged items in portfolio hedge of interest rate risk 
 
@@ -12443,7 +12450,7 @@ The balance of these headings in the accompanying consolidated balance sheets is
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-15.1.xls">Download Excel</a>
 
 As of December 2016, 2015 and 2014, the main positions hedged by the Group and the derivatives designated to hedge those positions were: 
 
@@ -12724,7 +12731,7 @@ The details of the net positions by hedged risk of the fair value of the hedging
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-15.2.xls">Download Excel</a>
 
 <table>
     <thead>
@@ -13060,7 +13067,7 @@ The details of the net positions by hedged risk of the fair value of the hedging
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-15.3.xls">Download Excel</a>
 
 <table>
     <thead>
@@ -13348,7 +13355,7 @@ The details of the net positions by hedged risk of the fair value of the hedging
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-15.4.xls">Download Excel</a>
 
 The cash flows forecasts for the coming years for cash flow hedging recognized on the accompanying consolidated balance sheet as of December 31, 2016 are: 
 
@@ -13386,6 +13393,7 @@ The cash flows forecasts for the coming years for cash flow hedging recognized o
         </tr>
     </tbody>
 </table>
+<a href="{{site.baseurl}}/images/en-15.6.xls">Download Excel</a>
 
 The above cash flows will have an impact on the Group’s consolidated income statements until 2054.  
 
@@ -13517,7 +13525,7 @@ The breakdown of the balance of “Investments in joint ventures and associates�
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-16.1.xls">Download Excel</a>
 
 Details of the joint ventures and associates as of December 31, 2016 are shown in Appendix II.  
 
@@ -13587,7 +13595,7 @@ The following is a summary of the changes in the years ended December 31, 2016, 
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-16.2.xls">Download Excel</a>
 
 The variation in 2014 is mainly explained by the reclassification of CNBC to “Available-for-sale financial Assets” (see Note 3). 
 
@@ -13649,7 +13657,7 @@ The breakdown of the balance and changes of this heading in the accompanying con
     </thead>
     <tbody>
         <tr class="b">
-            <td>Cost -</td>
+            <td>Cost</td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
@@ -13950,7 +13958,7 @@ The breakdown of the balance and changes of this heading in the accompanying con
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-17.1.xls">Download Excel</a>
 
 <table class="l">
     <thead>
@@ -14282,7 +14290,7 @@ The breakdown of the balance and changes of this heading in the accompanying con
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-17.2.xls">Download Excel</a>
 
 <table class="l">
     <thead>
@@ -14612,7 +14620,7 @@ The breakdown of the balance and changes of this heading in the accompanying con
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-17.3.xls">Download Excel</a>
 
 As of December 31, 2016, 2015 and 2014, the cost of fully amortized tangible assets that remained in use were €2,313, €2,663 and 2,198 million respectively while its recoverable residual value was not significant. 
 
@@ -14680,7 +14688,7 @@ The main activity of the Group is carried out through a network of bank branches
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-17.4.xls">Download Excel</a>
 
 The following table shows the detail of the net carrying amount of the tangible assets corresponding to Spanish and foreign subsidiaries as of December 31, 2016, 2015 and 2014: 
 
@@ -14718,7 +14726,7 @@ The following table shows the detail of the net carrying amount of the tangible 
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-17.5.xls">Download Excel</a>
 
 ## 18. Intangible assets
 
@@ -14808,7 +14816,7 @@ The breakdown of the balance under this heading in the accompanying consolidated
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-18.1.xls">Download Excel</a>
 
 The change in 2016 is mainly as a result of the exchange differences due to the appreciation of the US Dollar against the euro and the depreciation of the Turkish lira and the Mexican peso. 
 
@@ -14894,6 +14902,7 @@ The change in 2016 is mainly as a result of the exchange differences due to the 
         </tr>
     </tbody>
 </table>
+<a href="{{site.baseurl}}/images/en-18.2.xls">Download Excel</a>
 
 The change in 2015 is mainly as a result of the full consolidation of Garanti since the date of effective control (see Note 3) assigned to the CGU of Turkey and exchange differences due to the appreciation of the US Dollar against the euro and the depreciation of the other currencies. 
 
@@ -14979,7 +14988,7 @@ The change in 2015 is mainly as a result of the full consolidation of Garanti si
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-18.3.xls">Download Excel</a>
 
 <ul class="cita"><li>(*) The change depicted in the above table corresponded to the acquisition of Simple.</li></ul>
 
@@ -15027,7 +15036,7 @@ The Group’s most significant goodwill corresponds to the CGU in the United Sta
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-18.4.xls">Download Excel</a>
 
 Given the potential growth of the sector, in accordance with paragraph 33 of IAS 36, as of December 31, 2016, 2015 and 2014 the Group used a steady growth rate of 4% based on the real GDP growth rate of the United States and expected inflation. This 4% rate is less than the historical average of the past 30 years of the nominal GDP rate of the United States and lower than the real GDP growth forecasted by the IMF.  
 
@@ -15058,7 +15067,7 @@ The assumptions with a greater relative weight and whose volatility could affect
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-18.5.xls">Download Excel</a>
 
 <ul class="cita"><li>(*) Based on historical changes, the use of 50 basis points to calculate the sensitivity analysis would be a reasonable variation with respect to the observed variations over the last five years (36 basis points).</li></ul>
 
@@ -15211,7 +15220,7 @@ Shown below are details of the carrying amount of the consolidated assets and li
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-18.6.xls">Download Excel</a>
 
 <ul class="cita"><li>(*) After the purchase, it has been reclassified under the heading “Available-for-sale financial assets”.</li>
 
@@ -15332,7 +15341,7 @@ Shown below are details of the carrying amount of the consolidated assets and li
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-18.7.xls">Download Excel</a>
 
 In accordance with the acquisition method, which implies to account at fair value the assets acquired and liabilities of Garanti Bank along with the intangible assets identifies, as well as the cash payment carried out by the Group related to the transaction generates goodwill.  
 
@@ -15361,7 +15370,7 @@ The main significant hypotheses used in the impairment test of this mentioned CG
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-18.8.xls">Download Excel</a>
 
 The assumptions with a greater relative weight and whose volatility could affect more in determining the present value of the cash flows starting on the fifth year are the discount rate and the growth rate. Below is shown the increased (or decreased) amount of the recoverable amount as a result of a reasonable variation (in basic points) of each of the key assumptions: 
 
@@ -15390,6 +15399,7 @@ The assumptions with a greater relative weight and whose volatility could affect
         </tr>
     </tbody>
 </table>
+<a href="{{site.baseurl}}/images/en-18.9.xls">Download Excel</a>
 
 ### 18.2 Other intangible assets 
 
@@ -15435,7 +15445,7 @@ The breakdown of the balance and changes of this heading in the accompanying con
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-18.10.xls">Download Excel</a>
 
 <table>
     <thead>
@@ -15504,7 +15514,7 @@ The breakdown of the balance and changes of this heading in the accompanying con
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-18.11.xls">Download Excel</a>
 
 As of December 31, 2016, the balance of fully amortized intangible assets that remained in use was €1.501 million, while their recoverable value was not significant.
 
@@ -15709,7 +15719,7 @@ The reconciliation of the Group’s corporate income tax expense resulting from 
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-19.1.xls">Download Excel</a>
 
 <ul class="cita"><li>(*) Calculated by applying the difference between the tax rate in force in Spain and the one applied to the Group’s earnings in each jurisdiction.</li></ul>
 
@@ -15773,7 +15783,7 @@ The effective income tax rate for the Group in the years ended December 31, 2016
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-19.2.xls">Download Excel</a>
 
 ### 19.4  Income tax recognized in equity 
 
@@ -15825,6 +15835,7 @@ In addition to the income tax expense recognized in the accompanying consolidate
         </tr>
     </tbody>
 </table>
+<a href="{{site.baseurl}}/images/en-19.3.xls">Download Excel</a>
 
 ### 19.5  Deferred taxes 
 
@@ -15948,7 +15959,7 @@ The balance under the heading "Tax assets" in the accompanying consolidated bala
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-19.4.xls">Download Excel</a>
 
 <ul class="cita"><li>(*) Laws guaranteeing the deferred tax assets have been approved in Spain and Portugal in 2013 and 2014.</li></ul>
 
@@ -16069,7 +16080,7 @@ The most significant variations in the years ended December 31, 2016, 2015 and 2
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-19.5.xls">Download Excel</a>
 
 <ul class="cita"><li>(*) Acquisition of Catalunya Banc S.A in 2015.</li></ul>
 
@@ -16121,6 +16132,7 @@ Of the deferred tax assets contained in the above table, the detail of the items
         </tr>
     </tbody>
 </table>
+<a href="{{site.baseurl}}/images/en-19.6.xls">Download Excel</a>
 
 As of December 31, 2016, non-guaranteed net deferred tax assets of the above table amounted to €3,568 million (€2,924 and €2,333 million as of December 31, 2015 and 2014), which broken down by major geographies is as follows: 
 
@@ -16259,7 +16271,7 @@ The breakdown of the balance under these headings in the accompanying consolidat
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-20.1.xls">Download Excel</a>
 
 The heading "Inventories" includes the net book value of land and building purchases that the Group’s Real estate entities have available for sale or as part of their business. Balances under this heading include mainly real estate assets acquired by these entities from distressed customers (mostly in Spain), net of their corresponding losses. The impairment included under the heading “Impairment or reversal of impairment on non-financial assets” of the accompanying consolidated financial statements were €375, €209 and €192 million for the years ended December 31, 2016, 2015 and 2014 respectively (see Note 48).The roll-forward of our inventories from distressed customers is provided below: 
 
@@ -16333,7 +16345,7 @@ The heading "Inventories" includes the net book value of land and building purch
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-20.2.xls">Download Excel</a>
 
 <ul class="cita"><li>(*) Mainly assets from Catalunya Banc acquisition in 2015.</li></ul>
 
@@ -16418,7 +16430,7 @@ The composition of the balance under the heading “Non-current assets and dispo
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-21.1.xls">Download Excel</a>
 
 <ul class="cita"><li>(*)  Includes Real Estate transferred from BBVA Propiedad.</li> 
 
@@ -16589,7 +16601,7 @@ The changes in the balances of “Non-current assets available for sale” in 20
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-21.2.xls">Download Excel</a>
 
 <ul class="cita"><li>(*) Net of accumulated amortization until reclassified as non-current assets held for sale.</li></ul>
 
@@ -16756,7 +16768,7 @@ The changes in the balances of “Non-current assets available for sale” in 20
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-21.3.xls">Download Excel</a>
 
 <ul class="cita"><li>(*) Net of accumulated amortization until reclassified as non-current assets held for sale </li>
 
@@ -16925,7 +16937,7 @@ The changes in the balances of “Non-current assets available for sale” in 20
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-21.4.xls">Download Excel</a>
 
 <ul class="cita"><li>(*) Net of accumulated amortization until reclassified as non-current assets held for sale </li>
 
@@ -17012,7 +17024,7 @@ The breakdown of the balance under these headings in the accompanying consolidat
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-22.1.xls">Download Excel</a>
 
 ### 22.1  Deposits from credit institutions
 
@@ -17092,7 +17104,7 @@ The breakdown of the balance under this heading in the consolidated balance shee
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-22.2.xls">Download Excel</a>
 
 The breakdown by geographical area and the nature of the related instruments of this heading in the accompanying consolidated balance sheets is as follows: 
 
@@ -17169,7 +17181,7 @@ The breakdown by geographical area and the nature of the related instruments of 
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-22.3.xls">Download Excel</a>
 
 <table class="l">
     <thead>
@@ -17244,7 +17256,7 @@ The breakdown by geographical area and the nature of the related instruments of 
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-22.4.xls">Download Excel</a>
 
 <table class="l">
     <thead>
@@ -17319,7 +17331,7 @@ The breakdown by geographical area and the nature of the related instruments of 
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-22.5.xls">Download Excel</a>
 
 ### 22.2 Customer deposits 
 
@@ -17448,7 +17460,7 @@ The breakdown of this heading in the accompanying consolidated balance sheets, b
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-22.6.xls">Download Excel</a>
 
 The breakdown by geographical area of this heading in the accompanying consolidated balance sheets, by type of instrument is as follows: 
 
@@ -17525,7 +17537,7 @@ The breakdown by geographical area of this heading in the accompanying consolida
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-22.7.xls">Download Excel</a>
 
 <table>
     <thead>
@@ -17600,7 +17612,7 @@ The breakdown by geographical area of this heading in the accompanying consolida
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-22.8.xls">Download Excel</a>
 
 <table>
     <thead>
@@ -17668,7 +17680,7 @@ The breakdown by geographical area of this heading in the accompanying consolida
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-22.9.xls">Download Excel</a>
 
 
 ### 22.3 Debt securities issued (including bonds and debentures) 
@@ -17889,7 +17901,7 @@ The breakdown of the balance under this heading, by currency, is as follows:
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-22.10.xls">Download Excel</a>
 
 <ul class="cita"><li>(*) Hedging operations and issuance costs</li></ul>
 
@@ -17983,7 +17995,7 @@ The breakdown by issuer of the balance under this heading in the accompanying co
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-22.11.xls">Download Excel</a>
 
 <ul class="cita"><li>(*) Listed on the London and New York stock exchanges.</li> 
 
@@ -18054,7 +18066,7 @@ The breakdown of the balance under this heading in the accompanying consolidated
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-22.12.xls">Download Excel</a>
 
 
 ## 23. Liabilities under reinsurance and insurance contracts 
@@ -18163,7 +18175,7 @@ The breakdown of the balance under this heading is as follows:
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-23.1.xls">Download Excel</a>
 
 <ul class="cita"><li>(1) Provides coverage in the event of death or disability.</li> 
 <li>(2) The insurance policies purchased by employers (other than BBVA Group) on behalf of its employees.</li></ul>
@@ -18196,7 +18208,7 @@ The cash flows of those Liabilities under Reinsurance and reinsurance contracts 
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-23.2.xls">Download Excel</a>
 
 The modeling methods and techniques used to calculate the mathematical reserves for the insurance products are actuarial and financial methods and modeling techniques approved by the respective country’s insurance regulator or supervisor. The most important insurance entities are located in Spain and Mexico (which together account for approximately 96% of the insurance revenues), where the modeling methods and techniques are reviewed by the insurance regulator in Spain (General Directorate of Insurance) and Mexico (National Insurance and Bonding Commission), respectively. The modeling methods and techniques used to calculate the mathematical reserves for the insurance products are based on IFRS and primarily involve the valuation of the estimated future cash flows, discounted at the technical interest rate for each policy. To ensure this technical interest rate, asset-liability management is carried out, acquiring a portfolio of securities that generate the cash flows needed to cover the payment commitments assumed with the customers.
 
@@ -18234,7 +18246,7 @@ The table below shows the key assumptions used in the calculation of the mathema
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-23.3.xls">Download Excel</a>
 
 <ul class="cita"><li>(1) Provides coverage in the case of one or more of the following events: death and disability.</li> 
 
@@ -18306,7 +18318,7 @@ The breakdown of the balance under this heading in the accompanying consolidated
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-24.1.xls">Download Excel</a>
 
 <ul class="cita"><li>(*) In the year 2016 this line item includes €577 million of provisions related to the invalidity of the clauses of limitation of interest rates in mortgage loans with consumers (the so-called “cláusulas suelo”), hereinafter discussed.</li>  
 
@@ -18416,7 +18428,7 @@ The change in provisions for pensions and similar obligations for the years ende
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-24.2.xls">Download Excel</a>
 
 <ul class="cita"><li>(*) Correspond to actuarial losses (gains) arising from certain defined-benefit post-employment pension commitments and other similar benefits recognized in “Equity” (see Note 2.2.12).</li> 
 
@@ -18498,7 +18510,7 @@ The change in provisions for pensions and similar obligations for the years ende
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-24.3.xls">Download Excel</a>
 
 <ul class="cita"><li>(*) In the year 2015 this line item mainly includes the incorporation of Garanti y Catalunya Banc in year 2015 (see Note 3).</li></ul>
 
@@ -18622,7 +18634,7 @@ The breakdown of the balance sheet net defined benefit liability as of December 
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-25.1.xls">Download Excel</a>
 
 <ul class="cita"><li>(*) In Turkey, the foundation responsible for managing the benefit commitments holds an additional asset of €257 million which, in accordance with IFRS regarding the asset ceiling, has not been recognized in the accounts, because although it could be used to reduce future pension contributions it could not be immediately refunded to the employer. </li> 
  
@@ -18736,7 +18748,7 @@ The amounts relating to benefit commitments charged to consolidated income state
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-25.2.xls">Download Excel</a>
 
 <ul class="cita"><li>(*) Actuarial losses (gains) on remeasurement of the net defined benefit liability relating to early retirements in Spain and other long-term employee benefits (see Note 2.2.12).</li></ul>
 
@@ -18781,7 +18793,7 @@ The amounts relating to post-employment benefits charged to the balance sheet as
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-25.3.xls">Download Excel</a>
 
 <ul class="cita"><li>(*) Actuarial gains (losses) on remeasurement of the net defined benefit liability relating to pension and medical commitments before income taxes.</li></ul>
 
@@ -19081,7 +19093,7 @@ Defined benefit commitments relate mainly to employees who have already retired 
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-25.4.xls">Download Excel</a>
 
 <ul class="cita"><li>(1) Including gains and losses arising from settlements. </li>
 
@@ -19191,7 +19203,7 @@ The following table sets out the key actuarial assumptions used in the valuation
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-25.5.xls">Download Excel</a>
 
 Discount rates used to value future benefit cash flows have been determined by reference to high quality corporate bonds (Note 2.2.12) in Euro in the case of Spain, Mexican peso for Mexico and USD for the United States), and government bonds in new Turkish Lira for Turkey. 
 
@@ -19266,6 +19278,7 @@ Changes in the main actuarial assumptions may affect the valuation of the commit
         </tr>
     </tbody>
 </table>
+<a href="{{site.baseurl}}/images/en-25.6.xls">Download Excel</a>
 
 The sensitivities provided above have been determined at the date of these consolidated financial statements, and reflect solely the impact of changing one individual assumption at a time, keeping the rest of the assumptions unchanged, thereby excluding the effects which may result from combined assumption changes. 
 
@@ -19461,7 +19474,7 @@ In addition, during the year 2016, Group entities in Spain offered certain emplo
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-25.7.xls">Download Excel</a>
 
 <table class="l">
     <thead>
@@ -19621,7 +19634,7 @@ In addition, during the year 2016, Group entities in Spain offered certain emplo
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-25.8.xls">Download Excel</a>
 
 <table class="l">
     <thead>
@@ -19781,6 +19794,7 @@ In addition, during the year 2016, Group entities in Spain offered certain emplo
         </tr>
     </tbody>
 </table>
+<a href="{{site.baseurl}}/images/en-25.9.xls">Download Excel</a>
 
 <ul class="cita"><li>(1) Including gains and losses arising from settlements. </li>
 
@@ -20055,7 +20069,7 @@ The change in net liabilities (assets) during the years ended 2015 and 2014 was 
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-25.10.xls">Download Excel</a>
 
 <ul class="cita"><li>(1) Includes gains and losses from settlements.</li>  
 
@@ -20321,7 +20335,7 @@ The change in defined benefit obligations and plan assets during the years 2016,
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-25.11.xls">Download Excel</a>
 
 <ul class="cita"><li>(1) Including gains and losses arising from settlements.</li> 
 
@@ -20401,6 +20415,7 @@ The estimated benefit payments over the next ten years for all the entities in S
         </tr>
     </tbody>
 </table>
+<a href="{{site.baseurl}}/images/en-25.12.xls">Download Excel</a>
 
 ##### Plan assets 
 
@@ -20471,6 +20486,7 @@ The table below shows the allocation of plan assets of the main companies of the
         </tr>
     </tbody>
 </table>
+<a href="{{site.baseurl}}/images/en-25.13.xls">Download Excel</a>
 
 In addition to the above there are plan assets relating to the previously mentioned insurance contracts in Spain and the foundation in Turkey. 
 
@@ -20518,6 +20534,7 @@ The following table provides details of investments in listed securities (Level 
         </tr>
     </tbody>
 </table>
+<a href="{{site.baseurl}}/images/en-25.14.xls">Download Excel</a>
 
 The remainders of the assets are mainly invested in Level 2 assets in in accordance with the classification established under IFRS 13 (mainly insurance contracts). As of December 31, 2016, almost all of the assets related to employee’s commitments corresponded to fixed income securities.  
 
@@ -20592,6 +20609,7 @@ The changes in the heading “Common Stock” of the accompanying consolidated b
         </tr>
     </tbody>
 </table>
+<a href="{{site.baseurl}}/images/en-26.1.xls">Download Excel</a>
 
 #####  “Dividend Option” Program in 2016: 
 
@@ -20713,7 +20731,7 @@ The breakdown of the balance under this heading in the accompanying consolidated
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-28.1.xls">Download Excel</a>
 
 <ul class="cita"><li>(*) Total reserves of BBVA, S.A. (see Appendix IX).</li></ul>
 
@@ -20767,7 +20785,7 @@ As of December 31, 2016, 2015 and 2014, the Bank’s restricted reserves are as 
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-28.2.xls">Download Excel</a>
 
 The restricted reserve for retired capital resulted from the reduction of the nominal par value of the BBVA shares made in April 2000. 
 
@@ -21019,7 +21037,7 @@ The breakdown, by company or corporate group, under the heading “Reserves” i
     </tbody>
 </table>
 
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-28.3.xls">Download Excel</a>
 
 <ul class="cita"><li>(*) Absorbed into BBVA S.A.</li></ul>
 
@@ -21170,7 +21188,7 @@ In the years ended December 31, 2016, 2015 and 2014 the Group entities performed
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-29.1.xls">Download Excel</a>
 
 The percentages of treasury stock held by the Group in the years ended December 31, 2016, 2015 and 2014 are as follows: 
 
@@ -21210,7 +21228,7 @@ The percentages of treasury stock held by the Group in the years ended December 
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-29.2.xls">Download Excel</a>
 
 The number of BBVA shares accepted by the Group in pledge of loans as of December 31, 2016, 2015 and 2014 is as follows:
 
@@ -21244,7 +21262,7 @@ The number of BBVA shares accepted by the Group in pledge of loans as of Decembe
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-29.3.xls">Download Excel</a>
 
 The number of BBVA shares owned by third parties but under management of a company within the Group as of December 31, 2016, 2015 and 2014 is as follows:
 
@@ -21278,7 +21296,7 @@ The number of BBVA shares owned by third parties but under management of a compa
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-29.4.xls">Download Excel</a>
 
 
 ## 30. Accumulated other comprehensive income 
@@ -21379,7 +21397,7 @@ The breakdown of the balance under this heading in the accompanying consolidated
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-30.1.xls">Download Excel</a>
 
 The balances recognized under these headings are presented net of tax. 
 
@@ -21453,7 +21471,7 @@ The breakdown by groups of consolidated entities of the balance under the headin
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-31.1.xls">Download Excel</a>
 
 These amounts are broken down by groups of consolidated entities under the heading “Profit - Attributable to non-controlling interests” in the accompanying consolidated income statements: 
 
@@ -21521,7 +21539,7 @@ These amounts are broken down by groups of consolidated entities under the headi
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-31.2.xls">Download Excel</a>
 
 Dividends distributed to non-controlling interests of the Group during the year 2016 are: BBVA Banco Continental Group €90 million, BBVA Chile Group €11 million, BBVA Banco Francés Group €12 million, Garanti Group €106 million, BBVA Colombia Group €4 million, and other Spanish entities accounted for €5 million. 
 
@@ -21729,7 +21747,7 @@ The Group’s bank capital in accordance with the aforementioned applicable regu
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-32.1.xls">Download Excel</a>
 
 <ul class="cita"><li>(*) Provisional data.</li>
 
@@ -21769,7 +21787,7 @@ The Group’s bank capital in accordance with the aforementioned applicable regu
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-32.2.xls">Download Excel</a>
 
 <ul class="cita"><li>(*) Provisional data</li></ul>
 
@@ -21886,6 +21904,7 @@ A reconciliation of the balance sheet to the accounting and regulatory scope (pr
         </tr>
     </tbody>
 </table>
+<a href="{{site.baseurl}}/images/en-32.3.xls">Download Excel</a>
 
 ##### Capital management 
 
@@ -22044,7 +22063,7 @@ The breakdown of the balance under these headings in the accompanying consolidat
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-33.1.xls">Download Excel</a>
 
 <ul class="cita"><li>(*) Non performing financial guarantees given amounted €680 and €664 million as of December 31, 2016 and 2015, respectively.</li></ul>
 
@@ -22164,7 +22183,7 @@ The breakdown of purchase and sale commitments of the BBVA Group as of December 
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-35.1.xls">Download Excel</a>
 
 A breakdown of the maturity of other payment obligations, not included in previous notes, due after December 31, 2016 is provided below:
 
@@ -22234,7 +22253,7 @@ A breakdown of the maturity of other payment obligations, not included in previo
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-35.2.xls">Download Excel</a>
 
 ## 36. Transactions on behalf of third parties 
 
@@ -22280,7 +22299,7 @@ As of December 31, 2016, 2015 and 2014 the details of the most significant items
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-36.1.xls">Download Excel</a>
 
 As of December 31, 2016, 2015 and 2014 the customer funds managed by the BBVA Group are as follows: 
 
@@ -22372,7 +22391,7 @@ As of December 31, 2016, 2015 and 2014 the customer funds managed by the BBVA Gr
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-36.2.xls">Download Excel</a>
 
 <ul class="cita"><li>(*) Excludes balances from securitization funds</li></ul>
 
@@ -22488,7 +22507,7 @@ The breakdown of the interest and similar income recognized in the accompanying 
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-37.1.xls">Download Excel</a>
 
 The amounts recognized in consolidated equity in connection with hedging derivatives and the amounts derecognized from consolidated equity and taken to the consolidated income statement during both periods are given in the accompanying “Consolidated statements of recognized income and expenses”. 
 
@@ -22578,6 +22597,7 @@ The breakdown of the balance under this heading in the accompanying consolidated
         </tr>
     </tbody>
 </table>
+<a href="{{site.baseurl}}/images/en-37.2.xls">Download Excel</a>
 
 ### 37.3   Average return on investments and average borrowing cost 
 
@@ -22719,7 +22739,7 @@ The detail of the average return on investments in the years ended December 31, 
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-37.3.xls">Download Excel</a>
 
 The average borrowing cost in the years ended December 31, 2016, 2015 and 2014 is as follows:
 
@@ -22847,7 +22867,7 @@ The average borrowing cost in the years ended December 31, 2016, 2015 and 2014 i
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-37.4.xls">Download Excel</a>
 
 The change in the balance under the headings “Interest and similar income” and “Interest and similar expenses” in the accompanying consolidated income statements is the result of exchange rate effect, changing prices (price effect) and changing volume of activity (volume effect), as can be seen below:  
 
@@ -23028,7 +23048,7 @@ The change in the balance under the headings “Interest and similar income” a
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-37.5.xls">Download Excel</a>
 
 <ul class="cita"><li>(1) The volume effect is calculated as the result of the interest rate of the initial period multiplied by the difference between the average balances of both periods. </li> 
 
@@ -23085,7 +23105,7 @@ The balances for this heading in the accompanying consolidated income statements
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-38.1.xls">Download Excel</a>
 
 ## 39. Share of profit or loss of entities accounted for using the equity method 
 
@@ -23137,7 +23157,7 @@ The balances for this heading in the accompanying consolidated income statements
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-39.1.xls">Download Excel</a>
 
 
 ## 40. Fee and commission income and expenses 
@@ -23238,6 +23258,7 @@ The breakdown of the balance under this heading in the accompanying consolidated
         </tr>
     </tbody>
 </table>
+<a href="{{site.baseurl}}/images/en-40.1.xls">Download Excel</a>
 
 <table>
     <thead>
@@ -23285,7 +23306,7 @@ The breakdown of the balance under this heading in the accompanying consolidated
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-40.2.xls">Download Excel</a>
 
 ## 41. Gains (losses) on financial assets and liabilities (net) and Exchange Differences 
 
@@ -23367,7 +23388,7 @@ The breakdown of the balance under this heading, by source of the related items,
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-41.1.xls">Download Excel</a>
 
 The breakdown of the balance (excluding exchange rate differences) under this heading in the accompanying income statements by the nature of financial instruments is as follows: 
 
@@ -23429,7 +23450,7 @@ The breakdown of the balance (excluding exchange rate differences) under this he
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-41.2.xls">Download Excel</a>
 
 The breakdown of the balance of the impact of the derivatives (trading and hedging) under this heading in the accompanying consolidated income statements is as follows: 
 
@@ -23539,7 +23560,7 @@ The breakdown of the balance of the impact of the derivatives (trading and hedgi
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-41.3.xls">Download Excel</a>
 
 In addition, in the years ended December 31, 2016, 2015 and 2014, under the heading “Gains or losses on financial assets and liabilities held for trading, net” of the consolidated income statement, net amounts of positive €151 million, positive €135 million, and positive €39 million, respectively were recognized for transactions with foreign exchange trading derivatives. 
 
@@ -23593,7 +23614,7 @@ The breakdown of the balance under the heading “Other operating income” in t
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-42.1.xls">Download Excel</a>
 
 The breakdown of the balance under the heading “Other operating expenses” in the accompanying consolidated income statements is as follows: 
 
@@ -23637,7 +23658,7 @@ The breakdown of the balance under the heading “Other operating expenses” in
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-42.2.xls">Download Excel</a>
 
 
 ## 43. Insurance and reinsurance contracts incomes and expenses 
@@ -23678,7 +23699,7 @@ The breakdown of the balance under the headings “Insurance and reinsurance con
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-43.1.xls">Download Excel</a>
 
 The table below shows the contribution of each insurance product to the Group’s income for the year ended December 31, 2016, 2015 and 2014: 
 
@@ -23764,7 +23785,7 @@ The table below shows the contribution of each insurance product to the Group’
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-43.2.xls">Download Excel</a>
 
 ## 44. Administration costs 
 
@@ -23831,7 +23852,7 @@ The breakdown of the balance under this heading in the accompanying consolidated
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-44.1.xls">Download Excel</a>
 
 The breakdown of the average number of employees in the BBVA Group in the years ended December 31, 2016, 2015 and 2014 by professional categories and geographical areas, is as follows: 
 
@@ -23995,7 +24016,7 @@ The breakdown of the average number of employees in the BBVA Group in the years 
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-44.2.xls">Download Excel</a>
 
 <ul class="cita"><li>(*) Increases due to changes of scope (see Note 3).</li></ul>
 
@@ -24058,6 +24079,7 @@ The breakdown of the number of employees in the BBVA Group as of December 31, 20
         </tr>
     </tbody>
 </table>
+<a href="{{site.baseurl}}/images/en-44.3.xls">Download Excel</a>
 
 #### 44.1.1 Share-based employee remuneration 
 
@@ -24173,7 +24195,7 @@ The breakdown of the balance under this heading in the accompanying consolidated
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-44.4.xls">Download Excel</a>
 
 <ul class="cita"><li>(*) The consolidated companies do not expect to terminate the lease contracts early.</li></ul>
 
@@ -24241,6 +24263,7 @@ The breakdown of the balance under this heading in the accompanying consolidated
         </tr>
     </tbody>
 </table>
+<a href="{{site.baseurl}}/images/en-45.1.xls">Download Excel</a>
 
 ## 46. Provisions or reversal of provisions 
 
@@ -24306,7 +24329,7 @@ In the years ended December 31, 2016, 2015 and 2014 the net provisions registere
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-46.1.xls">Download Excel</a>
 
 ## 47. Impairment or reversal of impairment on financial assets not measured at fair value through profit or loss 
 
@@ -24386,6 +24409,7 @@ The breakdown of Impairment or reversal of impairment on financial assets not me
         </tr>
     </tbody>
 </table>
+<a href="{{site.baseurl}}/images/en-47.1.xls">Download Excel</a>
 
 ## 48. Impairment or reversal of impairment on non-financial assets  
 
@@ -24437,7 +24461,7 @@ The impairment losses on non-financial assets broken down by the nature of those
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-48.1.xls">Download Excel</a>
 
 
 ## 49. Gains (losses) on derecognized of non financial assets and subsidiaries, net
@@ -24502,6 +24526,7 @@ The breakdown of the balance under this heading in the accompanying consolidated
         </tr>
     </tbody>
 </table>
+<a href="{{site.baseurl}}/images/en-49.1.xls">Download Excel</a>
 
 During 2015, the heading “Losses – Disposal of investments in subsidiaries” included, mainly, the fair value measurement of its previously acquired stake in Garanti Group because of the change in the consolidation method (see Note 3). 
 
@@ -24563,7 +24588,7 @@ The main items included in the balance under this heading in the accompanying co
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-50.1.xls">Download Excel</a>
 
 <ul class="cita"><li>(*) Includes various sales in CNCB (see Note 3)</li></ul>
 
@@ -24605,7 +24630,7 @@ The details of the fees for the services contracted by entities of the BBVA Grou
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-52.1.xls">Download Excel</a>
 
 <ul class="cita"><li>(*) Including fees pertaining to annual statutory audits (€20.7 million in 2016).</li></ul>
 
@@ -24633,7 +24658,7 @@ In the year ended December 31, 2016, other entities in the BBVA Group contracted
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-52.2.xls">Download Excel</a>
 
 The services provided by the auditors meet the independence requirements established under Audit of Accounts Law RD 1/2011 and under the Sarbanes-Oxley Act of 2002 adopted by the Securities and Exchange Commission (SEC); accordingly they do not include the performance of any work that is incompatible with the auditing function. 
 
@@ -24725,7 +24750,7 @@ The balances of the main aggregates in the accompanying consolidated balance she
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-53.1.xls">Download Excel</a>
 
 The balances of the main aggregates in the accompanying consolidated income statements resulting from transactions with associates and joint venture entities that are accounted for under the equity method are as follows: 
 
@@ -24775,7 +24800,7 @@ The balances of the main aggregates in the accompanying consolidated income stat
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-53.2.xls">Download Excel</a>
 
 There were no other material effects in the consolidated financial statements arising from dealings with these entities, other than the effects from using the equity method (see Note 2.1) and from the insurance policies to cover pension or similar commitments, as described in Note 25; and the futures transactions arranged by BBVA Group with these entities, associates and joint ventures. 
 
@@ -24970,7 +24995,7 @@ The remuneration paid to the non-executive members of the Board of Directors dur
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-54.1.xls">Download Excel</a>
 
 <ul class="cita"><li>(1) Sunir Kumar Kapoor was appointed director upon resolution of the General Meeting held on 11 March 2016. </li>
 
@@ -25064,6 +25089,7 @@ Pursuant to the above, the remuneration paid to the executive directors during 2
         </tr>
     </tbody>
 </table>
+<a href="{{site.baseurl}}/images/en-54.2.xls">Download Excel</a>
 <ul class="cita">
 <li>(*)The variable remuneration paid to the Chief Executive Officer, who was appointed for said position on 4 May 2015, includes as well the remuneration vested as Digital Banking Officer during the period in which he held this position (4 months).</li> 
 
@@ -25126,6 +25152,7 @@ During 2016, the remuneration paid to the members of BBVA’s Senior Management 
         </tr>
     </tbody>
 </table>
+<a href="{{site.baseurl}}/images/en-54.3.xls">Download Excel</a>
 
 <ul class="cita">
 <li>(*) This section includes aggregate information regarding the members of BBVA Group’s Senior Management, excluding executive directors, who were members of the Senior Management as of 31 December 2016 (14 members).</li>
@@ -25228,6 +25255,7 @@ The number of “theoretical shares” allocated in 2016 to the non-executive di
         </tr>
     </tbody>
 </table>
+<a href="{{site.baseurl}}/images/en-54.4.xls">Download Excel</a>
 
 <ul class="cita"><li>(1) In addition, in 2016, Ramón Bustamante y de la Mora and Ignacio Ferrero Jordi, who ceased as directors on 11 March 2016, were allocated 8,709 and 11,151 theoretical shares, respectively.</li></ul>
 
@@ -25365,7 +25393,7 @@ The table below presents the dividends per share paid in cash in 2016, 2015 and 
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-55.1.xls">Download Excel</a>
 
 <ul class="cita"><li>(*) Corresponding to two payments</li></ul>
 
@@ -25479,7 +25507,7 @@ The detail of the consolidated profit for the years ended December 31, 2016, 201
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-55.2.xls">Download Excel</a>
 
 <ul class="cita"><li>(*) Profit attributable to non-controlling interests.</li></ul>
 
@@ -25561,6 +25589,7 @@ For the years ended December 31, 2016, 2015 and 2014 the detail of the BBVA Grou
         </tr>
     </tbody>
 </table>
+<a href="{{site.baseurl}}/images/en-55.3.xls">Download Excel</a>
 
 <ul class="cita"><li>(*) The information is presented under management criteria in 2015 and 2014 (see Note 6).</li></ul>
 
@@ -25620,7 +25649,7 @@ The breakdown of the balance of “Interest Income” in the accompanying consol
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-55.4.xls">Download Excel</a>
 
 
 ## 56. Subsequent events 

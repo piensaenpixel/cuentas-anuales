@@ -13,7 +13,7 @@ headerTitle: Informe cuentas anuales BBVA 2016
 
 ### Datos relevantes del Grupo BBVA
 
-### (Cifras consolidadas)
+(Cifras consolidadas)
 
 <table>
     <thead>
@@ -302,7 +302,7 @@ headerTitle: Informe cuentas anuales BBVA 2016
     </tbody>
 </table>
 
-<ul class="cita"><li>**Nota general: desde el tercer trimestre de 2015, la participación total en Garanti se consolida por el método de integración global. Para períodos anteriores, la información financiera contenida en este documento se presenta integrándola en la proporción correspondiente al porcentaje de participación que el Grupo tenía hasta entonces (25,01%)**.</li>
+<ul class="cita"><li><b>Nota general: desde el tercer trimestre de 2015, la participación total en Garanti se consolida por el método de integración global. Para períodos anteriores, la información financiera contenida en este documento se presenta integrándola en la proporción correspondiente al porcentaje de participación que el Grupo mantenía hasta entonces (25,01%).</b></li>
 
 <li><sup><sup>(1)</sup></sup> Ajustado por remuneración de instrumentos de capital de nivel 1 adicional.</li>
 

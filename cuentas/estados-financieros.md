@@ -357,7 +357,7 @@ headerTitle: Informe cuentas anuales BBVA 2016
         </tr>
     </tbody>
 </table>
-<!--[Descargar tabla](#)-->
+<a href="{{site.baseurl}}/images/0_1.xlsm">Descargar Excel </a>
 
 <ul class="cita">
 <li>(*) Se presentan, única y exclusivamente, a efectos comparativos (Nota 1.3).
@@ -631,7 +631,7 @@ Las Notas 1 a 56 y los Anexos I a XIV adjuntos forman parte integrante del balan
         </tr>
     </tbody>
 </table>
-<!--[Descargar tabla](#)-->
+<a href="{{site.baseurl}}/images/0_2.xls">Descargar Excel</a>
 
 <ul class="cita"><li>(*) Se presentan, única y exclusivamente, a efectos comparativos (Nota 1.3)</li>
 
@@ -891,7 +891,6 @@ diciembre de 2016.</li></ul>
         </tr>
     </tbody>
 </table>
-<!--[Descargar tabla](#)-->
 
 <table class="l">
     <thead>
@@ -925,7 +924,7 @@ diciembre de 2016.</li></ul>
         </tr>
     </tbody>
 </table>
-<!--[Descargar tabla](#)-->
+<a href="{{site.baseurl}}/images/0_3.xls">Descargar Excel</a>
 
 <ul class="cita"><li>(*) Se presentan, única y exclusivamente, a efectos comparativos (Nota 1.3)</li>
 
@@ -1253,7 +1252,6 @@ diciembre de 2016.</li></ul>
         </tr>
     </tbody>
 </table>
-<!--[Descargar tabla](#)-->
 
 <table class="l">
     <thead>
@@ -1308,7 +1306,7 @@ diciembre de 2016.</li></ul>
         </tr>
     </tbody>
 </table>
-<!--[Descargar tabla](#)-->
+<a href="{{site.baseurl}}/images/0_4.xls">Descargar Excel</a>
 
 <ul class="cita"><li>(*) Se presentan, única y exclusivamente, a efectos comparativos (Nota 1.3).</li>
 
@@ -1536,7 +1534,7 @@ diciembre de 2016.</li></ul>
         </tr>
     </tbody>
 </table>
-<!--[Descargar tabla](#)-->
+<a href="{{site.baseurl}}/images/0_5.xls">Descargar Excel</a>
 
 <ul class="cita"><li>(*) Se presentan, única y exclusivamente, a efectos comparativos (Nota 1.3).</li>
 
@@ -1914,7 +1912,7 @@ Las Notas 1 a 56 y los Anexos I a XIV adjuntos forman parte integrante del estad
         </tr>
     </tbody>
 </table>
-<!--[Descargar tabla](#)-->
+<a href="{{site.baseurl}}/images/0_6.xls">Descargar Excel</a>
 
 <ul class="cita"><li>Las Notas 1 a 56 y los Anexos I a XIV adjuntos forman parte integrante del estado total de cambios en el patrimonio neto consolidado correspondiente al ejercicio anual terminado el 31 de diciembre de 2016.</li></ul>
 
@@ -2286,7 +2284,7 @@ Las Notas 1 a 56 y los Anexos I a XIV adjuntos forman parte integrante del estad
         </tr>
     </tbody>
 </table>
-<!--[Descargar tabla](#)-->
+<a href="{{site.baseurl}}/images/0_7.xls">Descargar Excel</a>
 
 <ul class="cita">
 <li>(*) Se  presentan,  única   y   exclusivamente, 
@@ -2661,7 +2659,7 @@ a   efectos comparativos    (Nota   1.3)</li>
         </tr>
     </tbody>
 </table>
-<!--[Descargar tabla](#)-->
+<a href="{{site.baseurl}}/images/0_8.xls">Descargar Excel</a>
 
 <ul class="cita">
 
@@ -3039,7 +3037,7 @@ a   efectos comparativos    (Nota   1.3)</li>
         </tr>
     </tbody>
 </table>
-<!--[Descargar tabla](#)-->
+<a href="{{site.baseurl}}/images/0_9.xls">Descargar Excel</a>
 
 <table class="l">
     <thead>
@@ -3094,7 +3092,7 @@ a   efectos comparativos    (Nota   1.3)</li>
         </tr>
     </tbody>
 </table>
-<!--[Descargar tabla](#)-->
+<a href="{{site.baseurl}}/images/0_9.xls">Descargar Excel</a>
 
 <ul class="cita"><li>(*) Se presentan, única y exclusivamente, a efectos comparativos (Nota 1.3).</li>
 <li> (**) Los saldos equivalentes al efectivo    en  bancos  

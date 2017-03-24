@@ -98,7 +98,7 @@ no solo en el sector bancario, sino también en otros sectores.
     <tr>
       <td>Numerador (millones de euros)</td>
       <td>+</td>
-      <td>Fondos propios</td>
+      <td class="left">Fondos propios</td>
       <td>50.639</td>
       <td>50.555</td>
       <td>51.761</td>
@@ -108,7 +108,7 @@ no solo en el sector bancario, sino también en otros sectores.
     <tr>
       <td></td>
       <td>+</td>
-      <td>Ajuste por dividendo-opción</td>
+      <td class="left">Ajuste por dividendo-opción</td>
       <td>-</td>
       <td>675</td>
       <td>-</td>
@@ -118,7 +118,7 @@ no solo en el sector bancario, sino también en otros sectores.
     <tr>
       <td></td>
       <td>+</td>
-      <td>Otro resultado global acumulado</td>
+      <td class="left">Otro resultado global acumulado</td>
       <td>(3.349)</td>
       <td>(4.171)</td>
       <td>(4.327)</td>
@@ -128,7 +128,7 @@ no solo en el sector bancario, sino también en otros sectores.
     <tr>
       <td></td>
       <td>-</td>
-      <td>Activos intangibles</td>
+      <td class="left">Activos intangibles</td>
       <td>10.052</td>
       <td>9.858</td>
       <td>9.936</td>
@@ -138,7 +138,7 @@ no solo en el sector bancario, sino también en otros sectores.
     <tr>
       <td>Denominador (acciones)</td>
       <td>+</td>
-      <td>Número de acciones</td>
+      <td class="left">Número de acciones</td>
       <td>6.367</td>
       <td>6.367</td>
       <td>6.480</td>
@@ -148,7 +148,7 @@ no solo en el sector bancario, sino también en otros sectores.
     <tr>
       <td></td>
       <td>+</td>
-      <td>Dividendo-opción</td>
+      <td class="left">Dividendo-opción</td>
       <td>-</td>
       <td>114</td>
       <td>-</td>
@@ -158,7 +158,7 @@ no solo en el sector bancario, sino también en otros sectores.
     <tr>
       <td></td>
       <td>-</td>
-      <td>Autocartera</td>
+      <td class="left">Autocartera</td>
       <td>39</td>
       <td>26</td>
       <td>28</td>
@@ -168,7 +168,7 @@ no solo en el sector bancario, sino también en otros sectores.
     <tr class="s b2">
       <td>=</td>
       <td></td>
-      <td>Valor contable por acción (euros/acción)</td>
+      <td class="left">Valor contable por acción (euros/acción)</td>
       <td>7,47</td>
       <td>7,29</td>
       <td>7,35</td>
@@ -223,7 +223,7 @@ el sector bancario, sino también en otros sectores.
     <tr>
       <td>Numerador (millones de euros)</td>
       <td>+</td>
-      <td>Fondos propios</td>
+      <td class="left">Fondos propios</td>
       <td>50.639</td>
       <td>50.555</td>
       <td>51.761</td>
@@ -233,7 +233,7 @@ el sector bancario, sino también en otros sectores.
     <tr>
       <td></td>
       <td>+</td>
-      <td>Ajuste por dividendo-opción</td>
+      <td class="left">Ajuste por dividendo-opción</td>
       <td>-</td>
       <td>675</td>
       <td>-</td>
@@ -243,7 +243,7 @@ el sector bancario, sino también en otros sectores.
     <tr>
       <td></td>
       <td>+</td>
-      <td>Otro resultado global acumulado</td>
+      <td class="left">Otro resultado global acumulado</td>
       <td>(3.349)</td>
       <td>(4.171)</td>
       <td>(4.327)</td>
@@ -253,7 +253,7 @@ el sector bancario, sino también en otros sectores.
     <tr>
       <td></td>
       <td>-</td>
-      <td>Activos intangibles</td>
+      <td class="left">Activos intangibles</td>
       <td>10.052</td>
       <td>9.858</td>
       <td>9.936</td>
@@ -263,7 +263,7 @@ el sector bancario, sino también en otros sectores.
     <tr>
       <td>Denominador (acciones)</td>
       <td>+</td>
-      <td>Número de acciones</td>
+      <td class="left">Número de acciones</td>
       <td>6.367</td>
       <td>6.367</td>
       <td>6.480</td>
@@ -273,7 +273,7 @@ el sector bancario, sino también en otros sectores.
     <tr>
       <td></td>
       <td>+</td>
-      <td>Dividendo-opción</td>
+      <td class="left">Dividendo-opción</td>
       <td>-</td>
       <td>114</td>
       <td>-</td>
@@ -283,7 +283,7 @@ el sector bancario, sino también en otros sectores.
     <tr>
       <td></td>
       <td>-</td>
-      <td>Autocartera</td>
+      <td class="left">Autocartera</td>
       <td>39</td>
       <td>26</td>
       <td>28</td>
@@ -293,7 +293,7 @@ el sector bancario, sino también en otros sectores.
     <tr class="s b2">
       <td>=</td>
       <td></td>
-      <td>Valor contable tangible por acción (euros/acción)</td>
+      <td class="left">Valor contable tangible por acción (euros/acción)</td>
       <td>5,88</td>
       <td>5,76</td>
       <td>5,81</td>
@@ -306,7 +306,7 @@ el sector bancario, sino también en otros sectores.
 
 
 
-## Rentabilidad por dividendo
+### Rentabilidad por dividendo
 
 Se trata de la remuneración dada al accionista durante los últimos
 doce meses naturales entre el precio de cotización de cierre del
@@ -341,7 +341,7 @@ anualmente una empresa entre el precio de cotización de la misma.
   <tbody>
     <tr>
       <td>Numerador (euros)</td>
-      <td>Dividendos</td>
+      <td class="left">∑ Dividendos</td>
       <td>0,37</td>
       <td>0,37</td>
       <td>0,37</td>
@@ -350,7 +350,7 @@ anualmente una empresa entre el precio de cotización de la misma.
     </tr>
     <tr>
       <td>Denominador (euros)</td>
-      <td>Precio de cierre</td>
+      <td class="left">Precio de cierre</td>
       <td>6,74</td>
       <td>5,84</td>
       <td>5,06</td>
@@ -359,7 +359,7 @@ anualmente una empresa entre el precio de cotización de la misma.
     </tr>
     <tr class="s b2">
       <td>=</td>
-      <td>Rentabilidad por dividendo</td>
+      <td class="left">Rentabilidad por dividendo</td>
       <td>5,5%</td>
       <td>6,3%</td>
       <td>7,3%</td>
@@ -382,8 +382,7 @@ como dudosos y el saldo total de riesgo crediticio, para el
 **Explicación de la fórmula**: Tanto los riesgos dudosos como el
 riesgo crediticio incorporan los riesgos de firma, actualmente
 llamados garantías concedidas. Para su cálculo se parte de las
-rúbricas existentes en la primera tabla de la página 18 de este
-informe.
+rúbricas existentes en la primera tabla <a href="http://accionistaseinversores.bbva.com/TLBB/micros/bbva2016/informe-de-gestion/informacion/index.html#gestión-del-riesgo-1" target="_blank">del apartado de Gestión del riesgo.</a>
 
 **Relevancia de su uso**: Esta métrica es uno de los principales
 indicadores utilizados en el sector bancario para seguir el estado y la evolución de la calidad del riesgo de crédito y, en concreto,
@@ -408,7 +407,7 @@ clientes y riesgos contingentes.
   <tbody>
     <tr>
       <td>Numerador (millones de euros)</td>
-      <td>Riesgos dudosos</td>
+      <td class="left">Riesgos dudosos</td>
       <td>25.996</td>
       <td>25.473</td>
       <td>24.834</td>
@@ -417,7 +416,7 @@ clientes y riesgos contingentes.
     </tr>
     <tr>
       <td>Denominador (millones de euros)</td>
-      <td>Riesgo crediticio</td>
+      <td class="left">Riesgo crediticio</td>
       <td>482.518</td>
       <td>478.429</td>
       <td>483.169</td>
@@ -426,7 +425,7 @@ clientes y riesgos contingentes.
     </tr>
     <tr class="s b2">
       <td>=</td>
-      <td>Tasa de mora</td>
+      <td class="left">Tasa de mora</td>
       <td>5,4%</td>
       <td>5,3%</td>
       <td>5,1%</td>
@@ -446,8 +445,7 @@ cubierto contablemente vía provisiones por insolvencias.
 
 **Explicación de la fórmula**: Los riesgos dudosos incorporan los
 riesgos de firma, actualmente llamados garantías concedidas. Para
-su cálculo se parte de las rúbricas existentes en la primera tabla de la
-página 18 de este informe.
+su cálculo se parte de las rúbricas existentes en la primera tabla <a href="http://accionistaseinversores.bbva.com/TLBB/micros/bbva2016/informe-de-gestion/informacion/index.html#gestión-del-riesgo-1" target="_blank">del apartado de Gestión del riesgo.</a>
 
 **Relevancia de su uso**: Esta métrica es uno de los principales
 indicadores utilizados en el sector bancario para seguir la situación
@@ -472,7 +470,7 @@ contablemente vía provisiones por insolvencias.
   <tbody>
     <tr>
       <td>Numerador (millones de euros)</td>
-      <td>Fondos de cobertura</td>
+      <td class="left">Fondos de cobertura</td>
       <td>19.405</td>
       <td>18.740</td>
       <td>18.264</td>
@@ -481,7 +479,7 @@ contablemente vía provisiones por insolvencias.
     </tr>
     <tr>
       <td>Denominador (millones de euros)</td>
-      <td>Riesgos dudosos</td>
+      <td class="left">Riesgos dudosos</td>
       <td>25.996</td>
       <td>25.473</td>
       <td>24.834</td>
@@ -490,7 +488,7 @@ contablemente vía provisiones por insolvencias.
     </tr>
     <tr class="s b2">
       <td>=</td>
-      <td>Tasa de cobertura</td>
+      <td class="left">Tasa de cobertura</td>
       <td>74%</td>
       <td>74%</td>
       <td>74%</td>
@@ -540,7 +538,7 @@ Prioridades Estratégicas del Grupo.
   <tbody>
     <tr>
       <td>Numerador (millones de euros)</td>
-      <td>Gastos de explotación</td>
+      <td class="left">Gastos de explotación</td>
       <td>12.317</td>
       <td>3.174</td>
       <td>6.332</td>
@@ -549,7 +547,7 @@ Prioridades Estratégicas del Grupo.
     </tr>
     <tr>
       <td>Denominador (millones de euros)</td>
-      <td>Margen bruto</td>
+      <td class="left">Margen bruto</td>
       <td>23.680</td>
       <td>5.788</td>
       <td>12.233</td>
@@ -558,7 +556,7 @@ Prioridades Estratégicas del Grupo.
     </tr>
     <tr class="s b2">
       <td>=</td>
-      <td>Ratio de eficiencia</td>
+      <td class="left">Ratio de eficiencia</td>
       <td>52,0%</td>
       <td>54,8%</td>
       <td>51,8%</td>
@@ -569,7 +567,7 @@ Prioridades Estratégicas del Grupo.
 </table>
 <!--[Descargar tabla](#)-->
 
-## ROE
+### ROE
 
 El ratio ROE (*return on equity*, por sus siglas en inglés) mide la
 rentabilidad contable obtenida de los fondos propios de una
@@ -624,8 +622,8 @@ operaciones corporativas.
   </thead>
   <tbody>
     <tr>
-      <td>Resultado atribuido anualizado</td>
-      <td>Beneficio después de impuestos anualizado</td>
+      <td>Numerador (millones de euros)</td>
+      <td class="left">Resultado atribuido anualizado</td>
       <td>2.642</td>
       <td>2.853</td>
       <td>3.684</td>
@@ -634,7 +632,7 @@ operaciones corporativas.
     </tr>
     <tr>
       <td>Denominador (millones de euros)</td>
-      <td>Fondos propios medios</td>
+      <td class="left">Fondos propios medios</td>
       <td>50.767</td>
       <td>50.923</td>
       <td>51.253</td>
@@ -643,7 +641,7 @@ operaciones corporativas.
     </tr>
     <tr class="s b2">
       <td>=</td>
-      <td>ROE</td>
+      <td class="left">ROE</td>
       <td>5,2%</td>
       <td>5,6%</td>
       <td>7,2%</td>
@@ -710,7 +708,7 @@ de operaciones corporativas.
     <tr>
       <td>Numerador (millones de euros)</td>
       <td></td>
-      <td>Resultado atribuido anualizado</td>
+      <td class="left">Resultado atribuido anualizado</td>
       <td>2.642</td>
       <td>2.853</td>
       <td>3.684</td>
@@ -720,7 +718,7 @@ de operaciones corporativas.
     <tr>
       <td>Denominador (millones de euros)</td>
       <td>+</td>
-      <td>Fondos propios medios</td>
+      <td class="left">Fondos propios medios</td>
       <td>50.767</td>
       <td>50.923</td>
       <td>51.253</td>
@@ -730,7 +728,7 @@ de operaciones corporativas.
     <tr>
       <td></td>
       <td>-</td>
-      <td>Activos intangibles medio</td>
+      <td class="left">Activos intangibles medio</td>
       <td>9.634</td>
       <td>10.054</td>
       <td>9.961</td>
@@ -740,7 +738,7 @@ de operaciones corporativas.
     <tr class="s b2">
       <td>=</td>
       <td></td>
-      <td>ROTE</td>
+      <td class="left">ROTE</td>
       <td>6,4%</td>
       <td>7,0%</td>
       <td>8,9%</td>
@@ -751,7 +749,7 @@ de operaciones corporativas.
 </table>
 <!--[Descargar tabla](#)-->
 
-## ROA
+### ROA
 
 El ratio ROA (*return on assets*, por sus siglas en inglés) mide la
 rentabilidad contable obtenida de los activos de una entidad.
@@ -801,7 +799,7 @@ operaciones corporativas.
   <tbody>
     <tr>
       <td>Numerador (millones de euros)</td>
-      <td>Beneficio después de impuestos anualizado</td>
+      <td class="left">Beneficio después de impuestos anualizado</td>
       <td>3.328</td>
       <td>3.924</td>
       <td>4.970</td>
@@ -810,7 +808,7 @@ operaciones corporativas.
     </tr>
     <tr>
       <td>Denominador (millones de euros)</td>
-      <td>APR medios</td>
+      <td class="left">Activo total medio</td>
       <td>716.379</td>
       <td>749.242</td>
       <td>742.470</td>
@@ -819,7 +817,7 @@ operaciones corporativas.
     </tr>
     <tr class="s b2">
       <td>=</td>
-      <td>ROA</td>
+      <td class="left">ROA</td>
       <td>0,46%</td>
       <td>0,52%</td>
       <td>0,52%</td>
@@ -878,7 +876,7 @@ de operaciones corporativas.
   <tbody>
     <tr>
       <td>Numerador (millones de euros)</td>
-      <td>Beneficio después de impuestos anualizado</td>
+      <td class="left">Beneficio después de impuestos anualizado</td>
       <td>3.328</td>
       <td>3.924</td>
       <td>4.970</td>
@@ -887,7 +885,7 @@ de operaciones corporativas.
     </tr>
     <tr>
       <td>Denominador (millones de euros)</td>
-      <td>APR medios</td>
+      <td class="left">APR medios</td>
       <td>380.844</td>
       <td>399.448</td>
       <td>397.873</td>
@@ -896,7 +894,7 @@ de operaciones corporativas.
     </tr>
     <tr class="s b2">
       <td>=</td>
-      <td>RORWA</td>
+      <td class="left">RORWA</td>
       <td>0,87%</td>
       <td>0,98%</td>
       <td>1,25%</td>
@@ -915,7 +913,7 @@ clientes.
 
 **Explicación de la fórmula**: Suma de saldos puntuales a una
 determinada fecha de fondos de inversión + fondos de pensiones + otros recursos fuera de balance + carteras de clientes; tal y como
-figura en la segunda tabla de la página 16 de este informe.
+figura en la segunda tabla <a href="http://accionistaseinversores.bbva.com/TLBB/micros/bbva2016/informe-de-gestion/informacion/index.html#balance-y-actividad-1" target="_blank">del apartado de Balance y actividad.</a>
 
 **Relevancia de su uso**: Esta métrica es de uso muy común en
 el sector bancario, ya que aparte de los recursos en balance, las
@@ -924,13 +922,10 @@ tales como fondos de inversión y pensiones, etc.
 
 #### Otros recursos de clientes
 
+(Millones de euros)
+
 <table class="l">
   <thead>
-    <tr class="m">
-      <th></th>
-      <th></th>
-      <th colspan="5">Millones de euros</th>
-    </tr>
     <tr>
       <th></th>
       <th></th>
@@ -943,8 +938,8 @@ tales como fondos de inversión y pensiones, etc.
   </thead>
   <tbody>
     <tr class="s2">
-      <td>+</td>
-      <td>Fondos de inversión</td>
+      <td class="right">+</td>
+      <td class="left">Fondos de inversión</td>
       <td>54.419</td>
       <td>53.147</td>
       <td>53.487</td>
@@ -952,8 +947,8 @@ tales como fondos de inversión y pensiones, etc.
       <td>55.037</td>
     </tr>
     <tr class="s2">
-      <td>+</td>
-      <td>Fondos de pensiones</td>
+      <td class="right">+</td>
+      <td class="left">Fondos de pensiones</td>
       <td>31.542</td>
       <td>31.410</td>
       <td>32.061</td>
@@ -961,8 +956,8 @@ tales como fondos de inversión y pensiones, etc.
       <td>33.418</td>
     </tr>
     <tr class="s2">
-      <td>+</td>
-      <td>Otros recursos de clientes</td>
+      <td class="right">+</td>
+      <td class="left">Otros recursos de clientes</td>
       <td>3.786</td>
       <td>3.611</td>
       <td>3.370</td>
@@ -970,8 +965,8 @@ tales como fondos de inversión y pensiones, etc.
       <td>2.831</td>
     </tr>
     <tr class="s2">
-      <td>+</td>
-      <td>Carteras de clientes</td>
+      <td class="right">+</td>
+      <td class="left">Carteras de clientes</td>
       <td>42.074</td>
       <td>42.907</td>
       <td>41.198</td>
@@ -979,8 +974,8 @@ tales como fondos de inversión y pensiones, etc.
       <td>40.805</td>
     </tr>
     <tr class="b2">
-      <td>=</td>
-      <td>Otros recursos de clientes</td>
+      <td class="right">=</td>
+      <td class="left">Otros recursos de clientes</td>
       <td>131.822</td>
       <td>131.076</td>
       <td>130.116</td>
@@ -1132,14 +1127,14 @@ La **transparencia y la consistencia** son los dos pilares fundamentales
 en los que se basa la actuación de Talent & Culture. Además, se han
 definido tres principios básicos que guían dicha actuación:
 
-- Cercanía al negocio: Actuando como socios, business partners,
+- Cercanía al negocio: Actuando como socios, *business partners*,
 del resto de las áreas.
 
 - Foco en la ejecución: Entregando nuevas soluciones con
 compromisos de plazos concretos, basadas en los datos, y
 haciendo las cosas sencillas.
 
-- One team: Trabajando como un solo equipo, transversalmente
+- *One team*: Trabajando como un solo equipo, transversalmente
 entre geografías y sin silos funcionales.
 
 Talent & Culture ha realizado un proceso de priorización estratégica
@@ -1411,10 +1406,6 @@ Global de Ecoeficiencia.
 gestión ambiental basado en la ISO 14001 y otras certificaciones
 ambientales reconocidas.
 
-- Gestionar los impactos directos a través de un sistema de
-gestión ambiental basado en la ISO 14001 y otras certificaciones
-ambientales reconocidas.
-
 - Influenciar positivamente en el comportamiento ambiental de los
 grupos de interés a través de la comunicación, concienciación
 y sensibilización sobre la importancia del medioambiente como
@@ -1438,7 +1429,7 @@ y residuos. El anterior Plan Global de Ecoeficiencia culminó
 exitosamente en 2015, logrando superar ampliamente todos los
 objetivos fijados: reducción del 14% del consumo eléctrico, del
 23% del consumo de agua, del 43% del consumo de papel y del
-16% de las emisiones de CO2; e incremento de empleados que
+16% de las emisiones de CO<sub>2</sub>; e incremento de empleados que
 trabajan en edificios que tienen una certificación ambiental hasta
 el 33% (siempre con respecto a los datos de 2012).
 
@@ -2053,12 +2044,10 @@ balances de dichas sucursales a 31 de diciembre de 2016 y 2015:
  
 #### Sucursales del Grupo BBVA en centros financieros off-shore (Gran Caimán) 
 
+(Millones de euros)
+
 <table>
   <thead>
-    <tr class="m">
-      <th></th>
-      <th colspan="2">Millones de euros</th>
-    </tr>
     <tr>
       <th>Principales magnitudes de los balances</th>
       <th>31-12-16</th>
@@ -2113,12 +2102,11 @@ En el cuadro adjunto se presenta un detalle comparativo de las
 emisiones en vigor a 31 de diciembre de 2016 y 2015:
 
 #### Emisiones en vigor en centros financieros off-shore (Gran Caimán)
+
+(Millones de euros)
+
 <table>
   <thead>
-    <tr class="m">
-      <th></th>
-      <th colspan="2">Millones de euros</th>
-    </tr>
     <tr>
       <th>Principales magnitudes de los balances</th>
       <th>31-12-16</th>
@@ -2164,6 +2152,8 @@ emisiones en vigor a 31 de diciembre de 2016 y 2015:
   </tbody>
 </table>
 <!--[Descargar tabla](#)-->
+<ul class="cita"><li>(1) Valores emitidos con anterioridad a la entrada en vigor de la Ley 19/2003, de 4 de julio.</li>
+<li>(2) Emisiones de bonos de titulización de flujos de remesas de explotación.</li></ul>
 
 ### Supervisión y control de los establecimientos permanentes del Grupo BBVA en centros financieros off-shore
 
@@ -2234,7 +2224,8 @@ Cuentas Anuales Consolidadas adjuntas.
 
 El día 1 de febrero de 2017 se ha anunciado la política de retribución
 del accionista para el ejercicio 2017, descrita en la Nota 4 de las
-Cuentas Anuales Consolidadas adjuntas
+Cuentas Anuales Consolidadas adjuntas.
+
 Desde el 1 de enero de 2017 hasta la fecha de formulación de las
 Cuentas Anuales Consolidadas adjuntas no se han producido otros
 hechos, no mencionados anteriormente en las notas a las Cuentas
@@ -2254,5 +2245,5 @@ apartado que hace referencia al grado de seguimiento del Banco de
 las recomendaciones de gobierno corporativo existentes en España.
 Asimismo, toda la información requerida por el artículo 539 de la
 Ley de Sociedades de Capital se encuentra accesible a través de la
-página web de BBVA, en la dirección www.bbva.com.
+página web de BBVA, en la dirección <a href="http://www.bbva.com" target="_blank">www.bbva.com.</a>.
 

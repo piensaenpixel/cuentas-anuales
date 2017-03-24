@@ -273,7 +273,9 @@ span.highlight {
     &.left {
       text-align: left;
     }
-
+    &.right {
+      text-align: right !important;
+    }
     &.s {
       padding-left: 32px;
     }

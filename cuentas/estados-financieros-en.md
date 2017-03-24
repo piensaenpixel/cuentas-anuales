@@ -356,7 +356,7 @@ headerTitle: Consolidated financial statements BBVA 2016
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-0_1.xls">Download Excel</a>
 
 <ul class="cita"><li>(*) Presented for comparison purposes only (Note 1.3).</li> 
 
@@ -627,7 +627,7 @@ headerTitle: Consolidated financial statements BBVA 2016
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-0_2.xls">Download Excel</a>
 
 <ul class="cita"><li>(*) Presented for comparison purposes only (Note 1.3).</li> 
 
@@ -886,7 +886,6 @@ headerTitle: Consolidated financial statements BBVA 2016
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
 
 <table class="l">
     <thead>
@@ -920,7 +919,7 @@ headerTitle: Consolidated financial statements BBVA 2016
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-0_3.xls">Download Excel</a>
 
 <ul class="cita"><li>(*)  Presented for comparison purposes only (Note 1.3). </li>
 
@@ -937,7 +936,7 @@ headerTitle: Consolidated financial statements BBVA 2016
             <th colspan="3">Millions of Euros</th>
         </tr>
         <tr>
-            <th>Cuenta de pérdidas y ganancias consolidada</th>
+            <th>Consolidated income statements</th>
             <th>Notes</th>
             <th>2016</th>
             <th>2015 (*)</th>
@@ -1248,7 +1247,6 @@ headerTitle: Consolidated financial statements BBVA 2016
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
 
 <table class="l">
     <thead>
@@ -1303,7 +1301,7 @@ headerTitle: Consolidated financial statements BBVA 2016
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-0_4.xls">Download Excel</a>
 
 <ul class="cita"><li>(*) Presented for comparison purposes only (Note 1.3).</li> 
 
@@ -1531,7 +1529,7 @@ headerTitle: Consolidated financial statements BBVA 2016
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-0_5.xls">Download Excel</a>
 
 <ul class="cita"><li>(*) Presented for comparison purposes only (Note 1.3).</li> 
 
@@ -1907,7 +1905,7 @@ headerTitle: Consolidated financial statements BBVA 2016
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-0_6.xls">Download Excel</a>
 
 <ul class="cita"><li>The accompanying Notes 1 to 57 and Appendices I to XIV are an integral part of the total consolidated statement of changes in equity for the year ended December 31, 2016.</li></ul>
 
@@ -2279,7 +2277,7 @@ headerTitle: Consolidated financial statements BBVA 2016
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-0_7.xls">Download Excel</a>
 
 <ul class="cita"><li>(*) Presented for comparison purposes only (Note 1.3).</li> 
 
@@ -2654,7 +2652,7 @@ headerTitle: Consolidated financial statements BBVA 2016
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-0_8.xls">Download Excel</a>
 
 <ul class="cita"><li>(*) Presented for comparison purposes only (Note 1.3).</li> 
 
@@ -3030,7 +3028,7 @@ headerTitle: Consolidated financial statements BBVA 2016
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-0_9.xls">Download Excel</a>
 
 <table class="l">
     <thead>
@@ -3085,7 +3083,7 @@ headerTitle: Consolidated financial statements BBVA 2016
         </tr>
     </tbody>
 </table>
-<!--[Download table](#)-->
+<a href="{{site.baseurl}}/images/en-0_9.xls">Download Excel</a>
 
 <ul class="cita"><li>(*) Presented for comparison purposes only (Note 1.3). </li>
 <ul class="cita"><li>(**) Balance of cash equivalent in central banks include short-term deposits at central banks under the heading "Loans and receivables "in the accompanying consolidated balance sheets (see Note 13).</li></ul>

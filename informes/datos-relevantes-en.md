@@ -13,7 +13,7 @@ headerTitle: Consolidated financial statements BBVA 2016
 
 ### BBVA Group highlights
 
-### (Consolidated figures)
+(Consolidated figures)
 
 
 <table>
