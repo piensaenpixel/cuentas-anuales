@@ -293,7 +293,8 @@ span.highlight {
     }
 
     &:first-child {
-      width: 300px;
+      /*width: 300px;*/
+      width: auto;
       border-left: 2px solid $tableborder;
     }
 
