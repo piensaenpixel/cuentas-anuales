@@ -768,7 +768,7 @@ Local financial statements of the Group subsidiaries in Venezuela are expressed 
 
 The summarized balance sheet and income statements of the Group subsidiaries in Venezuela, whose local financial statements are expressed in Venezuelan bolivars comparing their conversion to euros with the estimated exchange rate with the balances that would have result by applying the SIMADI exchange rate, are as follows: 
 
-<table>
+<table class="auto">
     <thead>
         <tr class="m">
             <th></th>
@@ -852,7 +852,7 @@ The summarized balance sheet and income statements of the Group subsidiaries in 
 </table>
 <a href="{{site.baseurl}}/images/en-2.2.xls">Download Excel</a>
 
-<table>
+<table class="auto">
     <thead>
         <tr>
             <th>Income statements December 2016</th>
@@ -12100,7 +12100,7 @@ The following table presents the amount recognized in 2016 income statement from
 
 The breakdown of the balance under this heading in the accompanying consolidated balance sheets, according to the according to the issuer of the financial instrument, is as follows: 
 
-<table>
+<table class="auto">
     <thead>
         <tr class="m">
             <th></th>
@@ -12398,7 +12398,7 @@ The following table presents the amount recognized in the 2016 income statement 
 
 The balance of these headings in the accompanying consolidated balance sheets is as follows: 
 
-<table class="l">
+<table class="auto">
     <thead>
         <tr class="m">
             <th></th>
@@ -12469,7 +12469,7 @@ Note 7 analyze the Group’s main risks that are hedged using these derivatives.
 
 The details of the net positions by hedged risk of the fair value of the hedging derivatives recognized in the accompanying consolidated balance sheets are as follows:
 
-<table>
+<table class="auto">
     <thead>
         <tr class="m">
             <th></th>
@@ -15012,7 +15012,7 @@ As of December 31, 2016, 2015 and 2014, no indicators of impairment have been id
 
 The Group’s most significant goodwill corresponds to the CGU in the United States, the main significant hypotheses used in the impairment test of this mentioned CGU are: 
 
-<table>
+<table class="auto">
     <thead>
         <tr>
             <th>Impairment test hypotheses CGU Goodwill in the United States</th>
@@ -15085,7 +15085,7 @@ As stated in Note 3, in the six month ended June 30, 2015 the Group acquired 98.
 
 Shown below are details of the carrying amount of the consolidated assets and liabilities of Catalunya Banc prior to its acquisition and the corresponding fair values, gross of tax, which have been estimated in accordance with the IFRS-3 acquisition method. 
 
-<table>
+<table class="auto">
     <thead>
         <tr class="m">
             <th></th>
