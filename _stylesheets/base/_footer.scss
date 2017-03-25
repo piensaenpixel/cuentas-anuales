@@ -2,27 +2,21 @@
   background: $darkblue;
   padding: 38px 0 88px;
   @media (max-width: $mobile) {
-    padding: 30px 0;
+    .container.u-flex {
+      display: block;
+    }
   }
 }
 
 .footer-navigation {
   @include display-flex;
   margin-bottom: 20px;
-  @media (max-width: $mobile) {
-    flex-direction: column;
-    margin-bottom: 0;
-  }
 }
 
 .footer-navigationitem {
   font-family: 'BentonMedium';
   font-size: 15px;
   margin-right: 28px;
-
-  @media (max-width: $mobile) {
-    margin: 0 0 20px 0;
-  }
 
   &:last-child {
     margin-right: 0;
@@ -37,12 +31,22 @@
   color: $white;
   font-family: 'BentonBook';
   font-size: 12px;
+  a {
+    color: $white;
+    text-decoration: none;
+    margin-top: 8px;
+    display: inline-block;
+  }
 }
 
 .footer-social {
   @include display-flex;
   @include justify-content(flex-end);
   margin-bottom: 74px;
+  @media (max-width: $mobile) {
+    margin-top: 20px;
+    @include justify-content(flex-start);
+  }
 }
 
 .footer-socialitem {
@@ -57,7 +61,6 @@
   @include display-flex;
   @include align-items(center);
   @include justify-content(center);
-  background: $electricblue;
   border-radius: 50%;
   height: 24px;
   min-width: 24px;

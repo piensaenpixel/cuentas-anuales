@@ -1,0 +1,51 @@
+.u-txt-center {
+  text-align: center;
+}
+
+.u-flex {
+  @include display-flex;
+}
+
+.u-space-between {
+  @include justify-content(space-between);
+}
+.u-hcenter {
+  @include justify-content(center);
+}
+.u-hend {
+  @include justify-content(flex-end);
+}
+.u-hstart {
+  @include justify-content(flex-start);
+}
+
+.u-alignTop {
+  @include align-items(flex-start);
+}
+.u-alignCenter {
+  @include align-items(center);
+}
+
+.u-upperCase {
+  text-transform: uppercase;
+}
+
+.u-blue {
+  color: $bbvablue !important;
+}
+.u-white {
+  color: $white !important;
+}
+.u-blueDark {
+  color: #004481 !important;
+}
+.u-green {
+  color: #00CCCD !important;
+}
+
+.columns {
+  column-gap: 30px;
+}
+.columns--2 {
+  column-count: 2;
+}

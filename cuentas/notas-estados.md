@@ -1373,7 +1373,7 @@ El Consejo de Administración de BBVA, en su reunión de 21 de diciembre de 20
 
 Los estados contables previsionales, formulados de acuerdo con los requisitos legales exigidos, que ponían de manifiesto la existencia de liquidez suficiente para la distribución de dichas cantidades, fueron los siguientes:
 
-<table>
+<table class="auto">
     <thead>
         <tr class="m">
             <th></th>
@@ -1444,7 +1444,7 @@ Con fecha 1 de febrero de 2017 y de conformidad con la política de retribucio�
 A continuación se muestra la distribución de los resultados del Banco del ejercicio 2016, que el Consejo de Administración someterá a la aprobación de la Junta General de Accionistas:
  
 
-<table>
+<table class="auto">
     <thead>
         <tr class="m">
             <th></th>
@@ -12166,7 +12166,7 @@ La siguiente tabla muestra el importe registrado en la cuenta de pérdidas y ga
 
 La composición del saldo de este capítulo del balance consolidado adjunto, atendiendo a la contrapartida del instrumento financiero en el que tiene su origen, es la siguiente:
 
-<table>
+<table class="auto">
     <thead>
         <tr class="m">
             <th></th>
@@ -12465,7 +12465,7 @@ La siguiente tabla muestra el importe registrado en la cuenta de pérdidas y ga
 
 Los saldos de estos capítulos de los balances consolidados adjuntos son:
 
-<table class="l">
+<table class="l auto">
     <thead>
         <tr class="m">
             <th></th>
@@ -12535,7 +12535,7 @@ En la Nota 7 se analiza la naturaleza de los principales riesgos del Grupo cubie
 
 A continuación se presenta un desglose, por productos y tipo de mercado, del valor razonable así como los nocionales de los derivados financieros de cobertura registrados en los balances consolidados adjuntos:
 
-<table>
+<table class="auto">
     <thead>
         <tr class="m">
             <th></th>
@@ -15152,7 +15152,7 @@ Tal y como se menciona en la Nota 3, en el primer semestre del ejercicio 2015, e
 
 A continuación se muestra el detalle del valor en libros de los activos y pasivos consolidados de Catalunya Banc en el momento anterior a la compra y los correspondientes valores razonables, brutos del impacto fiscal, que, de acuerdo con el método de adquisición de la NIIF 3, fueron estimados.
 
-<table>
+<table class="auto">
     <thead>
         <tr class="m">
             <th></th>

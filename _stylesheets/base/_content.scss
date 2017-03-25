@@ -258,6 +258,11 @@ span.highlight {
           }
         }
       }
+      &.auto {
+        td:first-child {
+          width: auto;
+        }
+      }
   }
 
 

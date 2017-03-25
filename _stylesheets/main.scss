@@ -21,5 +21,8 @@
 /* 6. Content */
 @import "base/content";
 
-/* 7. Responsive tables */
+/* 7. Helpers */
+@import "base/_helpers";
+
+/* 8. Responsive tables */
 @import "base/_responsive-tables";

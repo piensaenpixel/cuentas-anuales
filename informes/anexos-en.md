@@ -441,7 +441,8 @@ Presented below is the reconciliation between the consolidated income statement 
 <table class="l">
     <thead>
         <tr>
-            <th colspan="7">Adjustmets</th>
+            <th colspan="2" style="border: 0"></th>
+            <th colspan="5">Adjustmets</th>
         </tr>
         <tr>
             <th colspan="2">Consolidated income statements</th>
