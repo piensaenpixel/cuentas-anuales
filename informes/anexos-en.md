@@ -442,7 +442,8 @@ Presented below is the reconciliation between the consolidated income statement 
     <thead>
         <tr>
             <th colspan="2" style="border: 0"></th>
-            <th colspan="5">Adjustmets</th>
+            <th colspan="3">Adjustments</th>
+            <th colspan="2" style="border: 0"></th>
         </tr>
         <tr>
             <th colspan="2">Consolidated income statements</th>

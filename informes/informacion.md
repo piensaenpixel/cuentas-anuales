@@ -72,9 +72,11 @@ headerTitle: Informe cuentas anuales BBVA 2016
 
 ### Solvencia
 
-- Posición de **capital** por encima de los requisitos regulatorios, a pesar del efecto negativo que ha tenido la dotación de una provisión ligada a las llamadas “cláusulas suelo”. A cierre de diciembre de 2016, el CET1 *fully-loaded* se sitúa en 􏰳􏱀􏰽􏰯􏰳􏰵el 10,9%, gracias a generación recurrente de resultados del Grupo, en un entorno 􏰏􏰊􏰐􏰄 de elevada volatilidad de los mercados, y a la contención del crecimiento de los 􏰟􏰸􏰫􏰩􏰯􏰵 activos ponderados por riesgo (APR).
+<ul>
+  <li>Posición de <b>capital</b> por encima de los requisitos regulatorios, a pesar del efecto negativo que ha tenido la dotación de una provisión ligada a las llamadas “cláusulas suelo”. A cierre de diciembre de 2016, el CET1 <i>fully-loaded</i> se sitúa en el 10,9%, gracias a generación recurrente de resultados del Grupo, en un entorno de elevada volatilidad de los mercados, y a la contención del crecimiento de los activos ponderados por riesgo (APR).</li>
 
-- El ratio de **apalancamiento** *fully-loaded* cierra en el 6,5%, lo cual compara muy favorablemente con el resto de su *peer group*.
+  <li>El ratio de <b>apalancamiento</b> <i>fully-loaded</i> cierra en el 6,5%, lo cual compara muy favorablemente con el resto de su <i>peer group</i>.</li>
+</ul>
 
 #### Ratios de capital y *leverage*
 
@@ -112,7 +114,6 @@ importe bruto de 8 céntimos de euro por acción.
 ### Otros temas de interés
 
 - Continúa el aumento de la base de **clientes digitales y móviles** del Grupo (+20% y +38% interanual, respectivamente).
-􏰇􏰂􏰈
 
 ## Resultados
 
@@ -666,7 +667,7 @@ El **margen bruto** acumulado del Grupo asciende a 24.653 millones de euros, un 
 
 El **margen de intereses** sigue su senda ascendente. En este sentido registra un avance en el cuarto trimestre del 3,9%, por lo que en el acumulado se incrementa un 14,9% frente a la cifra del ejercicio previo (+7,0% con Turquía en términos homogéneos). Una vez más, el crecimiento de la actividad, principalmente en las geografías emergentes, y la buena defensa de los diferenciales de la clientela explican esta trayectoria positiva. Por áreas de negocio sobresale su favorable desempeño en México (+11,6%), América del Sur (+11,4%), Turquía (+10,6%) y Estados Unidos (+7,6%). En España y resto de Eurasia retrocede como consecuencia del actual entorno de tipos de interés muy bajos, que propicia un estrechamiento de los diferenciales, y de los menores volúmenes de negocio (reducción de la inversión crediticia en ambas geografías y de los depósitos de clientes en gestión en Eurasia).
 
-#### 􏰮􏰖􏰔􏰵􏰝􏰜􏰗􏰑􏰝􏰗􏰚􏰜􏰕􏰝Margen de intereses sobre ATM
+<h4>Margen de intereses sobre ATM</h4>
 
 (Porcentaje)
 
@@ -702,8 +703,7 @@ Global Markets, especialmente en la última parte del ejercicio.
 
 La rúbrica de **dividendos** incorpora, principalmente, los procedentes de las participaciones del Grupo en Telefónica y período de 2015, muy influida por el cobro, en el segundo trimestre, del dividendo de CNCB (que no se registró el año previo).
 
-􏰌􏰊􏰆
-Por último, la línea de **otros productos y cargas de explotación**
+<p>Por último, la línea de <b>otros productos y cargas de explotación</b>
 sube un 86,5% (+63,8% con Turquía en términos homogéneos),
 muy influida por el comportamiento favorable de la actividad de
 seguros. Hay que resaltar que la contribución neta del negocio
@@ -711,14 +711,13 @@ de seguros aumenta un 15,7% (+13,4% con Turquía en términos
 homogéneos) en la comparativa interanual, debido a su buen
 desempeño en todas las geografías y al efecto positivo que en
 México ha supuesto el cambio de regulación sectorial que afecta al
-cálculo de las reservas matemáticas.
-􏰋􏰊􏰉
+cálculo de las reservas matemáticas.</p>
+
 #### Margen neto
 
 Nueva reducción de la tasa de incremento interanual de los **gastos de explotación** que, en el acumulado a diciembre de 2016, se sitúa en el +11,9% (+6,6% con Turquía en términos homogéneos), a pesar de incluir los gastos de CX durante todo el año (en 2015 desde el 24 de abril), la elevada inflación de ciertas geografías en las que BBVA opera y el efecto negativo que la depreciación de los tipos de cambio ha tenido sobre aquellas partidas de costes denominadas en dólares y euros.
 
-￼􏰧􏰯􏰘􏰔􏰙􏰝􏰜􏰕􏰖􏰼􏰝􏰨
-#### 􏰜􏰧􏰸􏰭􏰫􏰴􏰀􏰪􏰫􏰀􏰯􏰴􏰺􏰫􏰸􏰫􏰹􏰫􏰹􏰀􏰳􏱀􏰹􏰀Gastos de explotación
+#### Gastos de explotación
 
 (Millones de euros)
 
@@ -2736,7 +2735,7 @@ Microfinanzas BBVA ha presentado su **Informe** de Desempeño
 Social 2015 <a href="http://mfbbva.org/informe-2015/" target="_blank">_“Midiendo lo que realmente importa”_</a> en el <a href="http://www.iif.com" target="_blank">_Instituto de Finanzas Internacionales_</a> de Washington.
 
 Durante el año han sido numerosos los reconocimientos al trabajo
-de la Fundación. Destacan los _Premios <a href="http://ecofin.es/video/la-noche-de-las-finanzas-en-video-2/" target="_blank">ECOFIN_</a>, que seleccionaron
+de la Fundación. Destacan los _Premios <a href="http://ecofin.es/video/la-noche-de-las-finanzas-en-video-2/" target="_blank">ECOFIN</a>, que seleccionaron
 a la entidad como la mejor “Marca Internacional-Imagen de España”
 en 2016.
 

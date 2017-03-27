@@ -1538,6 +1538,7 @@ headerTitle: Consolidated financial statements BBVA 2016
 ## 4. Consolidated statements of changes in equity for the years ended December 31, 2016, 2015 and 2014.
 
 ### 2016
+<div class="wrapper-scrolling">
 
 <table class="l">
     <thead>
@@ -1905,11 +1906,13 @@ headerTitle: Consolidated financial statements BBVA 2016
         </tr>
     </tbody>
 </table>
+</div>
 <a href="{{site.baseurl}}/images/en-0_6.xls">Download Excel</a>
 
 <ul class="cita"><li>The accompanying Notes 1 to 57 and Appendices I to XIV are an integral part of the total consolidated statement of changes in equity for the year ended December 31, 2016.</li></ul>
 
 ### 2015
+<div class="wrapper-scrolling">
 
 <table>
     <thead>
@@ -2277,6 +2280,7 @@ headerTitle: Consolidated financial statements BBVA 2016
         </tr>
     </tbody>
 </table>
+</div>
 <a href="{{site.baseurl}}/images/en-0_7.xls">Download Excel</a>
 
 <ul class="cita"><li>(*) Presented for comparison purposes only (Note 1.3).</li> 
@@ -2285,6 +2289,7 @@ headerTitle: Consolidated financial statements BBVA 2016
 
 
 ### 2014
+<div class="wrapper-scrolling">
 
 <table>
     <thead>
@@ -2652,6 +2657,7 @@ headerTitle: Consolidated financial statements BBVA 2016
         </tr>
     </tbody>
 </table>
+</div>
 <a href="{{site.baseurl}}/images/en-0_8.xls">Download Excel</a>
 
 <ul class="cita"><li>(*) Presented for comparison purposes only (Note 1.3).</li> 
@@ -2659,6 +2665,8 @@ headerTitle: Consolidated financial statements BBVA 2016
 <li>The accompanying Notes 1 to 57 and Appendices I to XIV are an integral part of the total consolidated statement of changes in equity for the year ended December 31, 2016.</li></ul>
 
 ## 5. Consolidated statements of cash flows for the years ended December 31, 2016, 2015 and 2014. 
+
+<div class="wrapper-scrolling">
 
 <table class="l">
     <thead>
@@ -3028,6 +3036,7 @@ headerTitle: Consolidated financial statements BBVA 2016
         </tr>
     </tbody>
 </table>
+</div>
 <a href="{{site.baseurl}}/images/en-0_9.xls">Download Excel</a>
 
 <table class="l">

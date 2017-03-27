@@ -8,9 +8,7 @@ permalink: informe-de-gestion/introduccion/
 headerTitle: Consolidated financial statements BBVA 2016
 ---
 
-# Introduction Management Report 
-
-## Introduction
+# Introduction
 
 BBVA is a customer-centric global financial services group founded in 1857. It has presence in **35 countries**. The Group has a solid position in Spain; it is the largest financial institution in Mexico and leading franchises in South America and the Sunbelt region of the United States. It is also Turkish bank Garanti’s leading shareholder. Its diversified business is biased on high-growth markets and it relies on technology as a key sustainable competitive advantage.
 

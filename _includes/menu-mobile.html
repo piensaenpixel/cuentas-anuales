@@ -9,13 +9,14 @@
         {% unless page.submenu == null %}
           <nav class="subnavigation">
             <ul class="menu">
-              {% for node in site.pages %}
+              {% assign sorted_pages = (site.pages | sort: 'order') %}
+              {% for node in sorted_pages %}
                 {% if page.submenu == node.submenu %}
                   <li class="menu-item">
                   {% if page.url == node.url %}
-                    <a href="{{node.url}}" class="active">{{node.title}}</a>
+                    <a href="{{site.baseurl}}{{node.url}}" class="active">{{node.title}}</a>
                   {% else %}
-                    <a href="{{node.url}}">{{node.title}}</a>
+                    <a href="{{site.baseurl}}{{node.url}}">{{node.title}}</a>
                   {% endif %}
                   </li>
                 {% endif %}
@@ -35,4 +36,17 @@
       </li>
     {% endfor %}
   </ul>
+  <p class="download-mobile">
+    {% if lang == site.default_lang %}
+      <a href="{{site.baseurl}}/images/cuentas-anuales.pdf" target="_blank">
+        Descargar
+      </a>
+    {% else %}
+      <a href="{{site.baseurl}}/images/cuentas-anuales-en.pdf" target="_blank">
+        Download
+      </a>
+    {% endif %}
+
+
+  </p>
 </nav>

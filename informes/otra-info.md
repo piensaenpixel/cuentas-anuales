@@ -135,7 +135,7 @@ no solo en el sector bancario, sino también en otros sectores.
       <td>9.503</td>
       <td>9.786</td>
     </tr>
-    <tr>
+    <tr style="border-top: 2px solid #eaeaea">
       <td>Denominador (acciones)</td>
       <td>+</td>
       <td class="left">Número de acciones</td>
@@ -260,7 +260,7 @@ el sector bancario, sino también en otros sectores.
       <td>9.503</td>
       <td>9.786</td>
     </tr>
-    <tr>
+    <tr style="border-top: 2px solid #eaeaea">
       <td>Denominador (acciones)</td>
       <td>+</td>
       <td class="left">Número de acciones</td>
@@ -348,7 +348,7 @@ anualmente una empresa entre el precio de cotización de la misma.
       <td>0,37</td>
       <td>0,37</td>
     </tr>
-    <tr>
+    <tr style="border-top: 2px solid #eaeaea">
       <td>Denominador (euros)</td>
       <td class="left">Precio de cierre</td>
       <td>6,74</td>
@@ -414,7 +414,7 @@ clientes y riesgos contingentes.
       <td>24.253</td>
       <td>23.595</td>
     </tr>
-    <tr>
+    <tr style="border-top: 2px solid #eaeaea">
       <td>Denominador (millones de euros)</td>
       <td class="left">Riesgo crediticio</td>
       <td>482.518</td>
@@ -477,7 +477,7 @@ contablemente vía provisiones por insolvencias.
       <td>17.397</td>
       <td>16.573</td>
     </tr>
-    <tr>
+    <tr style="border-top: 2px solid #eaeaea">
       <td>Denominador (millones de euros)</td>
       <td class="left">Riesgos dudosos</td>
       <td>25.996</td>
@@ -545,7 +545,7 @@ Prioridades Estratégicas del Grupo.
       <td>9.549</td>
       <td>12.791</td>
     </tr>
-    <tr>
+    <tr style="border-top: 2px solid #eaeaea">
       <td>Denominador (millones de euros)</td>
       <td class="left">Margen bruto</td>
       <td>23.680</td>
@@ -630,7 +630,7 @@ operaciones corporativas.
       <td>3.736</td>
       <td>3.475</td>
     </tr>
-    <tr>
+    <tr style="border-top: 2px solid #eaeaea">
       <td>Denominador (millones de euros)</td>
       <td class="left">Fondos propios medios</td>
       <td>50.767</td>
@@ -715,7 +715,7 @@ de operaciones corporativas.
       <td>3.736</td>
       <td>3.475</td>
     </tr>
-    <tr>
+    <tr style="border-top: 2px solid #eaeaea">
       <td>Denominador (millones de euros)</td>
       <td>+</td>
       <td class="left">Fondos propios medios</td>
@@ -806,7 +806,7 @@ operaciones corporativas.
       <td>4.972</td>
       <td>4.693</td>
     </tr>
-    <tr>
+    <tr style="border-top: 2px solid #eaeaea">
       <td>Denominador (millones de euros)</td>
       <td class="left">Activo total medio</td>
       <td>716.379</td>
@@ -883,7 +883,7 @@ de operaciones corporativas.
       <td>4.972</td>
       <td>4.693</td>
     </tr>
-    <tr>
+    <tr style="border-top: 2px solid #eaeaea">
       <td>Denominador (millones de euros)</td>
       <td class="left">APR medios</td>
       <td>380.844</td>
@@ -2245,5 +2245,5 @@ apartado que hace referencia al grado de seguimiento del Banco de
 las recomendaciones de gobierno corporativo existentes en España.
 Asimismo, toda la información requerida por el artículo 539 de la
 Ley de Sociedades de Capital se encuentra accesible a través de la
-página web de BBVA, en la dirección <a href="http://www.bbva.com" target="_blank">www.bbva.com.</a>.
+página web de BBVA, en la dirección <a href="http://www.bbva.com" target="_blank">www.bbva.com</a>.
 

@@ -1546,377 +1546,380 @@ Las Notas 1 a 56 y los Anexos I a XIV adjuntos forman parte integrante del estad
 
 ### Ejercicio 2016
 
-<table class="l">
-    <thead>
-        <tr class="m">
-            <th></th>
-            <th colspan="14"> Millones de euros</th>
-        </tr>
-        <tr>
-            <th></th>
-            <th></th>
-            <th></th>
-            <th></th>
-            <th></th>
-            <th></th>
-            <th></th>
-            <th></th>
-            <th></th>
-            <th></th>
-            <th></th>
-            <th></th>
-            <th colspan="2">Intereses minoritarios</th>
-            <th></th>
-        </tr>
-        <tr>
-            <th>2016 </th>
-            <th>Capital <a href="../notas-estados-financieros/index.html#26-capital" style="color:#fff; text-decoration:underline;">(Nota 26)</a></th>
-            <th>Prima de emisión <a href="../notas-estados-financieros/index.html#27-prima-de-emisión" style="color:#fff; text-decoration:underline;">(Nota 27)</a></th>
-            <th>Instrumentos de patrimonio emitidos distintos del capital</th>
-            <th>Otros elementos del patrimonio neto</th>
-            <th>Ganancias acumuladas</th>
-            <th>Reservas de revalorización</th>
-            <th>Otras reservas</th>
-            <th>(-) Acciones propias</th>
-            <th>Resultado atribuible a los propietarios de la dominante</th>
-            <th>(-) Dividendos a cuenta</th>
-            <th>Otro resultado global acumulado</th>
-            <th>Otro resultado global acumulado</th>
-            <th>Otros elementos</th>
-            <th>Total</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr class="b">
-            <td>Saldos a 1 de enero de 2016</td>
-            <td>3.120</td>
-            <td>23.992</td>
-            <td>-</td>
-            <td>35</td>
-            <td>22.588</td>
-            <td>22</td>
-            <td>(98)</td>
-            <td>(309)</td>
-            <td>2.642</td>
-            <td>(1.352)</td>
-            <td>(3.349)</td>
-            <td>(1.333)</td>
-            <td>9.325</td>
-            <td>55.281</td>
-        </tr>
-        <tr class="b">
-            <td>Resultado global total del ejercicio</td>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
-            <td>3.475</td>
-            <td>-</td>
-            <td>(2.109)</td>
-            <td>(913)</td>
-            <td>1.218</td>
-            <td>1.671</td>
-        </tr>
-        <tr class="b">
-            <td>Otras variaciones del patrimonio neto</td>
-            <td>98</td>
-            <td>-</td>
-            <td>-</td>
-            <td>19</td>
-            <td>1.100</td>
-            <td>(2)</td>
-            <td>31</td>
-            <td>260</td>
-            <td>(2.642)</td>
-            <td>(158)</td>
-            <td>-</td>
-            <td>-</td>
-            <td>(233)</td>
-            <td>(1.526)</td>
-        </tr>
-        <tr>
-            <td>Emisión de acciones ordinarias</td>
-            <td>98</td>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
-            <td>(98)</td>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
-        </tr>
-        <tr>
-            <td>Emisión de acciones preferentes</td>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
-        </tr>
-        <tr>
-            <td>Emisión de otros instrumentos de patrimonio</td>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
-        </tr>
-        <tr>
-            <td>Ejercicio o vencimiento de otros instrumentos de patrimonio emitidos</td>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
-        </tr>
-        <tr>
-            <td>Conversión de deuda en patrimonio neto</td>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
-        </tr>
-        <tr>
-            <td>Reducción del capital</td>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
-        </tr>
-        <tr>
-            <td>Dividendos (o remuneraciones a los socios)</td>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
-            <td>93</td>
-            <td>-</td>
-            <td>(93)</td>
-            <td>-</td>
-            <td>-</td>
-            <td>(1.301)</td>
-            <td>-</td>
-            <td>-</td>
-            <td>(234)</td>
-            <td>(1.535)</td>
-        </tr>
-        <tr>
-            <td>Compra de acciones propias</td>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
-            <td>(2.004)</td>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
-            <td>(2.004)</td>
-        </tr>
-        <tr>
-            <td>Venta o cancelación de acciones propias</td>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
-            <td>(30)</td>
-            <td>-</td>
-            <td>-</td>
-            <td>2.264</td>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
-            <td>2.234</td>
-        </tr>
-        <tr>
-            <td>Reclasificación de instrumentos financieros del patrimonio neto al pasivo</td>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
-        </tr>
-        <tr>
-            <td>Reclasificación de instrumentos financieros del pasivo al patrimonio neto</td>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
-        </tr>
-        <tr>
-            <td>Transferencias entre componentes del patrimonio neto</td>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
-            <td>1.166</td>
-            <td>(2)</td>
-            <td>126</td>
-            <td>-</td>
-            <td>(2.642)</td>
-            <td>1.352</td>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
-        </tr>
-        <tr>
-            <td>Aumento o (-) disminución del patrimonio neto resultante de combinaciones de negocios</td>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
-        </tr>
-        <tr>
-            <td>Pagos basados en acciones</td>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
-            <td>(16)</td>
-            <td>3</td>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
-            <td>(12)</td>
-        </tr>
-        <tr>
-            <td>Otros aumentos o (-) disminuciones del patrimonio neto</td>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
-            <td>35</td>
-            <td>(34)</td>
-            <td>-</td>
-            <td>(2)</td>
-            <td>-</td>
-            <td>-</td>
-            <td>(210)</td>
-            <td>-</td>
-            <td>-</td>
-            <td>2</td>
-            <td>(209)</td>
-        </tr>
-        <tr class="b">
-            <td>Saldos a 31 de diciembre de 2016</td>
-            <td>3.218</td>
-            <td>23.992</td>
-            <td>-</td>
-            <td>54</td>
-            <td>23.688</td>
-            <td>20</td>
-            <td>(67)</td>
-            <td>(48)</td>
-            <td>3.475</td>
-            <td>(1.510)</td>
-            <td>(5.458)</td>
-            <td>(2.246)</td>
-            <td>10.310</td>
-            <td>55.428</td>
-        </tr>
-    </tbody>
-</table>
+<div class="wrapper-scrolling">
+    <table class="l">
+        <thead>
+            <tr class="m">
+                <th></th>
+                <th colspan="14"> Millones de euros</th>
+            </tr>
+            <tr>
+                <th></th>
+                <th></th>
+                <th></th>
+                <th></th>
+                <th></th>
+                <th></th>
+                <th></th>
+                <th></th>
+                <th></th>
+                <th></th>
+                <th></th>
+                <th></th>
+                <th colspan="2">Intereses minoritarios</th>
+                <th></th>
+            </tr>
+            <tr>
+                <th>2016 </th>
+                <th>Capital <a href="../notas-estados-financieros/index.html#26-capital" style="color:#fff; text-decoration:underline;">(Nota 26)</a></th>
+                <th>Prima de emisión <a href="../notas-estados-financieros/index.html#27-prima-de-emisión" style="color:#fff; text-decoration:underline;">(Nota 27)</a></th>
+                <th>Instrumentos de patrimonio emitidos distintos del capital</th>
+                <th>Otros elementos del patrimonio neto</th>
+                <th>Ganancias acumuladas</th>
+                <th>Reservas de revalorización</th>
+                <th>Otras reservas</th>
+                <th>(-) Acciones propias</th>
+                <th>Resultado atribuible a los propietarios de la dominante</th>
+                <th>(-) Dividendos a cuenta</th>
+                <th>Otro resultado global acumulado</th>
+                <th>Otro resultado global acumulado</th>
+                <th>Otros elementos</th>
+                <th>Total</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr class="b">
+                <td>Saldos a 1 de enero de 2016</td>
+                <td>3.120</td>
+                <td>23.992</td>
+                <td>-</td>
+                <td>35</td>
+                <td>22.588</td>
+                <td>22</td>
+                <td>(98)</td>
+                <td>(309)</td>
+                <td>2.642</td>
+                <td>(1.352)</td>
+                <td>(3.349)</td>
+                <td>(1.333)</td>
+                <td>9.325</td>
+                <td>55.281</td>
+            </tr>
+            <tr class="b">
+                <td>Resultado global total del ejercicio</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>3.475</td>
+                <td>-</td>
+                <td>(2.109)</td>
+                <td>(913)</td>
+                <td>1.218</td>
+                <td>1.671</td>
+            </tr>
+            <tr class="b">
+                <td>Otras variaciones del patrimonio neto</td>
+                <td>98</td>
+                <td>-</td>
+                <td>-</td>
+                <td>19</td>
+                <td>1.100</td>
+                <td>(2)</td>
+                <td>31</td>
+                <td>260</td>
+                <td>(2.642)</td>
+                <td>(158)</td>
+                <td>-</td>
+                <td>-</td>
+                <td>(233)</td>
+                <td>(1.526)</td>
+            </tr>
+            <tr>
+                <td>Emisión de acciones ordinarias</td>
+                <td>98</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>(98)</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+            </tr>
+            <tr>
+                <td>Emisión de acciones preferentes</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+            </tr>
+            <tr>
+                <td>Emisión de otros instrumentos de patrimonio</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+            </tr>
+            <tr>
+                <td>Ejercicio o vencimiento de otros instrumentos de patrimonio emitidos</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+            </tr>
+            <tr>
+                <td>Conversión de deuda en patrimonio neto</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+            </tr>
+            <tr>
+                <td>Reducción del capital</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+            </tr>
+            <tr>
+                <td>Dividendos (o remuneraciones a los socios)</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>93</td>
+                <td>-</td>
+                <td>(93)</td>
+                <td>-</td>
+                <td>-</td>
+                <td>(1.301)</td>
+                <td>-</td>
+                <td>-</td>
+                <td>(234)</td>
+                <td>(1.535)</td>
+            </tr>
+            <tr>
+                <td>Compra de acciones propias</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>(2.004)</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>(2.004)</td>
+            </tr>
+            <tr>
+                <td>Venta o cancelación de acciones propias</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>(30)</td>
+                <td>-</td>
+                <td>-</td>
+                <td>2.264</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>2.234</td>
+            </tr>
+            <tr>
+                <td>Reclasificación de instrumentos financieros del patrimonio neto al pasivo</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+            </tr>
+            <tr>
+                <td>Reclasificación de instrumentos financieros del pasivo al patrimonio neto</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+            </tr>
+            <tr>
+                <td>Transferencias entre componentes del patrimonio neto</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>1.166</td>
+                <td>(2)</td>
+                <td>126</td>
+                <td>-</td>
+                <td>(2.642)</td>
+                <td>1.352</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+            </tr>
+            <tr>
+                <td>Aumento o (-) disminución del patrimonio neto resultante de combinaciones de negocios</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+            </tr>
+            <tr>
+                <td>Pagos basados en acciones</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>(16)</td>
+                <td>3</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>(12)</td>
+            </tr>
+            <tr>
+                <td>Otros aumentos o (-) disminuciones del patrimonio neto</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>35</td>
+                <td>(34)</td>
+                <td>-</td>
+                <td>(2)</td>
+                <td>-</td>
+                <td>-</td>
+                <td>(210)</td>
+                <td>-</td>
+                <td>-</td>
+                <td>2</td>
+                <td>(209)</td>
+            </tr>
+            <tr class="b">
+                <td>Saldos a 31 de diciembre de 2016</td>
+                <td>3.218</td>
+                <td>23.992</td>
+                <td>-</td>
+                <td>54</td>
+                <td>23.688</td>
+                <td>20</td>
+                <td>(67)</td>
+                <td>(48)</td>
+                <td>3.475</td>
+                <td>(1.510)</td>
+                <td>(5.458)</td>
+                <td>(2.246)</td>
+                <td>10.310</td>
+                <td>55.428</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
 <a href="{{site.baseurl}}/images/0_6.xls">Descargar Excel</a>
 
 <ul class="cita"><li>Las Notas 1 a 56 y los Anexos I a XIV adjuntos forman parte integrante del estado total de cambios en el patrimonio neto consolidado correspondiente al ejercicio anual terminado el 31 de diciembre de 2016.</li></ul>
 
 ### Ejercicio 2015
+<div class="wrapper-scrolling">
 
 <table>
     <thead>
@@ -2284,6 +2287,7 @@ Las Notas 1 a 56 y los Anexos I a XIV adjuntos forman parte integrante del estad
         </tr>
     </tbody>
 </table>
+</div>
 <a href="{{site.baseurl}}/images/0_7.xls">Descargar Excel</a>
 
 <ul class="cita">
@@ -2292,6 +2296,7 @@ a   efectos comparativos    (Nota   1.3)</li>
 <li>Las Notas 1 a 56 y los Anexos I a XIV adjuntos forman parte integrante del estado total de cambios en el patrimonio neto consolidado correspondiente al ejercicio anual terminado el 31 de diciembre de 2016.</li></ul>
 
 ### Ejercicio 2014 
+<div class="wrapper-scrolling">
 
 <table>
     <thead>
@@ -2659,6 +2664,7 @@ a   efectos comparativos    (Nota   1.3)</li>
         </tr>
     </tbody>
 </table>
+</div>
 <a href="{{site.baseurl}}/images/0_8.xls">Descargar Excel</a>
 
 <ul class="cita">

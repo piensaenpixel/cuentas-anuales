@@ -1,5 +1,14 @@
 /* Mobile */
 @media only screen and (max-width: 750px) {
+
+  .content {
+    td {
+      &:first-child {
+        /*width: 300px;*/
+        width: auto;
+      }
+    }
+  }
   
   table.responsive { margin-bottom: 0; }
   
