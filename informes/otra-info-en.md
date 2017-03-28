@@ -328,7 +328,7 @@ This is the ratio between the risks classified for accounting purposes as non-pe
   <tbody>
     <tr>
       <td>Numerator (million euros)</td>
-      <td>NPLs</td>
+      <td>NPL</td>
       <td>25,996</td>
       <td>25,473</td>
       <td>24,834</td>

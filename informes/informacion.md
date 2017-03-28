@@ -2735,7 +2735,7 @@ Microfinanzas BBVA ha presentado su **Informe** de Desempeño
 Social 2015 <a href="http://mfbbva.org/informe-2015/" target="_blank">_“Midiendo lo que realmente importa”_</a> en el <a href="http://www.iif.com" target="_blank">_Instituto de Finanzas Internacionales_</a> de Washington.
 
 Durante el año han sido numerosos los reconocimientos al trabajo
-de la Fundación. Destacan los _Premios <a href="http://ecofin.es/video/la-noche-de-las-finanzas-en-video-2/" target="_blank">ECOFIN</a>, que seleccionaron
+de la Fundación. Destacan los Premios <a href="http://ecofin.es/video/la-noche-de-las-finanzas-en-video-2/" target="_blank">ECOFIN</a>, que seleccionaron
 a la entidad como la mejor “Marca Internacional-Imagen de España”
 en 2016.
 
